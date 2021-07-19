@@ -141,9 +141,7 @@ Au moins 2h après le noir complet, on pouvait identifier : un hibou en train de
 
 Dans tout ce capharnaüm il y eu d’abord comme un soupir d’exaspération de la part de Scadufax qui acheva de réveiller Sangoku. Sans bouger aux aguets il essaya de trier les bruits. Un nouveau signe d’inquiétude de la part de son cheval, il allume une bougie, sort le pistolet. Une branche qui craque. Plus de doute possible : tous les bons pisteurs le savent : aucun animal sauvage ne fait craquer des branche quand il se déplace. Sangoku soupira :
 
-- Aller y’a encore des zombies dans le coin
-
-C'est toujours sympa de s’annoncer parce que les humains non zombies aussi font craquer des branches quand ils marchent. Même si un individu non-zombie se déplace très peu dans la nuit sans lumière et sans jurer en se cognant partout. Il saisit la masse et la bougie. On distingua clairement un bruit de pas : s’il y avait eu une branche elle aurait craquée. C’était juste derrière la roulotte. Il sorti de l’autre côté, alluma un cocktail molotov avec la bougie et le jeta à 2 m derrière la roulotte en s’attendant à voir apparaître un bipède de son espèce. 
+- Aller y a encore des zombies dans le coin? Dit il à haute voix. C'est toujours sympa de s’annoncer parce que les humains non zombies aussi font craquer des branches quand ils marchent. Même si un individu non-zombie se déplace très peu dans la nuit sans lumière et sans jurer en se cognant partout. Il saisit la masse et la bougie. On distingua clairement un bruit de pas : s’il y avait eu une branche elle aurait craquée. C’était juste derrière la roulotte. Il sorti de l’autre côté, alluma un cocktail molotov avec la bougie et le jeta à 2 m derrière la roulotte en s’attendant à voir apparaître un bipède de son espèce. 
 
 En explosant par terre, le cocktail illumina la nuit. Hennissement  de protestation de l’autre côté mais rien de tel pour remettre les diurnes et les nyctalope sur le même niveau tout en faisant son petit effet censé impressionner ce qui pouvait l’être. Pour un zombie, ce n’était pas le cas. 
 
@@ -151,69 +149,75 @@ Par contre il y avait un petit problème : aucune trace de qui que ce soit là o
 
 Arrivé à quelques mètres derrière le feu, il couvrait toute la zone derrière la roulotte. C’est alors que retenti un hennissement de surprise suivi bruit sec. Sangoku se précipita pour revenir vers l’entrée de la roulotte pour apercevoir, au sol, une silhouette saisie de soubresauts.  
 
-- « Bon cheval ça » dit il en flattant doucement la croupe après avoir prit soin de se décaler du redoutable arrière train .
+- « Bon cheval ça » dit il en flattant doucement la croupe après avoir prit soin de se décaler du redoutable arrière train.
 
 Il retourna sur ses pas, leva la masse au dessus de sa tête et l’abattit sur ce qu’il estimait être le centre nerveux de l’organisme déjà disloqué.
 
 # 5 Suit-up
 
-D’abord passer au magasin. Une grande maison du village a été transformée en sorte de grand entrepôt ou, au fur et à mesure, ont été rassemblées toute les affaires abandonnées dans la coin.
+D’abord passer au magasin. Une grande maison du village a été transformée en sorte de grand entrepôt où, au fur et à mesure, ont été rassemblées toute les affaires abandonnées dans la coin. Dans la plus grande excitation, Loir avait fait une liste. Une des plus enthousiasmantes de sa vie : 
 
-Cyril avait fait dans la plus grande exploitation fait une liste. Une des plus enthousiasmantes de sa vie : 
+  - Équipement :
+  - un carnet d’enquêteur
+  - un crayon d’enquêteur
+  - un imperméable mystérieux
+  - un couvre chef
+  - Changer de nom en Sherlock par exemple
+  - Résoudre une enquête
 
-- Équipement :
-
-- un carnet d’enquêteur
-
-- un crayon d’enquêteur
-
-- un imperméable mystérieux
-
-- un couvre chef
-
-- Changer de nom : Sherlock
-
-- Résoudre une enquête
-
-Le résultat de cette session équipement aurait fait un malheur 40 ans plutôt lors d’une manifestation populaire appelée carnaval. D’un certain point de vue, son accoutrement aurait plus paraître curieux : béret trop grand, imperméable rouge, botte en caoutchouc (il avait effectivement lu de nombreux romans sans pour autant pouvoir se souvenir d’une mention spécifique concernant les  chaussures de Sherlock Holmes). Un coup d’œil dans un miroir s’avéra néanmoins satisfaisant  dans un monde ou la mode avait fait ses valises, et ou le sens pratique importait plus que le regard des autres. Les autres qui étaient en plus assez peu nombreux pour ne pas la ramener.
+Le résultat de cette session équipement aurait fait un malheur 40 ans plutôt lors d’une manifestation populaire appelée carnaval. D’un certain point de vue, son accoutrement aurait plus paraître curieux : béret trop grand, imperméable rouge, botte en caoutchouc (il avait effectivement lu de nombreux romans sans pour autant pouvoir se souvenir d’une mention spécifique concernant les chaussures de Marlowe ou Sherlock Holmes). Un coup d’œil dans un miroir s’avéra néanmoins satisfaisant dans un monde où la mode avait fait ses valises, et où le sens pratique importait plus que le regard des autres. Les autres qui étaient en plus assez peu nombreux pour ne pas la ramener.
 
 Il avait déjà une loupe qu’il utilisait à la moindre occasion. Quitte à risquer un incendie comme l’année dernière. Il faudrait également un side-kick peu ambitieux qui le mettrait le valeur. Le petit Vinvin ferait l’affaire, du haut de ses 9 ans il serait facilement impressionnable et irrésistiblement attiré par la perspective d’une « aventure ».
 
-Plan d’action
-
-# 6 cours de civilisation
-
-Ecole, description ,  Vinvin
-
-…
+# 6 cours de civilisation : les tours
 
 
+Dans la petite pièce confortable, des enfants de tout age étaient, à leur convenance, assis par terre, sur chaise ou des poufs poussiéreux qui semblaient les avaler. Des volontaires se relayaient toute la semaine pour leur parler de civilisation pré-coupure. 
+- Voici la liste des bâtiments que vous pouvez observer dans la nature et leur fonctions. Les murs de toute sorte en au sommets des collines sont des châteaux qui date probablement d’une période où les moyens technologiques étaient similaires à ceux d'aujourd’hui. Par exemple tout en haut de la colline, là où on a installé la cloche vous voyez? 
 
-- Vinvin vient ici on a une enquête à résoucre ! 
+De sages hochements de tête ne l'interrompirent même pas. 
 
- Ni une ni deux, ce que de loin, xxx avait pris pour un nid de corneille se souleva et laissa apparaître un visage criblé de tâches de rousseurs qui dévoilait des dent certe blanche mais qui ne s’était clairement pas concertées sur la direction dans laquelle pousser. 
+- Et bien, vous pensez que les murs sont vieux comment?
+- 17 ans! annonça un mioche qui savait compter jusque là
+- Non plus vieux reprit Sylve.
+- Vieux comme mon pépé?
+- Encore plus vieux
+- C'est pas possible...
+- Vieux comme ça fit un autre mioche en montrant l'espace délimité par ses 2 palmes brandies.
+- 10 000 ans!
+- Moins quand même
+- Avril?
+- Quoi? Non 
+- 1000 ans en gros. C'est vieux quand même non? Attention quand même de pas confondre avec les grandes battisses circulaires sans fenêtre beaucoup plus récentes qui servaient, elles à stocker du grain. Egalement à ne pas confondre avec des tours de guet qui servaient jadis de réservoir d’eau ou de boisson mais cette information reste à être validée.
 
-Il se leva presetement essaya de dribler la maitresse et oyant qu’il n’y parvenait pas avisa une fenêtre entre ouverte et sautat. Bizarrement le fait d’être au rez-de-chausser ne l’empêcha pas d’atterrir dans un buisson. Ajoutant quelques brindilles à la structure composite improbable qui lui servait de coiffure.
+- Est ce que vous avez d'autres exemples de tour?
+
+Des mains se lève la, Sylve la professeure du jour en choisit une, comme ça, pour voir, à la tête du client.
+
+- La tour Eiffel!
+- Très bien!
+- N'importe quoi c'est dans un livre! S'offusque une petite camarade.
+- Oui mais les livres d'histoire, les encyclopédies et les dictionnaires par exemple ça raconte des histoires vraies. Quelle patiente! Heureusement qu'elle ne faisait ça qu'une fois par semaine.
+
+- Alors c'est ou d'abord qu'on peut la voir? Insista la bestiole à qui il manquait la moitié des incisives.
+- A Paris c'est très loin d'ici...
+- Comme par hasard!
+
+Elle était pénible cette mioche moche mais on ne pouvais pas lui donner tort : dans ce monde ou on pouvait difficilement faire plus d'une centaine de kilomètres,  les contrées inaccessibles pourraient aussi bien ne pas exister. D'autant plus qu'elle espérait que si on lui demandait à quoi servait la tour Eiffel elle perdrait quelques points de crédibilité.
+
+Une étrange apparition fit irruption dans la classe : une montagne de vêtement s'agitaient tout seul et parlaient avec une voix en train de muer très indécise sur l'octave à adopter.
+
+- Vinvin vient ici on a une enquête à résoudre ! 
+
+Ni une ni deux, ce que de loin, Sylve avait pris pour un nid de corneille se souleva et laissa apparaître un visage criblé de tâches de rousseurs qui dévoilait des dents, certe blanches, mais qui ne s’était clairement pas concertées sur la direction dans laquelle pousser. 
+
+Il se leva prestement essaya de dribbler la maîtresse restée dans le fond de la classe et, voyant qu’il n’y parvenait pas, avisa une fenêtre entre ouverte et sauta. Bizarrement le fait d’être au rez-de-chausser ne l’empêcha pas d’atterrir dans un buisson. Ajoutant quelques brindilles à la structure composite improbable qui lui servait de coiffure.
 
 # 8 mène l’enquête
 
+ ## Messy
 
-
-**Résumé**
-
-
-
-Aller chez elle : rien, on va voir le filleul meunier qui dit qu’elle est complètement tarée, l’autre jour elle a essayer de l’attaquer alors qu’il venait lui amener du pain
-
-
-
-→ il a le jour de la disparition. On va voir les archives : on se rend compte que parmi des trucs pas inintéressants, il y a eu l’élimination de 3 zombies
-
-
-
- **Messy**
-
-
+Vinvin habitait en ce moment la maison à côté de celle de Loir, ils étaient donc en situation de légère cohabitation ce qui aurait du avoir pour conséquence de gravement exaspérer Loir, mais qui au final n'était pas si terrible. Vinvnin pouvait être intrusif et exaspérant mais il avait le mérite d'être toujours inattendu dans ces actes et ses paroles ce qui en faisait un divertissement constant pour Loir. Ils marchaient de conserve sur la route qui sortait du village.
 
 - On va d’abord aller voir Messy c’est lui qui a reporté la disparition de Mamie Gentiane.
 
@@ -2010,26 +2014,7 @@ Civilisation précoupure
 
 ## L’architecture pre coupure
 
-## Les tours :
 
-Voici la liste des bâtiments que vous pouvez observer dans la nature et leur fonctions. Les murs de toute sorte en au sommets des collines sont des châteaux qui date probablement d’une période ou les moyens technologiques étaient similaires à aujourd’hui. A ne pas confondre avec les grande battisses circulaire sans fenêtre beaucoup plus récentes qui servaient, elles à stocker du grain.
-
-Attention toutefois également à ne pas confondre avec des tours de guet qui servaient jadis de réservoir d’eau ou de boisson mais cette information reste à être validée.
-
-- Est ce que vous avez d'autres exemples de tour?
-
-Des mains se lève la, Sylve la proffesseure du jour en choisit une une, comme ça pour voir, à la tête du client.
-
-- La tour eiffel!
-- Très bien
-- N'importe quoi c'est dans un livre! S'offusque une petite camarade.
-- Oui mais les livres d'histoire, les encyclopédie et les dictionnaires par exemple ça raconte des histoires vraies. Quelle patiente heureusement qu'elle ne faisait ça qu'une fois par semaine.
-
-- Alors c'est ou d'abord qu'on peut la voir?
-- A Paris c'est très loin d'ici...
-- Comme par hasard
-
-Elle était pénible cette mioche moche mais on ne pouvais pas lui donner tort : dans ce monde ou on pouvait difficilement faire plus d'une centaine de kilomètres,  les contrées innaccessibles pourraient aussi bien ne pas exister. D'autant plus qu'elle esperait que si on lui demandait à quoi servait la tour Eiffel elle perdrait quelques points de crédibilité.
 
 ## La seconde guerre Mondiale
 
