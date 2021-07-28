@@ -217,69 +217,46 @@ Il se leva prestement essaya de dribbler la maîtresse restée dans le fond de l
 
  ## Messy
 
-Vinvin habitait en ce moment la maison à côté de celle de Loir, ils étaient donc en situation de légère cohabitation ce qui aurait du avoir pour conséquence de gravement exaspérer Loir, mais qui au final n'était pas si terrible. Vinvnin pouvait être intrusif et exaspérant mais il avait le mérite d'être toujours inattendu dans ces actes et ses paroles ce qui en faisait un divertissement constant pour Loir. Ils marchaient de conserve sur la route qui sortait du village.
+Vinvin habitait en ce moment une maison mitoyenne de celle de Loir, ils étaient donc en situation de légère cohabitation ce qui aurait dû avoir pour conséquence de gravement exaspérer Loir, mais qui au final ne s'était pas révélé si terrible. Vinvin pouvait être intrusif et exaspérant mais il avait le mérite d'être toujours inattendu dans ces actes et ses paroles ce qui en faisait un divertissement constant. Ils marchaient de conserve sur la route qui sortait du village.
 
-- On va d’abord aller voir Messy c’est lui qui a reporté la disparition de Mamie Gentiane.
+- ... on va d’abord aller voir Messy c’est lui qui a reporté la disparition de Mamie Gentiane.
 
 - Tu crois que c’est lui ?
 
-- Bé non il l’aurait dit. Mais c’est intéressant comme remarque, tu feras un bon saïdquik !
+- Bé non : il l’aurait dit. Mais c’est intéressant comme remarque, tu feras un bon saïdquik !
 
-
-
-30 min plus tard, essoufflé un peu plus haut dans la vallée, à côté du ruisseau qui faisait tourner une aube à eau visiblement rafistolée depuis un moment.
-
-
+30 min plus tard, Loir arriva à destination un peu plus haut dans la vallée dans un sifflement d'asthme digne d'une entrée en gare en noir et blanc. Vinvin essayait dégustait les têtards du ruisseau qui faisait tourner une aube à eau visiblement rafistolée de trop nombreuses fois.
 
 - Messy? Y’a quelqu’un ?
 
-
-
-Un homme apparut de derrière le bâtiment. Visiblement étonné par la visite des cette paire d’individus, enfant pour un et sa version apparemment passée dans le mauvais sens dans la moulinette de la puberté.
-
-
+Un homme apparut de derrière le bâtiment. Visiblement étonné par la visite des cette paire d’individus, enfant pour l'un et sa version apparemment passée dans le mauvais sens dans la moulinette de la puberté pour l'autre.
 
 - Loir et Vinvin détectives enquêteurs chargés par le conseil de l’affaire Mamie gentiane. Énonça Loir en agitant son calepin sans savoir pourquoi mais en étant satisfait de faire sonner la phrase qu’il avait longtemps préparé. « Nous aurions quelques questions »
 
-
-
 - Ah v’là aut’ chose. Je l’avais pas vu venir celle-là ! Ben allez-y j’imagine que ça vous intéresse pas de savoir comment on taille une pierre de meule.
 
-
-
-- Avec un caillou plus dur comme du béton armé ? Répondit Vinvin, trop enthousiaste pour Loir.
-
+- Avec un caillou plus dur comme du béton armé ? Répondit Vinvin, trop enthousiaste au goût de Loir.
 - Chut c’est sérieux. Est ce que vous pouvez nous décrire la victime ?
-
-- Elle vous a jamais couru après avec un fagot de bois ? Vous avez bien de la chance ! Au moment de la coupure je devais avoir ton age poursuivit-il en désignant Vinvin et elle était déjà vieille. Complètement tarée ces dernières années. C’est ma tante, alors fallait bien que je passe la ravitailler 2 fois par semaine, une fois sur 2 elle me jetais des cailloux en m’insultant mais dans une langue que personne n’a jamais parlé je crois à part peut être une pie qu’on aurait vraiment énervée. D’ailleurs en y réfléchissant je sais comment elle faisait pour avoir toujours de beaux cailloux bien pointus à vous jeter à la gueule… après une pause songeuse il reprit : « Vous savez c’est bien ce que vous faites mais vous cassez trop la tête non plus. Il lui restait pas si longtemps et elle manquera à personne ça je peux vous le dire. C’est même probablement mieux pour elle. »
-
-
+- Elle vous a jamais couru après avec un fagot de bois ? Vous avez bien de la chance ! Au moment de la coupure je devais avoir ton age poursuivit-il en désignant Vinvin et elle était déjà vieille. Complètement tarée ces dernières années. C’est ma tante, alors fallait bien que je passe la ravitailler 2 fois par semaine, une fois sur 2 elle me jetais des cailloux en m’insultant mais dans une langue que personne n’a jamais parlé je crois à part peut être une pie qu’on aurait vraiment énervée. D’ailleurs en y réfléchissant je sais comment elle faisait pour avoir toujours de beaux cailloux bien pointus à vous jeter à la gueule… après une pause songeuse il reprit : 
+- Vous savez c’est bien ce que vous faites mais vous cassez trop la tête non plus. Il lui restait pas si longtemps et elle manquera à personne ça je peux vous le dire. C’est même probablement mieux pour elle.
 
 - Ici on ne prend pas les missions du conseil à la légère n’est ce pas, assistant ?
 
-Il se retournèrent pour voir Vinvin accroupis dans l’herbe 10m plus en train de manger des sauterelles.
-
-
+Il se retournèrent pour voir Vinvin accroupis dans l’herbe 10 m plus en train de manger des sauterelles.
 
 - Bref. Est que vous pouvez me, dire quand est ce qu vous  l’avez vu la dernière fois et décrire ses habits ?
 
-
-
 - Je l’ai vu il y a 2 jours. Elle portait tout le temps une vieille robe et un anorak qui faisait maintenant parti de son anatomie, depuis le temps son système immunitaire devait plus faire la différence, il valait mieux pas essayer de lui changer. Un fichu marron (allez savoir la couleur originale) dans les cheveux.
 
+Il était temps d’aller vérifier l’antre qui lui avait servi de terrier toutes ces années. 30 min de marche plus tard (c’était beaucoup pour la plus grosse moitié du duo) ils arrivèrent sur une parcelle envahie de ronce dans laquelle un chemin étroit était en train de se faire avaler par la nature.
 
-
-
-
-Il était temps d’aller vérifier l’antre qui lui avait servi de terrier toute ces années. 30 min de marche plus tard (c’était beaucoup pour la plus grosse moitié du duo) ils arrivèrent sur une parcelle envahie de ronce dans laquelle un chemin étroit était en train de se faire avaler par la nature.
-
-Loir frappa à la porte pour repousser le moment ou ils allaient devoir la pousser. De nature fragile, il avait peur de ne pas bien supporter le mode de vie d’une vieille personne sénile. La suite ne lui donna pas tort. Il poussa la porte qui s’ouvrit sur une boite noire. C’est à dire que la lumière n’arrivait pas à sortir malgré leur envie d’échapper à cette ambiance les photons, se faisaient toujours plaquer par des poussières ou de petits animaux en suspension. 
+Loir frappa à la porte pour repousser le moment ou ils allaient devoir la pousser. De nature fragile, il avait peur de ne pas bien supporter le mode de vie d’une vieille personne sénile. La suite ne lui donna pas tort. Il poussa la porte qui s’ouvrit sur une boite noire. C’est à dire que la lumière n’arrivait pas à sortir. Malgré leur envie d’échapper à cette ambiance, les photons, se faisaient toujours plaquer par des poussières ou de petits animaux en suspension. 
 
 - Vinvin, mission officielle : ordre d’aller ouvrir la fenêtre.
 
 - A vos ordre ! Répondit Vinvin en se collant énergiquement le dos de la main sur le front en un salut militaire approximatif.
 
-Quelques secondes et après une série de jurons et de bruit d’objets s’entrechoquant, tombant sur le sol, métal, bois, vaisselle, Loir aurait même juré entendre un bruit qui aurait pu être émis par une poule de 15kg et une famille de rongeur couiner. La fenêtre s’ouvra, Vinvin reprit sa respiration.
+Quelques secondes et après une série de jurons et de bruit d’objets s’entrechoquant, tombant sur le sol, métal, bois, vaisselle, Loir aurait même juré entendre un bruit qui aurait pu être émis par une poule de 15 kg et une famille de rongeur couiner. La fenêtre s’ouvra, Vinvin reprit sa respiration.
 
 Loir jeta un coup deuil à l’intérieur et décida que sa santé était incompatible avec l’atmosphère de cette pièce.
 
@@ -297,33 +274,17 @@ Loir jeta un coup deuil à l’intérieur et décida que sa santé était incomp
 
 - D’accord… puis reprenant à voix basse, je propose qu’on repasse beaucoup plus tard…
 
+Au moment ou il se retournaient lentement, un bruit de branches secouées derrière eux les fit sursauter. Un femme apparue dans le virage du sentier, qui elle même sursauta en poussant un cri de surprise. Ce qui refit sursauter les enquêteurs et arracha un petit cri à Loir trop aigu pour rentrer dans les clichés de détective classe et désabusé.
 
+## Rencontre avec Mylène
 
+*[Elle est en train d’essayer de soigner son amant en le cachant et en faisant des tests sur les brebis.* *Pourquoi elle en trin de traîner dans le coin ? → Elle a son labo secret pas loin* *Peut être ajouter des trucs]*
 
-
-Au moment ou il se retournaient lentement, un bruit de branche secouées derrière eux les fit sursauter. Un femme apparue dans le virage du sentier, qui elle même sursauta en poussant un cri de surprise. Ce qui refit sursauter les enquêteurs et arracha un petit cri à Loir trop aigu pour rentrer dans les clichés de détectives désabusés des romans de [roman noir Los Angeles années 30]
-
-
-
-
-
-**Rencontre avec Mylène**
-
-
-
-*[Elle est en train d’essayer de soigner son amant en le cachant et en faisant des tests sur les brebis.* 
-
-*Pourquoi elle en train de traîner dans le coin ? → Elle a son labo secret pas loin*
-
-*Peut être ajouter des trucs]*
-
-
-
-- C’est Mylène la vieille sorcière.
+- C’est Mylène la vieille sorcière!
 
 - Je suis pas si vieille, J’ai encore une belle libido !
 
-Les 2 garçons, sous le regard amusé de Mylène, les 2 garçons demandèrent la signification de libido à un bureau de le leur cerveau appelée « description rapide de mots inconnus ». Dans ce bureau un petit fonctionnaire moustachu plongea sa main dans un grand bol plein de petit papier et sorti pour « le fait de rentrer dans une robe à fleur » pour l’autre « la capacité à grimper sur les branches basse d’un vieux chêne »
+Sous le regard amusé de Mylène, les 2 garçons demandèrent la signification de libido à un bureau de le leur cerveau appelée « description rapide de mots inconnus ». Dans ce bureau un petit fonctionnaire moustachu plongea sa main dans un grand bol plein de petit papier et sorti pour « le fait de rentrer dans une robe à fleur » pour l’autre « la capacité à grimper sur les branches basse d’un vieux chêne »
 
 - Qu’est ce que vous faites ici ? demanda t’elle. A l’aventure ?
 
@@ -337,33 +298,33 @@ Les 2 garçons, sous le regard amusé de Mylène, les 2 garçons demandèrent la
 
 Suspect pensa Loir : comment risquer de se faire charger par un bélier ou oie ou se tordre la cheville pourrait-il être bon la santé ? Il faudra tirer ça au clair. Le problème c’est qu’il avait énormément envie de ne plus être là.
 
-
-
 Mylène senti son malaise, en profita :
 
 - Allez voir Anaïs elle est tout le temps dehors dans les prés entre la traite, la fauche et les troupeaux elle a peut être vu quelque chose.
 
+Ce n'était pas une mauvaise idée. Loir aurait du l'avoir pensa t'il mais il avait seulement pensé à la première étape, en se disant qu'ils iraient de pistes en indices comme dans une chasse au trésor. Il nota que ce serait pas plus mal s'il avait toujours une idée de secourt. En plus il pourrait dire sans techniquement mentir qu'il a toujours un coup d'avance. Aller voir Anaïs donc ce n'était pas son idée mais son était aussi d'extraire les informations pertinentes du brouhaha confus et insipide qu'on tendance à faire les gens quand ils vous adresse la parole.
 
+- Oui pas con bon après elle est surtout à la fromagerie aussi et euh elle va pas nous servir... marmona t'il alors que Mylène avait repris la route depuis quelques minutes.
 
-**Interview de Anaïs**
+## Interview de Anaïs
 
-Anaïs était sous une vache, en bleu de travail vert couvert de terre et de tâche plus sombre dont Loir essayit d'ignorer la problable provenance. Elle parlait vite, elle parlait pour transmettre de l'information. Elle était passionée, entièrementy dédiée à son art, elle ne parlait que d'élevage et d'agriculture.
+Anaïs était sous une vache, en bleu de travail vert couvert de terre et de tâche plus sombre dont Loir essayait d'ignorer la probable provenance. Elle parlait vite, elle parlait pour transmettre de l'information. Elle était passionnée, entièrement dédiée à son art, elle ne parlait que d'élevage et d'agriculture.
 
-- Alors apporte le sac là : c’est de l’argile pour les mammites vous voyez celle-là elles ont bien donné du lait, il faut en prendre soin maintenant. Voilà, il faut que j’aille voir l’état de la praire de l’autre côté pas mal comme année pour le trèfle c’est bien pour nourrir tout le monde. Anaïs marchait en apparence nonchalamment, le fait est que les 2 devait garder une petite foulée trop dynamique au goût de Loir s’il voulait rester à niveau.
+- ...alors apporte le sac là : c’est de l’argile pour les mammites vous voyez celle-là elles ont bien donné du lait, il faut en prendre soin maintenant. Voilà, il faut que j’aille voir l’état de la praire de l’autre côté pas mal comme année pour le trèfle c’est bien pour nourrir tout le monde. Anaïs marchait en apparence nonchalamment, le fait est que les 2 acolytes devaient garder une petite foulée trop dynamique au goût de Loir s’ils voulaient rester à niveau.
 
-- Non mais est que tu as vu quelque chose de suspect mercredi dernier c’« tait il y a 3 jours.
+- Non mais est ce que tu as vu quelque chose de suspect mercredi dernier c’était il y a 3 jours.
 
 - Oui il y a toujours des trucs bizarrement
 
 - ha !
 
-- Si bien qu’en fait c’était une journée ordinaire. Elle sorti de son sac un cahier. - une brebis qui boite, une autre qui ne boitait pas c’était étonnant un bout de fil de fer sortait de sa patte arrière gauche. On vous a envoyer faire un stage c’est ça ? C’est Mikhail son côté Maoïste. Écoutez ça va bien se pass..
+- Si bien qu’en fait c’était une journée ordinaire. Elle sorti de son sac un cahier. - une brebis qui boite, une autre qui ne boitait pas c’était étonnant un bout de fil de fer sortait de sa patte arrière gauche. On vous a envoyé faire un stage c’est ça ? C’est Mikhail son côté Maoïste. Écoutez ça va bien se pass..
 
 - Non pas du tout, on est des détectives, on enquête sur la disparition de mamie Gentiane.
 
 - Hmm, vous savez que Sinpier note tous les rapports de tout le monde tous les jours. Vous trouverez sûrement des info. Et puis ça lui fera plaisir, pour une fois il se sentira utile.
 
-- Oui c’est ce qu’on avait prévu mais c’était la route en fait comme ça… bafouilla Loir qui aurait du y penser avant.
+- Oui c’est ce qu’on avait prévu mais c’était la route en fait comme ça… bafouilla Loir qui faisait de mieux en mieux semblant d'avoir un coup d'avance.
 
 
 
@@ -371,57 +332,27 @@ Anaïs était sous une vache, en bleu de travail vert couvert de terre et de tâ
 
 
 
-- … Je t’éclate la mâchoire, puis la rate tu vas voir.
+- … Je t’éclate la mâchoire, puis la rate tu vas voir... Jusqu’à ce qu’une masse passe dans ta face et même mieux : des pieux dans tes yeux. Et que j’allume mon chalumeau tu charbonnes nonchalamment ça me grillera mes chamalos y’a pas de mal à l’immolation.
 
-Jusqu’à ce qu’une masse passe dans ta face et même mieux : des pieux dans tes yeux. Et que j’allume mon chalumeau tu brûleras nonchalamment ça me grillera mes chamalos y’a pas de mal à l’immolation.
+- Je suis Sangoku le chasseur solitaire sans peur je parcours la terre...
 
+Il prit son cahier, fit quelques ratures en tirant la langue. Il faut mettre les formes si on veut transmettre des nouvelles histoires. Il trouvait que les vrais histoires contemporaines maquaient quelque peu. Ceci est probablement dû à la disparition de 100 % des auteurs et scénaristes il y a 25 ans.  On a récupéré beaucoup de livres, de séries mais rien de réaliste même quand elle parlent de zombies, certes pour le moins visionnaire mais souvent bien à côté de la plaque. On ferait pas les malins si les zombies étaient vraiment hostiles.
 
+Il marche lentement en se disant qu’un chien, ce serait bien. C’est alors qu’un bourdonnement résonna à ces oreilles. On aurait dit un moteur qui tousse. Un évènement assez inédit si loin de la civilisation. Il jeta tout de même un coup d’œil dans la direction du mirage sonore. Une plaine vallonnée arbustes et débuts de forêts, un beau paysage sauvage parsemé d’ancienne maison. Trop de temps tout seul pensa t’il. Il avait de plus en plus de mal à faire la différence entre les vrais sons et ceux créés dans les méandres de ses neurones dédiées à la gestion de névroses diverses. Il restait toutefois assez fiable quand aux voix : il était sûr qu’elles venaient de sa tête car il n’y avait personne d’autre… une pointe de tristesse le saisi alors il sorti sa fronde et tua une tourterelle pour le repas.
 
-Je suis Sangoku le chasseur solitaire sans peur je parcours la terre...
+Au moment ou il la ramassa, le bruit de moteur revint. Mais cette fois il dura dans le temps, et il aperçut même au loin une petite fumée noire comme on en faisait plus. Il se figea, choqué. Puis toujours immobile il commença à lentement parcourir l’arbre des hypothèses et implications possibles découlant de cette observation. Dans tous les cas il était devant un évènement majeur ou du moins très intéressant : une autre communauté de survivants, un zombie mécanicien, un message de Dieu en personne... Il allait falloir en savoir plus. Il est vrai que quand l’humanité se réduit à quelques centaines de personnes beaucoup d’évènements, anodins il y a quelques années, passent aujourd’hui pour des faits historiques. La redécouverte d’un film ou d’un livre, ou d’un coin à champignon. Chaque mort, chaque naissance impacte vite un pourcentage important de la population totale.
 
+Sangoku en bon chausseur-cueilleur savait prendre son temps : il passa une journée à reconnaître les lieux alentour. A prendre de la hauteur, à observer. Il ne pu apercevoir que 2 silhouettes qui agissaient avec des intentions ou préoccupation propre aux vrais humains. Puis vint le moment de se rapprocher du vieux corps de ferme d’où venait l’activité de type non-zombie. Après avoir vu Mad Max, on était jamais trop prudent, armé autant qu’il pu, il avança contre le vent, parce qu’il va y avoir des chiens.
 
-
-Il prit son cahier, fit quelques ratures en tirant la langue. Il faut mettre les formes si on veut transmettre des nouvelles histoires. Il trouvait que les vrais histoires contemporaines maquaient quelque peu. Ceci est probablement dû à la disparition de 100 % des auteurs et scénaristes il y a 25 ans.  On a récupéré beaucoup de livres, de séries mais rien de réaliste même quand elle parlent de zombies, certe pour le moins visionnaire mais souvent bien à côté de la plaque. On ferait pas les malins si les zombies étaient vraiment hostiles.
-
-
-
-Il marche lentement en se disant qu’un chien, ce serait bien. C’est alors qu’un bourdonnement résonna à ces oreilles. On aurait un moteur qui tousse. Un évènement assez inédit si loin de la civilisation. Il jeta tout de même un coup d’œil dans la direction d’où il avait l’impression qu’il avait entendu le bruit. Une plaine vallonnée arbustes et débuts de forêts, un beau paysage sauvage parsemé d’ancienne maisons. Trop de temps tout seul pensa t’il. Il avait de plus en plus de mal à faire la différence entre les vrais sons et ceux créés dans les méandres de ses neurones dédiées à la gestion de névroses diverses. Il restait toutefois assez fiable quand aux voix : il était sûr qu’elles venaient de sa tête car il n’y avait personne d’autre… une pointe de tristesse le saisi alors il sorti sa fronde et tua une tourterelle pour le repas.
-
-
-
-Au moment ou il la ramassa, le bruit de moteur revint. Mais cette fois il dura dans le temps, et il aperçut même au loin une petite fumée noire comme on en faisait plus. Il se figea, choqué. Puis toujours immobile il commença à lentement parcourir l’arbre des hypothèses et implications possibles découlant de cette observation. Dans tous les cas il était devant un évènement majeur ou du moins très intéressant : une autre communauté de survivants, un zombie mécanicien, un message de Dieu en personne... Il allait falloir en savoir plus. Il est vrai que quand l’humanité se réduit à quelques centaines de personnes beaucoup d’évènements, anodins il y’a quelques années, passent aujourd’hui pour des faits historiques. La redécouverte d’un film ou d’un livre, ou d’un coin à champignon. Chaque mort, chaque naissance représente un pourcentage important de la population totale.
-
-
-
-Sangoku en bon chausseur-cueilleur savait prendre son temps : il passa une journée à reconnaître les lieux alentour. A prendre de la hauteur, à observer. Il ne pu apercevoir que 2 silhouettes qui agissaient avec des intentions ou préoccupation propre aux vrais humains. Puis Vint le moment de se rapprocher du vieux corps de ferme d’où venait l’activité de type non-zombie. l a vu Mad Max, on était jamais trop prudent, armé autant qu’il pu, il avança contre le vent, parce qu’il va y avoir des chiens.
-
-
-
-Des silhouettes pour le moins disgracieuses, s’activent autour d’un hangar.
-
-Il y a effectivement un chien, il faudra gérer avec un bâton, soyons décent, ça ce fait pas d’arriver chez des gens et de défoncer leurs animaux.
-
-
-
-Il se rapprocha lentement mais en essayant presque malgré lui de ne pas se faire repérer avant d’être à porté de voix. Il fut impressionné par la quantité d’ail en train de sécher sur des barres de bois dans un hangar de la ferme.
-
-
-
-Il arriva finalement à une distance qu’il estima un bon compromis entre l’invasion et l possibilité de se faire comprendre. Personne ne l’avait vu, ni humains ni animaux. C’est parti, en espérant qu’ils parlent la même langue :
-
-
+Des silhouettes pour le moins disgracieuses, s’activaient autour d’un hangar. Il y avait effectivement un chien, il faudra gérer avec un bâton, soyons décent, ça ce fait pas d’arriver chez des gens et de défoncer leurs animaux. Il se rapprocha lentement mais en essayant presque malgré lui de ne pas se faire repérer avant d’être à porté de voix. Il fut impressionné par la quantité d’ail en train de sécher sur des barres de bois dans un hangar de la ferme. Il arriva finalement à une distance qu’il estima un bon compromis entre l’invasion et l possibilité de se faire comprendre. Personne ne l’avait vu, ni humains ni animaux. C’est parti, en espérant qu’ils parlent la même langue :
 
 - Bonjour !
 
-
-
 Ça y est le chien se réveille et commence à aboyer la figure d’une silhouette qui se révèle être un petit homme trapu, salopette et bottes en caoutchouc un vieux béret troué sur la tête.
-
-
 
 - Pute borgne ! Marie viens voir ! 
 
-- Qu’est ce qu’il y encore ?Une petite femme compacte vêtu d’un tablier, fichu et sabots en plastique sorti de derrière un bâtiment et avança dans la court jonché de ce qui à l’air de débris divers sûrement amenés par une tornade. On entrevoit toutefois une tentative de classement par matériaux bois fer plastique...
+- Qu’est ce qu’il y encore? Une petite femme compacte vêtu d’un tablier, fichu et sabots en plastique sorti de derrière un bâtiment et avança dans la court jonchée de ce qui à l’air de débris divers sûrement amenés par une tornade. On entrevoit toutefois une tentative de classement par matériaux : bois, fer, plastique...
 
 - Ça fait longtemps qu’on en a pas vu des aussi polis !
 
@@ -437,35 +368,21 @@ Il arriva finalement à une distance qu’il estima un bon compromis entre l’i
 
 Il y eu un temps de silence pendant lequel le vieux couple immobile était en train d’essayer de traiter l’information. Comme essayer de redémarrer une vieille machine qui n’a pas été utilisée depuis très longtemps. Les niveaux sont fait, on a graissé. Bon qu’est ce que ça veut dire ? La machine démarre dans un nuage de fumée presque perceptible, les engrenages se mettent en route. Avant il y avait des gens comme nous, c’était il y a si longtemps qu’on s’en souvient à peine. Puis tout le monde est devenu très bizarre et surtout plus de services téléphone, livraisons, électricité. Là devant il y a une personne dont on ne va pas juger l’hygiène mais qui à l’air beaucoup plus humain que les gens « normaux » Conclusion : il est un peu comme nous il ne faut pas le détruire tout de suite. Attention toutefois s’il ne vient pas nuire : vérifier les normes appliquées aux bâtiments ou récupérer des impôts, cotisations ou un truc comme ça.
 
-
-
 - Très bonne question ça : vous voulez quoi ?
 
-- Là toute de suite ? Vous auriez pas une réserve de gnôle quelque part ou du pinard qui n’aurait pas trop mal tourné ?
-
-
+- Là toute de suite ? Vous auriez pas une réserve de gnôle quelque part ou du pinard qui n’aurait pas trop mal tourné?
 
 - Ah ! Les 2 vieux se regardèrent d’un air entendu.
 
 - Je vais préparer le déjeuner dis la femme en roulant les r.
 
-
-
 Quelques minutes plus tard, ils se retrouvèrent dans une pièce sombre, à première vus dans un bordel dantesque mais organisé vu l’aisance et la fluidité avec laquelle se déplaçaient ses habitants.
-
-
 
 - Vous êtes donc seuls depuis 25 ans ? Vous avez vécu ici sans rencontrer personne ? C’est incroyable.
 
-
-
 - Ben y’a du monde mais sont pas très causant. Et vous d’où venez vous donc ?
 
-
-
 Les accents étaient différents requéraient de part et d’autre une grande concentration. Les mots, les constructions des phrases étaient similaires mais les intonations divergeaient si bien de chaque côté de la table, on avait du mal à discerner les début et fin de chaque mot.
-
-
 
 - Comment avez vu su quoi faire au moment ou c’est arrivé ?
 
@@ -481,13 +398,9 @@ Les accents étaient différents requéraient de part et d’autre une grande co
 
 - On peut les tirer par les oreilles et un coup de pied au cul, ça suffit à les remettre sur la route.
 
-
-
 Au tour de Sangoku d’être réduit au silence. On sentait que le seul fait que quelqu’un puisse énoncer cette dernière assertion avait des implications importantes pour l’humanité. Donc 2 possibilités : la maladie n’était pas contagieuse et on avait mentit pendant toutes ces années et mettant régulièrement en scène des contaminations accidentelles dont il avait été témoin d’au moins 2 d’entre elles, soit ils étaient d’une certaine façon immunisés. Dans tout les cas il serait plutôt bien vu (un euphémisme) de les ramener avec lui à Montségur.
 
 Sangoku, avant de se lancer attendu toutefois quelques tournées d’un excellent Armagnac.
-
-
 
 - Vous avez déjà pensé à voyager?
 
@@ -509,23 +422,13 @@ Elle fit une moue en jetant un coup d’œil à la grange ou séchait de des bot
 
 - On remettrait les humains sur les rails ? On est sûr que c’est pas une bonne idée de merde ça ?
 
-Vous serez traité comme des rois : maison confortable, nourriture, chauffage. Vous aurez le droit à une vrai retraite ! N’est ce pas inespéré par les temps qui courent ?
+- Vous serez traités comme des rois : maison confortable, nourriture, chauffage. Vous aurez le droit à une vrai retraite! N’est ce pas inespéré par les temps qui courent ?
 
-
-
-Il les laissa réfléchir. Et alla faire un tour aussi bien pour se dégourdir les jambes que les papilles car à chaque verre on lui proposait des demi gousses d’ail cru. Apparemment 25 ans, ça suffit bien à bien faire diverger les mœurs et coutumes !
-
-
+Il les laissa réfléchir. Et alla faire un tour aussi bien pour se dégourdir les jambes que les papilles car à chaque verre on lui proposait des demi gousses d’ail cru. Apparemment 25 ans, ça suffit bien à bien faire diverger les mœurs et coutumes! Sangoku entreprit de faire le tour de la ferme en prenant autant de temps que possible en s'attardant sur toutes les installations plus ingénieuses les unes que les autres. Ils avaient de quoi semer, récolter trier transformer. Sangoku était impressionné, ils avaient de quoi rassasier tout un village de trappeurs. Après 30 minutes qu'il ne vit pas passer, le couple sortie. Elle prit la parole.
 
 - On a des conditions : on va prendre pas mal de trucs avec nous histoire de pas gaspiller. Ça va prendre un peu de temps, parce qu’on ne va pas abandonner les animaux qui vont venir avec nous.
 
-
-
-Après 3 jours de préparation et avoir chargé à raz bord la roulotte plus une autre remise sur roue, attelé tout les chevaux poneys et ânes disponibles.
-
-Après avoir fait promettre à Sangoku de revenir chercher les bocaux de confit et confiture qui se conserveraient facilement quelque mois, ils finirent par se mettre en route.
-
-
+Après 3 jours de préparation et avoir chargé à raz bord la roulotte plus une deuxième remise sur roues, attelé tout les chevaux poneys et ânes disponibles, et après avoir fait promettre à Sangoku de revenir chercher les bocaux de confit et confiture qui se conserveraient facilement quelque mois, ils finirent par se mettre en route.
 
 - Au fait, je ne vous ai même pas demandé comment vous vous appelez.
 
@@ -533,7 +436,7 @@ Après avoir fait promettre à Sangoku de revenir chercher les bocaux de confit 
 
 - Sangoku.
 
-- Ah ! Dis Martin qui connaissait l référence.
+- Ah ! Dis Martin qui connaissait la référence.
 
 - Vous êtes sûr ? Demanda Marie spontanément.
 
