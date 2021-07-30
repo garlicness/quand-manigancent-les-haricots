@@ -22,7 +22,7 @@ L’air est frais, Matéo est chaud, ça va faire du feu. La route descend du fo
 
 Direction plein nord, en aval de la rivière, il y a une petite colline à coté qui donne une vue pas dégueu sur son secteur. Il se dit qu'il faudra qu'il se bricole une petite cahute comme un poste avancé en plus ça aurait la classe. Avec une chaise longue et des bières même si c’est peut être pas indiqué pour le boulot. Il avait déjà vu des gars bourrés moins vivants que les autres connards.
 
-Une matinée plutôt tranquille donc jusqu’à ce que finalement, les 3 coups de cloche retentissent (oui comme dans Game of Thrones ça les faisait marrer) suivi d’un nombre de coups correspondant à la direction : 6  au sud 12 au nord, son secteur. Là c’était 3 : ils arrivent par la route, pas très original. Le cheval et son monteur se dirigent pour les intercepter avant qu’ils n'arrivent aux champs du vieux Marco, qui doit sûrement y être.
+Une matinée plutôt tranquille donc jusqu’à ce que finalement, les 3 coups de cloche retentissent (oui, comme dans Game of Thrones ça les faisait marrer) suivi d’un nombre de coups correspondant à la direction : 6  au sud 12 au nord, son secteur. Là c’était 3 : ils arrivent par la route, pas très original. Le cheval et son monteur se dirigent pour les intercepter avant qu’ils n'arrivent aux champs du vieux Marco, qui doit sûrement y être.
 
 Il y a de la lumière, et on les voit, ils sont 3, ça commence à faire mais à découvert comme ça, il ne risque par grand chose. La technique est simple, on charge sur le côté, un petit coup de pelle dans la nuque (ou la gorge ça dépend dans quel sens) sur celui qui est plus près. 
 
@@ -450,85 +450,51 @@ Après 3 jours de préparation et avoir chargé à raz bord la roulotte plus une
 
 # 9 fin de l’enquête
 
-Ça a pris le temps que ça a pris : marcher, faire une pause, souffler un peu, manger des fraises des bois, revenir à la ville, manger, boire, chercher SinPier, se rendre compte que personne savait exactement où il habitait. Finalement, le retrouver dans une petite chapelle à la sortie de la ville qu’il était s’était emménager tant bien que mal. Lui demander de consulter le registre des trucs qui se passe. Oui mais « il est à la mairie, attendez un peu je finis ça et je vous accompagne ». L’aider à finir d’enfiler des perles sur un collier avec une croix au bout qui à l’air très important. Vinvin : 
+Ça a pris le temps que ça a pris : marcher, faire une pause, souffler un peu, manger des fraises des bois, revenir à la ville, manger, boire, chercher Sinpier, se rendre compte que personne savait exactement où il habitait. Finalement, le retrouver dans une petite chapelle à la sortie de la ville qu’il était s’était emménagé tant bien que mal. Lui demander de consulter le "registre des trucs qui se passe". Oui mais « il est à la mairie, attendez un peu je finis ça et je vous accompagne ». L’aider à finir d’enfiler des perles sur un collier avec une croix au bout qui à l’air très important et qui suggéra un commentaire à Vinvin : 
 
 - Si on m’avait dit que j’étais venu là pour enfiler des perles…
 
-En fin de soirée ils se retrouvèrent finalement devant un gros cahier sobrement intitulé registres d’activité de l’humanité #53.
-
-
-
-Ouvert au hasard, ils furent impressionnés : chaque jour prenait quasiment deux pages d’une petite écriture régulière et infatigable. Tous ce qui se passait à l’Hôtel de ville était reporté systématiquement. Y compris les discussions officieuses qui se tenaient à proximité sur la météo, l’état des cultures, la frivolité des meurs de certaines.
-
-Ils allèrent à quelques pages avant la fin pour voir les faits de la journée incriminée. 
-
-Un passage sur l’état des réserves de nourriture avant l’été, l’organisation d’une journée pour faire les foins. Puis sur le passage qui traite des zombies :Mateo à reporté 3 individus, en provenance du nord-est, éliminés et brûlé sur le champs, aucune contamination. Zone 43.
-
-
+En fin de soirée ils se retrouvèrent finalement devant un gros cahier sobrement intitulé registres d’activité de l’humanité #53. Ouvert au hasard, ils furent impressionnés : chaque jour prenait quasiment deux pages d’une petite écriture régulière et infatigable. Tout ce qui se passait à l’Hôtel de ville était reporté systématiquement. Y compris les discussions officieuses qui se tenaient à proximité sur la météo, l’état des cultures, la frivolité des meurs de certaines. Ils allèrent à quelques pages avant la fin pour voir les faits de la journée incriminée.  Un passage sur l’état des réserves de nourriture avant l’été, l’organisation d’une journée pour faire les foins. Puis sur le passage qui traite des zombies : Mateo a reporté 3 individus, en provenance du nord-est, éliminés et brûlé sur le champs, aucune contamination. Zone 43.
 
 - Zone 43 ?
 
-- Le plan du cadastre est sur le mur répondit Sinpier sans levé la tête de son vieux livre.
+- Le plan du cadastre est sur le mur répondit Sinpier sans lever la tête de son vieux livre.
 
 - Yes ! C’est pas très loin de Mamie Gentiane. Vinvin : on a une piste !
 
-
-
 Ils sortirent en courant, manquant de se bloquer en passant la porte en même temps.
 
+- Non mais rangez les trucs là ! Vous vous croyez où ? Les enquêteurs se figèrent. Barrez-vous, agents du chao ! Je vois pas comment vous pourriez remettre de l'ordre dans cet état! Ils reprirent leur course anarchique. « Beaucoup trop de gestes inutiles si vous voulez mon avis » murmura t’il dans sa barbe en prenant son stylo, pour ajouter au registre, la consultation des registres qui venait d’avoir lieu.
 
+### Mateo
 
-- Non ais rangez les trucs là ! Vous vous croyez ou ? Les enquêteurs se figèrent. « Barrez-vous ! Je vois pas comment vous pouvez être bénéfique au rangement » Ils reprirent leur course désordonnées. « Beaucoup trop de gestes inutiles si vous voulez mon avis » murmura t’il dans sa barbe en prenant son stylo, pour ajouter au registre, la consultation des registres qui venait d’avoir lieu.
+Le lendemain, on avait jamais vu un ado de la catégorie « nerd, acné et art de dénigrer » se lever aussi tôt sans y être obligé. Vinvin n’avait pas non plus eu à faire à quelqu’un d’aussi motivé pour le tirer du lit. Il arrivèrent donc (tout de même en milieu de matinée mais un exploit selon les standards de Loir). Bien évidemment Mateo était déjà parti patrouiller.
 
-
-
-**Mateo**
-
-
-
-Le lendemain, on avait jamais vu un ado de la catégorie « nerd, acné et art de dénigrer » se lever aussi sans y être obligé. Vinvin n’avait pas non plus eu à faire à quelqu’un d’aussi motivé pour le tirer du lit. Il arrivèrent donc (tout de même en milieu de matinée mais un exploit selon les standards de Loir). Bien évidemment Mateo était déjà parti patrouiller.
-
-- Décidément le métier de détective privé (mais commissionné par un une entité publique) consiste à beaucoup remarqua Loir quelque peu déçu.
-
-
+- Décidément le métier de détective privé (mais commissionné par un une entité publique) implique beaucoup de déplacement pédestre remarqua Loir quelque peu déçu.
 
 Une demi journée de crapahuatage dans les alentours et ils finirent pas retrouver Paupiette et Mateo.
 
+- Enquêteurs Loir et Vinvin missionnés pour résoudre la disparition de Mamie Gentiane énonça Loir tout en agitant son calepin et en trébuchant sur une racine, ce qui inquiéta Mateo, heureusement que les zombies ne sont pas si bavards, on aurait pu croire à une espèce de maladie de Parkinson doublée d’une vilaine infection de la peau et d’atrophie des muscles sur tout le corps.
 
-
-- Enquêteurs Loir et Vinvin missionné pour résoudre la disparition de Mamie Gentiane énonça Loir tout en agitant son calepin et en trébuchant sur une racine, ce qui inquiéta Mateo, heureusement que les zombies ne sont pas si bavard, on aurait pu croire à une espèce de maladie de Parkinson doublé d’une vilaine infection de la peau et d’atrophie des muscles sur tout le corps.
-
-
-
-- Houla qu’est ce qui t’arrive… Mateo était censé connaître son nom, ils avaient passé une journée ensemble dans le cadre de missions et découverte pour la jeunesse. Journée consacrée exclusivement et sans succès à essayer de mettre Loir sur un cheval puis un poney. Puis une bûche…
-
-
+- Houla qu’est ce qu'il t’arrive… Mateo était censé connaître son nom, ils avaient passé une journée ensemble dans le cadre de missions et découverte pour la jeunesse. Journée consacrée exclusivement et sans succès à essayer de mettre Loir sur un cheval puis un poney... Puis une bûche.
 
 - Nous avons quelques questions sur la journée d’avant hier.
 
 - Eh bé putaiin (il faisait sonner les « iin » comme littéralement personne ) on a pris de l’assurance à ce que je vois ! Je vous écoute mais va pas falloir me casser les couilles ! Avec un petit pas en avant mettant bien en valeur l’envergure de ses épaules, le manche de masse qui en dépasse, le fourreau d’un énorme couteau, et ses protections aux jambes et avant bras. Effectivement, Loir baissa d’un ton.
 
-
-
-- Hmbleble on voudrait juste savoir ce qui s’est passé avec les zombies l’autre jour si vous dérange pas trop enfin voilà…
-
-
+- Hmbleble on voudrait juste savoir ce qui s’est passé avec les zombies l’autre jour si ça vous dérange pas trop enfin voilà…
 
 - Bé la cloche a sonné, j’y suis allé je les ai niqué. Vous savez ce que c’est. Ah non, on dirait que savez pas bien vu vos gueules.
 
-- C’est sur le registre il y’a eu 3 coups de cloches. Et vous avec reporté 4 kills.
+- C’est sur le registre il y’a eu 3 coups de cloches. Et vous avez reporté 4 kills.
 
-
-
-L’avantage d’être à Montségur est qu’on pouvait profiter de la hauteur du vieux château dans le lequels on avait installé, peut après la coupure, quand il était facile de trouver des moteurs et des réservoir pleins, une cloche qui allait servir   pour diffuser de l’information. 3 coups signalaient une arrivée de zombies, suivi d’un code pour connaître la direction puis du nombre d’individus. ##Pas déjà dit ?
-
-
+L’avantage d’être à Montségur est qu’on pouvait profiter de la hauteur du vieux château dans le lequels on avait installé, peu après la coupure, quand il était facile de trouver des moteurs et des réservoir pleins, une cloche qui allait servir   pour diffuser de l’information. 
 
 - Qu’est ce que j’en sais bande de connards, c’est pas forcément évident de voir de si loin.
 
 - Pas euh un reproche mais voilà.. et c’était où ?
 
-- 2km plus loin, le feu au bord du chemin. Allez voir de vous même ça me fera de l’air.
+- 2 km plus loin, le feu au bord du chemin. Allez voir de vous même ça me fera de l’air.
 
 Loir bafouilla, soupira à la fois soulagé d’en avoir fini avec la virilité débordante de Mateo et déjà fatigué à l’idée de marcher encore. Et puis le retour, et pour pas être trop mal vu, il allait sûrement falloir faire des trucs physiques comme ranger du foin ou aller cueillir des fleurs de sureau. Tout en marchant il bascula dans son état de déprime habituel jusqu’à que Vinvin se rappelle à lui : 
 
@@ -538,59 +504,34 @@ Loir bafouilla, soupira à la fois soulagé d’en avoir fini avec la virilité 
 
 - C’est vrai que bien cuit on peut en manger ?
 
-- Pourquoi pas, ce serait juste assez osé de consommer quelque chose dont on est sûr qui a été infesté par une maladie qu’on ne veut pas du tout choper.
+- Pourquoi pas, ce serait juste assez osé de consommer quelque chose dont on est sûr qui a été infesté par une maladie qu’on ne veut pas choper.
 
+Vinvin continua à poser des questions auxquelles Loir répondit en pilote automatique tout en s’imaginant le tableau : un steak de cul (une partie appréciée chez les autres animaux) et puis pouf : plus de douleurs, plus d’envies, plus de questions. Une très bonne idée qu’il allait se garder sous le coude.
 
+Ils finirent par retrouver le petit charnier : un tas de membres enchevêtrés carbonisés. Bizarrement ils étaient de nouveau excités par la poursuite de leur enquête.
 
-Vinvin continua à poser des questions auxquelles Loir répondi en pilote automatique tout en se s’imaginant le tableau : un steak de cul (une partie appréciée chez les autres animaux) et puis pouf : plus de douleurs, plus d’envies, plus de questions. Une très bon idée qu’il allait se garder sous le coude.
+- Il faudrait les démêler…
 
-
-
-Ils finirent par retrouver le petit charnier. Tat de membres enchevêtrés carbonisés. Bizarrement ils étaient de nouveau exité par la poursuite de leur enquête.
-
-- Il faudrait les déméler…
-
-C’est ce qu’ils firent. Il faut s’imaginer que de tout temps les jeux de l’enfance pendront toujours le pas sur les traumas. Il aurait parru impensable quelques années auparavant d’imaginer des enfants jouer avec des cadavres de restes humain mais l’histoire est pleine d’enfants qui on grandi dans des contextes différents et ont joué tout seul à des légo d’un côté de l’autre à jeter des pierres sur des soldats en armes, devant des écrans ou dans des piles d’ordures. Eux avaient grandi en ariège en 30 P.C.
-
-
+C’est ce qu’ils firent. Il faut s’imaginer que, de tout temps, les jeux de l’enfance prendront toujours le pas sur les traumas. Il aurait paru impensable, quelques années auparavant, d’imaginer des enfants jouer avec des cadavres de restes humain mais l’histoire est pleine d’enfants qui on grandi dans des contextes différents et ont joué tout seul à des légos d’un côté de l’autre à jeter des pierres sur des soldats en armes, devant des écrans ou dans des piles d’ordures. Eux avaient grandi en Ariège en 25 P.C.
 
 4 corps allongés devant eux, un calepin à la main et l’air songeur.
 
 - Tous aussi vilains les un que les autres…
 
-- On fait peut être fausse piste, je pensais : Mamie Gentiane n’est pas un modèle de manières civilisées et une erreur est si vite arrivée…
-
-- On est sur que ces 2 là ne sont pas mamie gentiane parce qu’ils ont des zizis.
+- On est sûr que ces 2 là ne sont pas mamie gentiane parce qu’ils ont des zizis.
 
 - Remarque on ne plus pertinente !
 
-Vinvin pris ça comme un compliment.
-
-
-
-Il s’approcha, d’un des 2 autres corps, inspecta les vêtements. Du premier, du second..
-
-
+Vinvin pris ça comme un compliment. Loir s’approcha, d’un des 2 autres corps, inspecta les vêtements. Du premier, du second..
 
 - J’ai un indice ! Un vrai indice ! Affaire résolu.
 
-
-
-- Comment on sait on que c’est un indice qui fait partie de notre enquête?
-
-- C’est qu’il ne faut pas toucher aux indices qui font parti des autres enquetes sinon ils vont manquer à quelqu’un. Mais là c’est un indice à nous parce que ça permet de savoir ce qu’il s’est passé.
-
-- Ah
-
-
-
-
-
-Plus de conneries de Vinvin dns l’enquete
+- Comment on sait que c’est un indice qui fait partie de notre enquête?
+- Parceque ça permet de savoir ce qu'il s'est passé. Sinon ce serait juste un bout de bois ou un caillou.
+- Mais du coup il faut pas toucher aux bouts de bois et aux cailloux!? C'est peut être les indices d'une autre enquête s'affola Vinvin.
+- T'inquiet Vinvin y'a que nous comme détectives.
 
 # 10 Résolution Affaire Mamie gentiane
-
-
 
 
 Mieux en #2 :
