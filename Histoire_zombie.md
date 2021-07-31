@@ -531,22 +531,42 @@ Vinvin pris ça comme un compliment. Loir s’approcha, d’un des 2 autres corp
 - Mais du coup il faut pas toucher aux bouts de bois et aux cailloux!? C'est peut être les indices d'une autre enquête s'affola Vinvin.
 - T'inquiet Vinvin y'a que nous comme détectives.
 
+# 9.2 Cours de civilisation : La seconde guerre Mondiale
+
+Dans la petite classe aujourd'hui, on allait encore s'atteler à ce sujet autant historique que pop-culturel. Vu qu'on avait l'impression que la moité des œuvres qui parvenues y faisait référence. C'était une bonne chose de poser les bases.
+
+- Alors les enfants, et les autres, qui peut me dire qui était Hitler ?
+
+Rien de tel pour déclencher le brouhaha surréaliste caractéristique d'un troupeau d'enfants.
+
+- Moustache !
+- Petit méchant !
+- Le Dieu des Vilains!
+- Un dictaphone?
+- C'est lui qui voulait réduire la population pour éviter la surexploitation de la planète?
+- Non c'est celui en noir et blanc. Il vit en Asie d'abord!
+
+...
+
+- C’était un dictateur, ça veut que c’était un chef qui restreignait la liberté de certaines personnes.
+
+- C’est quoi les juifs ?
+- Des gens qui avaient un régime alimentaire spécial.
+- Et ils sont ou ?
+- Y’en a plus aujourd’hui
+- Il a bien réussi alors Hitler ?
+- Non ça c'est de la faute de la coupure y'a juste plus personne... Mais ce n'est pas le sujet. Le sujet c'est la guerre.
+- Madame, c'est quoi la guerre?
+- Hmm et bien tu vois ton jouet là, le petit cheval en bois? ben imagine qu'il ne soit seulement qu'à la moitié de la classe. Les autres le veulent pour eux alors ils vont vous attaquer. Et il va y avoir une grosse bagarre.
+- Oui s'écrièrent certain enfants excités 
+
+[enseigné comme mythe fondateur, cosmogonie]
+
 # 10 Résolution Affaire Mamie gentiane
 
+Une soixantaine de personne vaquaient à leurs occupations sous la halle du village. Sur le côté attenant au bâtiment de la mairie, une longue table était était posée sur des tréteaux contre le mur. Des chaises disposées seulement du côté mur si bien que les gens assis faisaient face aux passants et à leur activité. A première vu complètement aléatoire ou du moins très peu optimisée, comme des fourmis chacun, chacune allaient, rarement en ligne droite, s’arrêtant pour papoter s’interpellant, les enfants couraient et poussaient des cris. Toute une activité nécessaire à l’organisation de la vie. A la fin de la journée toutefois il semble que les travaux de la fourmilière, toute proportion gardée, ont plus avancés que ceux des humains. On retrouvait donc l’assemblée dans sa configuration habituelle : sous la halle, assis derrière une table, faisant face au grouillement des administrées. Quelques chaises étaient toutefois installées à portée de voix pour les personnes dont l’âge nécessitaient plus de pieds qu’ils n’avaient. 
 
-Mieux en #2 :
-
-Une soixantaine de personne vaquaient à leurs occupations sous la halle du village. Sur le côté attenant au bâtiment de la mairie, une longue table était disposée contre le mur. Des chaises disposées seulement du côté mur si bien que les gens assis faisaient face aux passants et à leur activité. A première vu complètement aléatoire ou du moins très peu optimisée, comme des fourmis chacun chacune allaient jamais en ligne droite, s’arrêtant pour papoter s’interpellant, les enfants couraient et poussaient des cris. Tout une activité nécessaire à l’organisation de la vie. A la fin de la journée toutefois il semble que les travaux de la fourmilière, toute proportion gardée, ont plus avancés que ceux des humains.
-
-
-
-On retrouvait donc l’assemblée dans sa configuration habituelle : sous la halle, assis derrière une table, faisant face au grouillement de la vie humaine. Quelques chaises étaient toutefois installées à portée de voix pour les personnes dont l’âge nécessitaient plus de pieds qu’ils n’avaient. 
-
-A table comme à leur habitude : Sinpier faisait office de greffier, Mikhael, un conseillé et une conseillère (Jeanne et Serge (Jeanne avait toujours eu ce nom, Mathieu avait pris le nom de Serge après leur rencontre) ) de bonne volonté qui faisaient office de tampon entre les décisions trop conceptuelles et une population beaucoup plus terre à terre. Une partie des chaises étaient libres pour ceux qui voulaient participer ou avaient un sujet particulier à aborder. On y retrouvait Loir, Vinvin courait autour de la place et passait tout ce qu’il pouvait à la la loupe prêtée par Loir après une séance de persuasion très efficace qui consiste à se placer le plus près possible de l’oreille de son interlocuteur et de répéter l’objet de sa requête sans s’arrêter sur un ton de plus en plus aigu.
-
-
-
-Sinpier se leva pour énoncer l’ordre du jour :
+A table comme à leur habitude : Sinpier faisait office de greffier, Mikhaïl, un conseillé et une conseillère (Jeanne et Serge (Jeanne avait toujours eu ce nom, Mathieu avait pris le nom de Serge après leur rencontre) ) de bonne volonté qui faisaient office de tampon entre les décisions trop conceptuelles et une population beaucoup plus terre à terre. Une partie des chaises étaient libres pour ceux qui voulaient participer ou avaient un sujet particulier à aborder. On y retrouvait Loir. Vinvin courait autour de la place et passait tout ce qu’il pouvait à la la loupe prêtée par Loir après une séance de persuasion très efficace qui consiste à se placer le plus près possible de l’oreille de son interlocuteur et de répéter l’objet de sa requête sans s’arrêter sur un ton de plus en plus aigu. Sinpier se leva pour énoncer l’ordre du jour :
 
 - Alors voici l’ordre du jour : Loir ici nous exposera les conclusions de son enquête sur la disparition de Mamie Gentiane puis organisation de la corvée de foin pour la fin de semaine. Passons au vote de l’ordre du jour qui a quelque chose à dire ? Personne. Je passe donc la parole à Loir.
 
@@ -556,27 +576,19 @@ Loir se leva et commença à énoncer les faits comme il l’avait préparé, en
 
 Il savait qu’il lui fallait parler le plus fort possible, voir essayer de crier. Le problème c’est qu’alors sa voix avait tendance à dérailler un octave au dessus faisant un effet de grincement assez désagréable.
 
-- … Suite à une enquête appronfondie et aux auditions de plusieurs témoins j’ai pu, avec mon associé Vinvin recouper les informations pour recréer les evenement qui se sont déroulés le 3 mai dernier. A savoir : lors de l’intervention du ranger Mateo sur 3 dormeurs arrivants par la route sud il s’est fait attaqué par mamie Gentiane. Comportement qui n’est pas étonnant si l’on en croit les différents témoignages receuilli. L’ayant confondu avec un dormeur particulièrement virulent et dans le feu de l’action, Mr Mateo l’a mise à mort.
+- … Suite à une enquête approfondie et aux auditions de plusieurs témoins j’ai pu, avec mon associé Vinvin recouper les informations pour recréer les événements qui se sont déroulés le 3 mai dernier. A savoir : lors de l’intervention du ranger Mateo sur 3 zombies arrivants par la route sud il s’est fait attaqué par mamie Gentiane. Comportement qui n’est pas étonnant si l’on en croit les différents témoignages recueillis. L’ayant confondu avec un dormeur particulièrement virulent et dans le feu de l’action, Mr Mateo l’a mise à mort.
 
 - Ahhh
 
-- hummm
+- hummm... Fit le conseil et les quelques personnes rassemblées pour écouter un rapport beaucoup plus intéressant que d’habitude. Au bout d’un moment Loir, nerveux appela Vinvin à venir le rejoindre. Il se pencha à son oreille d’un air agacé. Vinvin couru vers la table du conseil et se servi d’un chaise pour monter dessus.
 
-Fit le conseil et les quelques personnes rassemblées pour écouter un rapport beaucoup plus intéressant que d’habitude.
+- Comment on sait que c’est vraiment Mamie Gentiane ? Cria t'il avant de sauter sur la table et de grimper au mur sans que personne ne s'en émeuve.
 
-Au bout d’un moment Loir, nerveux appela Vinvin à venir le rejoindre. Il se pencha à son oreille d’un air agacé. Vinvin couru vers la table du conseil et se servi d’un chaise pour monter dessus.
-
-- Comment on sait que c’est vraiment Mamie Gentiane ?
-
-- Très bonne question merci de votre attention. Eh bien nous avons retrouvé le charnier et le corps de Mamie Gentiane. Comment l’a t’on identifié me demanderez-vous ?
-
-Autant poser les questions, on était jamais mieux servi que par soi-même.
+- Très bonne question merci de votre attention. Eh bien nous avons retrouvé le charnier et le corps de Mamie Gentiane. Comment l’a t’on identifié me demanderez-vous ? Autant poser les questions, on était jamais mieux servi que par soi-même.
 
 - Eh bien voici ce qu’on a retrouvé dans ses poches.
 
-Il s’approcha de la table et déposa 3 galets carbonisés de petites taille. Jeanne et Serge les observèrent d’un air expert. De par leur taille et la forme, ils ressemblaient effectivement à ceux qu’on risquait de voir arriver de trop près si on ne prenait pas garde en s’approchant de la maison de mamie Gentiane.
-
-Sinpier se leva alors :
+Il s’approcha de la table et déposa 3 galets carbonisés de petites taille. Jeanne et Serge les observèrent d’un air expert. De par leur taille et la forme, ils ressemblaient effectivement à ceux qu’on risquait de voir arriver de trop près si on ne prenait pas garde en s’approchant de la maison de mamie Gentiane. Sinpier se leva alors :
 
 - Mateo a commis un meurtre d’un membre de notre communauté. Et vous ne vous extasiez en l’apprenant ! Ne vous rendez-vous pas compte il a commis un pécher capital ! Personne ne pense à le punir !
 
@@ -590,19 +602,13 @@ La foule présente eu tendance à regarder ses pieds :
 
 - Oui si ça se trouve elle a moins souffert que nous…
 
-Mikhael prit la parole.
+Mikhaïl prit la parole.
 
-- Bon dans la mesure ou Mateo n’est pas présent pour se défendre et que de toute façon on comprend bien que son action n’était pas induite par une envie de nuire à la communauté qui de toute façon lui est reconnaissante pour le travail accompli chaque jour, je propose d’en rester là avec cette histoire.
+- Bon dans la mesure ou Mateo n’est pas présent pour se défendre et que de toute façon on comprend bien que son action n’était pas induite par une envie de nuire à la communauté qui de toute façon lui est reconnaissante pour le travail accompli chaque jour, je propose d’en rester là avec cette histoire. Sinpier sur un ton effaré :
 
-Sinpier sur un ton effaré :
-
--Quelle éducation pour la jeunesse ! Allez y tuez vous, vous finirez en enfer. Je dis ça pour votre bien aussi. Bon je suppose que tout le monde vote pour clore l’affaire.
+- Quelle éducation pour la jeunesse ! Allez y tuez vous, vous finirez en enfer. Je dis ça pour votre bien aussi. Bon je suppose que tout le monde vote pour clore l’affaire.
 
 Les mains timides et soulagées se levèrent.
-
-Peu être pas fini
-
-
 
 # 11 Bambi se fait infecter
 
@@ -1852,43 +1858,9 @@ Je me suis réveillée ça va, je disais quoi ?
 
 # Cours de civilisation précoupure
 
-[Trouver un nom]
-
-Civilisation précoupure
-
-## L’architecture pre coupure
 
 
-
-## La seconde guerre Mondiale
-
-Alors les enfants et les autres, qui peut me dire qui était Hitler ?
-
-- Moustache !
-
-- Petit méchant !
-
-- C’était un dictateur, ça veut que c’était un chef qui restreignait la liberté de certaines personnes.
-
-- C’est quoi les juifs ?
-
-- Des gens qui avaient un régime alimentaire spécial.
-
-- Et ils sont ou ?
-
-- Y’en a plus aujourd’hui
-
-- Il a bien réussi alors Hitler ?
-
-- Non ça c'est de la faute de la coupure y'a juste plus personne... Mais ce n'est pas le sujet. Le sujet c'est la guerre.
-
-- Madame, c'est quoi la guerre?
-
-- Hmm et bien tu vois ton jouet là, le petit cheval en bois? ben imagine qu'il ne soit seulement qu'à la moitier de la classe. Les autres le veulent pour eux alors ils vont vous attaquer. Et il va y avoir une grosse bagarre
-
-- Oui s'écrièrent certain enfants exités 
-
-## Les véhicules
+## Cours de civilisation : Les véhicules
 
 Aujourd'hui c'était le cours de Fastand de faire son heure de cours. Il était ce qui se rapprochait le plus de la fonction de garagiste. Qui consistait surtout à identifier ce qui marchait sur certaines voiture et à passer outre tout ce qui était électronique.
 
