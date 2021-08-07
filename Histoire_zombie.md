@@ -612,145 +612,80 @@ Les mains timides et soulagées se levèrent.
 
 # 11 Bambi se fait infecter
 
+Mylène et Bambi marchaient main dans la main  sur le chemin grimpant dans la montagne boisée au sud de Montségur. C’était la saison de faire la réserve de feuille d’ail des ours, une plante qui poussait un peu partout mais Bambi et Mylène avaient pour petit rituel de s’éloigner pour la journée pour trouver une clairière pentue où ils n’avaient qu’à se baisser pour remplir leurs sacs. Bambi était un des rare métis parmi les survivants. Son nom de baptême était Armand mais il avait de grand yeux noir aux longs cils. Sa beauté ne laissait pas celle et ceux intéressés par le genre masculin, indifférents, elles lui avaient trouvé ce nouveau nom. 
 
-## Début
-
-Mylène et Bambi marchaient main dans la main  sur le chemin grimpant dans la montagne boisée au sud de Montségur. C’était la saison de faire la réserve de feuille d’ail des ours, une plante qui poussait un peu partout mais Bambi et Mylène avaient un petit rituel de s’éloigner pour la journée pour trouver une clairière pentu ou il n’avait qu’à se baisser pour remplir leurs sacs.
-
-Bambi était un des rare métis des survivants. Son nom de baptême était Armand mais il avait de grand yeux noir aux longs cils. Sa beauté ne laissait pas celle et ceux intéressés par le genre masculin, indifférents, elles lui avaient trouvé ce nouveau nom. 
-
-Rire cote à cote sur le chemin par une belle matinée de printemps, sa main son corps dynamique endurant comme les vieux corps en bon état utilisés de façon précise et économique. Les rides autour de ses yeux, ses cheveux grisonnants. Toute sa personne était incroyablement belle. Merci le ciel qu’elle soit attirée par moi pensa t’il ! Il firent l’amour 2 fois sur le chemin.
-
-
-
-Ils n’étaient un couple à proprement parler comme on l’entendait au siècle dernier. Ils avaient chacun leur habitation mais se voyaient souvent. Elle savait que Bambi avait beaucoup à faire pour faire plaisir aux quelques filles en age de découvrir les joies de l’amour. Mais il trouvait chez Mylène en plus d’une vrai attirance physique un esprit unique. Elle avait souvent des répliques inattendues pleines de second degré d’humour d’absurde et de poésie. En fait un peu le contraire de son autre amante du moment Arya : jeune, fougueuse et il faut le dire, moins mature. Adorable, marrante et très attirante mais il se rendait compte que l’expérience comptait énormément dans tout ce qui concernait les pratiques physiques rapprochées. Un peu comme la lutte greco-romaine...
-
-##  Jeu animaux imaginaire
-
-Exemples dialogues:
+Rire cote à cote sur le chemin par une belle matinée de printemps, sa main son corps dynamique endurant comme les vieux corps en bon état utilisés de façon précise et économique. Les rides autour de ses yeux, ses cheveux grisonnants. Toute sa personne était incroyablement belle. Merci le ciel qu’elle soit attirée par moi pensa t’il ! Il firent l’amour 2 fois sur le chemin. Ils n’étaient pas un couple à proprement parler comme on l’entendait au siècle dernier. Ils avaient chacun leur habitation mais se voyaient souvent. Elle savait que Bambi avait beaucoup à faire pour donner du plaisir aux quelques filles en age de découvrir les joies de chopade. Mais il trouvait chez Mylène en plus d’une vrai attirance physique un esprit unique. Elle avait souvent des répliques inattendues pleines de second degré d’humour d’absurde et de poésie. En fait un peu le contraire de son autre amante du moment Arya : jeune, fougueuse et il faut le dire, moins mature. Adorable, marrante et très attirante mais il se rendait compte que l’expérience comptait énormément dans tout ce qui concernait les pratiques physiques rapprochées. Un peu comme la lutte greco-romaine...
 
 - On repère les animaux imaginaire ?
 
 - Tu vas encore gagner..
 
-- c’est pas un concours. Tiens attention une fourmigale ajouta t’elle en époussetant ‘épaule de Bambi.
+- C’est pas un concours. Tiens attention une fourmigale ajouta t’elle en époussetant l‘épaule de Bambi.
 
 - Ah ouais merci, j’aimerais pas tomber sur une colonie !
 
 - Y’en a pas parce que regarde la bas une famille de Fourmigalier.
 
--Ah bé oui.
+- Ah bé oui.
 
-- Ca pas les fourmigales au four thermostat mille.
-
-Il continuèrent à marcher le sourrire aux lèvres, l’esprit concentré les yeux à l’aguet en quête d’inspiration.
-
-Au loin le bruit caractéristique d’un bec creusant un tronc d’arbre.
+Il continuèrent à marcher le sourire aux lèvres, l’esprit concentré, à l’affût en quête d’inspiration. Au loin le bruit caractéristique d’un bec creusant un tronc d’arbre.
 
 - Un P’hiver ? en cette saison ?
-
 - Il a éternué non ? Si oui c’est un pokémon...
-
 - … 
-
 - Un pic atchoum ?! Ahah tu vois que t’es pas mauvais.
-
 - Ou que je suis assez mauvais pour pouvoir jouer.
+- Là dans le ciel :  un vol de blérons
+- Ah oui tiens noir et blanc comme ça c'est pas mal.
 
-- là dans le ciel :  un vol de blérons
-- Ah oui tiens noir et blanc comme ça c'est pas mal
 
-...
 
-Tu connais le gros rongeur qui crache du feu?
+- Tu connais le gros rongeur qui crache du feu?
 
 - Oui je l'ai fait la dernière fois mais pas aussi bien définit, c'est carrément mieux.
 - Ahah j'avais pas du comprendre.
 
-
-
-Puis sans franchement de transition
+Puis sans franchement de transition.
 
 - Je suis contente que tu sois là !
-
 - Ah bon ?
-
 - Tu es une bonne raison à l’existence de l’humanité.
-
-- Tout le temps qu’on passe ensemble est une bonne raison. C’est déjà pas mal d’avoir ça. Parceque j’ai pas l’impression qu’on aille quelque part avec notre population qui décroît. Autant vivre chaque jour comme si c’était le dernier.
-
-- Ah bon ? Sourit Mylène. Et passer la journée à faire arrrrh en tirant la langue ?  Ce sera probablement une agonie, au sens propre !
-
+- Tout le temps qu’on passe ensemble est une bonne raison. C’est déjà pas mal d’avoir ça. Parce que j’ai pas l’impression qu’on aille quelque part avec notre population qui décroît. Autant vivre chaque jour comme si c’était le dernier.
+- Ah bon ? Le dernier jour sera probablement une agonie, au sens propre ! Sourit Mylène. Tu veux passer la journée à faire arrrrh en tirant la langue ?  
 - Bé oui c’est vrai ça elle est con cette expression...
 
+La matinée passa joyeusement avant d’arriver à leur spot habituel. Ils en profitèrent pour explorer les alentours, histoire de repousser un peu les frontières du monde connu. Ces temps-ci, il était redevenu aisé d’être exploratrice. On avait beau avoir des cartes du monde, elles ne restait que très abstraites loin de toute réalité tangible pour les jeunes qui ne partiraient probablement jamais à plus de quelques centaines de kilomètre de leur lieu de naissance. Alors que la découverte d’un coin à champignon revêtait un aspect stratégique autrement plus important que la position géopolitique du Sinaï par exemple. Ils cassèrent la croûte puis après une sieste langoureuse se mirent à remplir leur sacs de feuilles odorantes qui permettront de concocter de fameux pestos très prisés.
 
-
-La matinée passa joyeusement avant d’arriver à leur spot habituel. Ils en profitèrent pour explorer les alentours, histoire d’étendre encore un peu leur monde. Ces temps-ci, il était redevenu aisé d’être exploratrice. On avait beau avoir des carte du monde, elles ne restait que très abstraite loin de toute réalité tangible pour les jeunes qui ne partiraient probablement jamais à plus de quelques centaines de kilomètre de leur lieu de naissance. Alors que la découverte d’un coin à champignon revêtait un aspect stratégique autrement plus important que la position géopolitique du Sinaï par exemple.
-
-Ils cassèrent la croûte puis après une sieste langoureuse se mirent à remplir leur sacs de feuilles odorantes qui permettront de concocter de fameux pestos très prisés.
-
-
-
-## Fin
-
-Alors que ses sacs était quasiment plein, Bambi était accroupi depuis 15 min le nez dans la végétation quand il entendit un branche craquer, derrière lui un bruit. Mylène était revenu sur ses pas. Il vit du coin de l’oeil un main tendu pour l’aider à se relever. Typique ! Il la saisie machinalement. Puis un calme, avec une drôle d’impression, puis d’un coup : plus rien.
+Alors que ses sacs était quasiment plein, Bambi était accroupi depuis 15 min le nez dans la végétation odorante quand il entendit un branche craquer, derrière lui un bruit. Mylène était revenu sur ses pas. Il vit du coin de l’œil un main tendue pour l’aider à se relever. Typique ! Il la saisie machinalement. Puis un calme, avec une drôle d’impression, et d’un coup : plus rien.
 
 
 # 11.1 Repas de famille
 
 
 
-Loir marche sur le chemin menant à la maison familiale, tenant un petit panier presque à bout de bras de façon très peu naturelle. Toute son attention fixée sur le fait de ne pas donner d’à-coup pour ne pas abîmer ce fantastique gâteau qu’il avait mis tant d’énergie à préparer : presqu’une semaine à se décider sur la recette et autant à réunir les ingrédients : miel farine œufs et les premières cerises qu’il a du faire beaucoup d’effort pour dénicher. Suivi ensuite d’une matinée de travail. Et il n’était pas mécontent du résultat du moins pour l’aspect visuel.
+Loir marchait sur le chemin menant à la maison familiale, tenant un petit panier presque à bout de bras de façon très peu naturelle. Toute son attention fixée sur le fait de ne pas donner d’à-coup pour ne pas abîmer ce fantastique gâteau qu’il avait mis tant d’énergie à préparer : presque une semaine à se décider sur la recette et autant à réunir les ingrédients : miel farine œufs et les premières cerises qu’il a dû faire beaucoup d’effort pour dénicher. Suivi ensuite d’une matinée de travail. Et il n’était pas mécontent du résultat du moins pour l’aspect visuel. Il se rendait compte que son cas n’était complètement désespéré : pour quelqu’un qui ne supportait pas les tâches physiques et le plein air surtout l’hiver, il pourrait toujours se reconvertir dans l’artisanat et se trouver un métier méticuleux si possible d’intérieur et pour lequel on ne soit pas obligé de se réveiller tôt le matin et encore mieux s’il n’y avait pas de débouchés. C’est ça : il faudrait se trouver un métier de niche par exemple disquaire ou serrurier : respectable de prime abord mais clairement pas des métiers qui ont le vent en poupe et qui ne devraient pas demander trop d’investissement. Après tout c’était surtout ses parents qui insistaient sur le fait qu’il était de bon ton d’avoir un métier. Lui n’avait rien demandé. Mais ça c’était avant ! se ressaisit-il Trop habitué à ce qu’on lui rabâche les mêmes reproches. Maintenant il démarrait une fructueuse carrière de détective. D’où la confiance en soi. Elle avait tendance à se faire discrète celle-ci. Il se redressa en réalisant que le panier commençait à pencher en avant. 
 
-Il se rendait compte que son cas n’était complètement désespéré pour quelqu’un qui ne supportait pas les tâches physiques et le plein air surtout l’hiver il pourrait toujours se reconvertir dans l’artisanat et se trouver un métier méticuleux si possible d’intérieur et pour lequel on ne soit pas obligé de se réveiller tôt le matin et encore mieux s’il n’y avait pas de débouchés. C’est ça : il faudrait se trouver un métier de niche par exemple disquaire ou serrurier : respectable de prime abord mais clairement pas des métiers qui ont le vent en poupe et qui ne devraient pas demander trop d’investissement. Après tout c’était surtout ses parents qui insistaient sur le fait qu’il était de bon ton d’avoir un métier. Lui n’avait rien demandé.
+Loir essayait d’aller le moins possible chez ses parents malgré le fait qu’on y mangeait toujours très bien, on avait pas grand-chose à se dire et les silences parlaient trop fort du fait qu’on ne pouvait pas se comprendre. Ils sous-entendaient bruyamment qu’on ne parlait pas de chasse, qu’on ne parlait pas d’enduit, de foins de sport ou de même de cailloux. Il le faisait surtout pour eux. Ils se sentiraient mieux en sachant que leur progéniture n’était pas si dénouée d’intérêt. Et en même temps si c’était le cas ? La faute à qui ? Faire un enfant : il pensaient quoi ? La seule façon que ça se passe bien aurait été de faire un enfant qui ait la même vision de la vie. Or comme tout le monde, il n’avait pas grandi dans le même monde que ses parents. D’autant plus que ses parents n’étaient même pas nés dans la même aire géologique. Et même si cela avait été le cas, son caractère était différent. Être humain voulait dire quelque chose de différent pour chaque personne. Improbable que ces visions s’alignent d’un génération à l’autre. C’était déjà un miracle qu’on arrive à s’entendre, qu’on arrive à bien s’aimer alors faut pas pousser.
 
-
-
-Mais ça c’était avant ! se ressaisit-il Trop habitué à ce qu’on lui rabâche les mêmes reproches. Maintenant il démarrait une fructueuse carrière de détective. D’où la confiance en soi. Elle avait tendance à se faire discrète celle-ci. Il se redressa en réalisant que le panier commençait à pencher en avant.
-
-
-
-
-
-Loir essayait d’aller le moins possible chez ses parents malgré le fait qu’on y mangeait toujours très bien, on avait pas grand-chose à se dire et les silences parlaient trop fort du fait qu’on ne pouvait pas se comprendre. Ils sous-entendait bruyamment qu’on ne parlait pas de chasse, qu’on ne parlait pas d’enduit, de foins de sport ou de cailloux.
-
-
-
-Il le faisait surtout pour eux. Ils se sentiraient mieux en sachant que leur progéniture n’était pas si dénouée d’intérêt. Et en même temps si c’était le cas ? La faute à qui ? Faire un enfant : il pensaient quoi ? La seule façon que ça se passe bien aurait été de faire un enfant qui ait la même vision de la vie. Or comme tout le monde, il n’avait pas grandi dans le même monde que ses parents. D’autant plus que ses parents n’étaient même pas nés dans la même aire géologique. Et même si cela avait été le cas, son caractère était différent. Être humain voulait dire quelque chose de différent pour chaque personne. Impossible que ces visions s’alignent d’un génération à l’autre. C’était déjà un miracle qu’on arrive à s’entendre, qu’on arrive à bien s’aimer. 
-
-
-
-
-
-##  Fin
-
-Il croisa ses parents sur le pas de la porte. Surpris il leva son gâteau :
+Il arriva enfin au bout de l'allée de la maison familiale les bras en feu à cause d'un gâteau de 600g. Il croisa ses parents sur le pas de la porte. Surpris il leva son gâteau :
 
 - Vous partez, on mange pas ? J’avais une bonne nouvelle...
 
-- Mais tu n’a pas entendu la nouvelle ? S’exclama sa mère Toujours à la ramasse celui là !
+- Mais tu n’a pas entendu la nouvelle ? S’exclama sa mère. Toujours à la ramasse celui là !
 
-Son père un peu plus charitable :
+Son père fût un peu plus charitable :
 
 - Il paraît que Sangoku à rencontré des gens ! Des vrais qui ne son pas infectés et qui ne sont pas d’ici ! J’ai l’impression qu’il va y avoir du monde.
 
 - Ah ! Et oui du coup c’est plus important soupira Loir.
 
-Super pensa t’il plutôt qu’un bon repas en petit comité il fallait marcher jusqu’à la place du village bondé. En tout cas, ils pouvaient toujours courir pour qu’il abandonne son gâteau. 
-
-
+Super! pensa t’il plutôt qu’un bon repas en petit comité il fallait marcher jusqu’à la place du village bondé. En tout cas, ils pouvaient toujours courir pour qu’il abandonne son gâteau. 
 
 # 12 Conseil survivants
 
+Loir n’avait effectivement jamais vu autant de monde au même moment, au même endroit. Même pour la fête des moissons. On pouvait pourtant difficilement faire plus puisqu’il y avait tout le monde. Mais ils ne se serraient pas comme un troupeau assoiffé devant une tonne à eau. Et cela n’augurait rien de bon pour le lui. Parceque beaucoup de gens au même endroit qui discutent : ça allait être long et ennuyeux et cela signifiait aussi que l’actu selon laquelle il avait résolu la 1ère enquête digne de ce nom depuis 20 ans était définitivement passée à la trappe.
 
-
-Loir n’avait effectivement jamais vu autant de monde au même moment, au même endroit. Même pour la fête des moissons. On pouvait pourtant difficilement faire plus puisqu’il y avait tout le monde. Mais ils ne se serraient pas comme un troupeau assoiffé devant une tonne à eau. Et cela n’augurait rien de bon pour le lui. Parceque beaucoup de gens au même endroit qui discutent : ça allait être long et ennuyeux et cela signifiait aussi que l’actu selon laquelle il avait résolu la 1ere enquête digne de ce nom depuis 20 ans était définitivement passée à la trappe.
-
-Ok pensa t’il tout haut c’est le moment d’activer le protocole « Nid de vautour ». Et il entreprit de contourner la place, d’ouvrir une porte dans une rue adjacente. Enfin pour être précis : de vérifier qu’il n’était dans le champ de vision de personne, de caler son genou contre le mur, de poser le gâteau en équilibre dessus, de tirer la langue, de manipuler la poignée avec une technique longuement pratiquée au préalable. Il entra donc dans le bâtiment dont il gravit les marches en soufflant. Arrivée au dernier étage, et c’était que sa connaissance intime des lieux publics à densité de population nulle prenait tout son intérêt : il traversa le couloir, ouvrit une porte qui donnait sur un espèce de débarra. Trouva une échelle au fond de la pièce qu’il grimpa  en posant le gâteau successivement sur chaque barreau pour arriver dans les combles. Il traversa la pièce sur des planches qu’on sentait facécieuses en prenant soin de longer la poutre. Pour arriver devant une fenêtre au volet fermé qu’il ouvrit lentement et se retrouva au dessus d’un coin de la place centrale avec une vue imprenable sur la petite estrade. 
-
-On entendait mal mais sûrement pas moins bien qu’au milieu de la foule. Satisfait, de ce sentiment de sécurité, il se découpa une tranche de gâteau et se décida à s’intéresser à ce qui était en train de se passer en contre-bas.
-
-Mikhail sur scène, en faisait des caisses mais bizarrement pas plus que d’habitude. Une variante de la fable sur le garçon qui criait au loup : « à toujours jouer avec les potards à fond on a du mal à nuancer son propos »
+Ok pensa t’il tout haut c’est le moment d’activer le protocole « Nid de vautour ». Et il entreprit de contourner la place, d’ouvrir une porte dans une rue adjacente. Enfin pour être précis : de vérifier qu’il n’était dans le champ de vision de personne, de caler son genou contre le mur, de poser le gâteau en équilibre dessus, de tirer la langue, de manipuler la poignée avec une technique longuement pratiquée au préalable. Il entra donc dans le bâtiment dont il gravit les marches en soufflant. Arrivée au dernier étage, et c’était que sa connaissance intime des lieux publics à densité de population nulle prenait tout son intérêt : il traversa le couloir, ouvrit une porte qui donnait sur un espèce de débarra. Trouva une échelle au fond de la pièce qu’il grimpa  en posant le gâteau successivement sur chaque barreau pour arriver dans les combles. Il traversa la pièce sur des planches qu’on sentait facétieuses en prenant soin de longer la poutre. Pour arriver devant une fenêtre au volet fermé qu’il ouvrit lentement et se retrouva au dessus d’un coin de la place centrale avec une vue imprenable sur la petite estrade. On entendait mal mais sûrement pas moins bien qu’au milieu de la foule. Satisfait, de ce sentiment de sécurité, il se découpa une tranche de gâteau et se décida à s’intéresser à ce qui était en train de se passer en contre-bas. Mikhail sur scène, en faisait des caisses mais bizarrement pas plus que d’habitude. Une variante de la fable sur le garçon qui criait au loup : « à toujours jouer avec les potards à fond, on a du mal à nuancer son propos »
 
 - … une grande date à marquer avec toute les pierres blanches de la montagne puisque c’est une lueur d’espoir qui descend sur l’humanité au travers de notre héro Sangoku.
 
@@ -764,43 +699,23 @@ Tout bas, à son tour :
 
 - Ah ! Parceque là on aurait dit une évangile c’est pour ça...
 
-Mikhail pali et reprit pour l’audience qui s’impatientait.
+Mikhail palit et reprit pour l’audience qui s’impatientait.
 
--Bref j’ai le plaisir de vous présenter : Marie et Martin.
+- Bref j’ai le plaisir de vous présenter : Marie et Martin.
 
-Après quelques secondes les « lueurs de l’espoir de l’humanité » s’avancèrent sous la forme de deux petits vieux qui saluèrent nerveusement. Martin, après s’être oté son couvre chef, sa prestance en prit un coup.
+Après quelques secondes les « lueurs de l’espoir de l’humanité » s’avancèrent sous la forme de deux petits vieux qui saluèrent nerveusement. Martin, après s’être ôté son couvre chef, sa prestance en prit un coup. Autant la perspective de voir du monde après 2 (ans d’isolement les avait réjoui, autant il manquait quelques étapes avant de se retrouver sur une scène devant des centaines de gens. On les fit s’asseoir à la table en et on leur servi un verre de vin chacun. Martin y trempa ses lèvre.
 
-Autant la perspective de voir du monde après 2 (ans d’isolement les avait réjoui, autant il manquait quelques étapes avant de se retrouver sur une scène devant des centaines de gens.
+- Ah tiens on en a pas des comme ça marmonna t’il.
 
-On les fit s’asseoir à la table en et on leur servi un verre de vin chacun. Martin y trempa ses lèvre.
+Alors que Loir malgré les risques de diabète entamait la 2ème moitié du gâteau. Il s’était finalement mis à se passionner par l’évènement, il s’imaginait avec fascination vivant à deux pour toujours dans une ferme du sud ouest de la France. Tout à coup un écroulement au milieu de la pièce ou il se trouvait le fit sursauter et étouffer un petit cris aigu. Derrière lui un nuage de poussière se dissipa lentement et laissa apparaître Vinvin en train de se relever dans les rayons de lumière passant par le velux entrouvert et s’accrochant aux particules de poussière en suspension le faisant apparaître comme une apparition surnaturelle, un espèce de cupidon crado qui allait vous manger votre gâteau dans un halo de lumière gracieuse.
 
-- Ah tiens on en a pas des comme ça marmonna t’il
+- Je t’ai vu manger un gâteau qui avait l’air pas mal. S’exclama Vinvin tout sourire. Il me semblait bien que cette fenêtre s’ouvrait de l’extérieur en forçant un peu.
 
-
-
-### Invasion de Vinvin
-
-Alors que Loir malgré les risques de diabète entamait la 2eme moitié du gateau. Il s’était finalement mis à se passionner par l’évènement, il s’imaginait avec fascination vivant à 2 pour toujours dans une ferme du sud ouest de la france. Tout à coup un écroulement au milieu de la pièce ou il se trouvait le fit sursauter et étouffer un petit cris aigu. Derrière lui un nuage de poussière se dissipa lentement et laissa apparaître Vinvin en train de se relever dans les rayons de lumière passant par le velux entrouvert et s’accrochant aux particules de poussière en suspension le faisant apparaître comme une apparition surnaturelle, un espèce de cupidon crado qui allait vous manger votre gateau dans un halo de lumière gracieuse.
-
-- Je t’ai vu manger un gâteau qui avait l’air pas mal. S’exclama Vinvin tout sourrire. Il me semblait bien que cette fenêtre s’ouvrait de l’extérieur en forçant un peu.
-
-Dans la tête de Loir « Le nid de vautour est compromis ! Je répète le nid de vautour est compromis. Abort the mission ! » Il était partagé entre la nonchalance avec laquelle les gens avaient l’habitude de  violer son intimité (intimité, c’est vrai, qui pouvait aller jusqu’à plusieurs 10aine de mètres dans certains cas quand les murs ne sont pas épais) mais il se réjouissait aussi de la vivacité et de l’efficacité de son assistant quand le sujet de son investigation lui tenait à coeur : par exemple rejoindre une part de gateau au miel et aux cerises dans un dédale de toits sur le point de s’écrouler.
+Dans la tête de Loir « Le nid de vautour est compromis ! Je répète le nid de vautour est compromis. Abort the mission ! » Il était partagé entre la nonchalance avec laquelle les gens avaient l’habitude de  violer son intimité (intimité, c’est vrai, qui pouvait aller jusqu’à plusieurs dizaines de mètres dans certains cas quand les murs ne sont pas épais) mais il se réjouissait aussi de la vivacité et de l’efficacité de son assistant quand le sujet de son investigation lui tenait à cœur : par exemple rejoindre une part de gâteau au miel et aux cerises dans un dédale de toits sur le point de s’écrouler.
 
 - Oui bon bé viens , je te coupe une part.
 
-
-
-
-
-
-
-Mikhail repris :
-
-
-
-Ajouter des cris dans le public qui font des jeux de mots ?
-
-
+La foule faisait son brouhaha d'interjections et d'onomatopées caractéristique d'un sentiment trop complexe à exprimer pour un public puisqu'il ne correspondait pas aux humeurs de base : content, pas content, amusé, attentif. On était sur plutôt sur une excitation générale, une grosse envie de chacun de donner son avis. Mais un rassemblement de personnes ne donne pas son avis s'il fait plus d'une syllabe. Quand il se calma, Mikhail repris :
 
 - Bienvenue de la part de toute notre communauté. Sachez que lorsque je dis que vous êtes une lueur d’espoir pour l’humanité ce n’est pas une exagération.  Nous nous sommes mis d’accord pour que, quoi qu’il arrive vous soyez traités aussi bien que les travailleurs...
 
@@ -814,11 +729,13 @@ Le couple se regarda un temps comme s’ils avaient une discussion silencieuse. 
 
 - Nous pouvons vous laisser un peu d’ail mais pas tous les jours : on en mange beaucoup, reprit Marie inquiète.
 
-- Ca me semble pas déraisonnable. Il y aura donc un nouveau membre au club Belote.
+- Ça ne me semble pas déraisonnable. Il y aura donc un nouveau membre au club Belote.
 
 Un petit homme aux lunettes ébréchées se leva : 
 
--Je suis Gandalf, j’organise les veillées culturelles : on se retrouve le soir et des hemcis racontent des histoires écrites sous l’ancien monde. On est en train de finir une sacrée histoire de guerre des étoiles en ce moment. Il y aura d’autres sessions, vous serez pas déçus.
+- Je suis Gandalf, j’organise les veillées culturelles : on se retrouve le soir et des MC[^](Pronocé "emcé" : Maître de cérémonie)
+
+   racontent des histoires écrites sous l’ancien monde. On est en train de finir une sacrée histoire de guerre des étoiles en ce moment. Il y aura d’autres sessions, vous serez pas déçus.
 
 Mihkail essaya de récupérer :
 
@@ -826,9 +743,9 @@ Mihkail essaya de récupérer :
 
 - En échange nous souhaiterions que vous soyez à disposition de Mylène qui va  essayer de comprendre pourquoi vous êtes immunisé à cette calamité et peut être qui sait, trouvera t’on un remède ou a défaut une façon efficace de se protéger.
 
-Il y eu un petit silence et les gens ralentirent comme si le temps s’était dilaté. Une partie de la puissance de calcul de chaque cerveau s’était mis à considéré le fait qu’on puisse soigner les dormeurs. Ils avaient vécus tellement longtemps avec et en avaient brûlé, démembrés ou déformés tant que l’hypothèse n’était pas si plaisante. Dans quel état seraient ils ? Sachant qu’ils ont arrété de vieillir au moment ou il s’était fait contaminer. De quoi se souviendraient t’il ? Mais surtout fallait il continuer cette mascarade ? L’épopée sado maso et kamikase de l’humanité, on pouvait déjà se poser la question à petit échelle mais remettre sur pied la machine infernale ? Mais surtout qui allait prendre la décision ? Évidemment tous n’étaient pas exactement au même stade du raisonnement quand il commencèrent à prendre la parole : 
+Il y eu un petit silence et les gens ralentirent comme si le temps s’était dilaté. Une partie de la puissance de calcul de chaque cerveau s’était mis à considéré le fait qu’on puisse soigner les dormeurs. Ils avaient vécus tellement longtemps avec et en avaient brûlé, démembré ou déformé tant que l’hypothèse n’était pas si plaisante. Dans quel état seraient-ils? Sachant qu’ils ont arrêté de vieillir au moment ou ils se sont fait contaminer. De quoi se souviendraient t’ils? Mais surtout, fallait-il continuer cette mascarade? L’épopée sado maso et kamikase de l’humanité, on pouvait déjà se poser la question à petit échelle mais remettre sur pied la machine infernale? Mais surtout qui allait prendre la décision? Évidemment tous n’étaient pas exactement au même stade du raisonnement quand il commencèrent à prendre la parole : 
 
-- Et les humains repeupleront la terre s’écria Sinpier
+- Et les humains repeupleront la terre! s’écria Sinpier.
 
 - Il va falloir faire à manger pour tout le monde ??
 
@@ -840,37 +757,31 @@ Il y eu un petit silence et les gens ralentirent comme si le temps s’était di
 
 - Oui nous on a gardé notre fille dans la cave au cas ou !
 
-- brouhaha ?
 
-Mikhail agitait sa petit cloche en essayant d’avoir le dessus.
+Et encore beaucoup de brouhaha. Mikhail agitait sa petit cloche en essayant d’avoir le dessus.
 
-- Bien bien je vous propose de reporter ce débat à la semaine prochaine. En attendant Mylène commencera à traviller dessus. Elle aura même un apprenti en la personne de Jean-Hulk qui s’est porté volontaire. Mylène, tu devra lui transmettre ton savoir, il faut absolument que tes connaissanes ne se perdent pas.
+- Bien bien je vous propose de reporter ce débat à la semaine prochaine. En attendant Mylène commencera à travailler dessus. Elle aura même un apprenti en la personne de Kim qui s’est porté volontaire. Mylène, tu devra lui transmettre ton savoir, il faut absolument que tes connaissances ne se perdent pas.
 
-Mylène eu un air interdit mais pris soin de se ressaisir : 
+Mylène eu un air interdit mais prit soin de se ressaisir : 
 
-- Bonne idée oui dit elle presque à voix basse, en levant les yeux au toit.
+- Bonne idée oui dit-elle presque à voix basse, en levant les yeux au toit.
 
+### 12.1.1 Chapitre New quest
 
-
-### 12.1.1 New quest
-
-- Ah vous êtes là ! S’exclama quelqu’un derrière eux.
+- Ah vous êtes là ! S’exclama Bruce-Louis derrière Loir et Vinin. Il avait la quarantaine, les cheveux grisonnant, un petit en bon point et suivait quelques "dossiers" avec le conseil
 
 So much for a stash se dit Loir qui commençait à avoir de bonnes notions d’anglais à force de voir et lire la partie anglo-saxonne des œuvres rescapées. Ses parents s’étaient d’ailleurs étonné de voir tant d’engouement pour une langue morte.
 
-- Bon bé oui on est là vous êtes passé par ou vous ?
-
-- La porte en face donne sur le balcon avec l’échelle. Je vous cherche pour vous soumette une nouvelle enquête. C’est bien ça non ? Ça vous plaît ? Vous allez pas faire chier ?
-
-- Ce dépend, on ne fait pas n’importe quoi répliqua Loir qui s’entraînait à avoir du répondant. Car en fait il aurait même accepté de retrouver le blaireau du père Gobles rien que pour retrouver ce sentiment d’avoir quelque chose de prévu dans la journée, de pouvoir dire « oui aujourd’hui j’ai ça » sans avoir à justifier son temps passé à se passionner perçu comme de l’oisiveté.
-
-- On y’a plusieurs mystères en fait d’une part il commence à y avoir pas mal de personne qui pensent avoir vu, qui un fantôme, qui un spectre flottant, qui des bruits étranges dans la foret. Bon j vous pose ça comme ça mais d’autre part, et là c’st plus tangible, on a retrouvé un loup dans un parc de brebis d’Anaïs. Bizarre pour le coup, le crane fracassé. Mais c’est personne d’humain, ou alors quelqu’un qui ne veut qu’on sache que c’est lui mais ça n’a pas beacoup plus de sens. C’est digne de votre intérêt ?
+- Bon bé oui on est là vous êtes passé par où vous ?
+- La porte en face donne sur le balcon avec l’échelle. Je vous cherche pour vous soumette une nouvelle enquête. C’est bien ça non? Ça vous plaît? Vous allez pas faire chier?
+- Ce dépend, on ne fait pas n’importe quoi. Répliqua Loir qui s’entraînait à avoir du répondant. En fait il aurait même accepté de retrouver le blaireau du père Gobles rien que pour retrouver ce sentiment d’avoir quelque chose de prévu dans la journée, de pouvoir dire « oui aujourd’hui j’ai ça » sans avoir à justifier son temps passé à se passionner qui était perçu comme de l’oisiveté.
+- On a plusieurs mystères en fait. D’une part, il commence à y avoir pas mal de personne qui pensent avoir vu : qui un fantôme, qui un spectre flottant, qui des bruits étranges dans la foret. Bon je vous pose ça comme ça mais d’autre part, et là c’est plus tangible, on a retrouvé un loup dans un parc de brebis d’Anaïs. Bizarre pour le coup, le crâne fracassé. Mais c’est personne d’humain, ou alors quelqu’un qui ne veut qu’on sache que c’est lui mais ça n’a pas beaucoup plus de sens. C’est digne de votre intérêt ?
 
 Loir regarda Vinvin qui avait aux lèvre le sourire d’un très mauvais joueur de poker. 
 
 - D’accord on va regarder soupira Loir.
 
-- Super ! Il est sur le côté sud du pré, vous l’enterrez quand vous aurez fini de l’examiner. Ajout’il en partant par ou il était venu.
+- Super ! Il est sur le côté sud du pré, vous l’enterrez quand vous aurez fini de l’examiner. Ajouta t’il en partant par ou il était venu.
 
 - Dammit !
 
@@ -880,37 +791,29 @@ Loir regarda Vinvin qui avait aux lèvre le sourire d’un très mauvais joueur 
 
 
 
-- Ok commença Mylène devant les quelques personnes réunies : des gardiens surtout et Vinvin mais plus personne ne s’étonnait de le trouver dans des circonstances improbables pour un enfant de 8 ans. Comme dans une cheminée ou sur un bouquetin.
+- Ok... commença Mylène devant les quelques personnes réunies : surtout des gardiens et Vinvin mais plus personne ne s’étonnait de le trouver dans des circonstances improbables pour un enfant de 8 ans. Comme dans une cheminée ou sur un bouquetin.
 
-Loir était là aussi mais personne ne s’en était aperçu.
+Loir était là aussi mais personne ne s’en était aperçu. 
 
-
-
-- On va avoir besoin d’un zombie à disposition pour faire des prélèvements. Donc on va ressortir la cage à zombie. Le but est d’en mettre un dedans sans se faire contaminer. Donc vous connaissez : que des armes contandantes, pas de contact vous avec vos oulettes, faites attention à vous.  
+- ...on va avoir besoin d’un zombie à disposition pour faire des prélèvements. Donc on va ressortir la cage à zombie. Le but est d’en mettre un dedans sans se faire contaminer. Donc vous connaissez : que des armes contondantes, c'est plus propre et pas de contact. Utilisez bien vos oulettes, faites attention à vous.  
 
 - Et si on prenait un qu’on connaît ? Demanda Ouilsmis qui avait bien intégré le fait que dans son domaine d’activité, le zèle dans le travail mettait sa propre sécurité significativement en défaut.
 
 Et en effet la communauté vivait en bonne intelligence avec quelques zombies particulièrement monomaniaques. Par exemple, environ 2 km en amont, un zombie avait élu domicile au détour d’un méandre de l’Ariège. Et il passait son temps à mettre des pierres en équilibre les unes sur les autres, créant ainsi des champs de kairns équilibriste. On y venait pour méditer, nourrir la bête et puis 2 ou 3 fois par an une crue remettait les pierres à leur place, bien rangées à plat dans le lit de la rivière.
 
-- Non, autant essayer de d’en attraper qui ne servent à rien. On attend que les cloches sonnent. Vous vous mettez à plusieurs et vous me les ramener avec les cordes les oulettes en gardant 2m50 de distance. Les cages devraient être prêtes dans la Maison Moisie vous voyez ? Entre chez moi et les petits vieux survivants.
+- Non, autant essayer d’en attraper des qui servent à rien. On attend que les cloches sonnent. Vous vous mettez à plusieurs et vous me les ramener avec les cordes les oulettes en gardant 2m50 de distance. Les cages devraient être prêtes dans la Maison Moisie vous voyez ? Entre chez moi et les petits vieux survivants.
 
 Les chevaliers protecteurs comme ils s’appelaient (en parlant d’eux aux autres) acquiescèrent, crachèrent ou firent tinter leurs armes ostensiblement.
 
-- Bien moi aussi j’ai une question tant que vous êtes là se lança Loir. Il me faudrait des informations sur les loups dans le coin, dit il en essayant de sortir son calpin de son sac à dos. Cela lui prit quelques seconde, quand il releva la tête il vit surtout des cul de chevaux dans toute les directions. Mylène le regardait à peine essayant tout à son honneur de ne pas rajouter au malaise.
+- Bien moi aussi j’ai une question tant que vous êtes là se lança Loir. Il me faudrait des informations sur les loups dans le coin, dit-il en essayant de sortir son calpin de son sac à dos. Cela lui prit quelques seconde, quand il releva la tête il vit surtout des cul de chevaux dans toute les directions. Mylène le regardait à peine essayant tout à son honneur de ne pas rajouter au malaise.
 
-- Hm c’est bon je vois… il fit semblant d’écrire.
-
-
-
-- Aller Vinvin on va voir le cadavre du loup
+- Hm c’est bon je vois… il fit semblant d’écrire. Aller Vinvin on va voir le cadavre du loup!
 
 Vinvin se mit à pousser de petits cris d’excitation, des étoiles dans les yeux.
 
-
-
 ## Cours de chimie bio orga
 
-Plus tard dans la journée. Mylène installait son laboratoire dans sa véranda, à la vue des passants. Elle était en train d’organiser des boites de pétri dont certaines n’avaient d’ailleurs pas l’air propre. Une silhouette longiligne qui apparue  sans s’annoncer de l’autre coté de la baie vitrée la fit sursauter. Les lèvres bougèrent mais à travers la vitre on n’y compris rien. Un sourrire, Mylène fit signe de passer par la porte, il lui semblait que d’habitude il n’était pas nécessaire de fournir cette indication.
+Plus tard dans la journée. Mylène installait son laboratoire dans sa véranda, à la vue des passants. Elle était en train d’organiser des boites de pétri dont certaines n’avaient d’ailleurs pas l’air très propre. Une silhouette longiligne qui apparue sans s’annoncer de l’autre coté de la baie vitrée la fit sursauter. Les lèvres bougèrent mais à travers la vitre elle n’y comprit rien. Un sourire, Mylène fit signe de passer par la porte, il lui semblait que d’habitude il n’était pas nécessaire de fournir cette indication.
 
 - Je suis Kim.
 
@@ -936,46 +839,44 @@ Et l’enthousiasme de Kim en prit un coup dans l’aile.
 
 Arrivés dans le prés il s’approchèrent de la masse grise.
 
-Loir tournait autour son calepin à la main pendant que Vinvin était littéralement dans la gueule du loup.
+Loir tournait autour, son calepin à la main pendant que Vinvin était littéralement dans la gueule du loup.
 
-- Regarde les chicos dis donc ! S’exclama t’il en lui retroussant les babine. Puis il tira sur la tête pour la tourner vers lui. Sa nuque fit un bruit singulier et prit un angle improbable.
+- Guette les chicos dis donc ! S’exclama t’il en lui retroussant les babine. Puis il tira sur la tête pour la tourner vers lui. Sa nuque fit un bruit singulier et prit un angle improbable.
 
 - Il est tout cassé ce loup, ça fait pas ça d’habitude.
 
 - Sûrement l’origine du décès note Loir : pétage d’échine entraînant la rupture de la moelle épinière et donc la mort.
 
-- Mais qui lui a fait ça ? Demanda Vinvin qui commençait à appréhender le métier d’enquêteur.
+- Mais qui lui a fait ça ? Demanda Vinvin qui commençait à appréhender le métier de détective.
 
 - C’est justement ce qu’il faut qu’on découvre Vinvin..
 
-- Alors peut-être le loup est arrivé et à fait peur aux troupeau, ce qui a réveillé un taureau. T’as déjà réveillé un taureau ? A mon avis ça peut faire ça.
+- Alors peut-être le loup est arrivé et à fait peur au troupeau, ce qui a réveillé un taureau. T’as déjà réveillé un taureau? A mon avis ça peut faire ça.
 
 - Des traces de taureau ?
 
-- Non y’a que des traces de moutons… Quelque chose de volant alors.. mais gros comme un sanglier.. Ca existe les sangliers volants ?
+- Non y’a que des traces de moutons… Quelque chose de volant alors.. mais gros comme un sanglier.. Ça existe les sangliers volants ?
 
-- Bon on a cas aller voir Anaïs c’est qui connaît le mieux les trucs de prairie tout ça.Le problème c’est qu’elle est toujours partout et nulle part. Il va falloir être malin et courir vite pour arriver à lui parler. Loir marmonnait tout seul comme s’il était en train d’échafauder un plan machiavélique.
+- Bon on a cas aller voir Anaïs. C’est elle qui connaît le mieux les trucs de prairie tout ça. Le problème c’est qu’elle est toujours partout et nulle part. Il va falloir être malin et courir vite pour arriver à lui parler. Loir marmonnait tout seul comme s’il était en train d’échafauder un plan machiavélique.
 
-- C’est un défi en lui même : arriver à parler à Anaïs sans qu’elle soit en train de travailler, on risquerait de se faire recruter, elle fait ça tout le temps : on arrive le matin, on se retrouve à traire des animaux femelles. On arrive en juin on se retrourve  charger des bottes de foin. Le soir on égraine du maïs, etc.. c’est insupportable !
+- C’est un défi en lui même : arriver à parler à Anaïs sans qu’elle soit en train de travailler, on risquerait de se faire recruter, elle fait ça tout le temps : on arrive le matin, on se retrouve à traire des animaux femelles. On arrive en juin on se retrouve  charger des bottes de foin. Le soir on égraine du maïs, etc.. c’est insupportable !
 
 # 14 : patrouille de nuit
  ## Le début
-On est dans un monde ou les gens croient voir des fantômes la nuit. Il me semble que le gens disent pas ce qu’ils pensent à par Vinvin. C’est pas possible d’être de bonne humeur tout le temps. Rien que le fait qu’ils vivent ensemble et que ça choque personne c’est suspect. Si on ajoute à ça qu’il y a des loups qui se font déglinguer l’échine à 2 pas des maisons et qu’accessoirement on retrouve des zombies qui se baladent dans nos prés. J’estime qu’il y a quelque chose de pourri dans cette communauté se disais Loir dans sa tête avec une voix très grave. 
-Ce sera une patrouille de pleine lune. Pour voir s’il y a du mouvement la nuit, pour être de ne pas passer à côté de quelque chose. C’était peu probable : qui aurait bien envie de sortir la nuit, on y voit beaucoup moins bien, c’est très désagréable. Et puis il y a des bruits, on ne sait jamais ce que c’est. Les bruits, on peut jamais savoir le poids de la bestiole qui cause tout les petits bruit de la nuit. Et ça c’est angoissant !
-L’important de disait il (cette fois de sa voix normale dans sa tête) c’est d’être bien équipé. « Safety first » comme on voyait sur les vieilles notices d’utilisation de matériels. Des bottes, des couches de vêtement, des lampe torche, une batte de baseball très rassurante. Il a choisi une nuit sans nuage, la veille la lune s’est levé à 19h ce qui veut dire qu’elle sera haute et presque pleine ce soir à partir de 21h. On n’allait pas non plus inaugurer une patrouille nocturne dans les pires conditions. Sinon ce serait juste une trouille nocturne se dit-il pour se donner du cœur à l‘ouvrage. Il avait une idée de circuit à faire 3h de marche autour du village.
+On vit dans un monde où les gens croient voir des fantômes la nuit. Il me semble que le gens ne disent pas ce qu’ils pensent; à par Vinvin. Ce n’est pas possible d’être de bonne humeur tout le temps. Rien que le fait qu’ils vivent ensemble et que ça ne choque personne est suspect. Si on ajoute à cela qu’il y a des loups qui se font déglinguer l’échine à 2 pas des maisons et qu’accessoirement on retrouve des zombies qui se baladent dans nos prés, j’estime qu’il y a quelque chose de pourri dans cette communauté. Se disait, ce soir là, Loir dans sa tête avec une voix très grave. 
+Ce sera une patrouille de pleine lune. Pour voir s’il y a du mouvement la nuit, pour être sûr de ne pas passer à côté de quelque chose. C’était peu probable : qui aurait bien envie de sortir la nuit, on y voit beaucoup moins bien, c’est très désagréable. Et puis il y a des bruits, on ne sait jamais ce que c’est. Les bruits, on peut jamais savoir le poids de la bestiole qui cause tout les petits bruit de la nuit. Et ça c’est angoissant !
+L’important de disait il (cette fois de sa voix normale dans sa tête) c’est d’être bien équipé. « Safety first » comme on voyait sur les vieilles notices d’utilisation de matériels. Des bottes, des couches de vêtement, des lampes torche, une batte de baseball très rassurante. Il a choisi une nuit sans nuage, la veille la lune s’est levé à 19h ce qui veut dire qu’elle sera haute et presque pleine ce soir à partir de 21h. On n’allait pas non plus inaugurer une patrouille nocturne dans les pires conditions. Sinon ce serait juste une trouille nocturne se dit-il pour se donner du cœur à l'ouvrage. Il avait une idée de circuit à faire 3h de marche autour du village.
 Il était donc parti, assez fier de se voir mettre à exécution ce projet assez osé pour lui. Et toutefois déçu de ne pas avoir pu convaincre les parents de Vinvin de lui prêter leur enfant pour la nuit. C’était toujours plus rassurant d’être en compagnie de quelqu’un qui n’a pas de notion de peur. Ni du futur, des conséquence ou du passé d’ailleurs… un être vivant exclusivement dans l’instant présent et pourtant quasiment doué de parole : il était fascinant ce compagnon.
 
-## départ
-Une demi heure plus tard le coeur n’y était plus : il avait quitté le bourg et ses bruits familiers et depuis 15 min il passait son temps à allumer et éteindre ses lampes de poche. Il se rendait bien bien compte que globalement la lune éclairait bien mais à chaque petit bruit dans les fourrés il s’arrêtait pour braquer sa lampe torche en levant se batte de l’autre main. Il se figeait ainsi tous les 10 mètres et se rendait bien compte qu’il avançait très lentement. Il avait aussi essayé de marcher la lampe allumée, il voyait alors beaucoup mieux ou il marchait ma la lumière lui rendait toute vision périphérique impossible. Sans compter que le but de départ était d’espionner et donc a priori d’être discret. Il se forçait donc à éteindre et continuait à marcher. A chaque bruit suspect il se figeait, dans une position qu’il lui paraissait étonnement une posture de défense. Il ne voyait rien de suspect, il éteignait et se remettait en route. Et recommençait l’opération un peu plus loin. La répétition ne le rendait malheureusement pas moins nerveux. Il était clairement dans son élément comme un chat dans l’eau. Il se fondait dans l’obscurité comme un piano dévalant un escalier. Chaque tressaillement dans les branchages était pour lui les prémisses d’un danger bien réel qu’importe qu’il se soit passé la même chose 20 fois dans les 10 dernières minutes.
+Une demi heure plus tard le cœur n’y était plus : il avait quitté le bourg et ses bruits familiers et depuis 15 min il passait son temps à allumer et éteindre ses lampes de poche. Il se rendait bien bien compte que globalement la lune éclairait largement assez pour marcher mais à chaque petit bruit dans les fourrés il s’arrêtait pour braquer sa lampe torche en levant se batte de l’autre main. Il se figeait ainsi tous les 10 mètres et se rendait bien compte qu’il avançait très lentement. Il avait aussi essayé de marcher la lampe allumée, il voyait alors beaucoup mieux ou il mettait les pieds mais la lumière lui rendait toute vision périphérique impossible. Sans compter que le but de départ était d’espionner et donc à priori de rester discret. Il se forçait donc à éteindre et continuait à marcher. A chaque bruissement suspect il se figeait dans ce qu’il pensait étonnement être une posture de défense. Il ne voyait finalement rien de suspect, il éteignait et se remettait en route. Et recommençait l’opération un peu plus loin. La répétition ne le rendait malheureusement pas moins nerveux. Il était clairement dans son élément comme un chat dans l’eau. Il se fondait dans l’obscurité comme un piano dévalant un escalier. Chaque tressaillement dans les branchages était pour lui les prémisses d’un danger bien réel qu’importe qu’il se soit passé la même chose 20 fois dans les 10 dernières minutes.
 
-Après une 5 kilomètres et quelques litres de sueur froide, il commença à se forcer à ignorer les recoins sombres, les sons non identifiés pour se concentrer sur  le paysage : la lune s'efforçait avec un certain succès d'envelopper la vallée dans une ambiance épurée. L'absence de vent, les montagnes, l'air clair comme un monde parallèle dont les êtres nocturnes renards, blaireaux, et hiboux prennent possession tout les soirs, avant de le rendre au matin après son lot de meurtres quotidiens.
-##  un ado qui va pécho
+Après une 5 kilomètres et quelques litres de sueur froide, il commença à se forcer à ignorer les recoins sombres, les sons non identifiés pour se concentrer sur  le paysage : la lune s'efforçait avec un certain succès d'envelopper la vallée dans une ambiance épurée. L'absence de vent, les montagnes, l'air clair comme un monde parallèle dont les êtres nocturnes renards, blaireaux, et hiboux prennent possession tous les soirs, avant de le rendre au matin après son lot de meurtres quotidiens.
 
-Alors qu'il marchait toujours dans une zone un peu plus boisée, l'esprit perdu dans ses pensées qui concernaient surtout les différentes façon de se faire dévorer la nuit dans un bosquet, apparut devant lui à quelque mètres une silhouette décidé, il s’arrêta, chercha quelque chose à dire pour le moment ou ils se croiseraient. C'était Turf un adolescent du village qui marchait d'un pas si décidé, qu'il s'agissait surement d'un rendez vous amoureux.
+Alors qu'il marchait toujours dans une zone un peu plus boisée, l'esprit perdu dans ses pensées qui concernaient surtout les différentes façon de se faire dévorer la nuit dans un bosquet, apparut devant lui à quelque mètres une silhouette qui avançait dans l'autre sens d'un pas décidé, il s’arrêta, chercha quelque chose à dire pour le moment où ils se croiseraient. C'était Turf un adolescent du village qui marchait avec tant de hâte, qu'il s'agissait sûrement d'un rendez vous amoureux.
 
 - Euh bonsoir?
 - Oui qu'es ce que tu fous là toi?
-- J'enquète sur..
+- J’enquête sur..
 - Bref je m'en fous. Pas le temps. Dis à personne que tu m'as vu par contre.
 - aaah ok...
 - Oui sinon je te plante avec une fourche ou quelque chose.
@@ -983,13 +884,11 @@ Alors qu'il marchait toujours dans une zone un peu plus boisée, l'esprit perdu 
 
 Turf s'éloignait déjà du pas fébrile de l'amoureux transit et à peine pubère. Loir prit son calepin, nota seulement l'heure et le lieux. Toute façon il n'y voyait pas assez pour en écrire davantage.
 
-##  Arya
-
-- tu dessines? demanda une voix dont il sentit le souffle sur sa nuque. L'effet de la surprise lui fit faire un bond qu'il n'aurait normalement pas du être premis par l'état de ses muscle. Il atterrit 2 mètres plus loin, dans un buisson non sans avoir laissé échapper un cri qui n'avait pas prit acte de sa mue récente.
+- Tu dessines? demanda une voix dont il sentit le souffle sur sa nuque. L'effet de la surprise lui fit faire un bond qu'il n'aurait normalement pas dû être permis par l'état de ses muscles. Il atterrit deux mètres plus loin, dans un buisson non sans avoir laissé échapper un cri qui n'avait pas pris acte de sa mue récente.
 
 Il se retourna, et vit Arya le sourire aux lèvres. Il pu alors commencer à reprendre ses esprits.
 
-- Hmm  décidément beaucoup de monde qui traîne la nuit dans le coin marmonna t'il.
+- Hmm,  décidément beaucoup de monde qui traîne la nuit dans le coin marmonna t'il.
 - Toi aussi tu traînes. Pour faire des dessins? Faudra que tu me les montres quand il fera jour.
 
 Une fille de son age aussi jolie avec un sourire réunissant le nombre de dents prévu par la nature était assez rare par les temps qui courent. D'autant plus rare étaient les interactions de plus de trois syllabes avec la gente féminine de sa catégorie. Donc il n'avait pas le cœur à commencer ses phrases par la négative.
@@ -999,45 +898,36 @@ Une fille de son age aussi jolie avec un sourire réunissant le nombre de dents 
 
 Elle papillonnait autour de Loir en parlant trop vite pour qu'il puisse faire des réponses de plus d'une syllabe. Il se demandait quel était l’intérêt d'un tel abus de chicoré à cette heure ci.
 
-- ... parce que  justement je me disais, c'est bizarre ce qui se passe avec A il parait qu'il s'est cogné et qu'il est dans le coma, bon d'accord mais tu connais quelqu'un qui l'a vu?
+- ... parce que  justement je me disais, c'est bizarre ce qui se passe avec Bambi il parait qu'il s'est cogné et qu'il est dans le coma, bon d'accord mais tu connais quelqu'un qui l'a vu?
 - Et bien Mylène..
-- Oui mais à part Mylène, tu trouves pas ça suspect? A chaque que fois que veux aller voir elle me dit que c'est pas possible, qu'il se repose, qu'il est mal en point que ça sert à rien de le voir. Moi je crois qu'elle cache quelque chose, et j'aimerais bien savoir ce qui  lui est arrivé. Je veux pas trop faire ma bitch mais Mylène elle est pas tout blanc tout blanc et je dis pas ça parce que je kif A et que jusque là y'a personne qui me fait  autant... en levant les yeux avec un petit sourire explicite. Bref tout ça pour dire que je dirais pas non à un petit coup de main d'un professionnel de l'enquetage comme toi pourrait être utile pour au moins savoir si elle l'a pas dépecé dans sa baignoire.
+- Oui mais à part Mylène, tu trouves pas ça suspect? A chaque que fois que veux aller voir elle me dit que c'est pas possible, qu'il se repose, qu'il est mal en point que ça sert à rien de le voir. Moi je crois qu'elle cache quelque chose, et j'aimerais bien savoir ce qui  lui est arrivé. Je veux pas trop faire ma bitch mais Mylène elle est pas tout blanc tout blanc et je dis pas ça parce que je kif Bambi et que jusque là y'a personne qui me fait autant... en levant les yeux avec un petit sourire explicite. Bref tout ça pour dire que je dirais pas non à un petit coup de main d'un professionnel de l'enquêtage comme toi. Ça pourrait être utile pour au moins savoir si elle l'a pas dépecé dans sa baignoire.
 
-Loir se mit à réfléchir très vite. Évidemment et inconsciemment son instinct la voyait comme une partenaire sexuelle potentielle, définit les grandes lignes stratégiques à appliquer à son comportement à savoir maximiser le temps passé à avoir des interactions sociales avec Arya pour maximiser ses les chances de coït. Il répondit donc par l'affirmative avant que son intellect prenne le dessus et envoie une petite notification : "même maximisées, les chances restent faibles". Mais si l'enquête pourrait mener à la découverte du malheureux décès de A il faudrait alors lui annoncer et bien sûr être là pour une séance de consolation : Notification ignorée.
+Loir se mit à réfléchir très vite. Évidemment et inconsciemment son instinct la voyait comme une partenaire sexuelle potentielle, définit les grandes lignes stratégiques à appliquer à son comportement à savoir maximiser le temps passé à avoir des interactions sociales avec Arya pour maximiser ses chances de coït. Il répondit donc par l'affirmative avant que son intellect prenne le dessus et envoie une petite notification : "même maximisées, les chances restent faibles". Mais si l'enquête pourrait mener à la découverte du malheureux décès de Bambi il faudrait alors lui annoncer et bien sûr être là pour une séance de consolation. Notification ignorée.
 
 - Je dois voir Mylène pour une histoire de cadavre de loup, elle se méfiera moins de mes questions vu que je ne suis pas ouvertement une concurrente potentielle.
-- D'accord alors alors on se revoit bientôt pour tirer cette histoire au clair et démasquer cette vieille sorcière. Dit elle en reprenant la route sans prévenir en laissant Loir dans le calme de la nuit claire.
+- D'accord alors on se revoit bientôt pour tirer cette histoire au clair et démasquer cette vieille sorcière. Dit-elle en reprenant la route sans prévenir en laissant Loir dans le calme de la nuit claire.
 
-Mine de rien il y a quand même pas mal de gens qui se balade la nuit qui on y pense. Et on ne pas vraiment en déduire qu'ils ont des activités criminelle. S'il existait un manuel d’enquêteur, ç'aurait été une information pertinente à y faire figurer. Finalement soulagé de survivre à cette aventure et d'être aller jusqu'au bout, il décida de rentrer par le prochain vallon, lui permettant de finir sa ronde en rentrant par le chemin le plus court.
+Mine de rien, il y a quand même pas mal de gens qui se balade la nuit qui on y pense. Et on ne peut pas vraiment en déduire qu'ils ont des activités criminelles. S'il existait un manuel d’enquêteur, ç'aurait été une information pertinente à y faire figurer. Finalement soulagé de survivre à cette aventure et d'être allé jusqu'au bout, il décida de rentrer par le prochain vallon, lui permettant de finir sa ronde en rentrant par le chemin le plus court.
 
+C’était bientôt fini. Ce cauchemar de soirée allait prendre fin, il allait pouvoir aller dormir. Quand, en passant sur une crête, le village en vue sur sa gauche, sur sa droite le vallon, des prés quelques arbres. Il vit à 200 mètres une forme blanche qui semblait flotter. Il resta paralysé, son cerveau ayant le plus grand mal à tirer quelques conclusions de toutes phénomènes simultanés qui prenaient place dans sa conscience : il était d’abord frappé par une peur intense, une peur de proie un principe très ancien inscrit en lui qui veut qu'on est probablement de la nourriture pour tout ce qu'on comprend pas. Un principe il est vrai plutôt utile dans l’évolution naturelle. En deuxième plan la raison essayait de trouver un sens à cette apparition : une hallucination, une blague de la part de quelqu’un. Enfin une petite cachée derrière le bruit des engrenage de la peur et de la raison se disait : «  mais quelle bonne soirée ! Là on est bien, t’es sûr qu’il y a pas un ours derrière toi ? Vu le moment qu'on a passé ça m’étonnerait qu’à moitié ! Et tout ça pour quoi ? T’étais même pas obligé ! Et pire : c’est ton idée ! Aller ciao je te laisse je veux pas voir ça, je vais jouer aux dames...
 
-## Fantôme Mylène
-C’était bientôt fini. Ce cauchemar de soirée allait prendre fin, il allait pouvoir aller dormir. Quand en passant sur une crête, le village en vue sur sa gauche, sur sa droite le vallon, des prés quelques arbres. Il vit à 200 mètres une forme blanche qui semblait flotter. Il resta paralysé, son cerveau ayant le plus grand mal à tirer quelques conclusions de toutes phénomènes simultanés qui prenaient place dans sa conscience : il était d’abord frappé par une peur intense, une peur de proie un principe très ancien inscrit en lui qui dit que tout ce qu’on ne comprend pas vous veut probablement du mal. Un principe il est vrai plutôt utile dans l’évolution naturelle. En deuxième plan la raison essayait de trouver un sens à cette apparition : une hallucination, une blague de la part de quelqu’un. Enfin une petite cachée derrière le bruit des engrenage de la peur et de la raison se disait : «  mais quelle bonne soirée ! Là on est bien, t’es sûr qu’il y a pas un ours derrière toi ? Vu le moment qu'on a passé ça m’étonnerait qu’à moitier ! Et tout ça pour quoi ? T’étais même pas obligé ! Et pire : c’est ton idée ! Aller ciao je te laisse je veux pas voir ça, je vais jouer aux dames...
-
-La forme blanche flotta à une allure régulière et disparu derrière un bosquet. Heureusement ce n'était pas dans sa direction. Il était loin d'avoir le coeur à investiguer plus avant. Tremblant, il décida d'ignorer ce qu'il venait de voir et força le pas en trébuchant jusqu'à sa chambre.
+La forme blanche flotta à une allure régulière et disparu derrière un bosquet. Heureusement ce n'était pas dans sa direction. Il était loin d'avoir le cœur à investiguer plus avant. Tremblant, il décida d'ignorer ce qu'il venait de voir et força le pas en trébuchant jusqu'à sa chambre.
 
 # 14.2 L'état de la recherche post apo
 
-## Description des tests avec le couple avec formation de Kim
+Autour de chez Mylène quelque personnes s’agitaient dans une ambiance studieuse et excitée. Les Marie-Martin étaient assis à une table et parlaient entre eux à voix basse de détails technique de leur nouvelle ferme. 
 
-_D'abord mise en contact sur la peau, ça anesthésie un peu. Examen du sang contaminé, pas contaminé, et du couple Kim regarde mais on voit rien_
+Le couple avait vécu intensément ces derniers jours, ils étaient loin de penser qu'ils pourraient un jour être le centre d'attention de toute une communauté. Il leur avait fallu mettre en valeur toute leur capacité à boire différents breuvages alcoolisés fait à base de céréales et de fruits, fermentés et quelque fois distillés avec plus ou moins de réussite. Mais ils étaient de gens qui sont munis d'une sécurité qui leur permet de ne pas boire le verre de trop. Ces gens qui se lèvent tous les jours aux aurores sans réveil et sans gueule de bois parce qu'ils ont toujours fait comme ça.  
+Malgré la sensation d'être submergé de tâche à faire pour leur installation, c'est la bonne humeur qui prévalait. Ils étaient bien interrompus toute les 5 min par un voisin, une voisine trop heureuse de voir du changement dans leur entourage mais cela s'accompagnait en général d'un repas, d'un coup de main ou d'outil, ou d'animaux tout compte fait ils n'étaient pas perdant. Il était donc bien naturel, pensaient-ils, de prêter main forte pour leur...
 
-Autour de chez Mylène quelque personnes s’agitent dans une ambiance studieuse et excitée. Les Marie-Martin étaient assis à une table et parlaient entre eux à voix basse de détails technique de leur nouvelle ferme. 
+- ...histoire d'étude.. enfin de projet de vaccin si j'ai bien compris
 
-### installation des Marie-Martin
+- Ah non je crois pas c'est juste pour en savoir plus sur la maladie.
 
-Le couple avait vécu intensément ces derniers jours, ils étaient loins de penser qu'ils puissent un jour être le centre d'attention de toute une communauté. Il leur avait fallu mettre en valeur toute leur capacité à boire différents breuvage alcoolisé fait à base de céréales et de fruits, fermentés et quelque fois distillés avec plus ou moins de réussite. Mais ils étaient de gens qui ont comme une sécurité pour ne pas boire le verre de trop. Ces gens qui se lèvent tous les jours aux aurores sans réveil et sans gueule de bois parcequ'ils ont toujours fait comme ça.  
-Malgré la sensation d'être submergé de tâche à faire pour leur installation, c'est la bonne humeur qui prévalait. Ils étaient bien interrompus toute les 5 min par un voisin, une voisine trop heureux de voir du changement dans leur entourage mais cela s'accompagnait en général d'un repas, d'un coup de main ou d'outil, ou d'animaux tout compte fait ils n'étaient pas perdant.  
-Il était donc bien naturel, pensaient il, de prêter main forte pour leur..
+- Ah bon? mais pour rien faire? Ça n'a pas de sens!
 
-- histoire d'étude.. enfin de projet de vaccin si j'ai bien compris
-
-- ah non je crois pas c'est juste pour en savoir plus sur la maladie.
-
-- Ah bon? mais pour rien faire? Ca n'a pas de sens!
-
-- Oh bé ils verront bien plus. Ils seront toujours à temps de se poser la question si ils trouvent quelque chose.
-  Kim qui était venu(e?) les chercher et faisait le trajet devant eux.
+- Oh bé ils verront bien plus tard. Ils seront toujours à temps de se poser la question s'ils trouvent quelque chose.
+  Kim qui venait les chercher et faisait le trajet devant eux.
 
 - Il y a un débat prévu demain sur le thème "c'est quoi qu'on fait donc si on a la possibilité de soigner tous les zombies"
 
@@ -1053,98 +943,110 @@ Il était donc bien naturel, pensaient il, de prêter main forte pour leur..
 
 - Et faire des enfants pour qu'ils fassent pareil quand on sera mort, ça parait logique.
 
-- Oui le problème c'est que les enfants, on sait pas bien ou ils sont partis se fourrer. Et là j'ai plus trop la foi de les renouveler.
+- Oui le problème c'est que les enfants, on sait pas bien où ils sont partis se fourrer. Et là j'ai plus trop la foi de les renouveler.
 
   Kim marchait lentement en ondulant de tout son corps le regard dans le vide.
 
-  - Tiens ça parait simple mais c'est bizarrement pas si répendu que ça comme courant de pensée...
+  - Tiens ça parait simple mais c'est bizarrement pas si répandu que ça comme courant de pensée...
 
-Ils arrivèrent chez Mylène ou avait été installée, une cage à une dizaine de mètres de la maison. A l'intérieur un zombie à la carrure impressionnante faisait des pompes.
+Ils arrivèrent chez Mylène où avait été installée une cage à une dizaine de mètres de la maison. A l'intérieur un zombie à la carrure impressionnante faisait des pompes. La fine fleur de la recherche pharmaceutique s'installa autour d'une table munie de de tasses d'infusion et de chicorée. Mylène commença à exposer le projet :
 
-...
+- Tout d'abord on va essayer d'en savoir plus sur votre background. Vous que vous êtes immunisés tous les deux ça risque pas d'être génétique... Enfin vous êtes pas issus de la même famille?
 
-### Entretien
+Ils prirent bizarrement le temps pour répondre : bien sûr qu'il était de la même famille depuis le temps qu'ils vivaient ensemble. Il leur fallu remonter le cours de leur vie jusqu'au moment ou ils s'étaient rencontrés pour pouvoir confirmer que non ils n'étaient pas de la même famille, même qu'avant, ils n'avaient pas les même nom de famille. Kim s'étonna :
 
-- Tout d'abord on va essayer d'en savoir plus sur votre background. Vous que vous êtes immunisé tous les 2 ça risque pas d'être génétique... Enfin vous êtes pas issus de la même famille?
-
-Ils prirent bizaremment le temps pour répondre : biensur qu'il était de la même famille depuis le temps qu'ils vivaient ensemble. Il leur fallu remonter le cours de leur vie jusqu'au moment ou ils s'étaient rencontrés pour pouvoir confirmer que non ils n'étaient pas de la même famille, même qu'avant ils n'avaient pas les même nom de famille. Kim :
-
-- Pff des nom des famille! n'importe quoi...
-
-
+- Pff des nom des famille! N'importe quoi...
 
 Intéressant, et bien on a cas commencer à noter. Kim, le cahier. Voilà la date, tu marques entrevue et puis tu retranscris.
 
-...
+## Cours de civilisation : Les véhicules
 
-- Sachant qu'il ne faut pas s'infecter
-- Voici les tests qu'on va essayer de faire : 
+Aujourd'hui dans la petite salle de classe, c'était le cours de Fastand de faire son heure de cours. Il était ce qui se rapprochait le plus de la fonction de garagiste. Sa profession consistait surtout à identifier ce qui marchait sur certaines voiture et à passer outre tout ce qui était électronique.
 
-Vous mettre en contact avec un bout de peau, un peu de sang et on regarde ce que ça fait déjà.
+- Alors quoi que vous connaissez comme véhicules?
+- Les chevals?
+- Les chevals non mais je parle de véhicules avec des moteurs. Des moteur à explosion!
+
+Autant il n'était pas à chevaux sur les fautes de français autant il aimait bien accentuer les mots en fonction de leur signification. Certains élèves sursautèrent au mot "explosion". L’excitation de la classe monta d'un cran et les mains se levèrent.
+
+- La voiture!
+- Les tracteurs!
+- Un cheval qui explose?!
+- Des 'ros camions
+
+Fastand qui aimait la tournure que prenait la séance reprit la parole.
+
+- C'est très bien, on en a pas mal.
+- Des motos! Fit une petite voix enthousiaste.
+- Super ça : les motos! Dans les 2 roues y'a les vrais grosse motos, les plus petites comme les mobylettes ou les scooters, les cross en général tout ça c'est du 2 temps... Bref comment ça marche les moteurs?
+- ...
+- Explosion?!
+- Oui explosions! reprit en cœur la  classe accompagné d'onomatopées idoines.
+- Et qu'est ce met dans les machines pour avoie des explosions?
+- ... Des pétards?
+- Mmh pas tout à fait non. Rien vraiment? Eh bien c'est de l'essence. Vous en avez jamais vu? C'est du jus qu'on fabriquait avant et qui permettait de faire marcher plein de machine, non? A base de pétrole : un truc noir pompé très profond. Bref toujours est-il qu'avant chacun avait sa voiture et allait régulièrement faire le plein dans des... des ... 
+
+Et les réponses fusèrent surtout pour faire plaisir à leur intervenant si enthousiaste.
+
+- des magasins?
+- des bassines?
+- des, comme, des boite?
+
+Il reprit le contrôle
+
+- Des stations essence, d'ailleurs y'en a un vestige à la sortie du village, ça pourra faire une sortie de classe. Et puis un jour il faudra bien que vous sachiez comment récupérer l'essence dans une cuve enterrée on sait même pas ou exactement sans électricité, sans les clefs et les codes et les manuels.
+
+# 14.3 Expérimentation
+
+De retour au centre de recherche et d'expérimentation après avoir noté tout un tas de détails plus ou moins intime. Ils allaient se décider à commencer les expériences.
+
+- Sachant qu'il ne faut pas s'infecter, voici les tests qu'on va essayer de faire : vous mettre en contact avec un bout de peau, un peu de sang et on regarde ce que ça fait déjà.
 
 - Ça on sait déjà :  ça engourdi, c'est pratique quand on se fait mal
-- Intéressant, et bien on a cas commencer à noter. Kim, le cahier. Voilà la date, tu marques entrevue et puis tu retranscris.
+- Intéressant, et bien on a cas commencer à noter. Kim, le cahier. Voilà la date, tu continues à tout noter.
 
 Le zombie au loin se mis à faire des abdos.
 
-- on va essayer avec un bout de peau, un peu de salive et du sang pour voir si ça fait pareil... De toute façon ils sont bien gentils tous mais on pourra jamais se soigner ou s'immuniser sans tester sur des gens qui avaient rien demandé... enfin on verra plus tard j'imagine. Et Kim merci de ne noter les commentaires persos.
+- on va essayer avec un bout de peau, un peu de salive et du sang pour voir si ça fait pareil... De toute façon ils sont bien gentils tous mais on ne pourra jamais se soigner ou s'immuniser sans tester sur des gens qui avaient rien demandé... enfin on verra plus tard j'imagine. Et Kim merci de ne pas noter les commentaires persos.
 
-Aller c'est parti, Mylène prépara ses outils : seringue, pinces et boites à pétris sur un petite plateau, enfila une combinaison et se dirigea vers la cage. Elle recueilli sans souci les échantillons : les zombies ne prettent pas attention tant qu'ils ne sont pas mutilés, empalés ou brûlés. Ils ne sont pas agressifs non plus. Il ont chacun leur petite obsession celui là avait du passer beaucoup de temps à la salle il y a 20 ans. Les chasseurs l'avaient trouvé en train de faire des tractions à une branche dans la forêt. 
+Aller c'est parti, Mylène prépara ses outils : seringue, pinces et boites à pétris sur un petite plateau, enfila une combinaison et se dirigea vers la cage. Elle recueilli sans souci les échantillons : les zombies ne prêtent pas attention tant qu'ils ne sont pas mutilés, empalés ou brûlés. Ils ne sont pas agressifs non plus. Il ont chacun leur petite obsession celui là avait du passer beaucoup de temps à la salle il y a 20 ans. Les chasseurs l'avaient trouvé en train de faire des tractions à une branche dans la forêt. 
 
-Quelque temps plus tard elle revint sur ces pas. A mi-chemin elle retira soigneusement sa blouse. 
+Quelque temps plus tard elle revint sur ses pas. A mi-chemin elle retira soigneusement sa blouse. 
 
 - Kim tu me nettoieras la combi plus tard.
 
-Kim releva la tête et fit une grimace en remontant ses lunettes sur son nez.
+Kim releva la tête et fit une grimace en remontant ses épaisses lunettes sur son nez. Après avoir fait quelques tests ils avaient déjà confirmé que le couple était bien immunisé aux effets de la maladie. 
 
-...
+- vous voulez voir un truc d'ailleurs? Intervint Martin après la première série de tests.
 
-Martin :
+Il prit le scalpel, s'entailla le doigt, regarda la plaie s'ouvrir il la plongea dans la boite à pétris contenant le le bout de peau. 10 secondes plus tard il le sorti, la plaie était refermée. Mylène parue très excitée.
 
-- vous voulez voir un truc d'ailleurs?
+- Voilà : ils ne sont jamais malade, ils se balade l'hiver à moitié à poil et mange des vers et des sauterelles. En plus j'ai bien l'impression qu'ils ne vieillissent pas. Regardez celui-là a évidemment connu les salles de sport, il doit avoir minimum 40 ans.
 
-Il prit le scalpel, s'entailla le doigt, regarda la plaie s'ouvrir il la plongea dans la boite à pétris contenant le le bout de peau. 10 secondes plus tard il le sorti, la plaie était refermée.
-
-Mylène parue excitée
-
-- voilà : ils ne sont jamais malade, ils se balade l'hiver à moitié à poil et mange des vers et des sauterelles. En plus j'ai bien l'impression qu'ils ne vieillissent pas. Regardez celui-là a évidemment connu les salles de sport, il doit avoir minimum 40 ans.
-
-...
-
-Martin eu l'impression d'être pris d'un éclair de génie :
+Martin eu l'impression d'être traversé par un éclair de génie :
 
 - Vous n'avez donc jamais touché aucune de ces bestioles?
-- Eh non, autrement la discussion serait sinon beaucoup moins intéressante.
+- Eh non, autrement la discussion serait beaucoup moins intéressante.
 - Alors comment pouvez vous savoir que c'est contagieux pour vous?
-- On peut pas mais statistiquement, on fait bien de se méfier. L'infection est la forme largement principale de suicide et je n'ai pas eu beaucoup d'écho de tentatives ratées.
+- On ne peut pas mais statistiquement, on fait bien de se méfier. L'infection est la forme largement principale de suicide et je n'ai pas eu beaucoup d'écho de tentatives ratées.
 - Ah d’où le fait qu'il n'y ai plus grand monde ces temps-ci. On a bien perdu la moitié de la population la 1ere année, les gens on eu du mal à s'adapter.
 
-Martin acquiesça en essayant de mettre l’événement en perspective
+Martin acquiesça en essayant de mettre l’événement en perspective. Kim qui prenait des notes était dans le berceau au moment des faits, ne se retint pas pour commenter : 
 
-Kim qui prenait des notes était dans le berceau au moment des faits, ne se retint pas pour commenter : 
-
-- A croire qu'il ne reste vraiment plus que ceux qui en avaient rien à foutre de rien...
-
------
-
-
+- A croire qu'il ne reste vraiment plus que ceux qui en avaient rien à foutre de rien... Mais sinon est ce qu'on devrait pas réfléchir un peu  avant de faire  tous ces tests? Mettre en place un protocole...
 
 - C'est à dire que pour faire un protocole il faut d'abord avoir une hypothèse à tester. Pour avoir une hypothèse à tester, il faut avoir une idée. Et là j'ai pas d'idée.
-- Il voir si ça passe par le sang ou si c'est autre chose c'est peut être par un virus..
-- Oui mais tu as fini tes cours sur la chimie organique? Ca fait quoi une hydratation de l’acétylène?
+- Il faut voir si ça passe par le sang ou si c'est autre chose c'est peut être par un virus..
+- Oui mais tu as fini tes cours sur la chimie organique? Ça fait quoi une hydratation de l’acétylène?
 - Alors, euh, liaison triple avec H2O...
-- Non mais voilà il faut bien connaître tout ça avant de s'improviser bio chimiste aussi, tu crois quoi? Aller là j'ai plus besoin de toi, t'as qu'à aller bosser un peu.
+- Non mais voilà il faut bien connaître tout ça avant de s'improviser bio chimiste aussi, tu crois quoi? Aller là j'ai plus besoin de toi, t'as qu'à aller bosser un peu. On a fait ce qu'on a pu.
 
------
-
-## Loir / mylène : 
-
-Loir arriva d'aspect plus serein qu'à l'accoutumée. C'était une bonne idée d'avoir attendu 10 min en haut de la cote, hors de vue de la maison de Mylène afin de ne pas arrivé essoufflé et transpirant. Son élocution était presque intelligible. Il semblerait que les aventures vécues ces jours-ci avaient finies par lui donner ce minimum de confiance en soit nécessaire aux interactions sociales.
+Loir arriva sur ces entre faits. Son aspect était plus serein qu'à l'accoutumée. C'était une bonne idée d'avoir attendu 10 min en haut de la côte, hors de vue de la maison de Mylène afin de ne pas arrivé essoufflé et transpirant. Son élocution était presque intelligible. Il semblerait que les aventures vécues ces jours-ci avaient finies par lui donner ce minimum de confiance en soit nécessaire aux interactions sociales.
 
 - Bonjour tout le monde!
-- Ah tiens en parlant de pu dit Mylène et "plop" fit la bulle de confiance en soit. Mylène se racla la gorge, se rendant compte que son humour pouvait faire des dégats sur les bulles de confiance en soit.  "Rapport aux boutons d'acnée..." ajouta elle sans réussir à se rattraper.
+- Ah tiens en parlant de pu dit Mylène et "plop" fit la bulle de confiance en soit. Mylène se racla la gorge, se rendant compte que son humour pouvait faire des dégâts sur les bulles de confiance en soit.  "Rapport aux boutons d'acnée..." ajouta elle sans réussir à se rattraper.
 
-Aucune falaise, aucun gouffre sans fin à moins de 6m, il est donc impossible de disparaître. Panic mode, pilotage automatique.
+Aucune falaise, aucun gouffre sans fin à moins de 6 mètres, il est donc impossible de disparaître. Panic mode, pilotage automatique.
 
 - J'AI WIKIPEDIA!!
 
@@ -1154,31 +1056,33 @@ La petite assemblée resta quelque secondes médusée. Ce fut Kim, plus sensible
 
 Tout le monde décida tacitement de mettre l'incident au rebus et repris un comportement normal.
 
-- Voilà je me disais comme j'ai fait marcher wikipédia : la version anglaise et la française et qu'il y a plein d'articles sur la biologie, je disais que ça pourrait vous être utile.
-- C'est comment quoi oui-qui-pet-dia ?
+- Voilà je me disais comme j'ai fait marcher wikipédia : la version anglaise et la française et qu'il y a plein d'articles sur la biologie, je me disais que ça pourrait vous être utile.
+- C'est comment quoi oui-qui-pet-dia ? demanda Kim.
 
-Mylène parue songeuse comme figée, perdue dans ses pensées. Loir n'aurait jamais pu imaginer lui clouer le bec à se point. Elle devait réfléchir à autre chose ou bien chercher la façon la plus cynique de l'humilier encore une fois.
+Mylène parue songeuse comme figée, perdue dans ses pensées. Loir n'aurait jamais pu imaginer lui clouer le bec à ce point. Elle devait réfléchir à autre chose ou bien chercher la façon la plus cynique possible de l'humilier encore une fois.
 
 - C'était un site internet sur lequel n'importe qui pouvait écrire des articles sur n'importe quoi. Et bizarrement ça a abouti à une encyclopédie assez complète. Voir beaucoup trop sur certains point. Et il y a des articles sur les maladies,  les épidémies...
-- Ah cool ça à l'air intéressant.. après on est est d'accord j'ai rien compris à ce que tu viens de dire répondit Kim qui contrairement à Loir et malgré tous les films et les livres pré-coupure, n'avait pas bien saisi le concept d'internet.
+- Ah cool ça à l'air intéressant.. après on est d'accord j'ai rien compris à ce que tu viens de dire répondit Kim qui contrairement à Loir et malgré tous les films et les livres pré-coupure, n'avait pas bien saisi le concept d'internet.
 
 Mylène sembla se réveiller.
 
 - Oui bon ça n’empêche pas qu'il faut quand même connaître bien la chimie orga. Et faire des tests ici si on veut en savoir plus sur l'épidémie.
-- Non mais j'ai pas dit le contraire se défendit Kim
+- Non mais j'ai pas dit le contraire. Se défendit Kim.
 - Enfin si ça vous dit vous pouvez passer je vous montrerai comment ça marche. Proposa Loir  d'un air enjoué. Il savait qu'il tapait loin en touche en se débarrassant d'un ballon encombrant. Les gens avaient envie de passer du temps dans la chambre d'un ado comme Loir autant que de rendre visite à une famille de blaireau en train de bouloter une charogne dans leur terrier.
 - D'ailleurs j'ai trouvé plein d'info intéressantes sur les constructions en terre et je me disais que ça pourrait intéresser Bambi. Je peux lui en parler,je peux lui montrer?Il est là?
-
-----
-
 - C'est sympa d'y penser mais là il est encore très fatigué, il dort tout le temps. Mais j'ai l'impression que bientôt il sera de nouveau en forme.
+
 - Ben justement ça lui ferait peut être du bien de lire tant qu'il est alité. Tiens,  c'est ça une allitération?
 
 Au grand étonnement de Loir.
 
 - Pourquoi pas oui, mais on a cas dire après demain. Là il est encore très grognon quand on le réveille. Je pense qu'il rentrera chez lui  demain.
 
-Loir fut surpris d'accéder aussi facilement au succès de sa quête secrète se contenta d’acquiescer et de mentalement cocher une case. Il saurait quoi dire à Arya la prochaine fois qu'il la verrait et c'est un gros morceau de charge mentale qui se dissout aussitôt. Tout en se perdant dans ces pensées réconfortantes Loir s'approchait de la table ou trônait les pétris. Il se pencha au dessus de la table mettant tout le monde mal à l'aise. Il était envoûté par l'idée qu'un doigt plongé dans une boite et il n'aurait plus jamais mal. Et vu la configuration  de la scène, personne ne serait assez rapide pour l'en empêcher. Martin le rejoins, se mis à ses côté ouvris la bouche dégageant une incroyable haleine saturant tous ces sens (oui y compris la vue, et l'ouie) d'un fumet quasiment tangible d'ail comme fermenté avec une petite touche de chicorée qui le fis reculer de 3 pas et comprendre que le masque de Mylène n'était pas forcément une protection à ce qu'on pensait.
+Loir fut surpris d'accéder aussi facilement au succès de sa quête secrète secondaire se contenta d’acquiescer et de mentalement cocher une case. Il saurait quoi dire à Arya la prochaine fois qu'il la verrait et c'est un gros morceau de charge mentale qui se dissout aussitôt. Tout en se perdant dans ces pensées réconfortantes Loir s'approchait de la table ou trônait les pétris. Il se pencha au dessus de la table mettant tout le monde mal à l'aise. Il était envoûté par l'idée qu'un doigt plongé dans une boite et il n'aurait plus jamais mal. Et vu la configuration de la scène, personne ne serait assez rapide pour l'en empêcher. Martin le rejoint, se mis à ses côtés ouvrit la bouche dégageant une incroyable haleine saturant tous ces sens (oui y compris la vue, et l’ouïe) d'un fumet quasiment tangible d'ail comme fermenté avec une petite touche de chicorée qui le fis reculer de 3 pas et comprendre que le masque de Mylène n'était pas forcément une protection à ce qu'on pensait.
+
+
+
+[REPRENDRE LA]
 
 
 # 14.2.1
