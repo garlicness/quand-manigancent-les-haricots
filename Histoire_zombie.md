@@ -209,7 +209,7 @@ Une étrange apparition fit irruption dans la classe : une montagne de vêtement
 
 - Vinvin vient ici on a une enquête à résoudre ! 
 
-Ni une ni deux, ce que de loin, Sylve avait pris pour un nid de corneille se souleva et laissa apparaître un visage criblé de tâches de rousseurs qui dévoilait des dents, certe blanches, mais qui ne s’était clairement pas concertées sur la direction dans laquelle pousser. 
+Ni une ni deux, ce que de loin, Sylve avait pris pour un nid de corneille se souleva et laissa apparaître un visage criblé de tâches de rousseurs qui dévoilait des dents, certes blanches, mais qui ne s’était clairement pas concertées sur la direction dans laquelle pousser. 
 
 Il se leva prestement essaya de dribbler la maîtresse restée dans le fond de la classe et, voyant qu’il n’y parvenait pas, avisa une fenêtre entre ouverte et sauta. Bizarrement le fait d’être au rez-de-chausser ne l’empêcha pas d’atterrir dans un buisson. Ajoutant quelques brindilles à la structure composite improbable qui lui servait de coiffure.
 
@@ -811,7 +811,7 @@ Les chevaliers protecteurs comme ils s’appelaient (en parlant d’eux aux autr
 
 Vinvin se mit à pousser de petits cris d’excitation, des étoiles dans les yeux.
 
-## Cours de chimie bio orga
+## 13.1 Cours de chimie bio orga
 
 Plus tard dans la journée. Mylène installait son laboratoire dans sa véranda, à la vue des passants. Elle était en train d’organiser des boites de pétri dont certaines n’avaient d’ailleurs pas l’air très propre. Une silhouette longiligne qui apparue sans s’annoncer de l’autre coté de la baie vitrée la fit sursauter. Les lèvres bougèrent mais à travers la vitre elle n’y comprit rien. Un sourire, Mylène fit signe de passer par la porte, il lui semblait que d’habitude il n’était pas nécessaire de fournir cette indication.
 
@@ -833,9 +833,9 @@ Et l’enthousiasme de Kim en prit un coup dans l’aile.
 
 
 
-##  Enquête loup prairie
+##  13.2 Enquête loup prairie
 
-
+[Avec une pelle et il faut enterrer le loup]
 
 Arrivés dans le prés il s’approchèrent de la masse grise.
 
@@ -959,7 +959,7 @@ Ils prirent bizarrement le temps pour répondre : bien sûr qu'il était de la m
 
 Intéressant, et bien on a cas commencer à noter. Kim, le cahier. Voilà la date, tu marques entrevue et puis tu retranscris.
 
-## Cours de civilisation : Les véhicules
+# Cours de civilisation : Les véhicules
 
 Aujourd'hui dans la petite salle de classe, c'était le cours de Fastand de faire son heure de cours. Il était ce qui se rapprochait le plus de la fonction de garagiste. Sa profession consistait surtout à identifier ce qui marchait sur certaines voiture et à passer outre tout ce qui était électronique.
 
@@ -996,7 +996,7 @@ Il reprit le contrôle
 
 - Des stations essence, d'ailleurs y'en a un vestige à la sortie du village, ça pourra faire une sortie de classe. Et puis un jour il faudra bien que vous sachiez comment récupérer l'essence dans une cuve enterrée on sait même pas ou exactement sans électricité, sans les clefs et les codes et les manuels.
 
-# 14.3 Expérimentation
+# 14.2.1 Expérimentation
 
 De retour au centre de recherche et d'expérimentation après avoir noté tout un tas de détails plus ou moins intime. Ils allaient se décider à commencer les expériences.
 
@@ -1080,14 +1080,56 @@ Au grand étonnement de Loir.
 
 Loir fut surpris d'accéder aussi facilement au succès de sa quête secrète secondaire se contenta d’acquiescer et de mentalement cocher une case. Il saurait quoi dire à Arya la prochaine fois qu'il la verrait et c'est un gros morceau de charge mentale qui se dissout aussitôt. Tout en se perdant dans ces pensées réconfortantes Loir s'approchait de la table ou trônait les pétris. Il se pencha au dessus de la table mettant tout le monde mal à l'aise. Il était envoûté par l'idée qu'un doigt plongé dans une boite et il n'aurait plus jamais mal. Et vu la configuration de la scène, personne ne serait assez rapide pour l'en empêcher. Martin le rejoint, se mis à ses côtés ouvrit la bouche dégageant une incroyable haleine saturant tous ces sens (oui y compris la vue, et l’ouïe) d'un fumet quasiment tangible d'ail comme fermenté avec une petite touche de chicorée qui le fis reculer de 3 pas et comprendre que le masque de Mylène n'était pas forcément une protection à ce qu'on pensait.
 
+# 14.2.2 Cours de civilisation : Internet
 
+Vous voyez la magie? Alors, il faut bien faire la différence entre ce qui existait pour de vrai et les inventions des fictions. Déjà, vous connaissez la différence en un fiction et un documentaire? 
 
-[REPRENDRE LA]
+- La fiction c'est comme une histoire.
+- Oui c'est mignon. C'est des histoires qu'on se raconte. Et des documentaires de toute façon sont assez dur à se procurer ces temps-ci. Pour ça il faut mieux aller à la bibliothèque. Bref alors on va faire un petit quizz, vous me direz si c'est imaginaire ou si ça a vraiment existé.
+- ou les 2?
+- Euh non pas "ou les 2"... Alors : le fait de pouvoir contacter et parler à l'oral où par écrit n'importe qui sur la planète quand on veut.
 
+La majorité des enfants répondirent "vraiment existé" certain par mimétisme avec un léger décalage. Quelque 'imaginaire!' furent également prononcés. 
 
-# 14.2.1
+- Oui ça a existé et vous savez grâce à quoi?
 
-Cours de civilisation
+- au téléphone! reprirent quelques petits en cœur.
+
+- C'est bien : à ne pas confondre avec les boules de cristal et la télépathie qui n'existent pas.
+
+- Attention... : Avoir accès à toute les encyclopédies du monde depuis n'importe ou?
+
+  Les enfants firent leur paris.
+
+- Pareil? vous croyez? Et bien oui vous savez comment?
+
+- euh les téléphones! tenta un élève.
+
+- Très bien Turbo.
+
+- Bon vous avez compris le téléphone pouvait servir à beaucoup de chose. A quoi d'autre par exemple ?
+
+- A pas se perdre avec une carte!
+
+- A savoir le temps?
+
+- A faire pipi.
+
+- A jouer de la musique très vite
+
+- A faire des ricochets.
+
+C'était le moment pour la maîtresse d'intervenir :
+
+- Vous avez déjà vu? venez voir j'ai un exemplaire fonctionnel. Là, rien ne marche. Vous savez pourquoi?
+
+- Parce que c'est nul!
+- C'est cassé?
+- Non c'est parce qu'il n'est pas branché : il faut de l'électricité. Alors regardez : on prend ce fil branché sur cet appareil qu'on allume comme ça. Et voilà!
+
+L'appareil se mit en branle et afficha un série de logos animés très abstraits pour finir par afficher un écran d'accueil et quelques icones. La maitresse fit glisser son doigt sur l'appareil pour passer d'un écran à l'autre.
+
+- Whoa! S'écrièrent les plus jeunes comme s'ils avaient à faire à un authentique artefact magique.
 
 # 14.3 Arya Bambi 
 
@@ -1095,259 +1137,204 @@ Loir avait décidé de ne pas aller chez Bambi comme prévu. A la place il avait
 
 - Merci Sherlock avait elle ironisé. Tu crois que j'ai pas essayé? Y'a personne chez lui.
 
-Il avait fallu insister un peu et passer assez vite sur le fait que la bonne nouvelle venait de Mylène mais il est toujours plus facile de convaincre quelqu'un d'une bonne nouvelle. Il aurait vraiment aimé lui annoncé quelle avait raison, que Mylène était une vampire, qu'elle avait pendu Bambi la tête en bas et qu'elle s'était nourrie de son agonie et qu'il était trop tard. Il y aurait eu une chance pour qu'elle soit reconnaissante et éventuellement il aurait là pour la consoler. Mais apparemment ce n'était pas le cas. Il avait aussi pensé à la technique dite du "mitonage à volonté" mais le monde parallèle dans lequel il pouvait pécho Arya lui paraissait si éloigné que le risque de perdre toute crédibilité (qui était de 100% à long terme) n'en valait pas la chandelle. Surtout vu la carrière qui se dessinait de plus en plus semblait tourner autour de la vérité. Dernier point dans la colonne "contre" :  il faut croire qu'il aimait bien Arya après tout, la tempête d'émotions hormonales, il n'avait pas envie de lui mentir. 
+Il avait fallu insister un peu et passer assez vite sur le fait que la bonne nouvelle venait de Mylène mais il est toujours plus facile de convaincre quelqu'un d'une bonne nouvelle. Il aurait vraiment aimé lui annoncé qu'elle avait raison, que Mylène était une vampire, qu'elle avait pendu Bambi la tête en bas et qu'elle s'était nourrie de son agonie et qu'il était trop tard. Il y aurait eu une chance pour qu'elle soit reconnaissante et éventuellement il aurait là pour la consoler. Mais apparemment ce n'était pas le cas. Il avait aussi pensé à la technique dite du "mitonage à volonté" mais le monde parallèle dans lequel il pouvait pécho Arya lui paraissait si éloigné que le risque de perdre toute crédibilité (qui était de 100% à long terme) n'en valait pas la chandelle. Surtout vu la carrière qui se dessinait de plus en plus semblait tourner autour de la vérité. Dernier point dans la colonne "contre" :  il faut croire qu'il aimait bien Arya après tout, la tempête d'émotions hormonales, il n'avait pas envie de lui mentir. 
 
-----
-
-
-
-Après s'être fait à moitié joyeusement forcé la bite, Bambi et Arya étaient assis l'une sur l'autre dans un confortable canapé. Les questions d'Arya étaient à l'image de sa technique de séduction  : insistante et subtile comme un pneu neige. Bambi tentait d'y répondre : 
+Après s'être fait à moitié et joyeusement forcé la bite, Bambi et Arya étaient assis l'une sur l'autre dans un confortable canapé. Les questions d'Arya étaient à l'image de sa technique de séduction  : insistante et subtile comme un pneu neige. Bambi tentait d'y répondre : 
 
 - Je me souviens vraiment pas bien : le dernier souvenir que j'ai je cueillais de l'herbe des ours  loin d'ici avec Mylène qui faisait la même chose quelques dizaine de mètres plus loin. Puis je me suis relevé et là plus rien. Je me suis fait assommé par une grosse branche apparemment. Suivi d'un coma d'un mois apparemment... 
-- Quand est ce que tu as repris conscience? 
-- Il y a 2 semaines apparemment mais je me souviens que des 3 dernier jours seulement. Et ça va bien, c'est surprenant. Mylène s'est bien occupé de moi.  Elle a cru que j'allais resté complètement amnésique puis c'est revenu.
-- Cette histoire me parait louche, et là tu vois j'ai pas trop envie de laisser faire n'importe quoi.
-- Ahaha le problème c'est que tu n'es pas ma marraine mais tu as à peine 18ans
+- Quand est-ce que tu as repris conscience? 
+- Il y a 2 semaines apparemment mais je me souviens que des 3 derniers jours seulement. Et ça va bien, c'est surprenant. Mylène s'est bien occupé de moi.  Elle a cru que j'allais resté complètement amnésique puis c'est revenu.
+- Cette histoire me parait louche, et là tu vois j'ai pas trop envie de lui laisser faire n'importe quoi.
+- Ahaha le problème c'est que tu n'es pas ma marraine et tu as à peine 18 ans. Et demain je reste avec Mylène quelques jours on va aménager un espèce de labo un peu plus grand et ramener du matériel de l’hôpital de Foix. 
 
-- Et demain je reste avec Mylène quelque jour on va aménager un espèce de labo un peu plus grand et ramener du matériel de l’hôpital de Foix. 
 - Tu te rends pas compte comment elle cache quelque chose cette sorcière elle est pas nette du tout! Elle a pas voulu me laisser te voir quand t'étais pas bien.
-- Je suis bien remis non ? Tu serais pas un peu jalouse?
+- Je suis bien remis non? Tu serais pas un peu jalouse?
 
-Évidemment dire à quelqu'un de jaloux qu'elle est jalouse c'est comme dire à quelqu'un en colère d'arréter d'être en colère. C'est comme mettre du sel dans une plaie : sur le papier c'est une bonne idée pour désinfecter mais faut mieux que ce soit quelqu'un d'autre qui le fasse.
+Évidemment dire à quelqu'un de jaloux qu'elle est jalouse c'est comme dire à quelqu'un en colère d’arrêter d'être en colère. C'est comme mettre du sel dans une plaie : sur le papier c'est une bonne idée pour désinfecter mais il vaut mieux que ce soit quelqu'un d'autre qui le fasse.
 
-- Mais tu vois elle t'aveugle elle mitone tout le monde et personne s'en aperçoit!
-- Bon je comprends que tu veux passer plus de temps avec moi et que c'est pas toujours possible. Mais ok mettons  t'es pas jalouse, sur quoi tu te base pour dire que Mylène est fait possédée par une force obscure qui se transforme en succube les nuits de pleine lune c'est ça?
+- Mais tu vois elle t'aveugle elle mitonne tout le monde et personne s'en aperçoit!
+- Bon je comprends que tu veuilles passer plus de temps avec moi et que c'est pas toujours possible. Mais ok mettons : t'es pas jalouse, sur quoi tu te bases pour dire que Mylène est en fait possédée par une force obscure qui se transforme en succube les nuits de pleine lune c'est ça?
 - Mais oui si ça se trouve... C'est une intuition, tu peux pas comprendre nous les filles on a un 6ème sens.
 - La jalousie? Je crois qu'on l'a aussi.
 - Tu vas vraiment commencer à faire le malin là?
-- Pour plein de raison, tu peux pas m'obliger à faire ce que tu veux.
+- Pour plein de raisons, tu peux pas m'obliger à faire ce que tu veux.
 - Alors je peux rien faire pour toi, je me casse et faudra pas venir pleurer si tu te retrouve dans le coma. Finit-elle en ramassant ses affaires
-- Ben oui ce sera pas possible...
+- Ben oui ce serait pas possible...
 
 Ma déjà la porte claquait ostensiblement.
 
 
-# 14.4 Loir / anaïs
 
-Loir attendit quelques jours en se disant qu'il allait se mettre dans de bonnes conditions pour affronter  Anaïs. Son enthousiasme, sa bon humeur, son hyperactivité que des qualité angoissantes. Mais il était dans une impasse sur cette sombre histoire de loup. Il avait beau tourner et retourner les scénarii dans sa tête, aucune hypothèse réaliste ne pouvait expliquer un tel fait. Restait donc que les hypothèse irréaliste s'était-il ennoncé tout haut en se grattant le menton. Il avait espéré être inspiré par une attitude de détective bien joué : dans la pénombre et même en ayant un pipe dans la main. Mais non rien ne vint. Il faudrait peut être réessayer en allumant la pipe... Dernier espoir : parler à Anaïs, triompher de ses peurs. Et emmener Vinvin pour détourner l'attention si besoin.
+[REPRENDRE LA]
 
-----
 
-Anaïs gérait la seule ferme capable de nourrir raisonnablement plus que quelques foyer. De nos jour c'était la plus grande entreprise de la communauté, un fleuron de l'industrie agro alimentaire. Une dizaine de personnes s'étaient naturellement joint à elle. Quelque fois pour l'aider et apprendre, d'autre pour s'occuper d'un atelier particulier qu'elle intégrait dans le système avec brio. Anaïs était une passionnée, lisait beaucoup et se consacrait exclusivement à son art. Elle savait tout faire dans son domaine. Et d'ailleurs elle faisait presque tout. On pourrait croire que le le temps ne s'écoulait pas tout à fait normalement pour elle. Et tout se passe comme si, 3 ou 4 fois dans la journée, elle pouvait figer le temps pour aller faire une sieste sans que personne ne s'en aperçoive.
+# 14.4 Loir / Anaïs
+
+Loir attendit quelques jours en se disant qu'il allait se mettre dans de bonnes conditions pour affronter Anaïs, son enthousiasme, sa bonne humeur, son hyperactivité autres qualités angoissantes. Mais il était dans une impasse sur cette sombre histoire de loup. Il avait beau tourner et retourner les scénarii dans sa tête, aucune hypothèse réaliste ne pouvait expliquer un tel fait. Restait donc que les hypothèses irréalistes s'était-il enoncé tout haut en se grattant le menton. Il avait espéré être inspiré par une attitude de détective bien jouée : dans la pénombre en faisant les cent pas  avec une pipe dans la main. Mais non : rien ne vint. Il faudrait peut être réessayer en allumant la pipe... Dernier espoir : parler à Anaïs, triompher de ses peurs. Et emmener Vinvin pour détourner l'attention si besoin.
+
+Anaïs gérait la seule ferme capable de nourrir raisonnablement plus que quelques foyer. De nos jour c'était la plus grande entreprise de la communauté, un fleuron de l'industrie agro-alimentaire. Une dizaine de personnes s'étaient naturellement joint à elle. Quelque fois pour l'aider et apprendre, d'autre pour s'occuper d'un atelier particulier qu'elle intégrait dans le système avec brio. Anaïs était une passionnée, lisait beaucoup et se consacrait exclusivement à son art. Elle savait tout faire dans son domaine. Et d'ailleurs elle faisait presque tout. On pourrait croire que le le temps ne s'écoulait pas tout à fait normalement à son égard, tant tout se passait comme si, 3 ou 4 fois dans la journée, elle pouvait figer le temps pour aller faire une sieste sans que personne ne s'en aperçoive.
 
 Loir et Vinvin passèrent donc une demi journée à traquer Anaïs en interrogeant les gens qui vaquaient à leur occupation à des allures raisonnables :
 
-- elle commence sa journée par la traite mais là ça fait longtemps qu'elle a du finir. Essayez peu être aux vaches qui sont dans la parcelle la bas derrière la colline.
+- elle commence sa journée par la traite mais là ça fait longtemps qu'elle a dû finir. Essayez peut être aux vaches qui sont dans la parcelle là-bas, derrière la colline.
 
   Ou alors :
 
 - Oui elle était là puis je crois qu'elle est allée faire un tour de plaine avec L'Eponge (celui qui s'occupe de cultiver les céréales) 
 
-Finalement Loir décida d'aller directement à la ferme. A priori elle n'y a pas encore été aujourd'hui ou alors pas depuis quelques heure, y'a les machines, la fromagerie et d'autres trucs en rapport avec tout ce qui faire à manger. Elle arrivera forcément un jour ou l'autre.
+Finalement Loir décida d'aller directement à la ferme. A priori elle n'y a pas encore été aujourd'hui ou alors pas depuis quelques heures. Il y a les machines, la fromagerie et d'autres trucs en rapport avec tout ce qui est de faire à manger. Elle arrivera forcément un jour ou l'autre.
 
-- Ça ne sert à rien de courir derrière sa proie il faut juste être là ou elle va. Énonça Vinvin regardant au  loin en mâchonnant une tige de blé. 
+- Ça ne sert à rien de courir derrière sa proie il faut juste être là où elle va. Énonça Vinvin regardant au  loin en mâchonnant une tige de blé. 
 
-Il est flippant des fois ce petit Vinvin, j’espère qu'on est pas en train de créer un monstre psychopathe. Ou alors ce sera le dernier humain, celui qui nous survivra tous. Et sur la fin de sa vie, il se reproduira avec une jeune laie donnant ainsi naissance à une nouvelle espèce mi homo sapiens mi sanglier à même de dominer le monde en à peine quelques miliers d'année jusqu'à ce qu'une étrange infection décime les sanglumains.... Il fut interrompu dans ses pensées par l'arrivée d'Anaïs qui a failli raté dans elle passait vite. En plus de l'histoire des siestes dérobées il paraissait que le temps lui-même s'écoulait moins vite pour elle.
+Il est flippant des fois ce petit Vinvin, j’espère qu'on est pas en train de créer un monstre psychopathe. Ou alors ce sera le dernier humain, celui qui nous survivra tous. Et sur la fin de sa vie, il se reproduira avec une jeune laie donnant ainsi naissance à une nouvelle espèce mi homo sapiens mi sanglier à même de dominer le monde en à peine quelques milliers d'année jusqu'à ce qu'une étrange infection décime les sanglumains.... Il fut interrompu dans ses pensées par l'arrivée d'Anaïs qui a failli raté dans elle passait vite. En plus de l'histoire des siestes dérobées, il paraissait que le temps lui-même s'écoulait moins vite pour elle tant elle marchait vite et sans donner l'impression d'effectuer quelconque effort. Elle était grande, bien bâtie et disciplinait ses longs cheveux noir dans un foulard élégant.
 
 - Bonjour Anaïs est ce que je te parler de cette histoire de loup.
 - Ah oui bonjour Loir comment ça va?
 
 Anaïs dans sa perfection était aussi très avenante, ne prenait jamais les gens de haut malgré son statut de sainte pilier de la connaissance de la communauté. Et elle se souvenait des prénoms.
 
-- Super répondit il. Mais j'ai besoin que tu sois là pour ça marmona t'il pour lui même en quasi-courant à sa poursuite.
+- Super répondit-il. Mais j'ai besoin que tu sois là pour ça marmonna t'il pour lui même en quasi-courant à sa poursuite.
 - Déjà c'est normal un loup?
-- Non c'est pas courant et  normalement Cyrano le berger qui veille mais là c'est qu'une partie du troupeau, le reste est plus haut avec lui. Comme cette parcelle n'est pas très loin d'ici, je me suis dit que ça craignait pas. Faudra faire gaffe à l'avenir. Cela dit elles s'en sont pas mal sorties non?
-- Une idée sur ce qui a pu se passer?
-- C'est ton boulot ça il parait non?
+- Non c'est pas courant et normalement Cyrano le berger qui veille mais là c'est qu'une partie du troupeau, le reste est plus haut avec lui. Comme cette parcelle n'est pas très loin d'ici, je me suis dit que ça craignait pas. Faudra faire gaffe à l'avenir. Cela dit, les breb's s'en sont pas mal sorties non?
+- Les breb...bis? oui apparemment... Une idée sur ce qui a pu se passer?
+- C'est ton boulot ça il paraît non?
 - Finalement mon boulot c'est d'aller voir les experts...
 - Non je comprends pas trop d'habitude ça fait pas ça. Ce qu'on sait c'est que c'est un loup solitaire et pas une meute. J'ai effectivement entendu des cloches dans la nuit mais des mouvements de troupeau sans raison ça arrive et puis ça s'est calmé tout de suite alors je me suis pas levée.
-- Rien de particulier ces dernier temps? Dans les parages? des comportements, des évenements?
-- Il me semble justement que ce troupeau en particulier est bien calme mais ça doit venir du fait que sa moyenne d'age à un peu agmenter après les méchouis du mois dernier et puis j'ai l'impression que de laisser quelques brebis un peu vieille ça a de bonne influence sur le stress des bêtes.
+- Rien de particulier ces derniers temps? Dans les parages? des comportements, des événements?
+- Il me semble justement que ce troupeau en particulier est bien calme mais ça doit venir du fait que sa moyenne d'age a un peu augmenté après les méchouis du mois dernier et puis j'ai l'impression que de laisser quelques brebis un peu vieille ça a de bonne influence sur le stress des bêtes.
 
-Loir avait donc un seau dans la main il mis l’anse sur son avant bras et essaya d'écrire sur son carnet pendant qu'Anaïs retournait de grosse meules sur une étagère.
-
-Pas d'éléments très nouveau se dit il. Cette sale histoire est en train de m'échapper complètement. Je n'aime pas les animaux je ne les trouve pas intellectuellement très stimulants voir en général plutôt très cons, n’empêche que ces brebs sont des témoins direct il va falloir se munir de patiente et aller leur poser quelques questions.
+Loir avait donc un seau dans la main il mis l’anse sur son avant bras et essaya d'écrire sur son carnet pendant qu'Anaïs retournait de grosse meules de fromage sur une étagère. Pas d'éléments très nouveau se dit il. Cette sale histoire est en train de m'échapper complètement. Je n'aime pas les animaux je ne les trouve pas intellectuellement très stimulants voir en général plutôt très cons, n’empêche que ces breb's sont des témoins direct il va falloir se munir de patiente et aller leur poser quelques questions.
 
 Quelques 20 minutes plus tard, Anaïs et Loir avaient fini leur travail à la fromagerie et se retrouvèrent devant le bâtiment dans la court de la ferme. Il étaient en train de se dire au revoir quand ils aperçurent de l'autre côté de la court Vinvin chevauchant un veau qui avait bizarrement l'air de s'amuser.
 
-- Manquerait plus qu'il aille rassembler un troupeau de chevaux
+- Manquerait plus qu'il aille rassembler un troupeau de chevaux...
 - Ah on a quelque chevaux mais pas de quoi faire un troupeau
-- Non mais parceque dans les western on rassemble des vache en étant sur un cheval... le contraire... bref
-- Vinvin rend le veau et viens, on y va. Alitera Loir
 
----
+Ah quand même un petit défaut, il a fallu chercher longtemps mais Loir la trouve un peu "premier degré".
 
-Décrire qu'en même temps elle retourne des fromage, elle lave, tiens moi ça...
-
-Que fait Vinvin pendant ce temps?
+- Non mais parceque dans les western on rassemble des vaches en étant sur un cheval... le contraire... bref
+- Vinvin rend le veau et viens, on y va. Alitera Loir.
 
 # 15 Conseil village débat antidote humanité
 
-Tout ceux qui n'étaient pas découragés par les débats en général assez stériles étaient réunis sous la halle. Sans que personne ne le fasse remarquer, il y avait surtout des gens à la mobilité réduite, à qui convenait bien les activités statiques mais il y avait des gens qui aimaient les débats en général comme Mikhail. Mylène était là aussi mais en tant qu'experte et référente sur les questions de santé publique. Son air détaché donnait l'impression qu'elle se mettait devant un vieux nanar munie d'un cornet de popcorn. Sinpier était là aussi pour défendre son église veiller à ce que soit entendu la voix divine, il était là parce qu'il fallait bien avec le même plaisir qu'aller au chiottes ou à la messe machinalement par nécessité sans se poser de question et sans plaisir.
+Tout ceux qui n'étaient pas découragés par les débats en général assez stériles étaient réunis sous la halle. Sans que personne ne le fasse remarquer, il y avait surtout des gens à la mobilité réduite, à qui convenait bien les activités statiques mais il y avait aussi des gens qui aimaient les débats en général comme Mikhail. Mylène était là aussi mais en tant qu'experte et référente sur les questions de santé publique. Son air détaché donnait l'impression qu'elle se mettait devant un vieux nanar munie d'un cornet de popcorn. Sinpier était là aussi pour défendre son église veiller à ce que soit entendu la voix divine, il était là parce qu'il fallait bien avec le même plaisir qu'aller au chiottes ou à la messe machinalement par nécessité sans se poser de question et sans plaisir.
 
 Comme à son habitude Mikhail pris la parole en se levant.
 
-- Camarades! Nous sommes ici pour essayer d'envisager les implications et les conséquences de la découverte d'un vaccin, si jamais on y arrive
+- Camarades! Nous sommes ici pour essayer d'envisager les implications et les conséquences de la découverte d'un vaccin, si jamais on y arrive. Est ce que ça change quelque chose si on a un vaccin : notre rapport aux infectés va changer car il ne seront plus dangereux pour nous. Est ce qu'on pourrait alors s'en servir comme animaux de trait par exemple ou bien dans les cuisine ou pour les travaux relou dans les champs.
 
-- Est ce que ça change quelque chose si on a un vaccin : notre rapport aux infecté va changer car il ne seront plus dangereux pour nous. Est ce qu'on pourrait pas s'en servir comme animaux de trait par exemple ou bien dans les cuisine ou pour les travaux relou dans les champs
+Un petit homme assis sur une chaise confortable une couverture sur les genoux, se manifesta déjà faisant fit des tours de parole.
 
----
+- Mais attendez! Surtout qu'est ce qu'on fait si on trouve un moyen de les soigner? Je veux dire de ramener un zombie à la vie... à un état plus humain.
 
-_qui?_
+Mylène prit sur elle de répondre.
 
-- Mais attendez Et d'autre part qu'est ce qu'on fait si on trouve un moyen de les soigner? Je veux dire de ramener un zombie à la vie... à un état plus humain.
+- C'est à dire qu'on a mis pas mal d'espoir dans cette entreprise de mieux comprendre la maladie, de mieux s'en défendre. Parce que mine de rien c'est assez stressant de savoir qu'à tout moment il y a des putains de zombis qu'on peut retrouver n'importe ou n'importe quand et qui sont vachement contagieux et ça fait des histoire : il faut faire attention, il faut les brûler, ça fait une odeur épouvantable! C'est une bonne question mais vu la complexité du problème et les moyens qu'on a, c'est mal parti. On sera toujours à temps de se poser la question en cas de miracle.
 
-Mylène dit que c'est une bonne question mais que c'est mal parti, on y arrivera pas et on sera toujours à temps de se poser la question si jamais.
+Ce fût au tour de Sinpier de ne plus tenir en place :
 
-- C'est à dire qu'on a mis pas mal d'espoir dans cette entreprise de mieux comprendre la maladie, de mieux s'en défendre. Parceque mine de rien c'est assez stressant de savoir qu'à tout moment il y a des putains de zombis qu'on peut retrouver n'importe ou n'importe quand et qui sont vachement contagieux et ça fait es histoire : il faut faire attention, il faut les brûler, ça fait une odeur épouvantable! 
+- L'église dirait qu'il faut savoir garder sa place et accepter les dessein de Dieu même si elles sont impénétrables. 
 
-Mylène qui n'avait tout de même pas le coeur à 
+- Oui mais si c'est Dieu qui décide, il aura aussi décider qu'on change les plans.
+- Oui mais il aura aussi décider que je vous empêche de le faire. Et je suis quand même mieux placer pour tout ce qui concerne les voies du seigneur. Je vous le dis c'est triste mais les zombies ne sont plus humain, on les a perdu. Ils n'ont plus de conscience, il faut laisser les morts tranquilles.
 
-----
+On était encore passé du sujet "quoi faire une fois qu'on sera immuniser" à "quel est le sens de l'humanité". Mikhail se dit qu'il était tellement compliqué de ne pas dévier d'un ordre du jour. Les gens parlent de ce qui les intéresse après tout on pourra faire toujours d'autres réunion jusqu'à qu'il ait assez peu de personne pour avoir un consensus.
 
-Église : il faut savoir garder sa place et accepter les dessein de Dieu même si elles sont impénétrables. 
+Le premier petit vieux dont la vie a été riche une enfance citadine, des voyages, il avait été prof d'économie dans un lycée en zone rurale bénévole dans une médiathèque et retraité post coupure. Il reprit :
 
-- Oui mais si c'est Dieu qui décide, il aura aussi décider qu'on change les plans
-- Oui mais il aura aussi décider que je vous empêche de le faire. Et je suis quand même mieux placer pour tout ce qui concerne les voies du seigneur.
+- Finalement la question revient à ceci : "Faut il repeupler le monde avec des humains?"
 
----
+S'en suivirent des tirades emmargeant de ci de là accompagnées d'un brouhaha de commentaires bien sentis:
 
-Il faut laisser les morts tranquilles
+- D'un point de vue de la nature grâce au mécanisme d'évolution naturelle, chaque espèce est sélectionnée et "conditionnée" pour se perpétuer le plus possible. Si Dieu a fait l'évolution naturelle et qu'on est de race humaine, notre but est de se reproduire.
 
----
+- On a vu ce que ça donnait une société humaine : beaucoup de destruction et de souffrance. Le problème est qu'on est des animaux mais certain d'entre nous sont aussi humanistes et on veut de la justice et du bien être ce qui n'est pas compatible avec la loi de la nature . Donc je vote qu'on arrête les frais : que la terre c'est pour les animaux, que les humanos ça n'a pas de sens.
 
-Finalement la question revient à ceci : "Faut il repeupler le monde avec des humains?"
+- Oui mais maintenant on a de l'expérience d'une civilisation on peut en tirer les leçons et créer une société aux petits oignons dans laquelle tout le monde aurait le droit au bonheur.
 
-Pour  : d'un point de vue de la nature grâce au mécanisme d'évolution naturelle, chaque espèce est sélectionnée et "conditionnée" pour se perpétuer le plus possible. Si Dieu a fait l'évolution naturelle et qu'on est de race humaine, notre but est de se reproduire.
+- mais les humains même de bonne volontés seront jamais d'accord ce qu'est une société parfaite et sur la notion de bonheur. Il puis il y aura toujours des sécheresse, des éruptions et des famines. On est condamné à en chier! Il faut arrêter.
 
-Contre : on a vu ce que ça donnait une société humaine : beaucoup de destruction et de souffrance. Le problème est qu'on est des animaux mais certain d'entre nous sont aussi humanistes et on veut de la justice et du bien être ce qui n'est pas compatible avec la loi de la nature . Donc je vote qu'on arrête les frais : que la terre c'est pour les animaux, que les humanos ça n'a pas de sens.
+- Mais on ne peut pas se dire d’arrêter tout simplement alors qu'on au fond de nous on a envie de vivre même si on ne sait pas pourquoi et on a envie de faire des enfants (enfin certain apparemment ) 
 
-Pour : oui mais maintenant on a de l'expérience d'une civilisation on peut en tirer les leçons et créer un société au petits oignons dans laquelle tout le monde aurait le droit au bonheur.
+- Voilà encore un exemple de sélection naturelle ceux qui sont contre et veulent que les humains s'arrête n'ont cas aller embrasser un zombo et les autres vont faire leur vie et ce seront les seuls à décider puisque les autres ne seront pas là. On va quand même pas faire voter des gens dont le statut est décédé ou non-humain juste parce qu'ils se sont passés par là à moment donné.
 
-Contre : mais les humains même de bonne volontés seront jamais d'accord ce qu'est une société parfaite et sur la notion de bonheur. Il puis il y aura toujours des sécheresse, des erruptions et des famines. On est condamné à en chier! Il faut arréter.
+- Oui peut être qu'il faudrait : pouvoir dire "ok je ne veux plus vivre parce que en tant qu'humain, je suis sensible à des valeurs qui me rende la vie insupportable. Donc cassos mais je déclare que je pense que les humains devraient plutôt prendre telle ou telle direction." Et comme ça on tiendrait compte de tout les humains qui on souhaité s'exprimer même s'ils ne sont plus là.
 
-Pour mais on ne peut pas se dire d’arrêter tout simplement alors qu'on au fond de nous on a envie de vivre même si on ne sait pas pourquoi et on a envie de faire des enfants (enfin certain apparemment ) 
-
-Voilà encore un exemple de sélection naturelle ceux qui sont contre et veulent que les humains s'arrête n'ont cas aller embrasser un zombo et les autres vont faire leur vie et ce seront les seuls à décider puisque les autres ne seront pas là. On va quand même pas faire voter des gens dont le statut est décédé ou non humain juste parcequ'ils se sont passés par là à moment donné.
-
-...
-
-Peut être qu'il faudrait : pouvoir dire "ok je ne veux plus vivre parceque en tant qu'humain, je suis sensible à des valeurs qui me rende la vie insupportable. Donc cassos mais je déclare que je pense que les humains devraient plustôt prendre tel ou tel direction. Et comme ça on tiendrait compte de tout les humains qui on souhaité s'exprimer même s'ils ne sont plus là.
-
-Ca se tient presque meme si ça va pas être facile à mettre en oeuvre comme concept.
+On tient peut être quelque chose d'innovant là se dit Mikhail. Ça se tient presque même si ça va pas être facile à mettre en œuvre comme concept.
 
 # 16 Attaque de loup troupeau
 
-## Prés Plus tard
+Pendant ce temps là loin des considération existentialiste mais surtout loin de l'angoisse du débat en public. Loir et Vinvin arrivèrent une nouvelle fois dans la petite parcelle pentue sur laquelle étaient encore les brebis. Le petit tas de terre sous lequel reposait en paix le malheureux prédateur n'avait heureusement pas encore été fouillé par quelque charognard indélicat. On ne pouvait pas encore l'accuser de ne pas avoir assez creuser. Certaines brebis les regardèrent approcher en pâturant sans s'alarmer. Ils s'approchèrent d'un bassin à eau presque vide. Des canalisation avaient été disposées dans toutes les parcelles pour détourner l'eau d'un vieux canal réaménagé qui passait un peu plus haut. Il positionna le dernier tronçon de tuyau et ouvrir la vanne. Certaines brebis vinrent lentement voir de plus près de quoi il s'agissait. Si bien qu'ils eurent bientôt une position privilégiée pour observer les animaux. 
 
-Plus tard dans la journée, Loir et Vinvin arrivèrent dans la petite parcelle pentue sur laquelle étaient encore les brebis. Certaine les regardèrent approcher en pâturant sans s'alarmer. Ils s'approchèrent d'un bassin à eau presque vide. Des canalisation avaient été disposé dans toute les parcelles pour détourner l'eau d'un vieux canal réaménagé qui passait un peu plus haut. Il positionna le dernier tronçon de tuyau et ouvrir la vanne. Certaines brebis vinrent lentement voir de plus près de quoi il s'agissait. Si bien qu'ils eurent bientôt une position privilégiée pour observer les animaux. 
+Certaines bêtes avaient été marquées, des traces rouges indiquaient sûrement s'il s'agissait d'agnelles destinées à renouveler le troupeau ou bien d'agneaux qui finiront en gigots. Il semblait même que ces traces avaient été faites avec le sang d'une bête abattue le jour même. On avait certes de nos jour quelque solutions colorées fait à base de farine ou de broue de noix mais sur le moment, un pot de sang bien frais avait paru beaucoup plus pratique : l'efficacité du bon sens paysan!
 
-Certaines bêtes avaient été marquées, des traces rouges indiquaient sûrement s'il s'agissait d'agnelles destinées à renouveler le troupeau ou bien d'agneaux qui finiront en méchoui. Il semblait même que ces traces avaient été faite avec le sang d'une bête abattue le jour même. On avait certe quelque solutions colorées fait à base de farine ou de broue de noix mais sur le moment, un pot de sang bien frais avait paru beaucoup plus pratique.
+Loir se déplaçait au milieu des animaux lentement en les observant tranquillement. Une petite brise emportait les tintements de cloche disparates. Il aurait pu reconnaître qu'il se sentait détendu entourés d'herbivore apaisés. Puis il vu juste devant lui un anus de brebis se dilater et expulser une poignée de crottes moles juste au moment ou une autre brebis passait derrière essuyant sa collègue et se badigeonnant le flan de merde fraîche. Et le dégoût vint s’immiscer dans sa méditation pachamamesque. Après une vingtaine de minutes il se heurta sur une bête qui ne s'était pas poussée comme les autres sur son passage. Il insista un peu avec un petit coup de genou vicieux mais elle ne réagit pas, toute concentrée qu'elle était à brouter un herbe de printemps qui, il est vrai paraissait appétissante. Il s'en fallu de peu pour que Loir se détourne mais il entreprit de l'inspecter. Il n'y connaissait pas grand chose en animaux domestiques. Il maîtrisait beaucoup mieux les bestiaires fantastiques de la terre du milieu ou de la guerre des étoiles. Mais son comportement était clairement singulier. Surtout que là elle venait de s'enfiler une pousse de ronce. Il sorti son stylo l'appuya d'un coup sec sur son entre les côtes. Elle ne bougea pas d'un poil. Curieux se dit il.. Vinvin lui prit le stylo des mains et entrepris d'appliquer le même traitement à une brebis voisine qui fit un bon étonnant pour un mouton. De façon presque synchronisée Loir fit un pas en arrière en fronçant les sourcils.
 
-Loir se déplaçait au milieu des animaux lentement en les observant tranquillement. Une petite brise emportait  les tintements de cloche disparates. Il aurait pu reconnaître qu'il se sentait détendu entourés d'herbivore apaisés. Puis il vu juste devant lui un anus de brebis se dilater et expulser une poignée de crottes moles juste au moment ou une autre brebis passait derrière essuyant sa collègue et se badigeonnant le flan de merde fraîche. Et le dégoût vint s’immiscer dans sa méditation pachamamesque.
+* On va essayer de pas trop s'approcher de celles qui bougent pas quand même
 
-Après une vingtaine de minutes il se heurta sur une bête qui ne s'était pas poussée comme les autres sur son passage. Il insista un peu avec un petit coup de genou vicieux mais elle ne réagit pas, toute concentrée qu'elle était à brouter un herbe de printemps qui, il est vrai paraissait appétissante. Il s'en fallu de peu pour que Loir se détourne mais il entreprit de l'inspecter. Il n'y connaissait pas grand chose en animaux domestiques. Il maîtrisait beaucoup mieux les bestiaires fantastiques de la terre du milieu ou de la guerre des étoiles. Mais son comportement était clairement singulier. Surtout que là elle venait de s'enfiler une pousse de ronce. Il sorti son stylo l'appuya d'un coup sec sur son entre les cotes. Elle ne bougea pas d'un poil. Curieux se dit il.. Vinvin lui prit le stylo des mains et entrepris d'appliquer le même traitement à une brebis voisine qui fit un bon étonnant pour un mouton. De façon presque synchronisée Loir  fit un pas en arrière en fronçant les sourcils.
-
-* On va essayer de pas trop s'approcher de celle qui bougent pas quand même
-
-Il fit le tour de la brebis toujours en train de paitre et remarqua une petite croix comme tatouée à la base de la patte arriès doite. Il se baissa tout en gardant ses distances pour confirmer que ce n'était pas naturel
-
-_TODO pourquoi les animaux contaminés ne sont pas contagieux ?_
+Il fit le tour de la brebis toujours en train de paître et remarqua une petite croix comme tatouée à la base de la patte arrière droite. Il se baissa tout en gardant ses distances pour confirmer que ce n'était pas naturel. Puis il eut une idée et se sentit comme
 
 - Vinvin viens voir tu vois cette marque là? Va trouver un bélier avec des cornes comme ça et une marque.
 
-Vinvin déguerpie aussi tôt à la manière d’un border colley. En beaucoup pratique  par rapport aux requêtes qu’on peut lui passer. Se dit-il en observant le pitchoun sauter puis carrément courir sur le dos des bêtes à peine surprises. Peut être pas aussi rigoureux qu’un bosseron quand même…
+Vinvin déguerpi aussitôt à la manière d’un border colley. En beaucoup pratique par rapport aux requêtes qu’on peut lui passer. Se dit-il en observant le pitchoun sauter puis carrément puis courir sur le dos des bêtes à peine surprises. Peut être pas aussi rigoureux qu’un Bosseron quand même…
 
- 
+# 17 Cours de civilisation : Déféquer
 
-# 17 Déféquer (cours de CPP)
+Lilou était une des plus jeune à parler de CPP aux futures générations. Bizarrement, pas besoin de fioriture pour capter l'attention des gosses quand leur propose un exposé sur le traitement pré-coupure du caca. Surtout avec une intervenante aussi impliquée.
 
-Lilou était une des plus jeune à parler de CPP aux futures générations. Bizarrement, pas besoin de fioriture pour capter l'attention des pitchouns quand leur propose un exposé sur le traitement pre coupure du caca.
-
-Dans la civilisation pre-coupure, on ne savait pas déféquer correctement. 4000 ans de civilisation ! Tout ça pour chier dans de l’eau potable. Puis prendre un bout de papier qu’on a payé, que le système économique, la société est allé fabriquer. On s’étale la merde sur le trou de balle  puis on regarde la trace sur le papier pour se dire « houlala y’en a encore» répéter l’opération plusieurs fois. Quand on en a marre on refait couler 10L d’eau potable pour faire partir sa merde. Des fois on se rend compte que ça flotte et on remet 10L d’eau. Les gens étaient dégoûtés par leur caca apparemment alors que vous voyez bien qu'il y a en a partout. Est ce que ça vous dérange le crottin de cheval, la bouse de vache? non et on s'en sert en plus comme fertilisant ça tient une place importante dans le cycle de la vie. Non vraiment, un civilisation qui a certes, envoyé des gens sur la lune mais poussé à l’extrême l’injustice sociale et surtout généraliser le fait de chier n’importe comment à cause de sa peur incohérente de ses excréments, et il a fallu une apocalypse pour réapprendre à chier correctement.
-
-
+- Dans la civilisation pré-coupure, on ne savait pas déféquer correctement. 4000 ans de civilisation ! Tout ça pour chier dans de l’eau potable. Puis prendre un bout de papier qu’on a payé, que le système économique, la société est allé fabriquer. On s’étale la merde sur le trou de balle  puis on regarde la trace sur le papier pour se dire « houlala y’en a encore» répéter l’opération plusieurs fois. Quand on en a marre on refait couler 10L d’eau potable pour faire partir sa merde. Des fois on se rend compte que ça flotte et on remet 10L d’eau. Les gens étaient dégoûtés par leur caca apparemment alors que vous voyez bien qu'il y a en a partout. Est ce que ça vous dérange le crottin de cheval, la bouse de vache? non et on s'en sert en plus comme fertilisant ça tient une place importante dans le cycle de la vie. Non vraiment, un civilisation qui a envoyé des gens sur la lune et a poussé à l’extrême l’injustice sociale, a surtout généralisé le fait de chier n’importe comment à cause de sa peur incohérente de ses excréments, et il a fallu une apocalypse pour réapprendre à chier correctement.
 
  # 18 Loir rend compte raconte
 
-C'était le soir on se restaurait pour ceux qui voulaient au centre du village, on discutait on se chamaillait il y avait beaucoup trop d'enfant faisant des bruits. Ce qui devait arriver arriva : on ne peut poas venir manger tranquille sans être obliger de socialiser. Et ce fut Sin Pier qui mit le sujet de l'enquête du loup sur la table. Loir savait qu'il manquait quelque chose, un bout à son investigation. Il pouvait néanmoins détourner l'attention en  mettant les formes.
+C'était le soir on se restaurait pour ceux qui voulaient au centre du village, on discutait on se chamaillait il y avait beaucoup trop d'enfant faisant des bruits. Ce qui devait arriver arriva : on ne peut pas venir manger tranquille sans être obliger de socialiser. Et ce fut Sinpier qui mit le sujet de l'enquête du loup sur la table. Loir savait qu'il manquait quelque chose, un bout à son investigation. Il pouvait néanmoins détourner l'attention en mettant les formes.
 
-Alors pour que vous compreniez ce qui s'est passé il faut que vous vous imaginiez une attaque d’un loup sur troupeau : le loup fonce sur le troupeau, au milieu un bélier est en train de brouter. Tout le troupeau commence à fuir dans la direction opposée au loup.
+Alors pour que vous compreniez ce qui s'est passé il faut que vous vous imaginiez une attaque d’un loup sur troupeau : le loup fonce sur le troupeau, au milieu un bélier est en train de brouter. Tout le troupeau commence à fuir dans la direction opposée au loup. Le loup est mode chasse. Littéralement au taquet c’est à dire les gaz à fond, la machine à tuer enclenchée. Il va très vite, pas de proie précisément en vue seulement la masse distordue en mouvement du troupeau. Il se rapproche à grande vitesse, je vous assure qu’à cette vitesse, la tête à 20 cm du sol, demandez à Vinvin, on a tendance à se prendre pour une torpille. Sauf que dans la masse du troupeau il avait un point fixe : un vieux bélier en train de brouter fendant le flux de ses congénères apeurés comme un rocher dans un torrent. Faisons un peu de physique : un troupeau en déplacement d’une vitesse v, un loup les poursuit doit s’arranger pour aller à une vitesse supérieure à v pour être sûr de se mettre un gigot sous les chicos. Il n’eut même pas le temps de réaliser ce qui se passait : il était sur le point de choisir un individu à l’arrière du troupeau au moment où il le rejoignait et puis plus rien.  Tout est une histoire de référentiel : depuis le point de vue du troupeau, on a un loup écument toute voiles dehors qui se rapproche lentement. Du point de vue d’un bélier broutant par une fraîche soirée de Mars, des camarades qui passent à toute vitesse, trop prés de chaque coté en piétinant cet excellent trèfle de prairie pendant quelques seconde puis au moment où les dernières brebis étaient passées une image de langue pendue, un petit bruit sec et l’instant d’après un cadavre de loup devant les yeux. Car et c’est écrit dans les livres qu’on a retrouvé à la bibliothèque. Ce qui fait mal c’est l’accélération et l’accélération c’est la variation de vitesse. Et on voit que dans le cas d’un loup à disons 52 km/h qui entre en collision avec des cornes de bélier immobile, on passe instantanément à une vitesse nulle, ce qui génère une énergie à absorber notamment on l'a vu ici, dans la déformation du crane et des vertèbres est donc en général déconseillé pour la santé et ce petit détail en cadeau : ne relève plus de la théorie de la mécanique générale mais de la physique des chocs.
 
-Le loup est mode chasse. Littéralement au taquet c’est à dire les gaz à fond, la machine à tuer enclenchée. Il va très vite, pas de proie précisément  en vue seulement la masse distordue en mouvement du troupeau. Il se rapproche à grande vitesse, je vous assure qu’à cette vitesse, la tête à 20 cm du sol, demandez à Vinvin, on a tendance à se prendre pour une torpille. Sauf que dans la masse du troupeau il avait un point fixe : un vieux bélier en train de brouter fendant le flux de ses congénères apeurés comme un rocher dans un torrent. Faisons un peu de physique : un troupeau en déplacement d’une vitesse v, un loup les poursuit doit s’arranger pour aller à une vitesse supérieure à v pour être sûr de se mettre un gigot sous les chicos. Il n’eut même pas le temps de réaliser ce qui se passait : il était sur le point de choisir un individu à l’arrière du troupeau au moment ou il le rejoignait et puis plus rien. 
-
-Tout est une histoire de référentiel : depuis le point de vue du troupeau on a un loup écument toute voiles dehors qui se rapproche lentement. Du point de vue d’un bélier broutant par une fraîche soirée de mars des camarades qui passent à toute vitesse, trop prés de chaque coté en piétinant cet excellent trèfle de prairie pendant quelque seconde puis au moment ou les dernières brebis étaient passées une image de langue pendue, un petit bruit sec et l’instant d’après un cadavre de loup devant les yeux. Car et c’est écrit dans les livres qu’on a retrouvé dans les bâtiments la bas qui ou se faisait l’enseignement intensif à grande échelle. Ce qui fait mal c’est l’accélération et l’accélération c’est la variation de vitesse. Et on voit que dans le cas d’un loup à disons 52km/h qui entre en collision avec des cornes de bélier immobile, on passe instantanément à une vitesse nulle, ce qui génère une énergie à absorber notamment on le voit ici, dans la déformation du crane et des vertèbres est donc en général déconseillé pour la santé et ce petit détail en cadeau : ne relève plus de la théorie de la mécanique générale mais de la physique des chocs.
-
-Kim était là dévorait Loir des yeux ce qui lui fit plaisir et le mit mal à l'aise à la fois. Il avait quelque chose à éclairsir et c'était l'occasion ou jamais. Il  essaya d’amener le sujet sans se dévoiler.
+Kim était là dévorait Loir des yeux ce qui lui fit plaisir et le mit mal à l'aise à la fois. Il avait quelque chose à éclaircir et c'était l'occasion ou jamais. Il  essaya d’amener le sujet sans se dévoiler.
 
 - Et sinon ces expériences comment ça se passe?
 - Bien je crois je fais pas grand chose finalement lui répondit Kim en soupirant. Surtout de la manutention, je risque ma vie en faisant la vaisselle.
 - Et concrètement, vous infectez les Martins Marie? pour de vrai? - détourner l'attention de la vrai question.
 - Ben oui ça leur fait pas grand chose, même limite ça leur fait du bien.
 - Ah ouai c'est vraiment cool - mise en confiance.
-- C'est marrant on a jamais pensé si ça se transmettait aux animaux...
-- Tu veux dire que le bélier pourrait avoir été infecté?? - bon raté
-- Shhh attend j'en sais rien. Il faut pas en parler tant qu'on est pas sur d'accord?
+- C'est marrant on n'a jamais pensé si ça se transmettait aux animaux...
+- Tu veux dire que le bélier pourrait avoir été infecté?? - bon c'est raté!
+- Shhh attend j'en sais rien. Il faut pas en parler tant qu'on est pas sûr d'accord?
 
 Kim, dont l'égo était flatté par la mise dans la confidence, essayait de mesurer l'ampleur de la révélation. Son ton se fit hésitant :
 
 - Donc euh... on est d'accord, Mylène est louche?
-- Voilà si tu pouvais garder un oeil sur elle discrètement ça pourrait faire avancer l'enquête.
-- Ça expliquerait peut être le fait qu'elle me tienne à l'écart de tout ce qui est un peu technique. Sa voix pris une inflexion plaintive. Mais elle a toujours le dernier mot aussi, en vrai tu peux pas test elle a toujours raison on peut jamais discuter.
+- Voilà si tu pouvais garder un œil sur elle discrètement ça pourrait faire avancer l'enquête.
+- Ça expliquerait peut-être le fait qu'elle me tienne à l'écart de tout ce qui est un peu technique. Sa voix pris une inflexion plaintive. Mais elle a toujours le dernier mot aussi, en vrai tu peux pas test elle a toujours raison on peut jamais discuter.
 
-Ils se rendirent alors compte qu'ils parlaient à voix basse mais plutôt fort et de très près ce qui contrastait assez avec une attitude normale : l'opposé de la discrétion donc. D'ailleurs quelques personnes commençaient à les regarder bizarrement. Ils se redressèrent et reprirent une posture trop normale pour ne pas être louche. Finirent leur repas à grosses bouchées et se séparèrent à la hâte.
+Ils se rendirent alors compte qu'ils parlaient à voix basse mais plutôt fort et de très près ce qui contrastait ostensiblement avec une attitude normale : l'opposé de la discrétion donc. D'ailleurs quelques personnes commençaient à les regarder bizarrement. Ils se redressèrent et reprirent une posture trop droite pour ne pas être louche. Finirent leur repas à grosses bouchées et se séparèrent à la hâte.
 
 # 19 La vraie enquête
 
-E sait que : des tests on été faits sur les brebis mais personne n’en parle. Niveau compétence c’est probablement Mylène donc elle cache quelque chose.
-Il prend son courage à 2 main et va voir d’où venait le fantôme. 
+Loir était de retour dans la chambre qui lui servait de grotte. Ou le contraire. 
 
-Petit sentier et Vinvin voit des petites branches cassées. 
+- Un vrai gros coup cette fois-ci, même un coup fumeux si ça se trouve! Il faudrait vraiment que je trouve du tabac à mettre dans cette pipe se dit-il. Quelqu'un cachait quelque chose et ce quelqu'un était sûrement Mylène. Mais qu'est-ce qu'elle fabrique à faire des expériences sans le dire à personne? Un plan machiavélique? D'un autre côté elle n'est pas en train de sacrifier des bébés les nuits de pleine lune. Si ça se trouve elle n'a pas de mauvaises intentions. Mais mystère quand même... D'ailleurs "pleine lune", tiens, ça me fait penser que j'ai bien occulté le fait d'avoir vu une espèce de fantôme. Vu de mes yeux! De très loin et dans la nuit certes mais il y avait forcément quelque chose. Avec le recul Loir pouvait y penser sans angoisser au point de s'encouetter [^](s'enterrer sous un couette). Il était temps d'aller explorer cette piste mais de jour, et pas tout seul voir avec un Vinvin qui pourra "lever" les animaux et les trucs désagréables qui font peurs.
 
-Trouvent une vieille petite cahute fermée à clé alors qu'on était sensé avoir ouvert tous les bâtiments.
+Le lendemain malheureusement un grand soleil brillait. Il était pourtant l'heure indécente de 9h30! Pas d'excuse valable et il faut le noter une petite envie de découvrir une vérité, d'aller creuser à un endroit pour répondre à une question, de faire de la lumière sur un mystère.
 
- un passage pour expliquer le concept de clé à Vinvin 
+1ère étape trouver Vinvin. Il était souvent vers l'école c'est à dire qu'il passait de temps en temps dans une salle de classe mais ne restait jamais très longtemps. Personne n'y trouvait à redire parce que personne n'avait envie de le faire asseoir tranquillement plus d'un quart d'heure. Il s'en suivait toujours de sévère séquelles auditives et psychologique. On pouvait généralement se fier à son ouïe mais il fallait toujours chercher en trois dimensions car il n'était pas rare de le retrouver au sommet d'un cèdre, d'un toit ou dans un trou. Il était facile de l’appâter en utilisant un des mots qui fonctionne toujours avec les enfants et les gens en recherche d'approbation sociale : mission, quête ou task force. Pour Vinvin : chasse au fantôme convenait parfaitement.
 
-Kim pourrait reconnaître l'écriture de Mylène
+Il partirent donc dans les vallons au sud est de Montségur à un demi douzaine de kilomètre ils arrivèrent à l'endroit ou il avait eu son hallucination. En contre bas 700 mètres plus loin au fond de la vallée de l'autre coté du bassin versent. Effectivement en plein jour de mai ensoleillé l'ambiance était moins pesante que dans ces souvenirs. Il était temps de couper à travers la bruyère pour rejoindre le lieu de l'apparition. Loir était aussi mal à l'aise et maladroit que son compagnon était dans son élément. L'un se frayait un chemin avec l'aisance du blaireau en rûte pendant que l'autre passait de longues secondes à essayer d'écarter les ronces et les branches qui, quoiqu'il fasse s’accrochait à ses vêtements.
 
-_Autres indices?_
-
-E va enquêter : il retrouve des indices qui le mènent à 
-
-- voir une planque donc comprendre que A a été zombie (personne ne la vu pendant sa période de coma)
-- on retrouve une blouse blanche qui fait fantôme et des bocaux qui auraient pu être des boites de pétrie.
-- carnet : elle avait discrètement marqué les bêtes infectées _aide ivanna pour les détails ?_
-
-_Inclure la presse?_
-
----
-
-
-
-Loir était de retour dans la chambre qui lui servait de grotte. Un vrai gros coup cette fois-ci, même un coup fumeux si ça se trouve! Il faudrait vraiment que je trouve du tabac à mettre dans cette pipe se dit il. Quelqu'un cachait quelque chose et ce quelqu'un était sûrement Mylène. Mais qu'est ce qu'elle fabrique à faire des expériences sans le dire à personne? Un plan mackiavélique? D'un autre côté elle n'est pas en train de sacrifier des bébés les nuits de pleine lune. Si ça se trouve elle n'a pas de mauvaises intentions. Mais mystère quand même... D'ailleurs "pleine lune", tiens, ça me fait penser que j'ai bien occulté le fait que j'ai vu un espèce de fantôme vu de mes yeux! De très loin et dans la nuit certe mais il y avait forcément quelque chose. Avec le recul Loir pouvait y penser sans angoisser au point de s'encouetter (s'enterrer sous un couette). Il était temps d'aller explorer cette piste mais de jour, et pas tout seul voir avec avec un Vinvin qui pourra lever les animaux et les trucs désagréables qui font peurs.
-
-Le lendemain malheureusement un grand soleil brillait. Il était pourtant l'heure indécente de 9h30! Pas d'excuse valable et il faut le noter une petite envie de découvrir une vérité. D'aller creuser à un endroit pour répondre à une question, de faire de la lumière sur un mystère.
-
-1èrer étape trouver Vinvin. Il était souvent vers l'école c'est à dire qu'il passait de temps en temps dans une salle de classe mais ne restait jamais très longtemps. Personne n'y trouvait à redire parce que personne n'avait envie de le faire assoir tranquillement plus d'un quart d'heure. Il s'en suivait toujours de sévère séquelles auditives et psychologique. On pouvait généralement se fier à son ouie mais il fallait toujours chercher en trois dimensions car il n'était pas rare de le retrouver au sommet d'un cèdre, d'un toit ou dans un trou. Il était facile de l'appater en utilisant un des mots qui fonctionne toujours avec les enfants et les gens en recherche d'approbation sociale : mission, quête ou task force. Pour Vinvin : chasse au fantôme convenait parfaitement.
-
-Il partirent donc dans les vallons au sud est de Montségur à un demi douzaine de kilomètre ils arrivèrent à l'endroit ou il avait eu son hallucination. En contre bas 700 mètres plus loin au fond de la vallée de l'autre coté du bassin versent. Effectivement en plein jour de mai ensoleillé l'ambiance était moins pesante que dans ces souvenirs. Il était temps de couper à travers la bruyère pour rejoindre le lieu de l'apparition. Loir était aussi mal à l'aise et maladroit que son compagnon était dans son élément. L'un se freillait un chemin avec l'aisance du blaireau en rute pendant que l'autre passait de longues secondes à essayer d'écarter les ronces et les branches qui, quoiqu'il fasse s'accorchait à ses vetements.
-
-Après avoir sauter avec plus ou moins de succès par dessus un ruisseau. Sachant que les notions de succès étaient relatives et qu'un Vinvin dans une flaque de boue égal un enfant qui aura passé un bon moment dans sa journée. Il arrivèrent à peu près à l'endroit repéré. Loir ne vit rien de particulier, Vinvin quand à lui avait l'air ravi : 
+Après avoir sauté avec plus ou moins de succès par dessus un ruisseau. Sachant que les notions de succès étaient relatives et qu'un Vinvin dans une flaque de boue équivalait à un enfant qui aurait passé un bon moment dans sa journée. Il arrivèrent à peu près à l'endroit repéré. Loir ne vit rien de particulier, Vinvin quand à lui avait l'air ravi : 
 
 - Regarde un vieux chemin que je connaissais pas
-- Ca un chemin? là on est dans une haie qui borde un ruisseau...
-- Si regarde du goudron si on gratte là et là. Ça continue par là. Dit il en partant vers l'amont.
-- Rholala c'est pas discret : des branches cassées dans  tous les sens, des empreintes de partout
-- Ah oui effectivement.. tenta Loir pour qui se pensait pourtant dans un bois vierge de toute présence humaine.
-- Attention aux zombies on les voit pas de loin ici cria Loir alors que Vinvin commençait à s'éloigner.
+- Ça un chemin? là on est dans une haie qui borde un ruisseau...
+- Si regarde du goudron si on gratte là et là. Ça continue par là. Dit-il en partant vers l'amont. Rholala c'est pas discret : des branches cassées dans tous les sens, des empreintes de partout
+- Ah oui effectivement.. tenta Loir pour qui se pensait pourtant dans un bois vierge de toute présence humaine. Attention aux zombies on les voit pas de loin ici cria Loir alors que Vinvin commençait à s'éloigner.
 
 Après quelques dizaines de minutes le chemin s'étrécit et s'éleva sur la droite. Ce qui avait du être jadis une allée d'une coquette maison de campagne.
 
-- Ah tiens on en découvre tous les jours! se dit Loir en remontant l'ex chemin par un semblant de sentier zigzagant entre les chênes et les érables.
+- Ah tiens on en découvre tous les jours! se dit Loir en remontant l'ex-chemin par un semblant de sentier zigzagant entre les chênes et les érables.
 
-Vinvin était surexcité , il relevait deci delà des traces de pas, des branches cassées.
+Vinvin était surexcité , il relevait de-ci de-là des traces de pas, des branches cassées.
 
-- C'est possible que le coupable soit un chevreuil? demanda t'il Parce que là j'ai bien l'impression qu'il est impliqué dans le coup.
+- C'est possible que le coupable soit un chevreuil? demanda t'il. Parce que là j'ai bien l'impression qu'il est impliqué dans le coup.
 - Il habitait peut être là avant essaya Loir
 - Mouais dit Vinvin suspicieux en se grattant le menton. Quand même il perd rien pour attendre celui là.
 - Non, ce n'est pas le sujet
@@ -1355,20 +1342,20 @@ Vinvin était surexcité , il relevait deci delà des traces de pas, des branche
 Ils continuèrent à avancer lentement. Loir parce qu'il faisait attention d'esquiver les branches et les ronces Vinvin car il effectuer des cercles autour de Loir pour fouiller les trous, et recenser les champignons. Ils finirent par arriver devant une battisse en train de se faire littéralement dévorer par la flore : du lierre recouvrait intégralement la façade et des arbres poussaient de plus en plus près de la bâtisse l'enveloppant comme pour la digérer. La porte principale était pourtant bien dégagée. Vinvin essaya de l'ouvrir, mascagnant la poignée dans tous les sens jusqu'à s'y pendre de tout son poids.
 
 - Diablerie! C'est bloqué, il doit y avoir un truc derrière qui bloque.
-- Ou alors elle est fermé à clé. C'est une vieille technique pour pas qu'on puisse ouvrir une porte quand on n'a pas la petite clé qui correspond. Tu vois normalement on la rentre dans ce trou et on tourne je crois et ça s'ouvre.
+- Ou alors elle est fermé à clé. Devant l'air interdit de Vinvin, expliqua : c'est une vieille technique pour pas qu'on puisse ouvrir une porte quand on n'a pas la petite clé qui correspond. Tu vois normalement on la rentre dans ce trou et on tourne je crois et ça s'ouvre.
 - Wouah c'est la classe! Mais ça sert à quoi?
 
-Depuis la coupure le rapport à la propriété avait changé du tout au tout. On était passé d'un monde ou chacun chacune était censé passer sa vie à fournir des efforts pour acquérir de la richesse à un monde de abondance immobilière. Les clés avaient peu à peu disparues avec la convoitise.
+Depuis la coupure le rapport à la propriété avait changé du tout au tout. On était passé d'un monde ou chacun chacune était censé passer sa vie à fournir des efforts pour acquérir de la richesse, à un monde d'abondance immobilière. Les clés avaient peu à peu disparues avec la convoitise.
 
-Loir essaya vaguement de forcer la porte car il avait supposément plus de force. Lucide, il entreprit de faire le tour de la maison. Certaines fenêtres était refermées par des volets ostensiblement verrouillés, d'autres ouvertures du rez-de-chaussé avaient été barricadées avec des planches. Il firent le tour de la maison et, de l'autre côté remarquèrent une petite fenêtre à l'étage.
+Loir essaya vaguement de forcer la porte car il avait supposément plus de force. Lucide, il entreprit de faire le tour de la maison. Certaines fenêtres étaient refermées par des volets ostensiblement verrouillés, d'autres ouvertures du rez-de-chaussé avaient été barricadées avec des planches. Il firent le tour de la maison et, de l'autre côté remarquèrent une petite fenêtre à l'étage.
 
 - Ce serait balo d'être venu ici pour rien non?
 
-Vinvin ne trouvait pas ça spécialement dommageable mais était toujours chaud pour un défis à enjeux traumatiques. Heureusement de fins chênes avaient poussé près du mur et pouvaient servir pour grimper le long de celui-ci.
+Vinvin ne trouvait pas ça spécialement dommageable mais était toujours chaud pour un défis à enjeux traumatiques. Heureusement de fins chênes avaient poussés près du mur et pouvaient servir pour grimper le long de celui-ci.
 
 - Attend avant d'y aller tête baissée gros bourrin. Il faut qu'on fasse en sorte que tu puisses atteindre la poignée depuis l'extérieur. Ce qui veut dire...
 
-Loir proposa un sourire, se baissa pour ramasser une pierre tout en observant la réaction de Vinvin. Le visage de celui-ci s'illumina offrant le chaleureux spectacle  attendu. Vinvin se précipita sur le sol et en un rien de temps eu les mains charger de petite pierre. Loir avait déjà commencé à essayer de viser la fenêtre et son unique carreau mais heureusement pour Vinvin ses jets s'avéraient très imprécis. Là ou il fallut seulement à 2 essais au gamin pour entendre le satisfaisant bruit de carreau cassé. Ils mirent 2 3 lancés supplémentaires pour la forme puis Vin se lança dans l'escalade. Arque-bouté, dos au mur il donna l'impression de marcher sur le tronc à proximité et arriva sans difficultés à la fenêtre. Il prit quand même le temps d'essayer de ne pas se tailler avant de basculer à l'intérieur de la maison.
+Loir proposa un sourire, se baissa pour ramasser une pierre tout en observant la réaction de Vinvin. Le visage de celui-ci s'illumina offrant le chaleureux spectacle  attendu. Vinvin se précipita sur le sol et en un rien de temps eu les mains charger de petite pierre. Loir avait déjà commencé à essayer de viser la fenêtre et son unique carreau mais heureusement pour Vinvin ses jets s'avéraient très imprécis. Là où il fallut seulement 2 essais au gamin pour entendre le satisfaisant bruit de carreau cassé. Ils mirent 2 3 lancés supplémentaires pour la forme puis Vin se lança dans l'escalade. Arque-bouté, dos au mur il donna l'impression de marcher sur le tronc à proximité et arriva sans difficultés à la fenêtre. Il prit quand même le temps d'essayer de ne pas se tailler avant de basculer à l'intérieur de la maison.
 
 - C'est super!
 
@@ -1378,30 +1365,26 @@ Loir proposa un sourire, se baissa pour ramasser une pierre tout en observant la
 
 - Descend et ouvre une fenêtre et ses volets steuplait.
 
-5 min plus tard et un boucan faire fuir le gibier sur 10 hectares un des volets de la façade s'ouvrit. Loir rejoint Vinvin à  l'intérieur de l'ancienne demeurre, ils entreprirent d'ouvrir  les autres fenetres pour faire entrer le soleil mettant en évidence la poussière occupée à valser dans les rayons de lumière. La pièce principale était surtout constituée d'une grande table sur laquelle étaient alignés des pots en verre de toutes tailles et forme contenant un fond de solution dont la couleur etla texture semblaient varier d'un pot à l'autre. Une boite de bougies et un microscope était également posé sur la table. Ce qui orientait clairement la fonction des pots alignés et numérotés. Un cahier était également posé contenait à première vue une série de chiffre en colonnes, une autre page contenait une liste de lettres grecques suivi de dates et de croix. Le dernier symbole : epsilon était entouré plusieurs fois. 
+5 min plus tard et un boucan faire fuir le gibier sur 10 hectares un des volets de la façade s'ouvrit. Loir rejoint Vinvin à  l'intérieur de l'ancienne demeure, ils entreprirent d'ouvrir  les autres fenêtres pour faire entrer le soleil mettant en évidence la poussière occupée à valser dans les rayons de lumière. La pièce principale était surtout constituée d'une grande table sur laquelle étaient alignés des pots en verre de toutes tailles et forme contenant un fond de solution dont la couleur et la texture semblaient varier d'un pot à l'autre. Une boite de bougies et un microscope était également posé sur la table. Ce qui orientait clairement la fonction des pots alignés et numérotés. Un cahier était également posé contenait à première vue une série de chiffre en colonnes, une autre page contenait une liste de lettres grecques suivi de dates et de croix. Le dernier symbole : epsilon était entouré plusieurs fois. 
 
 - On a découvert un secret demanda Vinvin?
 - On dirait bien mais qu'est ce que quoi que tout ça?
 
 Puis Loir se retourna et vit, sur un porte-manteau à côté de la porte une blouse blanche et des lunettes de protection. 
 
-- Ah déjà un fantôme qui pourrait s'expliquer : la chasse aura été fructueuse! Maintenant : qu'est ce que tout ça veux dire?
+- Ah! déjà un fantôme qui pourrait s'expliquer! On aura pas perdu la journée, ça fait du bien mine de rien. Maintenant : qu'est ce que tout ça veux dire?
 
-Qu'est ce qu'on peut se sentir con quand on a la solution! 
+Loir était soulagé mais c'est toujours pareil avec les problèmes qui se posent : qu'est ce qu'on peut se sentir con quand on a la solution! Ils firent encore le tour de la maison, trouvèrent une autre pièce fermée à clé mais dont la clé était pendue à un clou juste à côté. Vinvin insista vivement pour ouvrir la porte. Il prit la clé des mains de Loir et la fit maladroitement tourner dans la serrure en tirant la langue. Après avoir tourné dans un sens, dans l'autre, plusieurs fois il sentit le clic du loquet qui se libère. Il ouvrit la porte qui révéla une chambre sans lumière contenant seulement un vieux lit sans drap et une écuelle vide. Loir voulu regarder Vinvin d'un air entendu mais celui-ci était déjà sorti explorer le reste de l'étage.
 
-Il firent encore le tour de la maison, trouvère une autre pièce fermée à clé mais dont la clé était pendue à un clou juste à côté. Vinvin insista vivement pour ouvrir la porte. Il prit la clé des main de Loir et la fit maladroitement tourner dans la serrure en tirant la langue. Après avoir tourné dans un sens, dans l'autre, plusieurs fois il sentit le clic du loquet qui se libère. Il ouvrit la porte qui révéla une chambre sans lumière contenant seulement un vieux lit sans drap et une écuelle vide. Loir voulu regarder Vinvin d'un air entendu mais celui-ci était déjà sorti explorer le reste de l'étage.
+Sur le chemin du retour, Loir songeait. C'était une impression bizarre d'être le seul à disposer d'informations importantes perturbant aussi. C'est que l'excitation de son nouveau statut de professionnel de l'investigation avait laissé la place à un sentiment de malaise. Il se rendit compte confusément que même un asocial basait sa vie sur des interactions, sur une structure sociale. Mylène était discrète, n'avait très peu de responsabilités mais son assurance, sa prestance planait en arrière plan depuis toute une vie. Une figure respectée tout ce temps, inconsciemment, pèse lourd psychologiquement, le jour il disparaît ou est remis en question.
 
-Perturbé, sur le chemin du retour. C'est que l'excitation de son nouveau statut de professionnel de l'investigation avait laissé la place à un sentiment de malaise. Il se rendit compte confusément que même un asocial basait sa vie sur des interactions, sur une structure sociale. Mylène était discrète, n'avait très peu de responsabilités mais son assurance, sa prestance planait en arrière plan depuis toute une vie. Une figure respectée tout ce temps, inconsciemment a son poids qui se dévoile le jour il disparait ou est est remis en question.
-
-- Mais à quoi pouvait elle bien jouer? Essayer de soigner Bambi d'accord, pourquoi pas, n'importe qui comprendrait, le faire en cachette pourquoi pas : elle aurait pu avoir peur qu'on lui dise que c'était trop dangereux... Encore que Mylène avait un tel mental qu'elle n'aurait probablement même pas réfléchis au fait qu'on puisse l’empêcher de faire ce qu'elle voulait... 
-
-Puis une colère : tout le monde comptait sur elle pour trouver un remède et elle fait semblant de chercher alors que visiblement Bambi est réparé.
-
-Mais quoi? que faire? La confronter directement?  J'aimerais bien ça qu'elle s'explique. Mais est ce que Bambi est au courant? D'accord c'est pas une flêche mais est ce qu'on peut devenir un zombie puis se dézombifier sans s'en apercevoir? 
+- Mais à quoi pouvait elle bien jouer? Essayer de soigner Bambi d'accord, pourquoi pas, n'importe qui comprendrait, le faire en cachette pourquoi pas : elle aurait pu avoir peur qu'on lui dise que c'était trop dangereux... Encore que Mylène avait un tel mental qu'elle n'aurait probablement même pas réfléchi au fait qu'on puisse l’empêcher de faire ce qu'elle voulait...  Puis une colère sourde monta : tout le monde comptait sur elle pour trouver un remède et elle fait semblant de chercher alors que visiblement Bambi était réparé. Mais quoi? que faire? La confronter directement?  J'aimerais bien ça qu'elle s'explique. Mais est ce que Bambi est au courant? D'accord c'est pas une flèche mais est-ce qu'on peut devenir un zombie puis se dézombifier sans s'en apercevoir? 
 
 # 19.1 Kim  /Loir
 
-- Il faut prévenir Mikhail ou une grande personne  au village!
+
+
+- Il faut prévenir Mikhail ou une grande personne au village!
 - La première chose qu'il vont faire c'est se référer à Mylène. C'est notre parole contre la sienne. Même à 3 on fait pas le poids, il nous faut des preuves.
 - Comment prouver que Bambi ait été infecté? Même moi je suis pas convaincu...
 
@@ -1764,92 +1747,11 @@ Je me suis réveillée ça va, je disais quoi ?
 
 
 
-## Cours de civilisation : Les véhicules
-
-Aujourd'hui c'était le cours de Fastand de faire son heure de cours. Il était ce qui se rapprochait le plus de la fonction de garagiste. Qui consistait surtout à identifier ce qui marchait sur certaines voiture et à passer outre tout ce qui était électronique.
-
-- Alors quoi que vous connaissez comme véhicules?
-- Les chevals?
-- Les chevals non mais je parle de véhicules avec des moteurs. Des moteur à explosion!
-
-Autant il n'était pas à chevaux sur les fautes de français autant il aimait bien accentuer les mots en fonction de leur signification. Certains élève sursautèrent au mot explosion. L’excitation de la classe monta d'un cran et les mains se levèrent.
-
-- La voiture!
-- Les tracteurs!
-- Un cheval qui explose?!
-- Des 'ros camions
-
-Fastand qui aimait la tournure que prenait la séance reprit la parole.
-
-- C'est très bien, on en a pas mal.
-- Des motos! Fit une petite voix enthousiaste
-- Super ça! Dans les 2 roues y'a les vrais grosse motos, les plus petites comme les mobylettes ou les scooters,  les cross en général tout ça c'est du 2 temps... Bref comment ça marche les moteurs?
-- ...
-- Explosion?!
-- Oui explosions! reprit en cœur la  classe accompagné d'onomatopées idoines.
-- Et qu'est ce met dans les machines pour avoie des explosions?
-- ... Des pétards?
-- Mmh pas tout à fait non. Rien vraiment? Eh bien c'est de l'essence. Vous en avez jamais vu? C'est du jus qu'on fabriquait avant et qui permettait de faire marcher plein de machine, non? A base de pétrole : un truc noir pompé très profond. Bref toujours est-il qu'avant chacun avait sa voiture et allait régulièrement faire le plein dans des... des ... 
-
-Et les réponses fusèrent surtout pour faire plaisir à leur intervenant si enthousiaste.
-
-- des magasins?
-- des bassines?
-- des, comme, des boite?
-
-Il reprit le contrôle
-
-- Des stations essence, d'ailleurs y'en a un vestige à la sortie du village, ça pourra faire une sortie de classe. Et puis un jour il faudra bien que vous sachiez comment récupérer l'essence dans une cuve enterrée on sait même pas ou exactement sans électricité, sans les clefs et les codes et les manuels.
-
 
 ## Les avions
 Alors oui on pouvait voler ça c'est vrai que c'est plutôt la classe
 
-## Internet
 
-Vous voyez la magie? Alors, il faut bien faire la différence entre ce qui existait pour de vrai et les inventions des fictions. Déjà, vous connaissez la différence en un fiction et un documentaire? 
-
-- La fiction c'est comme une histoire.
-- Oui c'est mignon. C'est des histoires qu'on se raconte. Et des documentaires de toute façon sont assez dur à se procurer ces temps-ci. Pour ça il faut mieux aller à la bibliothèque. Bref alors on va faire un petit quizz, vous me direz si c'est imaginaire ou si ça a vraiment exister.
-- ou les 2?
-- Euh non pas "ou les 2"... Alors : le fait de pouvoir contacter et parler à l'oral ou par écrit n'importe qui sur la planète quand on veut.
-
-La majorité des enfant répondirent "vraiment existé" certain par mimétisme avec un léger décalage et quelque 'imaginaire!' également. 
-
-- Oui ça a existé et vous savez grâce à quoi?
-
-- au téléphone! reprirent quelques petits en cœur.
-
-- C'est bien : à ne pas confondre avec les boules de cristal et la télépathie qui n'existe pas.
-
-- Attention... : Avoir accès à toute les encyclopédies du monde depuis n'importe ou?
-
-  Les enfants firent leur paris.
-
-- pareil? vous croyez? Et bien oui vous savez comment?
-
-- euh les téléphones! tenta un élève.
-
-- Très bien Turbo
-
-- Bon vous avez compris le téléphone  pouvait servir à beaucoup de chose. A quoi d'autre par exemple ?
-
-- A pas se perdre avec une carte!
-
-- A savoir le temps?
-
-- A faire pipi
-
-- A jouer de la musique très vite
-
-- A faire des ricochets
-
-C'était le moment pour la maitresse d'intervenir. Vous avez déjà vu? venez voir. Il y avait un exemplaire fonctionnel. On opouvait le toucher comme ça, mais maintenant plus rien ne marche. Vous savez pourquoi?
-
-- Parce que c'est nul!
-- 
-
-...
 
 
 
