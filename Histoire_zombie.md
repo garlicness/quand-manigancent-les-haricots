@@ -1041,7 +1041,7 @@ Martin acquiesça en essayant de mettre l’événement en perspective. Kim qui 
 - Alors, euh, liaison triple avec H2O...
 - Non mais voilà il faut bien connaître tout ça avant de s'improviser bio chimiste aussi, tu crois quoi? Aller là j'ai plus besoin de toi, t'as qu'à aller bosser un peu. On a fait ce qu'on a pu.
 
-Loir arriva sur ces entre faits. Son aspect était plus serein qu'à l'accoutumée. C'était une bonne idée d'avoir attendu 10 min en haut de la côte, hors de vue de la maison de Mylène afin de ne pas arrivé essoufflé et transpirant. Son élocution était presque intelligible. Il semblerait que les aventures vécues ces jours-ci avaient finies par lui donner ce minimum de confiance en soit nécessaire aux interactions sociales.
+Loir arriva sur ces entre-faits. Son aspect était plus serein qu'à l'accoutumée. C'était une bonne idée d'avoir attendu 10 min en haut de la côte, hors de vue de la maison de Mylène afin de ne pas arrivé essoufflé et transpirant. Son élocution était presque intelligible. Il semblerait que les aventures vécues ces jours-ci avaient finies par lui donner ce minimum de confiance en soit nécessaire aux interactions sociales.
 
 - Bonjour tout le monde!
 - Ah tiens en parlant de pu dit Mylène et "plop" fit la bulle de confiance en soit. Mylène se racla la gorge, se rendant compte que son humour pouvait faire des dégâts sur les bulles de confiance en soit.  "Rapport aux boutons d'acnée..." ajouta elle sans réussir à se rattraper.
@@ -1380,75 +1380,65 @@ Sur le chemin du retour, Loir songeait. C'était une impression bizarre d'être 
 
 - Mais à quoi pouvait elle bien jouer? Essayer de soigner Bambi d'accord, pourquoi pas, n'importe qui comprendrait, le faire en cachette pourquoi pas : elle aurait pu avoir peur qu'on lui dise que c'était trop dangereux... Encore que Mylène avait un tel mental qu'elle n'aurait probablement même pas réfléchi au fait qu'on puisse l’empêcher de faire ce qu'elle voulait...  Puis une colère sourde monta : tout le monde comptait sur elle pour trouver un remède et elle fait semblant de chercher alors que visiblement Bambi était réparé. Mais quoi? que faire? La confronter directement?  J'aimerais bien ça qu'elle s'explique. Mais est ce que Bambi est au courant? D'accord c'est pas une flèche mais est-ce qu'on peut devenir un zombie puis se dézombifier sans s'en apercevoir? 
 
-# 19.1 Kim  /Loir
+# 19.1 Discussion Kim  / Loir / Arya
 
-
+Depuis peu, il y avait finalement une personne à qui Loir pouvait parler en la personne de Kim. Ils ne s'étaient pas vraiment intéressés l'un à l'autre jusque là car il était facile de répercuter le mépris dont on était victime indifféremment sur les oppresseurs et les autres victimes. Il est possible d'être différents de tellement de façon qu'on a pas forcément d'affinité entre minorités. Un tort pour les adolescents qui auraient pu ériger ensemble des palissades de défense contre les assauts incessants de solitude. Kim avait toujours l'air très calme mais le ton de sa voix se faisait fébrile.
 
 - Il faut prévenir Mikhail ou une grande personne au village!
 - La première chose qu'il vont faire c'est se référer à Mylène. C'est notre parole contre la sienne. Même à 3 on fait pas le poids, il nous faut des preuves.
-- Comment prouver que Bambi ait été infecté? Même moi je suis pas convaincu...
+- Comment prouver que Bambi a été infecté? Même nous n'est pas 100% convaincus...
 
-# 19.2 Arya / Loir 
-
-Arya arriva sur ces entrefaits marchant trop vite. Avec un air soucieux qu'on ne lui connaissait pas. Ca faisait peur. Elle avait eu peur elle aussi : elle a eu la même expérience avec Bambi. C'est étonnant comment les peurs, les angoisses qui sortent de l'ordinaire peuvent sauter aux yeux même quand on essaye de le cacher, de se calmer, de ne pas courir de ne pas crier. 
+Arya arriva sur ces entre-faits. En marchant trop vite. Avec un air soucieux qu'on ne lui connaissait pas. Ça faisait peur. Elle avait eu peur elle aussi : elle a eu la même expérience avec Bambi. C'est étonnant comment les peurs, les angoisses qui sortent de l'ordinaire peuvent sauter aux yeux même quand on essaye de le cacher, de se calmer, de ne pas courir de ne pas crier. 
 
 - Qu'est ce qui s'est passé?
 - Il a rien dit...
 - Bambi? 
-- Il a rien dit, il a jamais fait ça, une ride sur son front. Il est parti chez Mylène comme d'hab je crois.
-- Qu'est ce que j'ai peur, je sais pas pourquoi... Une larme coulait sur chaque joue
+- Il a rien dit, il a jamais fait ça, y'avait une ride sur son front d'un côté et de l'autre une veine... Il est parti chez Mylène comme d'hab je crois. Qu'est ce que j'ai peur, je sais pas pourquoi... Une larme coulait sur chaque joue.
 
-Loir avec un peu trop d'enthousiasme
-
-- A voilà! Même lui, il se dit qu'il y a quelque chose de chelou. Par contre s'il est aussi sur le coup j'ai un peu l'impression qu'on est à la bourre.
+- A voilà! S'exclama Loir avec un peu trop d'enthousiasme. Même lui, il se dit qu'il y a quelque chose de chelou. Par contre s'il est aussi sur le coup j'ai un peu l'impression qu'on est à la bourre.
 
 Le soleil accélérait son déclin en se rapprochant de l'horizon.
 
-- Bon en plus maintenant là y'a pas le choix, il faut aller voir Mylène, lui donner.
+- Bon ben maintenant on a plus trop le choix, il faut aller voir Mylène.
 
+Des fois le stress vous fait faire n'importe quoi. Il vous prend aux tripes et vous fait considérer seulement votre projet, votre cause en mettant de côté vos intérêts personnels ou même votre intégrité physique. C'est très dangereux de mettre à l'épreuve ses convictions, c'est comme ça qu'on en arrive à faire des sacrifices de type irréversibles.
 
-
-_pretexte pour que Kim et Arya ne viennent pas?_
-
-_Ou alors elle viennent mais elle ne peuvent pas parler au procès_
+- Écoutez, je vais y aller tout seul comme ça s'il se passe quelque chose de pas cool, vous serez toujours là pour continuer la résistance. Mais demain ça sera bien.
+- ...
+- Non vraiment faut y aller ce soir? C'est mieux hein. Oui bon.
 
 # 20 Mission espionnage qui tourne mal
 
 - Et merde, fait chier! 
 
-Depuis quelque temps il se rendait compte que ça lui faisait du bien de parler tout seul à haute voix.
+Depuis quelque temps Loir se rendait compte que ça lui faisait du bien de parler tout seul à haute voix.
 
-- Y'a cas être discret, il fait froid, il se passe des choses importante et personne n'est là pour les voir. Et du coup on comprend rien à ce qui se passe!
+- Y'a cas être discret, il fait froid, il se passe des choses importante et personne n'est là pour les voir. Et du coup on comprend rien à ce qui se passe! Aller au mieux elle dort et y'a rien à faire, juste un petit détour. Même si oui là j'ai un peu la flemme.
 
-- Il faut que je fasse un détour par chez Mylène. Oh putain j'ai la flemme, mais pas assez. Aller au mieux elle dort et y'a rien à faire, juste un petit détour.
 
-Il commençait à faire froid dans la pénombre de cette soirée de mai. Il allait faire nuit une fois sur place
+Un ado gambergeant chemine dans l'ombre fraîche d'une jeune et innocente nuit de juin. Il allait faire nuit noire une fois sur place. Précédé de son appréhension il hésite à allumer sa torche de peur de perdre en vision à longue portée ce qu'il y gagnerait pour savoir où mettre ses pieds. Il se laissa finalement envelopper de pénombre, la lune se levait plus tard en ce moment. Il commençait à connaître le chemin et se sentait comme invisible. Moins une proie qu'un ninja. 
 
----
+Il finit par arriver à la maison de Mylène, ne sachant toujours comment il allait justifier sa présence à cette heure-ci ni comment aborder la question. Ni s'il allait dire bonsoir, salut... sûrement bredouillerait il quelques consonnes, ça faisait le taf d'habitude. Une faible lueur venait d'une fenêtre, c'était la cuisine. Il ne restait qu'à s’approcher discrètement. Ce qu'il fit en bénissant le fait que les chiens c'était pas vraiment son truc à Mylène. Quelque chats habitaient dans le coin mais ils étaient bien trop sûr d'eux pour prendre la présence d'humains étrangers comme une invasion. Il fallu se baisser un peu, faire attention mais trop peu de lumière venait de l'extérieur si bien qu'on voyait convenablement la cuisine depuis le jardin mais pas l'inverse. Ce dont, soit-dit en passant Loir avait horreur : comment se sentir en sécurité dans un aquarium depuis lequel on ne pouvait pas voir les dangers arriver. Ça le dépassait.
 
-Un ado gambergeant chemine dans l'ombre d'une jeune et innocente nuit. Précédé de son appréhension il hésite à allumer sa torche de peur de perdre en vision à longue portée ce qu'il allait y gagner pour savoir ou mettre ses pieds. Il se laissa finalement envelopper de pénombre, la lune se levait plus tard en ce moment. Il commençait à connaître le chemin et se sentait comme invisible. Moins une proie qu'un ninja. 
+En s'approchant de la maison, on pouvait entendre une conversation. Même sans en comprendre le sens des phrases, une tension malaisante transpirait des intonations. Loir bien qu’approchant par l'angle de la maison avançait lentement à 4 pattes. On est jamais trop prudent. Arrivé contre le mur il s'assit sous la fenêtre et essaya de calmer sa respiration pour mieux écouter. A priori on était bien sur le scénario imaginé par Loir :
 
-Il finit par arriver à la maison de Mylène, se sachant toujours comment il allait justifier sa présence à cette heure-ci ni comment il aborder la question. Ni s'il allait dire bonsoir, salut... sûrement bredouillerait il quelques consonnes, ça faisait le taf d'habitude. Une faible lueur venait d'une fenêtre c'était la cuisine. Il ne restait qu'à s'aprocher discrètement. Ce qu'il fit en bénissant le fait que les chiens c'était pas vraiment son truc à Mylène. Quelque chats habitaient dans le coin mais ils étaient bien trop sûr d'eux pour prendre la présence d'humains étrangers comme une invasion. Il fallu se baisser un peu, faire attention mais trop peu de lumière venait de l'extérieur si bien qu'on voyait convenablement la cuisine depuis le jardin mais pas l'inverse. Ce dont, soit-dit en passant Loir avait horreur : comment se sentir en sécurité dans un aquarium depuis lequel on ne pouvait pas voir les dangers arriver. Ça le dépassait.
-
-En s'approchant de la maison, on pouvait entendre une conversation. Même sans en comprendre le sens des pharase des intonation transpiraient une tension malaisante. Loir bien qu’approchant par l'angle de la maison avançait lentement à 4 pattes. On est jamais trop prudent. Arrivé contre le mur il s'assit sous la fenêtre et esseya de calmer sa respiration pour mieux écouter. Apparemment on était sur un scénario imaginé par Loir :
-
-- ..mais j'hallucine. Tu te rend compte? Tu te rends pas comptes. T'es pas teubé pourtant! Normalement beaucoup moins que moi en tout cas.
+- ..mais j'hallucine. Tu te rends compte?! Tu te rends pas comptes. T'es pas teubé pourtant! Normalement beaucoup moins que moi en tout cas.
 - Maintenant c'est trop tard mon Bambi, ça n'apportera rien de bon.
 - Mais c'est quand même pas à toi de décider
 - Techniquement si : y'a que moi qui sait faire...
 - Mais tu pourrais nous sauver tous et tu fais rien, c'est monstrueux!
 
-Ah donc ça : j'avais pensa Loir.
+Ah donc ça : j'avais. pensa Loir.
 
 - Mais nous sauver pour faire quoi? Tu veux que je te rappelle le monde d'avant? Rien de bon ne va en sortir.
 - ... moi j'en suis sorti
 - Ma faiblesse, le monde est mieux avec toi dedans..
 - Le monde est mieux avec plein de gens dedans
 - Nop pas pour moi, pas pour tout le monde.
-- N'empêche tu ne peux pas nous imposer ta vision... J'hallucine : tu veux annihiler l'humanité comme tous les putains de méchants dans toute les histoires qui nous sont parvenues jusqu'ici.
-- C'est juste un paradigme avec lequel on était conditionné : les humains sont forcément les gentils, il faut sauver l'humanité mais c'est un point de vue comme un autre une croyance. Combien de fois les méchants ont en fait de intentions ou au moins des questionnements complètement valable et ils se font défoncer sans qu'on y réponde.  Thanos dit : il n'y a pas assez de resources et bien c'est vrai.
+- N'empêche tu ne peux pas nous imposer ta vision... J'hallucine : tu veux annihiler l'humanité comme tous les putains de méchants dans toute les mauvaises histoires.
+- C'est juste un paradigme avec lequel on était conditionné : les humains sont forcément les gentils, il faut sauver l'humanité mais c'est un point de vue comme un autre, une croyance arbitraire. Combien de fois les méchants ont en fait des intentions ou au moins des questionnements complètement valables et ils se font défoncer sans qu'on y réponde.  Thanos dit : il n'y a pas assez de ressources et bien c'est vrai.
 
-_Trouver des histoires ou la thématique du méchant passe à la trappe_
+[Trouver des histoires ou la thématique du méchant passe à la trappe]
 
 - Tu m'embrouilles t'es très forte pour ça n’empêche que je peux pas me taire. Je vais le dire...
 
@@ -1456,54 +1446,34 @@ A ce moment Loir fasciné et alerté par ce petit moment de silence releva la t�
 
 - Non!
 
-Le coteau s'abatit sous l'homopathe gauche et se retira aussi. Bambi poussa un cri et raidi en se retournant pour faire face à Mylène. Le couteau remonta àç la vitesse de l'éclair pour aller sectionner la carotide.
+Le coteau s’abattit sous l’omoplate gauche et se retira aussitôt. Bambi poussa un cri et raidi en se retournant pour faire face à Mylène. Le couteau remonta à la vitesse de l'éclair pour aller sectionner la carotide. Pendant que Bambi s'écroula sur le sol en se tenant la gorge, elle se retourna vers la fenêtre pour apercevoir une silhouette.
 
-Pendant que Bambi s'écroula sur le sol en se tenant la gorge, elle se retourna vers la fenêtre pour apercevoir un silhouète.
+Merde! pensa Loir. Ah oui mais c'est moi qui ait crier "non!" je crois. Il vit Mylène courir vers la porte de la cuisine. Panique (elle avait un long couteau ensanglanté qui paraissait sacrément bien affûté ). Peur, fuir. Donc courir dans direction opposée à la menace. Go, à fond. Elle est derrière et court aussi. Ça c'est le danger. But de la manœuvre : courir plus vite que le danger et chercher protection. Protection : village en contrebat à 2.5 km. Loir courrait en trébuchant en respirant fort en une espèce de chute en avant rattrapée de justesse à chaque pas. Au bout de quelques minutes le pas ne suffit pas à rattraper sa chute perpétuelle et il s’étala de tout son long sur le chemin. Il se releva aussitôt mais s'aperçut qu'il n'entendait plus les pas qui le poursuivait. Il n'y pensa guerre plus qu'une fraction de seconde. Car l'absence de preuve de danger n'est clairement pas une preuve de l'absence de danger. Se relever donc pas le temps de se plaindre que les écorchures, ça pique qu'il fait soif et qu'il manque au moins un poumon pour respirer correctement.
 
-Merde! pensa Loir. Ah oui mais c'est moi qui ait crier "non!" je crois. Il vit Mylène courir vers la porte de la cuisine. Panique (elle avait un long couteau ensanglanté qui paraissait sacrément bien affûté ). Peur, fuir. Donc courir dans direction opposée à la menace. Go, à fond. Quelqu'un derrière, qui court aussi. Ca c'est le danger. But de la manœuvre : courir plus vite que le danger et chercher protection. Protection : village en contrebat à 2.5km. Loir courrait en trébuchant en respirant fort en une espèce de chute en avant rattrapée de justesse à chaque pas. Au bout de quelques minutes le pas ne suffit pas à rattraper sa chute perpétuelle et il s’étala de tout son long sur le chemin. Il se releva aussitôt mais s'aperçut qu'il n'entendait plus les pas qui le poursuivait. Il n'y pensa guerre plus qu'une fraction de seconde. Car l'absence de preuve de danger n'est clairement pas une preuve de l'absence de danger. Se relever donc pas le temps de se plaindre que les écorchures, ça pique qu'il fait soif et qu'il manque au moins un poumon pour respirer correctement.
-
-
-
-
-
----
-
-Loir arriva donc au village à bout de souffle. Enfin au delà de tout souffle, en apnée. Il essayait de crier, d'appeler à l'aide et se dirigea vers la halle, le centre du village qui même la nuit restait le lieu le plus densément peuplé et le berceau des institutions ou se situait les demeures des hauts fonctionnaires. De Mikhail entr autre. A la place des cris qu'il aurait voulu alarmants histoire d'ameuter tout le village sortait de petits râles sifflants d'agrafeuse pneumatique ou de vieux chien  asthmatique. Bon, c'est ridicule, d'abord arriver sous la halle, reprendre du souffle puis faire du bruit convenablement.
-
-Arrivant sur la place heureusement il y avait déjà quelque personnes qui paraissaient discuter. Loir arriva en courant, essaya de faire des gestes pour attirer leur attention comme si dans le calme de la nuit il avait pu passer inaperçu. Il fini par arriver au niveau  du groupe et essaya de commencer un phrase. Non finalement il mit les main sur ses genoux. Alors un verbe : 
+Loir arriva donc au village à bout de souffle. Enfin au delà de tout souffle, en apnée. Il essayait de crier, d'appeler à l'aide et se dirigea vers la halle, le centre du village qui même la nuit restait le lieu le plus densément peuplé et le berceau des institutions où se situait les demeures des hauts fonctionnaires. De Mikhail entre autre. A la place des cris qu'il aurait voulu alarmants histoire d'ameuter tout le village sortait de petits râles sifflants d'agrafeuse pneumatique ou de vieux chien asthmatique. Bon, c'est ridicule, d'abord arriver sous la halle, reprendre du souffle puis faire du bruit convenablement. Arrivant sur la place heureusement il y avait déjà quelque personnes qui paraissaient discuter. Loir arriva en courant, essaya de faire des gestes pour attirer leur attention comme si dans le calme de la nuit il avait pu passer inaperçu. Il fini par arriver au niveau  du groupe et essaya de commencer un phrase. Non finalement il mit les main sur ses genoux. Alors un verbe : 
 
 -  "là haut...". Non d'abord le sujet
 
-- "Folie, derrière..." beaucoup trop de C.O.D!
+- "Folie, derrière..." c'est quoi déjà un C.O.D?
 
 Au bout de quelques minutes il releva la tête pour face face à une assemblée médusée. Mihkail, Georges et Mateo et Mylène...
 
-- Oh non. Une expression d'horreur déforma son visage, il posa les yeux sur ses mains ensanglantées puis posa son cul sur le sol, en état de choc. 
+- Oh non... Une expression d'horreur déforma son visage, il posa les yeux sur ses mains ensanglantées puis posa son cul sur le sol, en état de choc. 
 
-Oui bon elle connaît mieux que moi les chemins autour de Montségur, elle a prit un racourci dans a pente entre 2 lacets ça à du même être facile. Elle aura même eu le temps de penser à une histoire ou c'est moi qui tue Bambi.
-
-  
+Oui bon elle connaît mieux que moi les chemins autour de Montségur, elle a prit un raccourci dans la pente entre 2 lacets ça à du même être facile. Elle aura même eu le temps de penser à une histoire ou c'est moi qui tue Bambi.  
 
 # 21 Procès et verdict infection ko, évasion
 
 ### 21.1 Avant proces
 
-Tout se passa ensuite assez vite et de façon assez fluide. Loir essaya bien de protester un peu mais il se rendit lui même compte que chaque intervention le faisait paraître encore plus coupable. Comme ces jeux de rôle ou il faut convaincre les autres joueurs qu'on n'est pas la personne à éliminer ou en général chaque prise de parole aggravait son cas. Comme si, accuser un innocent induisait en lui un comportement de coupable.
-
-Il fût placer dans une pièce du sous sol d'une maison du village qui avait la particularité d'avoir des barreaux aux fenêtres qui donnaient sur la rue. Pour le folklore, elle a vaguement servit de cellule de dégrisement une fois ou deux mais pas plus.
-
-L'avantage était qu'on pouvait facilement lui parler ou moins lui faire passer un message.
-
-Le temps qu'on se décide à organiser, non pas un procès, il n'y avait ni juge ni avocat ni même de loies cohérentes auxquelles se référer mais une petite cérémonie ou discussion pour annoncer le sort qui lui était réservé. Il put donc profiter de quelques jours au calme. Durant lesquels Arya vint lui parler.
+Tout se passa ensuite assez vite et de façon assez fluide. Loir essaya bien de protester un peu mais il se rendit lui même compte que chaque intervention le faisait paraître encore plus coupable. Comme ces jeux de rôle où il faut convaincre les autres joueurs qu'on n'est pas la personne à éliminer, en général chaque prise de parole aggrave son cas. Comme si, accuser un innocent induisait en lui un comportement de coupable. Il fût placé dans une pièce du sous sol d'une maison du village qui avait la particularité d'avoir des barreaux aux fenêtres qui donnaient sur la rue. Pour le folklore, elle a vaguement servit de cellule de dégrisement une fois ou deux mais pas plus. L'avantage était qu'on pouvait facilement lui parler ou moins lui faire passer un message. Le temps qu'on se décide à organiser, non pas un procès, il n'y avait ni juge ni avocat ni même de lois cohérentes auxquelles se référer mais une petite cérémonie ou discussion pour annoncer le sort qui lui était réservé. Il put donc profiter de quelques jours au calme. Durant lesquels Arya vint lui parler.
 
 - A quand même! Pensa t'il c'était censé être une grosse partie de mes soutiens avec Kim et Vinvin.
 - Pourquoi tu as rien fais?
 - Pardon de quoi? Oui c'est bien le point intéressant ici : j'ai rien fait!
 - Mais quoi t'as pas pu l’empêcher de le tuer? T'es une merde, à cause de toi Bambi est mort.
 
-Et voilà le cercle des soutiens qui s'amenuise sacrément.
-
-Plus tard tôt le matin, il reçut la visite de Kim.
+Et voilà le cercle des soutiens qui s'amenuise sacrément. Plus tard dans la semaine, un petit matin, il reçut la visite de Kim.
 
 - Qu'est ce que s'est passé alors? Entendit-il dans un chuchotement qui le réveilla quand même en sursaut. On avait rarement chuchoté aussi fort.
 - Quoi ben salut ça va?
@@ -1511,14 +1481,14 @@ Plus tard tôt le matin, il reçut la visite de Kim.
 - Mais viens m'apporter une chicorée, il vont pas t'enfermer avec moi sous prétexte que tu me parles.
 - J'y mettrais pas ma main à couper...
 
-Kim essayait nerveusement d'avoir l'air naturel en s'adossant au mur mais un crochet de volet dans son dos, s'accrochait à un grand pull dans lequel il y   l’empêchait de toute façon d'avoir l'air vraiment à l'aise. 
+Kim essayait nerveusement d'avoir l'air naturel en s'adossant au mur mais un crochet de volet dans son dos, s'accrochait à son pull trois trop grand l’empêchait de toute façon d'avoir l'air vraiment à l'aise. 
 
 - Mais alors quoi? qu'est ce qu'il s'est passé?
-- Si je te le dis tout, tu me croiras? Tu prendras ma décence?
-- Ca voudrais dire prendre la parole devant tout le monde opur exprimer un avis à l'opposé de ce que tout le monde pense?
-- Voilà ça. Tu le feras
-- Hmm je te rappelle qu'on est pas le plus populaire sur terre... Sachant qu'il y aura de toute façon un espèce de vote et que je pense pas pouvoir claquer un "12 hommes en colère" comme ça. Mieux vaut que je ferme ma gueule sinon ma vie va devenir encore plus compliquée. Voilà donc la réponse est non mais maintenant tu peux me dire ce qui s'est passé non? Ca changera quoi pour toi? Et puis qui sait peut être qu'en en sachant le plus possible j'arriverai à te venger.
-- ... bon je suis grilllé comme... 
+- Si je te le dis tout, tu me croiras? Tu prendras ma défence?
+- Ça voudrait dire prendre la parole devant tout le monde pour exprimer un avis à l'opposé de ce que tout le monde pense?
+- Voilà ça. Tu le feras?
+- Hmm je te rappelle qu'on est pas les plus populaires sur terre... Sachant qu'il y aura de toute façon un espèce de vote et que je pense pas pouvoir claquer un "12 hommes en colère" comme ça. Mieux vaut que je ferme ma gueule sinon ma vie va devenir encore plus compliquée. Voilà donc la réponse est non mais maintenant tu peux me dire ce qui s'est passé non? Ça changera quoi pour toi? Et puis qui sait peut être qu'en en sachant le plus possible j'arriverai à te venger.
+- ... bon je suis grillé comme... 
 - un grillon? une tartine?
 - non c'est bon les tartines...
 - qu'on aurait oublié sur le feu
@@ -1527,11 +1497,11 @@ Kim essayait nerveusement d'avoir l'air naturel en s'adossant au mur mais un cro
 - Je pense pas mettre feu à quoi que ce soit cela dit.
 - Bon l'histoire : Bambi s'est fait infecter, Mylène à trouvé un vaccin, ou un remède bref elle l'a guéri. Lui il a mis un peu de temps mais il a fini par comprendre.
 - Un peu comme nous.
-- Il est allé la voir pour dire qu'elle ne pouvait pas cacher le fait qu'elle avait un super pouvoir très utile à tous : celui de soigner les zombies
+- Il est allé la voir pour dire qu'elle ne pouvait pas cacher le fait qu'elle avait un super pouvoir très utile à tous : celui de soigner les zombies.
 - Grand pouvoirs, grande responsabilités..
 - Ouais sauf que Mylène l'a planté puis l'a saigné. 
 
-Loir essaya de chasser les images.
+Loir essaya de chasser les images qui tournaient en boucle devant lui dès qu'il fermait les yeux.
 
 - Et moi je me suis retrouvé là pour porter le chapeau. Elle est quand même balaise, on fait pas le poids.
 - Je vais te chercher un chicorée.
@@ -1542,53 +1512,47 @@ Kim revint quelques minutes plus tard de la cantine avec une tasse fumante.
 
 Après avoir savouré de longues gorgées, Loir reprit :
 
-- Ca finit comme ça alors? Moi out, Bambi bien dead et toi tu vas faire quoi?
-- Je ferme ma gueule pour l'instant et j'essaye de trouver la solution par moi même. Ca risque de prendre du temps mais au moins je sais qu'il ne faudra pas que j'écoute Mylène. J'aurai un coup d'avance sur elle mais pour ça il aut pas qu'elle nous voit parler.
+- Ça finit comme ça alors? Moi out, Bambi bien dead et toi tu vas faire quoi?
+- Je ferme ma gueule pour l'instant et j'essaye de trouver la solution par moi même. Ça risque de prendre du temps mais au moins je sais qu'il ne faudra pas que j'écoute Mylène. J'aurai un coup d'avance sur elle mais pour ça il ne faut pas qu'elle nous voit parler.
 - Hmm, finalement ça me va pas trop mal.
 
-Loir était plus secoué par la vision du meurtre que par sa propre condamnation et fin de vie à venir. Il était plutôt de ceux qui ne sont pas attachés tant que ça à la vie. Cela pouvait paraître lâche dans un monde conçu pour promouvoir la ténacité à vivre. Bizarrement les gens comme lui pouvaient aussi passer pour des héros quand ils mourraient au bon moment suivant les contextes. Ce ne serait pas son cas. Une fois la sentence appliquée de toute façon ça n'a plus beaucoup d'importance. L'avantage des gens qui n'avaient pas l'ambition de laisser une trace indélébile dans l'histoire : ils sont plus sereins face à la mort. Bien sur le fait que la sentence sera exécutée après avoir subit un anesthésie sans faille aidait grandement à sa décontraction. Il avait pu vivre en étant un creep au yeux des autres mais il ce n'était pas la même chose de passer à monstre.
+Loir était plus secoué par la vision du meurtre que par sa propre condamnation et fin de vie à venir. Il était plutôt de ceux qui ne sont pas attachés tant que ça à la vie. Cela pouvait paraître lâche dans un monde conçu pour promouvoir la ténacité à vivre, ou survivre quoi qu'il en coûte. Bizarrement les gens comme lui pouvaient aussi passer pour des héros quand ils mourraient au bon moment suivant les contextes. Ce ne serait pas son cas. Une fois la sentence appliquée de toute façon ça n'a plus beaucoup d'importance. L'avantage des gens qui n'avaient pas l'ambition de laisser une trace indélébile dans l'histoire : ils sont plus sereins face à la mort. Bien sûr le fait que la sentence sera exécutée après avoir subit un anesthésie sans faille aidait grandement à sa décontraction. Il avait pu vivre en étant un creep aux yeux des autres mais ce n'était pas la même chose que de passer pour un monstre.
 
-### 21.2 Procès
+## 21.2 Procès
 
-_Sa mère vient le voir mais en fait ça va_
+Quelque jours suffirent pour se mettre d'accord. Malgré une certaine tolérance face la notion de mort qui était assez présente dans ce monde et son système de santé plutôt archaïque. Bien qu’extrêmement rare, l'homicide non accidentel était néanmoins plutôt mal vu car un meurtre supprimait un pourcentage non négligeable de l'humanité. On avait déjà vu au 20ème siècle des génocides moins efficaces pour limiter la population.
 
-Quelque jours suffirent pour se mettre d'accord. Malgré une certaine tolérance face la notion de mort qui était assez présente dans ce monde sans système de santé technologique. Bien qu’extrêmement rare l'homicide non accidentel était néanmoins plutôt mal vu car un meurtre supprimait un pourcentage non négligeable de l'humanité. On avait déjà vu au 20ème siècle des génocides moins efficaces pour limiter la population.
+Loir malgré l'acceptation avait passé beaucoup de temps à se demander quoi dire pour sa défense. Une tannée! Ok pour la sentence mais qu'allait t'il plaider, qu'allait t'il dire à ses parents? Et surtout comment tirer des aveux de Mylène?  D'accord, sûrement pas en public mais il était persuadé qu'elle avait encore des choses à dire. 
 
-Loir malgré l'acceptation avait passé beaucoup de temps à se demander quoi dire pour sa défense. Une tannée! Ok pour la sentence mais qu'allait t'il plaider, qu'allait t'il dire à ses parents? Et surtout comment tirer des aveux de Mylène?  D'accord, sûrement pas en public mais il était persuadé qu'elle avait encore des choses à dire.
-
-Un matin donc Mateo et Sinpier vinrent le chercher pour l’emmener dans une pièce de l’hôtel de ville qu'il ne connaissait pas. Mihkail était là, Cindy une femme d'une quarantaine d'années assez forte était en train de servir des chicorées. "Assez forte" au premier degré : elle n'était pas spécialement grosse mais on n'avait clairement pas envie de se trouver sur son chemin  quand on la sentait mal lunée. Elle était simple et calme comme les gens qui n'ont jamais eu peur que pour les autres. 
-
-On le fit assoir à une table d'écolier tout seul au milieu de la pièce, Mihkail et Sinpier assis derrière une table plus grand dos au mur opposé à la porte d'ou il venait de rentrer et les autres personnes tanto se déplaçant pour boire ou servir de la chicorée tanto s'adossant au murs tout autour de Loir.
+Un matin donc Mateo et Sinpier vinrent le chercher pour l’emmener dans une pièce de l’hôtel de ville qu'il ne connaissait pas. Mihkail était là, Cindy une femme d'une quarantaine d'années assez forte était en train de servir des chicorées. "Assez forte" au premier degré : elle n'était pas spécialement grosse mais on n'avait clairement pas envie de se trouver sur son chemin quand on la sentait mal lunée. Elle était simple et calme comme les gens qui n'ont jamais eu peur que pour les autres. On le fit asseoir à une table d'écolier tout seul au milieu de la pièce, Mihkail et Sinpier assis derrière une table plus grande dos au mur opposé à la porte d’où il venait de rentrer et les autres personnes tanto se déplaçant pour boire ou servir une tasse tanto s'adossant au murs tout autour de Loir.
 
 - Bon on a pas vraiment trouvé d'avocat et de toute façon on a trouvé personne qui viendra se plaindre quoi qu'on fasse donc on va pas tourner autour du pot.
 
-Loir pensa que ses parents seraient peut être un soutient mais visiblement ils n'étaient pas là. Il eu de la peine pour eux : un instant : pas facile d'avoir un meurtrier pour fils. Puis il se dit qu'ils feraient comme tout le monde et comme ils savaient si bien le faire : ouvrir un placard, soulever le tapis pousser les cadavres déjà présents, mais il y a toujours de la place, refermer et ne plus en parler et voilà le secret d'une vie sans heurs.
+Loir pensa que ses parents seraient peut être un soutient mais visiblement ils n'étaient pas là. Il eu de la peine pour eux un instant : pas facile d'avoir un meurtrier pour fils. Puis il se dit qu'ils feraient comme tout le monde et comme ils savaient si bien le faire : ouvrir un placard, soulever le tapis pousser les cadavres déjà présents, mais il y a toujours de la place, refermer et ne plus en parler et voilà le secret d'une vie sans heurs.
 
 - Toute façon quelque chose à dire pour ta défense?
 - Non mais je peux avoir un bon repas avant de la contamination.
-- Ah oui donc voilà on est vraiment sur un consensus. comme a jamais vu. Bon ben ce sera la jurisprudence "crime passionnel crime quand même"
+- Ah oui donc voilà on est vraiment sur un consensus comme on en a jamais vu. Bon ben ce sera la jurisprudence "crime passionnel crime quand même"
 - Passionnel?
 - Arya t'as fait perdre la tête si j'ai bien compris, l'amour c'est toujours injuste...
-- Ah oui bon... Loir n'avait même pas réfléchis à ce qu'avait pu leur dire Mylène. Il aurait pensé être accusé de tentative de meurtre sur Mylène et que Bambi s'était interposé. Mais non dans son récit il avait surpris Arya qui venait de chez Bambi et suivi celui-ci chez Mylène, l'avait poignardé dans le dos. Mylène était arrivée à ce moment et avait couru se réfugier au village.
+- Ah oui bon... Loir n'avait même pas réfléchit à ce qu'avait pu leur dire Mylène. Il aurait pensé être accusé de tentative de meurtre sur Mylène et que Bambi s'était interposé. Mais non dans son récit il avait surpris Arya qui venait de chez Bambi et suivi celui-ci chez Mylène, l'avait poignardé dans le dos. Mylène était arrivée à ce moment et avait couru se réfugier au village.
 
 En sortant de la salle il vit finalement sa mère. Elle avait l'air plus chamboulée qui ne l'aurait cru. 
 
 - Oh non, Je suis en retard? Elle n'avait pas réussi à se retarder assez pour éviter ce moment mais au moins elle avait avec soulagement éviter d'assister au procès tout en gardant la face en tant que mère. Elle le prit dans ces bras de façon maladroite. Ils manquaient de pratique pour que ce fut plus fluide et moins étrange.
 
-Son père n'était pas venu lui. Pourquoi s'infliger ça en public? Quel bien allait sortir de cela? De mettre en scène la deception des parents pour leur fils, d'imposer ça à quelqu'un à qui il ne souhaitaient pas particulièrement de mal.
+Son père n'était pas venu lui. Pourquoi s'infliger ça en public? Quel bien allait sortir de cela? De mettre en scène la déception des parents pour leur fils, d'imposer ça à quelqu'un à qui il ne souhaitaient pas particulièrement de mal. Il fut ramené dans sa "cellule" après avoir commandé son dernier repas : une daube de lapin (un plat en sauce ça donne un peu de temps) avec des frites cuite dans du gras pas dans de l'huile. Une bouteille de l'ancien temps mais qui aurait pas le goût de vinaigre, une tête d'ail cru pour faire joli et un gâteau avec-des-noix-et-des-framboises-demmerdez-vous-j-ai-vu-qu-elle-commençaient-à-sortir.
 
-Il fut ramené dans sa "cellule" après avoir commandé son dernier repas : une daube de lapin (un plat en sauce ça donne un peu de temps) avec des frites cuite dans du gras pas dans de l'huile. Une bouteille de l'ancien temps mais qui aurait pas le gout de vinaigre, une tête d'ail cru pour faire joli et un gâteau avec-des-noix-et-des-framboises-demmerdez-vous-j-ai-vu-qu-elle-commençaient-à-sortir.
-
-Il avait maintenant le temps de se coller à la fenetre et d'attendre de regarder les gens vaquer à leur occupation de voir les heures défiler sous la forme des ombres se mouvant lentement, se rétréciçant d'un côté, s'allongeant de l'autre. Il allait forcément passer, le tout était de ne pas le rater. En fin de journée finalement le bruit rapide de chaussures malmenées se fit entendre au loin sur la chaussée. Vinvin ne connaissait pas la marche à pied qu'il avait abandonné lors de la découverte de la compétence courir. Il n'était plus jamais revenu en arrière, c'était plus lent.
+Il avait maintenant le temps de se coller à la fenêtre et d'attendre de regarder les gens vaquer à leur occupation de voir les heures défiler sous la forme des ombres se mouvant lentement, se rétrécissant d'un côté, s'allongeant de l'autre. Il allait forcément passer, le tout était de ne pas le rater. En fin de journée finalement le bruit rapide de chaussures malmenées se fit entendre au loin sur la chaussée. Vinvin ne connaissait pas la marche à pied qu'il avait abandonné quand il a découvert qu'on pouvait courir à la place. Il n'était plus jamais revenu en arrière, c'était trop lent.
 
 - Vinvin! Viens! Mission secrète!
 
 A force Loir savait comment sinon manipuler au moins attirer sont attention. 
 
 - Tu vois ce que c'est un tournevis cruciforme? 
-- Oui il y a en plein à l'atelier 
+- Oui il y a en plein à l'atelier.
 - Viens me voir ce soir j'ai une surprise. Avec un gros tournevis cruciforme c'est celui en forme de croix. Tu viens hein? après ce sera trop tard. Et tu le dis à personne c'est un trésor secret. Puis se ravisant :
-- Non mais vas-y maintenat plutôt mais il faut que personne te voit quand tu reviens ok?
+- Non mais vas-y maintenant plutôt mais il faut que personne te voit quand tu reviens ok?
 - Oui bon j'ai compris. Vinvin commençait déjà à prendre les jambes pour les porter à son cou.
 - Attends!
 - En fait j'aurai pas de trésor mais j'ai vraiment besoin de toi c'est grave? Tu peux quand même m'aider?
@@ -1597,11 +1561,9 @@ Vinvin le regarda d'un air inquiet et parti en courant sans dire un mot.
 
 ## 21.3 Après Procès
 
-Vinvin fut parfait : il alla chercher exactement ce qu'il fallait et lui fit passer par la fenêtre. Mais il n'avait pas son engouement habituel et c'était assez terrifiant.
+Vinvin fut parfait : il alla chercher exactement ce qu'il fallait et lui fit passer par la fenêtre. Mais il n'avait pas son engouement habituel et c'était assez terrifiant. Encore un nuit passée entre rêves intenses desquels il était soulagé de se réveiller. C'est fou cette angoisse qui monte, irrationnelle, physique qui vient du corps, qui ne veut pas mourir. Même si elle est atténuée quand l'esprit reprend le dessus, elle reste comme un bruit de fond. Un peu comme le violon strident des films d'horreur en continue dans un reality-show-show show.
 
-Encore un nuit passée entre rêves intenses desquels il était soulagé de se réveiller. C'est fou cette angoisse qui monte irrationelle physique qui vient du corps, qui ne veut pas mourir. Même si elle est atténuée quand l'esprit reprend le dessus, elle reste comme un bruit de fond. Un peu comme le violon strident  des films d'horreur en continue dans un reallity show.
-
-A son étonnement ce furent les marietins qui amenèrent le repas : une énorme daube qui embauma instantanément la pièce. Ils avaient l'air rayonnant et seraient presque resté manger si on ne leur avaient pas fait comprendre que ce ne serait pas de si bon ton.
+A son étonnement ce furent les marie-martins qui amenèrent le repas : une énorme daube qui embauma instantanément la pièce. Ils avaient l'air rayonnant et seraient presque resté manger si on ne leur avaient pas fait comprendre que ce ne serait pas de si bon ton.
 
 - C'est donc bien demain matin qu'on va m'infecter c'est ça?
 - Oui je crois que c'est ce qu'ils disaient.
@@ -1611,7 +1573,7 @@ Le ton du logisticien qui se prépare à recevoir une cargaison de kiwis décont
 
 - J'en sais rien et puis nous on y est pour rien!
 - Ok vous pourrez faire passer le message pour être sûr qu'ils ne soient pas en retard demain matin? C'est que je me lève particulièrement tôt en ce moment.
-- daaaaaaacord
+- d'aaaaaaacord
 
 Toujours avec une enthousiasme étonnant pour quelqu'un dans sa condition.
 
@@ -1621,13 +1583,13 @@ Marie Martin se regardèrent inquiets.
 
 - C'est à dire qu'on est à peu près sûr qu'on trouvera pas de remède avant demain si c'est ce à quoi tu penses.
 - Hola non pensez-vous je sais bien. Mais je suis quand même intéressé parce qu’il va se passer après. Bon merci pour la daube ça à l'air excellent et cette belle tête d'ail c'est bien de chez vous la votre?
-- Oui c'est ça récolte de l'année dernière. Bon bon ben on va y aller, on a les chèvre à éplucher et tout le tas de truc à rentrer bref. Bonne euh.... voilà adiou.
+- Oui c'est ça récolte de l'année dernière. Bon bon ben on va y aller, on a les chèvres à éplucher et tout le tas de truc à rentrer bref. Bonne euh.... voilà adiou.
 
 Ils partirent penaud laissant Loir dans la pénombre l'esprit occupé. Il se tourna vers le plateau et entrepris de dépiauter la tête d'ail : 14 gousses. Il se servit un verre, bu une gorgée, éplucha une gousse et juste afin de la porter à la bouche, se ravisa. Il alla chercher le tournevis cruciforme et commença à dévisser les gonds de la porte qui étaient accessibles. Il s'assura juste que les les vis n'étaient pas bloquées et puis les revissa. Il retourna à table et croqua la gousse, bu un verre d'eau pour faire passer et se servit une assiette de daube.
 
 ## 21.3 infection
 
-Le lendemain matin comme prévu, il fut sorti de sa pièce par deux personnes qu'il ne connaissait pas bien. Ils ont du être choisi pour leur absence d'affect. Devenir bourreau contre un bout de daube à tous les coups, en bon deal. Ils l'emmenèrent vers l'espece de parc à zombie qu'on utilisait pour l'animation ou bien pour les expériences de Mylène. On lui demanda de toucher la tête du premier venu avec sa main nue. Ce qu'il fit non sans un ralenti dramatique. Il s'approcha lentement, l'individu le regardai d'un air vide. Il déploya sa main et la plaqua sur  la face du zombie qui ne bougea pas. Le manque d'une musique symphonique de fin de film d'aventure se fit cruellement sentir.
+Le lendemain matin comme prévu, il fut sorti de sa pièce par deux personnes qu'il ne connaissait pas bien. Ils ont du être choisi pour leur absence d'affect. Devenir bourreau contre un bout de daube à tous les coups : un bon deal. Ils l'emmenèrent vers l’espèce de parc à zombie qu'on utilisait pour l'animation ou bien pour les expériences de Mylène. On lui demanda de toucher la tête du premier venu avec sa main nue. Ce qu'il fit non sans un ralenti dramatique. Il s'approcha lentement, l'individu le regardai d'un air vide. Il déploya sa main et la plaqua sur la face du zombie qui ne bougea pas. Le manque d'une musique symphonique de fin de film d'aventure se fit cruellement sentir.
 
 - voilà...
 
@@ -1636,122 +1598,76 @@ Les accompagnants qui avaient déjà leur gants remontèrent leurs écharpes et 
 - Non mais c'est pas nécessaire
 - Oui mais on va faire comme ça quand même.
 
-Il le poussèrent à distance et s'en retournèrent à la pièce ou il devait attendre 24h.
+Il le poussèrent à distance et s'en retournèrent à la pièce où il devait attendre 24h. 
 
-De retour Loir s'enfila une gousse d'ail. Il est restait 6. Pour l'instant les seuls symptomes avaient été un légé engourdissement de sa main quand il l'avait plaquée contre la face du zombie. Puis la sensation était revenue.
+De retour Loir s'enfila une gousse d'ail. Il est restait 6. Pour l'instant les seuls symptômes avaient été un légé engourdissement de sa main quand il l'avait plaquée contre la face du zombie. Puis la sensation était revenue. 2h plus tard attentif aux moindre signes de son corps, il se découvrait de petites douleurs des pincement, des picotements fantômes. Trop attentif aux signes de son corps. C'était désagréable. Mais il avait donc réussi. Pour ce qu'on pouvait en déduire jusque ici.
 
-2h plus tard attentif aux moindre de signe de son corps il se découvrait de petites douleur des pincement , des picotements. Trop attentif aux signes de son corps. C'était désagréable. Mais il avait donc réussi. Pour ce qu'on pouvait en déduire jusque ici.
+En début de soirée, il était toujours le même. De l'ail! Cru d'accord mais de l'ail c'était la solution. Putain! Pourquoi c'est si con? Pourquoi c'est moi qui sait? Sortir d'ici d'abord parce que là ça va être technique : ils étaient capables de ne pas l'écouter de le brûler avec tout sa sensibilité. Le point un peu délicat de son plan. Si quelque chose devait foiré, il aurait préféré que ce soit l'histoire de l'ail que l'évasion. Il commença à dévisser la porte... Pour s'occuper. Ce n'était pas l'heure. Personne viendrait le voir, on avait même pas voulu tester sur lui quelque tentative de vaccin de Mylène. Elle avait du dire qu'elle n'était pas prête qu'elle n'y arrivait pas, qu'elle était encore trop choquée. Elle avait beaucoup de chose à dire et la dernière partie du plan consistait à aller lui demander tout ça. Il attendit longtemps la nuit. 
 
-En début de soirée, il était toujours le même. De l'ail! Cru d'accord mais de l'ail c'était la solution. Putain! Pourquoi c'est si con? Pourquoi c'est moi qui sait? Sortir d'ici d'abord parce que là ça va être technique : ils étaient capable de ne pas l'écouter de le brûler avec tout sa sensibilité. Le point un peu délicat de son plan. Si quelque chose devait foiré, il aurait préféré que ce soit l'histoire de l'ail que l'évasion.
-
-Il commença à dévisser la porte... Pour s'occuper. Ce n'était pas l'heure. Personne viendrait le voir, on avait même pas voulu tester sur lui quelque tentative de vaccin de Mylène. Elle avait du dire qu'elle n'était pas prête qu'elle n'y arrivait, qu'elle était encore trop choquée. Elle avait beaucoup de chose à dire et la dernière partie du plan consistait à aller lui demander tout ça. Il attendit longtemps la nuit. 
-
-Le soleil couché il attendit encore le plus longtemps possible. Il fit tourner le tournevis dans les têtes de vis le plus lentement qu'il put. Quand il se risqua à ouvrir la porte, il n'était même pas minuit mais tout était calme. La nuit était sombre et il s'éloigna aussi vite que possible des sources de lumière publique. Et c'est sur le chemin, dans le noir, sans espoir d'avenir qu'il découvrit bizarrement une sensation plutôt agréable de la liberté de ceux qui n'ont rien à perdre. Le soulagement de ceux qui ont pris une décision et qui ont enfin l'esprit libéré. Un bruit de fond qui disparaît et qui fait du bien quand ça s'arrête.
+Le soleil couché il attendit encore le plus longtemps possible. Il fit tourner le tournevis dans les têtes de vis le plus lentement qu'il put. Quand il se risqua à ouvrir la porte, il n'était même pas minuit mais tout était calme. La nuit était sombre et il s'éloigna aussi vite que possible des sources de lumière publique. Et c'est sur le chemin, dans le noir, sans espoir d'avenir qu'il découvrit bizarrement une sensation plutôt agréable de la liberté de ceux qui n'ont rien à perdre. Le soulagement de ceux qui ont pris une décision et qui ont enfin l'esprit libéré. Un bruit de fond qui disparaît et qui "fait du bien quand ça s'arrête".
 
 
-# 22 discussion avec M
+# 22 discussion avec Mylène
 
 Il avança dans la nuit en direction de la maison de Mylène. En faisant attention à tous les bruits, en évitant de rester sur les chemins. Il progressait en tâtant le terrain avec une branche comme l'aveugle qu'il était dans cette nuit noire. Seule quelques rares lumières de certaines maisons ou à l'extérieur faisait office de phare et lui permettait de se positionner mentalement sur une carte. Après un temps infini, il arriva finalement devant la maison de Mylène. On distinguait par la fenêtre une bougie, Mylène assise à une table immobile les yeux dans le vide. Il frappa et entra sans attendre de réponse.
 
 - Bonsoir, je me suis évadé.
 
-Mylène tourna la tête vers lui, surprise d'abord après une paire de seconde elle estima qu'aucune réaction n'était particulièrement nécessaire. Il était là voilà, ça changeait pas. Même finalement ce corps de pantin disgracieux était tout ce qui l'abritait d'une solitude abyssale.
+Mylène tourna la tête vers lui, surprise d'abord après une paire de seconde elle estima qu'aucune réaction n'était particulièrement nécessaire. Il était là voilà, ça changeait pas. Non seulement il présentait pas de menace mais finalement ce corps de pantin disgracieux était tout ce qui l'abritait d'une solitude abyssale.
 
 - Ben tu vois j'allais te rejoindre. Plein le cul là et sans Bambi ça fout la flemme.
 - Ah ben fallait peut être pas l'égorger froidement alors.
 
-Mylène était assise à sa table de cuisine. Elle disposait d'une bouteille de vin épicé dont elle n'avait pas encore abusé et son regard qui paraissait dans le vide était en fait fixé sur des boites de pétri posés devant elle.
+Mylène était assise à sa table de cuisine. Elle disposait d'une bouteille de vin épicé dont elle n'avait pas encore abusé et son regard qui paraissait dans le vide était en fait fixé sur des boites de pétri posées devant elle.
 
 - Franchement si tu te contamines avec moi je te raconte tout. Ça me fera du bien de balancer tout avant de partir toute façon tout est fait...
 
-Loir alla prendre un verre dans l'évier et s'assit au côté adjacent. Il rempli les verres, bu une bonne gorgée et ouvrit la boite de pétrit. Mylène eu instinctivement un mouvement de recul. Loir posa son index au milieu du pot quelques seconde et l'enleva.
+Loir alla prendre un verre dans l'évier et s'assit à table, sur le côté adjacent, à celui de Mylène. Il rempli les verres, bu une bonne gorgée et ouvrit la boite de pétrit. Mylène eu instinctivement un mouvement de recul. Loir posa son index au milieu du pot quelques seconde et l'enleva.
 
-- Voilà dis Loir trop vite et pas du tout naturellement sur le ton de quelqu'un qui manque cruellement de pratique de poker. Toutefois Mylène ne remarqua rien trop occupée à accepter ce dernier saut dans le vide.
-
----
-
-- Tu fais un peu chier là quitte à te foutre en l'air t'aurais quand même pu laver mon nom
-
----
+- Voilà dis Loir trop vite et pas du tout naturellement sur le ton de quelqu'un qui manque cruellement de pratique de poker. Toutefois Mylène ne remarqua rien trop occupée à accepter ce dernier saut dans le vide. Tu fais un peu chier là quitte à te foutre en l'air t'aurais quand même pu laver mon nom
 
 # 23 Raconte toute l'histoire
 
-Voici toute l’histoire. Je suis (enfin j’ étais… même pas je suis peut être encore un peu...) possiblement la seule au monde à connaître toute l’histoire. Je n’ai presque pas menti sur mon sujet, je suis vraiment chercheuse en biologie avec des connaissances en médecine. J’ai surtout menti par omission car j’ai juste beaucoup plus de connaissance sur ce qui est arrivé à notre civilisation et sur cette maladie qui transforme les gens en dormeurs.
+Voici toute l’histoire. Je suis.. enfin j’étais… mmh je suis peut être encore un peu... possiblement la seule au monde à connaître toute l’histoire. Je n’ai presque pas menti sur mon sujet, je suis vraiment chercheuse en biologie avec des connaissances en médecine et bio-chimie et tout le toutim. J’ai surtout menti par omission car j’ai juste beaucoup plus de connaissance sur ce qui est arrivé à notre civilisation et sur cette maladie qui transforme les gens en zombies.
 
-Tout à commencé à ce coloque de biologique sur les luttes fongicides pour les grandes cultures notamment de maïs et de blé. Tout à commencé bien plus tôt quand j’ai commencé à me poser des questions sur l’humanité et la nature. Peut être même que tout à commencé quand j’ai su comment Darwin avait perdu sa foi en Dieu en décrivant une guêpe qui pondait dans une araignée qui sert alors de garde manger vivant pour ses larves. Darwin qui n’était pas le dernier des débiles en a conclu qu’un bon Dieu n’aurait jamais inventé un telle atrocité.
+Tout a commencé à ce coloque de biologique sur les luttes fongicides pour les grandes cultures notamment de maïs et de blé. Non en fait tout a commencé bien plus tôt quand j’ai commencé à me poser des questions sur l’humanité et la nature. Peut être même que tout à commencé quand j’ai su comment Darwin avait perdu sa foi en Dieu en décrivant une guêpe qui pondait dans une araignée qui sert alors de garde manger vivant pour ses larves. Darwin qui n’était pas le dernier des débiles en a conclu qu’un bon Dieu n’aurait jamais été assez pervers pour inventer un telle atrocité. Petit à petit au fil des années j’en suis venu à me poser cette question : quelle est le but de l’humanité : la moitié de la population croit que c’est la religion et qu’il faut agir en humain parce que c’est ce que Dieu veut. Une autre partie n’écoute que son instinct naturel : certain essayent de subsister le plus longtemps et le mieux possible, dans certain cas il font des enfants soit par pulsion sexuelle soit par pulsion maternelle. Les autres s’inventent un but dans leur vie : la recherche pour moi, le jeu, le sport, la politique. Enfin ceux qui restent se suicident. Et finalement tout le monde est très malheureux. 
 
-Petit à petit au fil des années j’en suis venu à me poser cette question : quelle est le but de l’humanité : la moitié de la population croit que c’est la religion et qu’il faut agir en humain parce que c’est ce que Dieu veut. Une autre partie n’écoute que son instinct naturel : certain essayent de subsister le plus longtemps et le mieux possible, dans certain cas il font des enfants soit par pulsion sexuelle soit par pulsion maternelle. Les autres s’inventent un but dans leur vie : la recherche pour moi, le jeu, le sport, la politique. Enfin ceux qui restent se suicident. Et tout le monde est très malheureux. 
+Sans déconner, on vivait dans un monde ou la croyance est que consommer beaucoup c'est bien. Sans que personne ne pointe du doigt le fait que tout ce qu'on ne consomme pas serait dispo pour les autres. Que la meilleure façon d’exécuter une tâche c'est de mettre les gens en concurrence pour le faire plusieurs fois et jeter la moitié, réalisation et humains compris tout en accroissant les inégalités.
 
-_On vit dans un monde ou la croyance est que consommer beaucoup c'est bien. Personne ne pointe du doigt le fait que tout ce qu'on ne consomme pas serait dispo pour les autres. Que la meilleure façon d'executer une tâche c'est de mettre les gens en concurence pour le faire plusieurs fois et jeter la moitier réalisation et humains compris tout en accroissant les inégalités._
+Or le vrai but, inscrit dans nos gènes est de se reproduire à tout prix quelque soit les conséquences. Sauf que moi mon but c’est qu’il y ait moins de souffrance dans le monde, surtout pour les humains parce que je sais comment c’est les humains. Mais aussi pour les autres mammifères qui font des bébé mignons. C’est mon but. L’évolution est une force qui tâtonne pour fabriquer des organismes très complexe au détriment de leur bien être sauf que l’évolution m’a aussi créé moi... et elle s’en mordra les doigts cette vielle connasse de Pachamama. 
 
-Or le vrai but, inscrit dans nos gènes est de se reproduire à tout prix quelque soit les conséquences. Sauf que moi mon but c’est qu’il y ait moins de souffrance dans le monde, surtout pour les humains parce que je sais comment c’est. Mais aussi pour les autres mammifères qui font des bébé mignons. C’est mon but. L’évolution est une force qui tâtonne pour fabriquer des organismes très complexe au détriment de leur bien être sauf que l’évolution m’a aussi créé moi... et elle s’en mordra les doigts.
+Revenons en à ce coloque sur les fongicides où un collègue australien bossait sur la douve du mouton, ses mutations et ses comportements. J’imagine qu’il va falloir que je vous explique ce qu’est la douve du mouton. Remarques Anaïs doit connaître.
 
-Revenons en à ce coloc sur les fongicides ou un collègue australien bossait sur la douve du mouton, ses mutations et ses comportements. J’imagine qu’il va falloir que je vous explique ce qu’est la douve du mouton. Remarques Anaïs doit connaître.
+- Non mais c'est bon je l'ai lu dans un livre : c'est un parasite qui se reproduit dans les fois des moutons puis qui infecte les crottes qui contamine les fourmis et qui change leur comportement pour que les fourmis se perchent à la pointe des brins d'herbe et qu'elle se fassent brouter pour retourner dans les moutons. J'ai jamais compris pourquoi elles restaient pas dans le mouton tout simplement : une envie de voyage sûrement.
+- Pas mal répondit-elle dans un bref sourire.
 
+Et il se trouve qu’il avait remarqué qu’une des versions de sa douve rendait les fourmis complètement insensibles à la douleur. A partir de là on en a beaucoup parlé. Il était plus jeune que moi canon et drôle donc on a commencé à passer du temps ensemble. On parlait au début pour rigoler, de ce que serait le monde si on avait accès à une telle « maladie » combien de personne voudraient se faire contaminer. On a cherché les cas similaires dans la science fiction. Puis on s’est officiellement dit : « vu la gueule du monde, si on rendait tout le monde insensible à aucune douleur, ça ferait de mal à personne, déjà ! Puis certes ce serait la fin de l’humanité avec tout ce qu’il y a d’intéressant, de connaissance d’art mais rien qui méritait, selon nous, de faire souffrir des enfants qui n’avaient rien demandé. On a alors commencé à recruter. Et c’était très facile, on en parlait à tout le monde en faisant passer ça pour une blague. Les gens intéressés étaient facilement repérés, ils nous parlaient beaucoup, revenaient vers nous, voulait écrire un petit article, pousser les recherches. C’est ainsi qu’au bout de quelques années nous avions un petit réseau de chercheurs dans plein de domaines : biologie, des ingénieurs, des sociologues et nous avons monté un cercle sous couvert de club humoristique explorant la vie sans souffrance. Enfin avec les vrai amis, ceux qui avaient compris qu’on était sérieux et qui avait des compétences solides, on s’est mis au travail. Nous avons élevé et sélectionné et multiplié des souches contagieuses pour les humains à même le labo. Nous avons fait de petites boites munies d’une pile et d’un ventilateur que nous n’avions plus qu’à activer, jeter dans des poubelles de gares et d’aéroports et la maladie s’est répandue encore plus facilement que nous l’espérions : Les gens infectés entraient chez eux, contaminaient toute les personnes proches.  Concrètement ce qui se passait :  Il y a une petite période d’incubation puis le malade n’a plus envie ou besoin de rien. Il reste là, il sait parler mais il n'a pas d'envie. Cela dit, ils ne se laissent pas mourir, ils savent manger, se protéger du froid. Mais l’absence de douleur et de peur les fait parfois mourir connement cela dit c’est comme si le parasite donnait plus de force et de résistance à moins que ce soit juste l’absence de douleur et d’intentions... Ils n'ont quasiment pas de maladies, ils arrive à bidouiller avec des os cassés mais bizarrement ça s'infecte que très rarement. Et récemment je me suis même rendu compte qu'ils ne vieillissaient plus. Les zombies ne sentent plus rien mais ils continuent à manger ce qu’ils trouvent : petits animaux insectes, se chient dessus et peuvent rester à errer. Ils sont attirés par des humains non infectés. Ils ne ressentent rien mais ils marchent et sentent qu’ils ont besoin de se nourrir de temps en temps. Puis il y a une période d’apprentissage pendant laquelle ils apprennent à vivre, sans douleur, sans envie autre que survivre et se balader. Donc ils se mettent à tracer dans la campagne sans aller nulle part. Au moment ou les victimes se font infecter, elle n'arrêtent pas instantanément toute activité mais elle vont chercher à faire des choses pour le plaisir ce qui a rendu la détection impossible en si peu de temps. 
 
+Personnellement, je suis rentrée à Montségur le lendemain d’avoir été à Roissy, Gare du Nord, Châtelet et Orly. C’était sur la route. Je me suis dit qu’il ferait bon observer la fin du monde depuis la maison de ma grand-mère. Le jours de mon arrivée j’ai rencontré un voisin charpentier qui m’a beaucoup plut, nous avons dîné, et je me suis dit que ce serait encore mieux de regarder la fin du monde à 2. Quelques jours plus tard les connexions : internet, radio, TV se sont mise à tomber. Les gens se sont rassemblés sur la place centrale. Et là, je sais pas ce qui m’a pris, j’ai parlé de l’infection à tout le monde en disant que j’avais entendu à la radio ce qu’il fallait faire : éviter les gens contaminés et brûler les corps des gens contaminer. On n’a pas été envahi : un petit village dans une vallée, on a pu faire le trie. Les gens se sont habitués, ceux qui n’étaient pas content ou qui nous on pas cru sont allé rejoindre les quelques zombies qu’on a vu arriver dans les jours suivants et c’est comme ça qu’on s’est retrouvé (à ma connaissance) un des rares endroits sur terre à encore faire des choses humaines comme faire fermenter des pommes et se raconter des histoires sans queues ni tête. A ma grande surprise, grâce à  Bambi, et à l’air de la montagne, j’ai été prise d’un vent de vitalité et d’une envie de vivre que je n’avait jamais éprouvée. Je sais que c’est temporaire mais j’éprouve beaucoup de bonheur à observer cette petite communautés essayer de survivre tant bien que mal. Et j’adore faire l’amour.
 
-[Explication Douve du mouton]
+Toutefois ce qui devait arriver arriva : lors d’une malencontreuse balade avec Bambi, on est tombé nez à nez avec un zombie. Surprenant, je crois qu'il a juste tendu sa main à Bambi qui était accroupi et voilà. Il n'a même pas eu le temps de réaliser ce qu'il venait de se passer parce que je lui ai mis un énorme coup de bûche derrière la nuque en me disant que l'infection du parasite finirait par le remettre d'aplomb. J’ai mis des gants, je me suis couverte je l’ai attaché, j’ai découpé le zombie pour la nourriture et les échantillons, je suis rentré chez moi et j’ai repris le boulot. D’abord il m’a fallu contaminer des animaux pour essayer de les soigner. J’ai pris les brebis à viandes qu’on était sûr de ne pas traire et effectivement le bélier du troupeau d’Anaïs comme vous avez découvert. Au bout de quelques essais j’avais un antidote. Je me suis alors rendue compte que j’avais potentiellement créé un outil qui allait permettre de faire repartir la machine et je me suis empressée de détruire tous mes travaux, je pense pas que quelqu’un d’autre que moi aurait pu y arriver... Donc, pour reprendre l’histoire, je suis la plus forte du monde en biologie, je trouve une solution pour annuler l’effet des spores. Au bout de 3 jours l’état de Bambi redevient normal et coup de bol : il a tout oublié. Je lui ai dit qu’on récoltait de l'ail des ours et que pas de bol, une grosse branche lui est tombé sur la gueule. Ce qui n'est presque pas faux. Sauf que pour un charpentier c’est pas le dernier des cons. Quand il a commencé à se remettre sur pied, je n’avais pas encore effacé tout les traces de mes expérimentations. Il était faible et il fallait que je sois sûre qu’il soit sorti d’affaire avant de tout détruire. Il a trouvé les bocaux de confiture qui me servaient de boite de pétri. Puis je les ai lavé en prétextant que c’était de la moisissure. Il a vu du coin de l’œil que j’écrivais dans un carnet qu’il n’a jamais revu. Il avait je crois une impression étrange comme un rêve qu’il aurait fait, très spécial. Il avait du mal à croire qu’il ait pu être inconscient si longtemps sans séquelles. L’idée à fait son petit chemin et un jour il m’attendais avec la blouse blanche et les masques que j’utilisais que j’avais pourtant caché sous le plancher. J’imagine que ses yeux de constructeur de maison ossature bois poseur de lambris et de plinthe étaient affûtés, il a dû voir la planche déclouée et trouver le reste du matériel qui n’ont fait que confirmer ses impressions bizarres.
 
-
-
-Et il se trouve qu’il avait remarqué qu’une des versions de sa douve rendait les animaux insensibles à la douleur. A partir de là on en a beaucoup parlé, il était plus jeune que moi canon et drôle donc on a commencé à passer du temps ensemble. On parlait au début pour rigoler, de ce que serait le monde si on avait accès à une telle « maladie » combien de personne voudraient se faire contaminer.
-
-On a cherché les cas similaires dans la science fiction.
-
-Puis on s’est officiellement dit : « vu la gueule du monde, si on rendait tout le monde insensible à aucune douleur, ça ferait de mal à personne, déjà ! Puis certes ce serait la fin de l’humanité avec tout ce qu’il y a d’intéressant, de connaissance d’art mais quelle ouvre mérite qu’on fasse souffrir des enfants qui n’ont rien demandés ?
-
-On a alors commencé à recruter. Et c’était très facile, on en parlait à tout le monde en faisant passer ça pour une blague. Les gens intéressés étaient facilement repérés, ils nous parlaient beaucoup, revenaient vers nous, voulait écrire un petit article, pousser les recherches. C’est ainsi qu’au bout de quelques années nous avions un petit réseau de chercheurs das plein de domaines : biologie, des ingénieurs des sociologues et nous avons monté un cercle sous couvert de club humoristique explorant la vie sans souffrance. Enfin avec les vrai amis, ceux qui avaient compris qu’on était sérieux et qui avait des compétences solides, on s’est mis au travail. Nous avons élevé et sélectionné et multiplié des souches contagieuses pour les humains à même le labo. Nous avons fait de petites boites munies d’une pile et d’un ventilateur que nous n’avions plus qu’à activer, jeter dans des poubelles de gares et d’aéroports et la maladie s’est répandue encore plus facilement que nous l’espérions : Les gens infectés entraient chez eux, contaminaient toute les personnes proches. 
-
-Concrètement ce qui se passait : 
-
-Il y a une petite période d’incubation puis le malade n’a plus envie ou besoin de rien. Il reste là, il sait parler mais il n'a pas d'envie. Cela dit ils ne se laissent pas mourir, ils savent manger, se protéger du froid. Mais l’absence de douleur et de peur les fait parfois mourir connement cela dit c’est comme si le parasite donnait plus de force et de résistance à moins que ce soit juste l’absence de douleur et d’intentions. On en toutefois rarement qui ont des maladies : ils arrive a bidouiller avec des os cassé mais bizarrement ça s'infecte que très rarement. Et récemment je me suis même rendu compte qu'ils ne vieillissaient plus.
-
-Les zombies ne sentent plus rien mais ils continuent à manger ce qu’ils trouvent : petits animaux insectes, se chient dessus et peuvent rester à errer. Ils sont attirés par des humains non infectés. Ils ont quand même de plus en plus fin de viande et peuvent plus ou moins attaquer après un certain temps. Ils ne ressentent rien mais ils marchent et sentent qu’ils ont besoin de se nourrir de temps en temps. Puis il y a une période d’apprentissage pendant laquelle ils apprennent à vivre, sans douleur, sans envie autre que survivre. Donc ils se mettent 
-
-- ​	à tracer dans la campagne pour trouver de quoi manger
-- ​	à chasser,
-
-se reproduire ??
-
-Au moment ou les victimes se font infecter, elle n'arrêtent pas instantanément toute activité mais elle vont chercher à faire des choses pour le plaisir ce qui a rendu la détection impossible en si peu de temps.
-
-Personnellement, je suis rentrée à Montségur le lendemain d’avoir été à Roissy, gare du nord et  Chatelet et Orly. C’était sur la route. Je me suis dit qu’il ferait bon observer la fin du monde depuis la maison de ma grand-mère.  Le jours de mon arrivée j’ai rencontré un voisin charpentier qui m’a beaucoup plus, nous avons dîné, et je me suis dit que ce serait encore mieux de regarder la fin du monde à 2. Quelques jours plus tard les connexions : internet, radio, tv se sont mise à tomber. Les gens se sont rassemblés sur la place centrale. Et là, je sais pas ce qui m’a pris, j’ai parlé de l’infection à tout le monde en disant que j’avais entendu à la radio ce qu’il fallait faire : éviter les gens contaminés et brûler les corps des gens contaminer. On n’a pas été envahi : un petit village dans une vallée, on a pu faire le trie. Les gens se sont habitués, ceux qui n’étaient pas content ou qui nous on pas cru sont allé rejoindre les quelques zombies qu’on a vu arriver dans les jours suivants et c’est comme ça qu’on s’est retrouvé (à ma connaissance) un des rares endroits sur terre à encore faire des choses humaines comme faire fermenter des pommes et se raconter des histoires sans queues ni tête. A ma grande surprise, grâce à  Bambi, et à l’air de la montagne, j’ai été prise d’un vent de vitalité et d’une envie de vivre que je n’avait jamais éprouvée. Je sais que c’est temporaire mais j’éprouve beaucoup de bonheur à observer cette petite communautés essayer de survivre tant bien que mal. Et j’adore faire l’amour.
-
-Toutefois ce qui devait arriver arriva : lors d’une malencontreuse chasse aux champignons avec Bambi, on est tombé nez à nez avec un zombie, surprenant, je crois qu'il a juste tendu sa main à Bambi qui était acroupi et voilà Bambi à réalisé une fraction de seconde trop tard ce qu'il venait de se passer. J’ai mis des gants, je me suis couverte je l’ai fait monté à un arbre (pour le cacher) j’ai découpé le zombie pour la nourriture et les échantillons, je suis rentré chez moi et j’ai repris le boulot. D’abord il m’a fallu contaminer des animaux pour essayer de les soigner. J’ai pris les brebis à viandes qu’on était à peu près sûr de ne pas ni manger ni traire et effectivement le bélier du troupeau d’Anaïs comme vous avez découvert. 
-
-Au bout de quelques essaies j’avais un antidote. Je me suis alors rendue compte que j’avais potentiellement créé un outil qui allait permettre de faire repartir l’humanité et je me suis empressée de détruire tous mes travaux, je pense pas que quelqu’un d’autre que moi aurait pu y arriver. Vous êtes bien les derniers humains à avoir connu la civilisation modialo-capitaliste précoupure. J’espère que vous êtes pas trop dégoûtes, si c’est le cas vous pouvez toujours vous injecter lol.
-
-Donc, pour reprendre l’histoire, je suis la plus forte du monde en biologie, je trouve une solution pour annuler l’effet des spores. Au bout de 3 jours l’état de Bambi redevient normal et coup de bol : il a tout oublié. Je lui ai dit qu’on cherchais des champignons et que pas de bol, une grosse branche lui est tombé sur la gueule.
-
-
-
-Sauf que pour un charpentier c’est pas le dernier des cons. Quand il a commencé à se remettre  sur pied, je n’avais pas encore effacé tout les traces de mes expérimentations. Il était faible et il fallait que je sois sûre qu’il soit sorti d’affaire avant de tout détruire. Il a trouvé les bocaux de confiture qui me servaient de boit de pétri. Puis je les ai lavé en prétextant que c’était de la moisissure. Il a vu du coin de l’oeuil que j’écrivais dans un carnet qu’il n’a jamais revu. Il avait je crois une impression étrange comme un rêve qu’il aurait fait, très spécial. Il avait du mal à croire qu’il ai pu être inconscient si longtemps sans séquelles. L’idée à fait son petit chemin et un jour il m’attendais avec la blouse blanche et les masques que j’utilisais que j’avais pourtant caché sous le plancher. J’imagine que ses yeux de constructeur de maison ossature bois poseur de lambris et de plinthe étaient affûtés, il a du voir la planche déclouée et trouver le reste du matériel qui n’ont fait que confirmer ses impressions bizarres.
-
-Il attendait une explication et je n’étais pas prête mais j’ai compris que j’avais cassé notre relation que quelque chose d’irréparable s’était produit entre nous. J’ai eu la même impression une fois quand je me suis cassé le poignet, c’était pas tant la douleur qui m’avait choqué mais le côté traumatique et irréparable sur le moment. Presque entendu le crac. J’ai essayé de le convaincre, il m’a laissé parlé. Mais on parle de vision du monde, de l’humanité des choses qu’on a en nous qu’on ne peu pas changer encore moins sous le coup de la colère en une soirée. 
-
-
+Il attendait une explication et je n’étais pas prête mais j’ai compris que j’avais cassé notre relation que quelque chose d’irréparable s’était produit entre nous. J’ai eu la même impression une fois quand je me suis cassé le poignet, c’était pas tant la douleur qui m’avait choqué mais le côté traumatique et irréparable sur le moment. Presque entendu le crac. J’ai essayé de le convaincre, il m’a laissé parlé. Mais on parle de vision du monde, de l’humanité des choses qu’on a en nous qu’on ne peu pas changer encore moins sous le coup de la colère en une soirée. Et puis tu es arrivé. Désolé...
 
 # 24 Byebye suicide
 
-
-
-
-
-….
-
-Pour une fois c’est facile. ce sera juste : ne pas prendre de précautions : ne rien faire, respirer profondément une ce ces boites de pétri, aller se coucher, peut être une dernière chicorée demain matin. Mes désirs seront déjà bien entamés mais une de ces petites infusions matinales, il faudra la dose pour m’en désintéresser. 
-
-Je me suis réveillée ça va, je disais quoi ? 
-
-# Cours de civilisation précoupure
-
-
-
-
-## Les avions
-Alors oui on pouvait voler ça c'est vrai que c'est plutôt la classe
-
-
+- Bon et bien à moi de te faire une confidence, Madame je suis si maline. La première chose qui est évidente chez les double M, tout le monde s'est rendu compte que c'est leur haleine si particulière. Ils s'envoient des gousse d'ail à longueur de journée. En plus ils disent que c'est magique que grâce à ça ils ne sont jamais malade! C'était quand même pas si compliqué non? En plus nous on en savais rien mais l'ail est un anti-parasite non?
+- ...
+- Bon bé là présentement heureusement que je suis pas trop près si tu vois ce que je veux dire.
+- Tu me fais pas me sentir très bien pour quelqu'un qui est face à une personne en train de se suicider.
+- Œil pour œil bitch! J'avais pas prévu de me suicider il y a quelques jours.
+- Mais là t'es pas en train de suicider.
+- Je peux pas rester ici en tout cas, qu'est ce que tu veux que fasse d'autre. Je me suis juste pris quelques jours de plus pour réfléchir.
+- Tu vas leur dire pour l'ail?
+- Je sais pas. Au final je suis bien placé pour comprendre ce que tu veux dire. Moi aussi je suis contre la souffrance... Et ça avait l'air un vrai cauchemar avant pour les gens qui n'avaient pas accès aux jeux vidéo.
+- Bon ben c'est plus mon problème. Par contre ce serait dommage de pas profiter jusqu'à la fin de ce petit pinard si finement équilibré.
+- C'est toi qui l'a fait? Dit-il en faisant glisser son verre vide comme sur un comptoir.
+- Ouaip.
+- On sent  un peu le miel sans que soit trop sucré, c'est pas mal... Si je fouille je trouverai d'autres bouteilles? 
+- Tu vas pouvoir rester ici discrètement indéfiniment tu sais.
+- Non c'est pour la route.
+- Tu pars en voyage? C'est pas une mauvaise idée ça.
+- Je pense que je vais essayer d'aller voir la mer et après je me fout en l'air.
 
 
 
