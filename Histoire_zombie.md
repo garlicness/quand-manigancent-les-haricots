@@ -6,7 +6,7 @@
 
 # Trucs techniques à pas compter
 
-1ᵉʳ 2ⁿᵈ  
+1ᵉʳ 2ⁿᵈ  3ᵉ
 
 https://fr.wikipedia.org/wiki/Exposants_et_indices_Unicode
 
@@ -50,7 +50,7 @@ Le village est réunis. Il se trouve que c’est un dimanche. En fait un jour qu
 
 — Camarades, mes sœurs mes frères nous sommes réunis ici pour élire le nouveau bureau du dernier Kibouts avant la fin de l’humanité. Je vous remercie encore de votre confiance depuis ces 2 années et je vous propose de continuer à nous organiser de la sorte. Avec ma candidature vous renouvelez votre conviction pour un monde plus socialement juste et contre le fascisme et le grand capital ».
 
-Bien sur la grande majorité de l’assemblée étant née après la grande coupure n’avait aucune idée de ce qu’était des bourgeois. Peut être une autre espèce de parasites envahissant pré-coupure pensaient les jeunes. Qu’importe, ils se laissaient porter par l’enthousiasme et les diatribes claquées de Mikhail : 
+Bien sur la grande majorité de l’assemblée étant née après la grande Coupure n’avait aucune idée de ce qu’était des bourgeois. Peut être une autre espèce de parasites envahissant pré-Coupure pensaient les jeunes. Qu’importe, ils se laissaient porter par l’enthousiasme et les diatribes claquées de Mikhail : 
 
 « Pour que chante les lendemains et que partagions en frères et sœurs les ressources qui nous environnent. L’Utopie anarchiste est en route c’est une réalité après des siècles de lutte de nos ailleux. Je vous propose j’en ai encore la force, de poursuivre à faire vivre le flambeau de la révolution » Beaucoup moins de problème de ressource évidemment depuis que l’humanité connue se réduisait à quelques centaines d’individus.
 
@@ -117,7 +117,7 @@ Petite rire mal aisé de la part des membres du conseil.
 
 — Loir merci de nous rejoindre! Dit Mihkail avec tact. C'est pas grave si tu es tout seul pour l'instant dans ton ministère?
 
-Il y avait plusieurs types de noms : D’abord, le nom pré-coupure pour ceux qui l’avaient connu. Le nom choisi qui pouvait changer avec l’age. Et surtout le surnom acquis en général le moins flatteur et le plus collant.
+Il y avait plusieurs types de noms : D’abord, le nom pré-Coupure pour ceux qui l’avaient connu. Le nom choisi qui pouvait changer avec l’age. Et surtout le surnom acquis en général le moins flatteur et le plus collant.
 
 ## Fin de la réunion :
 
@@ -182,7 +182,7 @@ Il avait déjà une loupe qu’il utilisait à la moindre occasion. Quitte à ri
 # 6 cours de civilisation : les tours
 
 
-Dans la petite pièce confortable, des enfants de tout age étaient, à leur convenance, assis par terre, sur chaise ou des poufs poussiéreux qui semblaient les avaler. Des volontaires se relayaient toute la semaine pour leur parler de civilisation pré-coupure. 
+Dans la petite pièce confortable, des enfants de tout age étaient, à leur convenance, assis par terre, sur chaise ou des poufs poussiéreux qui semblaient les avaler. Des volontaires se relayaient toute la semaine pour leur parler de civilisation pré-Coupure. 
 — Voici la liste des bâtiments que vous pouvez observer dans la nature et leur fonctions. Les murs de toute sorte en au sommets des collines sont des châteaux qui date probablement d’une période où les moyens technologiques étaient similaires à ceux d'aujourd’hui. Par exemple tout en haut de la colline, là où on a installé la cloche vous voyez? 
 
 De sages hochements de tête ne l'interrompirent même pas. 
@@ -247,7 +247,7 @@ Un homme apparut de derrière le bâtiment. Visiblement étonné par la visite d
 
 — Avec un caillou plus dur comme du béton armé ? Répondit Vinvin, trop enthousiaste au goût de Loir.
 — Chut c’est sérieux. Est ce que vous pouvez nous décrire la victime ?
-— Elle vous a jamais couru après avec un fagot de bois ? Vous avez bien de la chance ! Au moment de la coupure je devais avoir ton age poursuivit-il en désignant Vinvin et elle était déjà vieille. Complètement tarée ces dernières années. C’est ma tante, alors fallait bien que je passe la ravitailler 2 fois par semaine, une fois sur 2 elle me jetais des cailloux en m’insultant mais dans une langue que personne n’a jamais parlé je crois à part peut être une pie qu’on aurait vraiment énervée. D’ailleurs en y réfléchissant je sais comment elle faisait pour avoir toujours de beaux cailloux bien pointus à vous jeter à la gueule… après une pause songeuse il reprit : 
+— Elle vous a jamais couru après avec un fagot de bois ? Vous avez bien de la chance ! Au moment de la Coupure je devais avoir ton age poursuivit-il en désignant Vinvin et elle était déjà vieille. Complètement tarée ces dernières années. C’est ma tante, alors fallait bien que je passe la ravitailler 2 fois par semaine, une fois sur 2 elle me jetais des cailloux en m’insultant mais dans une langue que personne n’a jamais parlé je crois à part peut être une pie qu’on aurait vraiment énervée. D’ailleurs en y réfléchissant je sais comment elle faisait pour avoir toujours de beaux cailloux bien pointus à vous jeter à la gueule… après une pause songeuse il reprit : 
 — Vous savez c’est bien ce que vous faites mais vous cassez trop la tête non plus. Il lui restait pas si longtemps et elle manquera à personne ça je peux vous le dire. C’est même probablement mieux pour elle.
 
 — Ici on ne prend pas les missions du conseil à la légère n’est ce pas, assistant ?
@@ -428,7 +428,7 @@ Sangoku, avant de se lancer attendu toutefois quelques tournées d’un excellen
 
 Elle fit une moue en jetant un coup d’œil à la grange ou séchait de des bottes d’ail récemment récolté.
 
-— Bon en fait il faut que je vous raconte : Il y a d’autres personnes, on est plusieurs centaines 536 la dernière fois qu’on a compté. À Montségur c’est dans ce qu’on appelait l’Ariège. On s’est débrouillé pour avoir la bonne info au bon moment : juste avant la coupure (on appelle comme ça le moment ou tout s’est arrêté) il ne fallait surtout pas toucher les gens s’ils avaient des comportement bizarre ou s’ils ne réagissaient plus. On a une dame qui bossait dans la pharmacie je crois, enfin elle s’y connaît en biologie tout ça. Elle s’appelle Mylène, je pense qu’elle serait très heureuse de vous rencontrer. Grâce à vous on trouvera peut être une solution à cette maladie.
+— Bon en fait il faut que je vous raconte : Il y a d’autres personnes, on est plusieurs centaines 536 la dernière fois qu’on a compté. À Montségur c’est dans ce qu’on appelait l’Ariège. On s’est débrouillé pour avoir la bonne info au bon moment : juste avant la Coupure (on appelle comme ça le moment ou tout s’est arrêté) il ne fallait surtout pas toucher les gens s’ils avaient des comportement bizarre ou s’ils ne réagissaient plus. On a une dame qui bossait dans la pharmacie je crois, enfin elle s’y connaît en biologie tout ça. Elle s’appelle Mylène, je pense qu’elle serait très heureuse de vous rencontrer. Grâce à vous on trouvera peut être une solution à cette maladie.
 
 — On remettrait les humains sur les rails ? On est sûr que c’est pas une bonne idée de merde ça ?
 
@@ -450,7 +450,7 @@ Après 3 jours de préparation et avoir chargé à raz bord la roulotte plus une
 
 — Vous êtes sûr ? Demanda Marie spontanément.
 
-— Ah oui c’est vrai que j’ai plein de chose à vous raconter. Notamment, une des décisions prise quand on a redéfini les lois, pour s’adapter à notre nouvelle situation, après la coupure, on a décidé que chacun pouvait choisir son nom, pourvu qu’il soit unique. On tient un grand livre avec les différents alias de tout le monde. Parce qu’on peut changer plusieurs fois.
+— Ah oui c’est vrai que j’ai plein de chose à vous raconter. Notamment, une des décisions prise quand on a redéfini les lois, pour s’adapter à notre nouvelle situation, après la Coupure, on a décidé que chacun pouvait choisir son nom, pourvu qu’il soit unique. On tient un grand livre avec les différents alias de tout le monde. Parce qu’on peut changer plusieurs fois.
 
 — Oh. Nous finalement on s’en sert pas tant que ça de nos noms…
 
@@ -498,7 +498,7 @@ Une demi journée de crapahuatage dans les alentours et ils finirent pas retrouv
 
 — C’est sur le registre il y’a eu 3 coups de cloches. Et vous avez reporté 4 kills.
 
-L’avantage d’être à Montségur est qu’on pouvait profiter de la hauteur du vieux château dans le lequels on avait installé, peu après la coupure, quand il était facile de trouver des moteurs et des réservoir pleins, une cloche qui allait servir   pour diffuser de l’information. 
+L’avantage d’être à Montségur est qu’on pouvait profiter de la hauteur du vieux château dans le lequels on avait installé, peu après la Coupure, quand il était facile de trouver des moteurs et des réservoir pleins, une cloche qui allait servir   pour diffuser de l’information. 
 
 — Qu’est ce que j’en sais bande de connards, c’est pas forcément évident de voir de si loin.
 
@@ -543,30 +543,36 @@ Vinvin pris ça comme un compliment. Loir s’approcha, d’un des 2 autres corp
 
 # 9.2 Cours de civilisation : La seconde guerre Mondiale
 
-Dans la petite classe aujourd'hui, on allait encore s'atteler à ce sujet autant historique que pop-culturel. Vu qu’apparemment  la moité des œuvres parvenues jusqu'ici y faisaient référence, c'était une bonne chose de poser les bases.
+Dans la petite classe aujourd'hui, on allait encore s'atteler à ce sujet autant historique que pop-culturel. Vu qu’apparemment la moité des œuvres parvenues jusqu'ici y faisaient référence, c'était une bonne chose de poser les bases.
 
-— Il y a très longtemps le monde vivait en harmonie, c'était la belle époque. Le monde sortait d'une vilaine guerre puis d'une aussi toute aussi vilaine épidémie. Le monde se reconstruisait dans la joie et la bonne humeur. Toutes les religions cohabitaient en paix, tous les partis politiques aussi. En France c'était la 3ème république. Les communistes avaient leur continent, les capitalistes aussi aux Amériques. Entre les deux on faisait ce qu'on voulait. Il y avait de tout et beaucoup de travail et tout le monde se foutait sur la gueule sans que personne ne prenne le dessus. C'était l'idée pour éviter l'oppression d'une majorité sur l'ensemble de monde : diviser les groupes jusqu'à ce que personne ne puisse prendre le dessus.
+— Il y a très longtemps le monde vivait en harmonie, c'était la belle époque. Le monde sortait d'une vilaine guerre puis d'une toute aussi vilaine épidémie de grippe. Le monde se reconstruisait dans la joie et la bonne humeur. Toutes les religions cohabitaient en paix, tous les partis politiques aussi. En France c'était la 3ᵉ république. Les communistes avaient leur continent, les capitalistes aussi aux Amériques. Entre les deux on faisait ce qu'on voulait. Il y avait de tout et beaucoup de travail et tout le monde se foutait sur la gueule sans que personne ne prenne le dessus. On appelle ça un temps de paix. C'était l'idée : pour éviter l'oppression d'une majorité sur l'ensemble de monde : diviser les groupes jusqu'à ce que personne ne puisse prendre le dessus. 
 
-— Mais ce monde idyllique fut détruit par l'arrivée au pouvoir de Hitler. Certain disent qu'il s'agit de l'incarnation du mal d'autre qu'il a été envoyé par un dieu de l'enfer et de la moustache. J'ai même lu quelque part que c'était un petit secrétaire des cavaliers de l'apocalypse qui voulait un peu d'action. En tout cas il a bien réussi à convaincre la moitié du monde que l'ennemi principal était des gens qu'on appelait les Juifs.
+Mais ce monde idyllique fut détruit par l'arrivée au pouvoir de Hitler. 
+
+De la même façon que certains disent que Dieu a envoyé son fils très gentil pour sauver l'humanité, le diable à envoyé Hitler pour lui mettre la misère. C'était, contrairement à Jésus, un homme sans super-pouvoir particulier si ce n'est une petite manie saugrenue et une capacité à la propager à la moitié du monde. Il pensait que l'ennemi principal était des gens qu'on appelait les Juifs.
 
 — C’est quoi les juifs ?
 — Des gens qui avaient un régime alimentaire spécial mais a priori pas de quoi se mettre dans tout ses états.
 — Et ils sont où maintenant ?
 — Y’en a plus aujourd’hui.
 — Il a bien réussi alors Hitler ?
-— Non ça c'est de la faute de la coupure y'a juste plus personne... Mais ce n'est pas le sujet. Le sujet c'est la guerre!
+— Non ça c'est de la faute de la Coupure y'a juste plus personne... Mais ce n'est pas le sujet. Le sujet c'est la guerre!
 
 Bizarrement ce dernier mot, ou bien l'accent tonique inconsciemment mis au bon endroit eu pour effet d'attirer l'excitation de l'assemblée.
 
-— ouiiii... Bagarre! Et autres onomatopées d'armes à feu étonnamment précises.
+— ouiiii... Bagarre! Et autres onomatopées d'armes à feu étonnamment précises. La maîtresse laissa passer la vague puis reprit le contrôle d'une main expérimentée :
 
-La maîtresse laissa passer la vague puis reprit le contrôle d'une main expérimentée :
+— Cela a commencé dans un pays au nord-est d'ici mais pas si loin, appelé l'Allemagne. Un pays froid plein de forêts lugubres, de loups de bâtiments gris et fonctionnels. Il y a donc eu l'arrivée au pouvoir d'un groupe appelé les Nazis : c'était le nom de ceux qui étaient vraiment contre les juifs et dont le chef était...
 
-— Cela a commencé dans un pays au nord-est d'ici mais pas si loin, appelé l'Allemagne. Dans le monde il eu alors une division entre les Nazis (c'était le nom de ceux qui étaient vraiment contre les juifs). En France a priori on avait pas vraiment de problème avec l'idée de les éradiquer : une lubie de certains parmi tant d'autre. Non, le problème c'est que les Nazis pensaient que pour bien faire le job il fallait conquérir le monde entier. Ce qui est assez clivant. On assiste donc à deux équipes : d'un côté l'Allemagne et ses alliances avec le Japon, l'Espagne, l'Italie ainsi que leurs conquêtes et leurs colonies contre le reste du monde : L'Angleterre et la Russie et tous les résistants des autres pays. Je vous rappelle que la France était une de leur conquête.
+— Hitler! Dirent en coeur les élèves attentifs en levant la main pour répondre par réflexe faisant un très mauvais effet.
 
-TODO: c'est un peu nul. Plus de cosmogonie
+— C'est ça... Essaya de calmer la classe en vérifiant que personne n'arrivait à ce moment précis. En France, a priori on n'avait pas vraiment de problème avec l'idée de les éradiquer : une lubie de certains parmi tant d'autre. Non, le problème c'est que les Nazis pensaient que pour bien faire le job il fallait conquérir le monde entier. Ce qui est assez clivant. On assiste donc à deux équipes : l'Axe d'un côté : l'Allemagne et ses alliances avec le Japon, l'Espagne, l'Italie ainsi que leurs conquêtes et leurs colonies contre le reste du monde : l'Angleterre et la Russie et tous les résistants des autres pays. Je vous rappelle que la France était dans la catégorie conquête.
 
-— S'en suivirent quelques années qui devaient ne pas être les meilleures pour pas mal de monde et les dernières pour d'autre. Avec des histoires de bataille, d'espionnage, de SS, de résistance, de Gestapo. Puis les américains sont entrés en guerre, un débarquement, une bombe nucléaire et voilà c'était fini. On pouvait passer à la guerre froide durant laquelle se passe aussi plein d'histoire que vous connaissez mais on verra ça un autre jour.
+— S'en suivirent quelques années qui devaient ne pas être les meilleures pour pas mal de monde et les dernières pour d'autre. Avec des histoires de batailles, d'espionnage, de SS, de résistance, de Gestapo. Puis les américains sont entrés en guerre, ils ont traversé les océans, un débarquement, une bombe nucléaire et voilà c'était fini. On pouvait passer à la guerre froide durant laquelle se passe aussi plein d'histoire que vous connaissez mais on verra ça un autre jour.
+
+— C'est Dieu aussi qui a envoyé les Américains? Ils sont où maintenant?
+
+— Peut être qu'ils sont toujours en Amérique de l'autre côté de l'océan c'est très très loin. Peut être que maintenant il galèrent un peu comme nous. Vu qu'il y a 20 ans, ils n'ont rien fait pour empêcher la Coupue et n'ont pas réussi à sauver le monde... Mais apparemment on n'est pas à l'abri qu'ils débarquent un jour avec leurs hélicos, des gros fusils, du chocolat et un remède contre la zombification.
 
 # 10 Résolution Affaire Mamie gentiane
 
@@ -1066,7 +1072,7 @@ Tout le monde décida tacitement de mettre l'incident au rebus et repris un comp
 Mylène parue songeuse comme figée, perdue dans ses pensées. Loir n'aurait jamais pu imaginer lui clouer le bec à ce point. Elle devait réfléchir à autre chose ou bien chercher la façon la plus cynique possible de l'humilier encore une fois.
 
 — C'était un site internet sur lequel n'importe qui pouvait écrire des articles sur n'importe quoi. Et bizarrement ça a abouti à une encyclopédie assez complète. Voir beaucoup trop sur certains point. Et il y a des articles sur les maladies,  les épidémies...
-— Ah cool ça à l'air intéressant.. après on est d'accord j'ai rien compris à ce que tu viens de dire répondit Kim qui contrairement à Loir et malgré tous les films et les livres pré-coupure, n'avait pas bien saisi le concept d'internet.
+— Ah cool ça à l'air intéressant.. après on est d'accord j'ai rien compris à ce que tu viens de dire répondit Kim qui contrairement à Loir et malgré tous les films et les livres pré-Coupure, n'avait pas bien saisi le concept d'internet.
 
 Mylène sembla se réveiller.
 
@@ -1244,7 +1250,7 @@ Ce fût au tour de Sinpier de ne plus tenir en place :
 
 On était encore passé du sujet "quoi faire une fois qu'on sera immuniser" à "quel est le sens de l'humanité". Mikhail se dit qu'il était tellement compliqué de ne pas dévier d'un ordre du jour. Les gens parlent de ce qui les intéresse après tout on pourra faire toujours d'autres réunion jusqu'à qu'il ait assez peu de personne pour avoir un consensus.
 
-Le premier petit vieux dont la vie a été riche une enfance citadine, des voyages, il avait été prof d'économie dans un lycée en zone rurale bénévole dans une médiathèque et retraité post coupure. Il reprit :
+Le premier petit vieux dont la vie a été riche une enfance citadine, des voyages, il avait été prof d'économie dans un lycée en zone rurale bénévole dans une médiathèque et retraité post Coupure. Il reprit :
 
 — Finalement la question revient à ceci : "Faut il repeupler le monde avec des humains?"
 
@@ -1284,9 +1290,9 @@ Vinvin déguerpi aussitôt à la manière d’un border colley. En beaucoup prat
 
 # 17 Cours de civilisation : Déféquer
 
-Lilou était une des plus jeune à parler de CPP aux futures générations. Bizarrement, pas besoin de fioriture pour capter l'attention des gosses quand leur propose un exposé sur le traitement pré-coupure du caca. Surtout avec une intervenante aussi impliquée.
+Lilou était une des plus jeune à parler de CPP aux futures générations. Bizarrement, pas besoin de fioriture pour capter l'attention des gosses quand leur propose un exposé sur le traitement pré-Coupure du caca. Surtout avec une intervenante aussi impliquée.
 
-— Dans la civilisation pré-coupure, on ne savait pas déféquer correctement. 4000 ans de civilisation ! Tout ça pour chier dans de l’eau potable. Puis prendre un bout de papier qu’on a payé, que le système économique, la société est allé fabriquer. On s’étale la merde sur le trou de balle  puis on regarde la trace sur le papier pour se dire « houlala y’en a encore» répéter l’opération plusieurs fois. Quand on en a marre on refait couler 10L d’eau potable pour faire partir sa merde. Des fois on se rend compte que ça flotte et on remet 10L d’eau. Les gens étaient dégoûtés par leur caca apparemment alors que vous voyez bien qu'il y a en a partout. Est ce que ça vous dérange le crottin de cheval, la bouse de vache? non et on s'en sert en plus comme fertilisant ça tient une place importante dans le cycle de la vie. Non vraiment, un civilisation qui a envoyé des gens sur la lune et a poussé à l’extrême l’injustice sociale, a surtout généralisé le fait de chier n’importe comment à cause de sa peur incohérente de ses excréments, et il a fallu une apocalypse pour réapprendre à chier correctement.
+— Dans la civilisation pré-Coupure, on ne savait pas déféquer correctement. 4000 ans de civilisation ! Tout ça pour chier dans de l’eau potable. Puis prendre un bout de papier qu’on a payé, que le système économique, la société est allé fabriquer. On s’étale la merde sur le trou de balle  puis on regarde la trace sur le papier pour se dire « houlala y’en a encore» répéter l’opération plusieurs fois. Quand on en a marre on refait couler 10L d’eau potable pour faire partir sa merde. Des fois on se rend compte que ça flotte et on remet 10L d’eau. Les gens étaient dégoûtés par leur caca apparemment alors que vous voyez bien qu'il y a en a partout. Est ce que ça vous dérange le crottin de cheval, la bouse de vache? non et on s'en sert en plus comme fertilisant ça tient une place importante dans le cycle de la vie. Non vraiment, un civilisation qui a envoyé des gens sur la lune et a poussé à l’extrême l’injustice sociale, a surtout généralisé le fait de chier n’importe comment à cause de sa peur incohérente de ses excréments, et il a fallu une apocalypse pour réapprendre à chier correctement.
 
  # 18 Loir rend compte raconte
 
@@ -1349,7 +1355,7 @@ Ils continuèrent à avancer lentement. Loir parce qu'il faisait attention d'esq
 — Ou alors elle est fermé à clé. Devant l'air interdit de Vinvin, expliqua : c'est une vieille technique pour pas qu'on puisse ouvrir une porte quand on n'a pas la petite clé qui correspond. Tu vois normalement on la rentre dans ce trou et on tourne je crois et ça s'ouvre.
 — Wouah c'est la classe! Mais ça sert à quoi?
 
-Depuis la coupure le rapport à la propriété avait changé du tout au tout. On était passé d'un monde ou chacun chacune était censé passer sa vie à fournir des efforts pour acquérir de la richesse, à un monde d'abondance immobilière. Les clés avaient peu à peu disparues avec la convoitise.
+Depuis la Coupure le rapport à la propriété avait changé du tout au tout. On était passé d'un monde ou chacun chacune était censé passer sa vie à fournir des efforts pour acquérir de la richesse, à un monde d'abondance immobilière. Les clés avaient peu à peu disparues avec la convoitise.
 
 Loir essaya vaguement de forcer la porte car il avait supposément plus de force. Lucide, il entreprit de faire le tour de la maison. Certaines fenêtres étaient refermées par des volets ostensiblement verrouillés, d'autres ouvertures du rez-de-chaussé avaient été barricadées avec des planches. Il firent le tour de la maison et, de l'autre côté remarquèrent une petite fenêtre à l'étage.
 
