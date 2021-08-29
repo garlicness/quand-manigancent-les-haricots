@@ -18,7 +18,7 @@
   - bonz
 - [ ] Félicité du travail de la terre. 
   La terre, au bout de quelques années de couverts végétaux, de mulch devient un vrai plaisir à travailler. Elle est noire, elle est légère elle sent bon, c’est agréable de mettre ces mains de dedans. Le désherbage s’est du bonheur : on prend la tige à la base, on tire et sans effort la racines apparaissent à nu. C’est pas perdu : la plante à poussé, elle a travaillé le sol, elle finit en couvrant le sol pour le protéger et le nourrir en carbone, pas mal pour une « mauvaise herbe »
-- [ ] Cours d'histoire hitler : #9.2 [enseigné comme mythe fondateur, cosmogonie]
+- [x] Cours d'histoire hitler : #9.2 [enseigné comme mythe fondateur, cosmogonie]
 - [ ] Cours d'internet = cours de téléphone : faire vraiment internet
 
 - [ ] Qq part : Discussion ridiculation de Loir face à Arya devant d'autre gens puis surtout que quelqu'un explique qu'il a voulu tuer Bambi parcequ'il sortait avec Arya. Avec les dessins?
@@ -27,7 +27,7 @@
 ## 13.1 : 
 
 - [ ] enterrer le loup
-- [ ] _TODO pourquoi les animaux contaminés ne sont pas contagieux ?_
+- [x] _TODO pourquoi les animaux contaminés ne sont pas contagieux ?_
 
 Manque : 
 
@@ -50,7 +50,7 @@ Et fonctionnement de la maladie :
 - Le virus ne se transmet pas entre animaux
 - On peut infecter un animal en injectant un bout de de cerveau directement sous le crane (dernière cervicale ça suffit)
 - ensuite il faut tester des medoc : Emetine et pof ça marche
-- Expliquer pourquoi elle avait de l'emetine
+- [ ] Expliquer pourquoi elle avait de l'emetine
 
 
 
