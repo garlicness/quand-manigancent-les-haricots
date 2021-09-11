@@ -14,7 +14,7 @@ https://fr.wikipedia.org/wiki/Exposants_et_indices_Unicode
 
 
 
-# 1 Une journée de lynchage comme les autre
+# 1 Une journée de lynchage comme les autres
 
 Bizarrement beaucoup de gens ont tendance à commenter ce qu'ils font à voix haute. La décence veut que ce soit seulement quand ils ne sont pas accompagnés d'autres humains. Cela dit la présence d'enfants en bas âge et d'animaux semble amplifier le phénomène. 
 
@@ -847,7 +847,7 @@ Et l’enthousiasme de Kim en prit un coup dans l’aile.
 
 ##  13.2 Enquête loup prairie
 
-Au sud de Montségur, une bonne partie de l'activité industrielle  se concentrait dans un hangar immense qui avait dû, être jadis un magasin de bricolage et qu'on s'échinait à entretenir. Y étaient rassemblés tous les outils fonctionnels disponibles. Loir était aller chercher une bêche non s'en qu'on lui rabâche de ne pas faire levier de tout son petit poids avec parce que partait-il "Y'en a plein le cul de le réparer ce manche".  Deux bonne heures plus tard, ils étaient en fin sur le lieu du crime. il s’approchèrent de la masse grise.
+Au sud de Montségur, une bonne partie de l'activité industrielle se concentrait dans un hangar immense qui avait dû, être jadis un magasin de bricolage et qu'on s'échinait à entretenir. Y étaient rassemblés tous les outils fonctionnels disponibles. Loir était aller chercher une bêche non s'en qu'on lui rabâche de ne pas faire levier de tout son petit poids avec parce que partait-il "Y'en a plein le cul de le réparer ce manche".  Deux bonne heures plus tard, ils étaient en fin sur le lieu du crime. il s’approchèrent de la masse grise.
 
 Loir tournait autour, son calepin à la main pendant que Vinvin était littéralement dans la gueule du loup.
 
@@ -871,8 +871,10 @@ Loir tournait autour, son calepin à la main pendant que Vinvin était littéral
 
 — C’est un défi en lui même : arriver à parler à Anaïs sans qu’elle soit en train de travailler, on risquerait de se faire recruter, elle fait ça tout le temps : on arrive le matin, on se retrouve à traire des animaux femelles. On arrive en juin on se retrouve  charger des bottes de foin. Le soir on égraine du maïs, etc.. c’est insupportable !
 
+Mais le premier défis, et pas des moindres, fut d'enterrer la carcasse de la bête. Vinvin voulait la fourrure mais c'est une tannée pour ravoir la peau. Encore plus que de creuser un trou avec une pelle. Encore plus quand on n'a pas la technique et pas les muscles correspondant. Il fallut 3 heures de sueurs. Puis, il se dit que 15 cm sous terre, et bien ça avait le mérite d'être "sous terre".
+
 # 14 : patrouille de nuit
- ## Le début
+
 On vit dans un monde où les gens croient voir des fantômes la nuit. Il me semble que le gens ne disent pas ce qu’ils pensent; à par Vinvin. Ce n’est pas possible d’être de bonne humeur tout le temps. Rien que le fait qu’ils vivent ensemble et que ça ne choque personne est suspect. Si on ajoute à cela qu’il y a des loups qui se font déglinguer l’échine à 2 pas des maisons et qu’accessoirement on retrouve des zombies qui se baladent dans nos prés, j’estime qu’il y a quelque chose de pourri dans cette communauté. Se disait, ce soir là, Loir dans sa tête avec une voix très grave. 
 Ce sera une patrouille de pleine lune. Pour voir s’il y a du mouvement la nuit, pour être sûr de ne pas passer à côté de quelque chose. C’était peu probable : qui aurait bien envie de sortir la nuit, on y voit beaucoup moins bien, c’est très désagréable. Et puis il y a des bruits, on ne sait jamais ce que c’est. Les bruits, on peut jamais savoir le poids de la bestiole qui cause tout les petits bruit de la nuit. Et ça c’est angoissant !
 L’important de disait il (cette fois de sa voix normale dans sa tête) c’est d’être bien équipé. « Safety first » comme on voyait sur les vieilles notices d’utilisation de matériels. Des bottes, des couches de vêtement, des lampes torche, une batte de baseball très rassurante. Il a choisi une nuit sans nuage, la veille la lune s’est levé à 19h ce qui veut dire qu’elle sera haute et presque pleine ce soir à partir de 21h. On n’allait pas non plus inaugurer une patrouille nocturne dans les pires conditions. Sinon ce serait juste une trouille nocturne se dit-il pour se donner du cœur à l'ouvrage. Il avait une idée de circuit à faire 3h de marche autour du village.
@@ -965,11 +967,11 @@ Ils arrivèrent chez Mylène où avait été installée une cage à une dizaine 
 
 Ils prirent bizarrement le temps pour répondre : bien sûr qu'il était de la même famille depuis le temps qu'ils vivaient ensemble. Il leur fallu remonter le cours de leur vie jusqu'au moment ou ils s'étaient rencontrés pour pouvoir confirmer que non ils n'étaient pas de la même famille, même qu'avant, ils n'avaient pas les même nom de famille. Kim s'étonna :
 
-— Pff des nom des famille! N'importe quoi...
+— Pff des nom de famille! N'importe quoi...
 
-Intéressant, et bien on a cas commencer à noter. Kim, le cahier. Voilà la date, tu marques entrevue et puis tu retranscris.
+— Intéressant, et bien on a cas commencer à noter. Kim, le cahier. Voilà la date, tu marques entrevue et puis tu retranscris.
 
-# Cours de civilisation : Les véhicules
+# 14.2.1 Cours de civilisation : Les véhicules
 
 Aujourd'hui dans la petite salle de classe, c'était le cours de Fastand de faire son heure de cours. Il était ce qui se rapprochait le plus de la fonction de garagiste. Sa profession consistait surtout à identifier ce qui marchait sur certaines voiture et à passer outre tout ce qui était électronique.
 
@@ -1006,7 +1008,7 @@ Il reprit le contrôle
 
 — Des stations essence, d'ailleurs y'en a un vestige à la sortie du village, ça pourra faire une sortie de classe. Et puis un jour il faudra bien que vous sachiez comment récupérer l'essence dans une cuve enterrée on sait même pas ou exactement sans électricité, sans les clefs et les codes et les manuels.
 
-# 14.2.1 Expérimentation
+# 14.2.2 Expérimentation
 
 De retour au centre de recherche et d'expérimentation après avoir noté tout un tas de détails plus ou moins intime. Ils allaient se décider à commencer les expériences.
 
@@ -1090,14 +1092,46 @@ Au grand étonnement de Loir.
 
 Loir fut surpris d'accéder aussi facilement au succès de sa quête secrète secondaire se contenta d’acquiescer et de mentalement cocher une case. Il saurait quoi dire à Arya la prochaine fois qu'il la verrait et c'est un gros morceau de charge mentale qui se dissout aussitôt. Tout en se perdant dans ces pensées réconfortantes Loir s'approchait de la table ou trônait les pétris. Il se pencha au dessus de la table mettant tout le monde mal à l'aise. Il était envoûté par l'idée qu'un doigt plongé dans une boite et il n'aurait plus jamais mal. Et vu la configuration de la scène, personne ne serait assez rapide pour l'en empêcher. Martin le rejoint, se mis à ses côtés ouvrit la bouche dégageant une incroyable haleine saturant tous ces sens (oui y compris la vue, et l’ouïe) d'un fumet quasiment tangible d'ail comme fermenté avec une petite touche de chicorée qui le fis reculer de 3 pas et comprendre que le masque de Mylène n'était pas forcément une protection à ce qu'on pensait.
 
-# 14.2.2 Cours de civilisation : Internet
+# 14.3 Arya Bambi 
 
-Vous voyez la magie? Alors, il faut bien faire la différence entre ce qui existait pour de vrai et les inventions des fictions. Déjà, vous connaissez la différence en un fiction et un documentaire? 
+Loir avait décidé de ne pas aller chez Bambi comme prévu. A la place il avait prévenu Arya qu'elle pourrait aller le voir le lendemain chez lui. 
+
+— Merci Sherlock avait elle ironisé. Tu crois que j'ai pas essayé? Y'a personne chez lui.
+
+Il avait fallu insister un peu et passer assez vite sur le fait que la bonne nouvelle venait de Mylène mais il est toujours plus facile de convaincre quelqu'un d'une bonne nouvelle. Il aurait vraiment aimé lui annoncé qu'elle avait raison, que Mylène était une vampire, qu'elle avait pendu Bambi la tête en bas et qu'elle s'était nourrie de son agonie et qu'il était trop tard. Il y aurait eu une chance pour qu'elle soit reconnaissante et éventuellement il aurait là pour la consoler. Mais apparemment ce n'était pas le cas. Il avait aussi pensé à la technique dite du "mitonage à volonté" mais le monde parallèle dans lequel il pouvait pécho Arya lui paraissait si éloigné que le risque de perdre toute crédibilité (qui était de 100% à long terme) n'en valait pas la chandelle. Surtout vu la carrière qui se dessinait de plus en plus semblait tourner autour de la vérité. Dernier point dans la colonne "contre" :  il faut croire qu'il aimait bien Arya après tout, la tempête d'émotions hormonales, il n'avait pas envie de lui mentir. 
+
+Après s'être fait à moitié et joyeusement forcé la bite, Bambi et Arya étaient assis l'une sur l'autre dans un confortable canapé. Les questions d'Arya étaient à l'image de sa technique de séduction  : insistante et subtile comme un pneu neige. Bambi tentait d'y répondre : 
+
+— Je me souviens vraiment pas bien : le dernier souvenir que j'ai je cueillais de l'herbe des ours  loin d'ici avec Mylène qui faisait la même chose quelques dizaine de mètres plus loin. Puis je me suis relevé et là plus rien. Je me suis fait assommé par une grosse branche apparemment. Suivi d'un coma d'un mois apparemment... 
+— Quand est-ce que tu as repris conscience? 
+— Il y a 2 semaines apparemment mais je me souviens que des 3 derniers jours seulement. Et ça va bien, c'est surprenant. Mylène s'est bien occupé de moi.  Elle a cru que j'allais resté complètement amnésique puis c'est revenu.
+— Cette histoire me parait louche, et là tu vois j'ai pas trop envie de lui laisser faire n'importe quoi.
+— Ahaha le problème c'est que tu n'es pas ma marraine et tu as à peine 18 ans. Et demain je reste avec Mylène quelques jours on va aménager un espèce de labo un peu plus grand et ramener du matériel de l’hôpital de Foix. 
+
+— Tu te rends pas compte comment elle cache quelque chose cette sorcière elle est pas nette du tout! Elle a pas voulu me laisser te voir quand t'étais pas bien.
+— Je suis bien remis non? Tu serais pas un peu jalouse?
+
+Évidemment dire à quelqu'un de jaloux qu'elle est jalouse c'est comme dire à quelqu'un en colère d’arrêter d'être en colère. C'est comme mettre du sel dans une plaie : sur le papier c'est une bonne idée pour désinfecter mais il vaut mieux que ce soit quelqu'un d'autre qui le fasse.
+
+— Mais tu vois elle t'aveugle elle mitonne tout le monde et personne s'en aperçoit!
+— Bon je comprends que tu veuilles passer plus de temps avec moi et que c'est pas toujours possible. Mais ok mettons : t'es pas jalouse, sur quoi tu te bases pour dire que Mylène est en fait possédée par une force obscure qui se transforme en succube les nuits de pleine lune c'est ça?
+— Mais oui si ça se trouve... C'est une intuition, tu peux pas comprendre nous les filles on a un 6ème sens.
+— La jalousie? Je crois qu'on l'a aussi.
+— Tu vas vraiment commencer à faire le malin là?
+— Pour plein de raisons, tu peux pas m'obliger à faire ce que tu veux.
+— Alors je peux rien faire pour toi, je me casse et faudra pas venir pleurer si tu te retrouve dans le coma. Finit-elle en ramassant ses affaires
+— Ben oui ce serait pas possible...
+
+Ma déjà la porte claquait ostensiblement.
+
+# 14.3.1 Cours de civilisation : magie ou internet
+
+Vous voyez la magie? Alors, il faut bien faire la différence entre ce qui existait pour de vrai et les inventions fictives des histoires. Déjà, vous connaissez la différence en une fiction et un documentaire? 
 
 — La fiction c'est comme une histoire.
-— Oui c'est mignon. C'est des histoires qu'on se raconte. Et des documentaires de toute façon sont assez dur à se procurer ces temps-ci. Pour ça il faut mieux aller à la bibliothèque. Bref alors on va faire un petit quizz, vous me direz si c'est imaginaire ou si ça a vraiment existé.
+— Oui c'est mignon. C'est des histoires qu'on se raconte. Et des documentaires de toute façon sont assez dur à trouver maintenant. Pour ça il faut mieux aller à la bibliothèque. Bref alors on va faire un petit quizz, vous me direz si c'est imaginaire ou si ça a vraiment existé.
 — ou les 2?
-— Euh non pas "ou les 2"... Alors : le fait de pouvoir contacter et parler à l'oral où par écrit n'importe qui sur la planète quand on veut.
+— Euh non pas "ou les 2"... Alors : le fait de pouvoir contacter et parler à l'oral où par écrit à n'importe qui sur la planète quand on veut.
 
 La majorité des enfants répondirent "vraiment existé" certain par mimétisme avec un léger décalage. Quelque 'imaginaire!' furent également prononcés. 
 
@@ -1107,7 +1141,7 @@ La majorité des enfants répondirent "vraiment existé" certain par mimétisme 
 
 — C'est bien : à ne pas confondre avec les boules de cristal et la télépathie qui n'existent pas.
 
-— Attention... : Avoir accès à toute les encyclopédies du monde depuis n'importe ou?
+— Attention question suivante : Avoir accès à toute les encyclopédies du monde depuis n'importe ou?
 
   Les enfants firent leur paris.
 
@@ -1141,41 +1175,11 @@ L'appareil se mit en branle et afficha un série de logos animés très abstrait
 
 — Whoa! S'écrièrent les plus jeunes comme s'ils avaient à faire à un authentique artefact magique.
 
-# 14.3 Arya Bambi 
+— Alors c'est peut être pas magique mais je crois que personne comprenait vraiment comment tout ça marchait. Une histoire avec des serveurs qui stockaient des données puis des fils reliés à tous les gens dans le monde. Des fils ou des ondes électromagnétiques. Parce qu’on peut apparemment remplacer un fil par 2 antennes. Bref, question suivante : les magiciens!
 
-Loir avait décidé de ne pas aller chez Bambi comme prévu. A la place il avait prévenu Arya qu'elle pourrait aller le voir le lendemain chez lui. 
+Il n'y eu pas d'erreurs sur le sujet. Vu lq magie elle même avait déjà été définie comme imaginaire. On pouvait en général faire la même chose dans le monde réel mais alors, on appelait ça la technologie.
 
-— Merci Sherlock avait elle ironisé. Tu crois que j'ai pas essayé? Y'a personne chez lui.
-
-Il avait fallu insister un peu et passer assez vite sur le fait que la bonne nouvelle venait de Mylène mais il est toujours plus facile de convaincre quelqu'un d'une bonne nouvelle. Il aurait vraiment aimé lui annoncé qu'elle avait raison, que Mylène était une vampire, qu'elle avait pendu Bambi la tête en bas et qu'elle s'était nourrie de son agonie et qu'il était trop tard. Il y aurait eu une chance pour qu'elle soit reconnaissante et éventuellement il aurait là pour la consoler. Mais apparemment ce n'était pas le cas. Il avait aussi pensé à la technique dite du "mitonage à volonté" mais le monde parallèle dans lequel il pouvait pécho Arya lui paraissait si éloigné que le risque de perdre toute crédibilité (qui était de 100% à long terme) n'en valait pas la chandelle. Surtout vu la carrière qui se dessinait de plus en plus semblait tourner autour de la vérité. Dernier point dans la colonne "contre" :  il faut croire qu'il aimait bien Arya après tout, la tempête d'émotions hormonales, il n'avait pas envie de lui mentir. 
-
-Après s'être fait à moitié et joyeusement forcé la bite, Bambi et Arya étaient assis l'une sur l'autre dans un confortable canapé. Les questions d'Arya étaient à l'image de sa technique de séduction  : insistante et subtile comme un pneu neige. Bambi tentait d'y répondre : 
-
-— Je me souviens vraiment pas bien : le dernier souvenir que j'ai je cueillais de l'herbe des ours  loin d'ici avec Mylène qui faisait la même chose quelques dizaine de mètres plus loin. Puis je me suis relevé et là plus rien. Je me suis fait assommé par une grosse branche apparemment. Suivi d'un coma d'un mois apparemment... 
-— Quand est-ce que tu as repris conscience? 
-— Il y a 2 semaines apparemment mais je me souviens que des 3 derniers jours seulement. Et ça va bien, c'est surprenant. Mylène s'est bien occupé de moi.  Elle a cru que j'allais resté complètement amnésique puis c'est revenu.
-— Cette histoire me parait louche, et là tu vois j'ai pas trop envie de lui laisser faire n'importe quoi.
-— Ahaha le problème c'est que tu n'es pas ma marraine et tu as à peine 18 ans. Et demain je reste avec Mylène quelques jours on va aménager un espèce de labo un peu plus grand et ramener du matériel de l’hôpital de Foix. 
-
-— Tu te rends pas compte comment elle cache quelque chose cette sorcière elle est pas nette du tout! Elle a pas voulu me laisser te voir quand t'étais pas bien.
-— Je suis bien remis non? Tu serais pas un peu jalouse?
-
-Évidemment dire à quelqu'un de jaloux qu'elle est jalouse c'est comme dire à quelqu'un en colère d’arrêter d'être en colère. C'est comme mettre du sel dans une plaie : sur le papier c'est une bonne idée pour désinfecter mais il vaut mieux que ce soit quelqu'un d'autre qui le fasse.
-
-— Mais tu vois elle t'aveugle elle mitonne tout le monde et personne s'en aperçoit!
-— Bon je comprends que tu veuilles passer plus de temps avec moi et que c'est pas toujours possible. Mais ok mettons : t'es pas jalouse, sur quoi tu te bases pour dire que Mylène est en fait possédée par une force obscure qui se transforme en succube les nuits de pleine lune c'est ça?
-— Mais oui si ça se trouve... C'est une intuition, tu peux pas comprendre nous les filles on a un 6ème sens.
-— La jalousie? Je crois qu'on l'a aussi.
-— Tu vas vraiment commencer à faire le malin là?
-— Pour plein de raisons, tu peux pas m'obliger à faire ce que tu veux.
-— Alors je peux rien faire pour toi, je me casse et faudra pas venir pleurer si tu te retrouve dans le coma. Finit-elle en ramassant ses affaires
-— Ben oui ce serait pas possible...
-
-Ma déjà la porte claquait ostensiblement.
-
-
-
-[REPRENDRE LA]
+— Et ceux qui faisaient marcher tout ça étaient des ingénieurs et laissez-moi vous dire qu'ils avaient beaucoup moins la classe que des sorciers. 
 
 
 # 14.4 Loir / Anaïs
@@ -1274,7 +1278,7 @@ On tient peut être quelque chose d'innovant là se dit Mikhail. Ça se tient pr
 
 # 16 Attaque de loup troupeau
 
-Pendant ce temps là loin des considération existentialiste mais surtout loin de l'angoisse du débat en public. Loir et Vinvin arrivèrent une nouvelle fois dans la petite parcelle pentue sur laquelle étaient encore les brebis. Le petit tas de terre sous lequel reposait en paix le malheureux prédateur n'avait heureusement pas encore été fouillé par quelque charognard indélicat. On ne pouvait pas encore l'accuser de ne pas avoir assez creuser. Certaines brebis les regardèrent approcher en pâturant sans s'alarmer. Ils s'approchèrent d'un bassin à eau presque vide. Des canalisation avaient été disposées dans toutes les parcelles pour détourner l'eau d'un vieux canal réaménagé qui passait un peu plus haut. Il positionna le dernier tronçon de tuyau et ouvrir la vanne. Certaines brebis vinrent lentement voir de plus près de quoi il s'agissait. Si bien qu'ils eurent bientôt une position privilégiée pour observer les animaux. 
+Pendant ce temps là, loin des considérations existentialistes mais surtout loin de l'angoisse du débat en public. Loir et Vinvin arrivèrent une nouvelle fois dans la petite parcelle pentue sur laquelle broutaient encore les brebis. Le petit tas de terre sous lequel reposait en paix le malheureux prédateur n'avait heureusement pas encore été fouillé par quelque charognard indélicat. On ne pouvait pas encore l'accuser de ne pas avoir assez creuser. Certaines brebis les regardèrent approcher en pâturant sans s'alarmer. Ils s'approchèrent d'un bassin à eau presque vide. Des canalisation avaient été disposées dans toutes les parcelles pour détourner l'eau d'un vieux canal réaménagé qui passait un peu plus haut. Il positionna le dernier tronçon de tuyau et ouvrir la vanne. Certaines brebis vinrent lentement voir de plus près de quoi il s'agissait. Si bien qu'ils eurent bientôt une position privilégiée pour observer les animaux. 
 
 Certaines bêtes avaient été marquées, des traces rouges indiquaient sûrement s'il s'agissait d'agnelles destinées à renouveler le troupeau ou bien d'agneaux qui finiront en gigots. Il semblait même que ces traces avaient été faites avec le sang d'une bête abattue le jour même. On avait certes de nos jour quelque solutions colorées fait à base de farine ou de broue de noix mais sur le moment, un pot de sang bien frais avait paru beaucoup plus pratique : l'efficacité du bon sens paysan!
 
@@ -1290,17 +1294,17 @@ Vinvin déguerpi aussitôt à la manière d’un border colley. En beaucoup prat
 
 # 17 Cours de civilisation : Déféquer
 
-Lilou était une des plus jeune à parler de CPP aux futures générations. Bizarrement, pas besoin de fioriture pour capter l'attention des gosses quand leur propose un exposé sur le traitement pré-Coupure du caca. Surtout avec une intervenante aussi impliquée.
+Lilou était une des plus jeune à parler de CPP aux futures générations. Bizarrement, pas besoin de fioriture pour capter l'attention des gosses quand on leur propose un exposé sur le traitement pré-Coupure du caca. Surtout avec une intervenante aussi impliquée.
 
-— Dans la civilisation pré-Coupure, on ne savait pas déféquer correctement. 4000 ans de civilisation ! Tout ça pour chier dans de l’eau potable. Puis prendre un bout de papier qu’on a payé, que le système économique, la société est allé fabriquer. On s’étale la merde sur le trou de balle  puis on regarde la trace sur le papier pour se dire « houlala y’en a encore» répéter l’opération plusieurs fois. Quand on en a marre on refait couler 10L d’eau potable pour faire partir sa merde. Des fois on se rend compte que ça flotte et on remet 10L d’eau. Les gens étaient dégoûtés par leur caca apparemment alors que vous voyez bien qu'il y a en a partout. Est ce que ça vous dérange le crottin de cheval, la bouse de vache? non et on s'en sert en plus comme fertilisant ça tient une place importante dans le cycle de la vie. Non vraiment, un civilisation qui a envoyé des gens sur la lune et a poussé à l’extrême l’injustice sociale, a surtout généralisé le fait de chier n’importe comment à cause de sa peur incohérente de ses excréments, et il a fallu une apocalypse pour réapprendre à chier correctement.
+— Dans la civilisation pré-Coupure, on ne savait pas déféquer correctement. 4000 ans de civilisation ! Tout ça pour chier dans de l’eau potable. Puis prendre un bout de papier qu’on a payé, que le système économique, la société est allé fabriquer. On s’étale la merde sur le trou de balle  puis on regarde la trace sur le papier pour se dire « houlala y’en a encore» répéter l’opération plusieurs fois. Quand on en a marre on refait couler 10L d’eau potable pour faire partir sa merde. Des fois on se rend compte que ça flotte et on remet 10L d’eau. Les gens étaient dégoûtés par leur caca apparemment alors que vous voyez bien qu'il y a en a partout. Est-ce que ça vous dérange le crottin de cheval, la bouse de vache? Non! Et on s'en sert en plus comme fertilisant ça tient une place importante dans le cycle de la vie. Non vraiment, un civilisation qui a envoyé des gens sur la lune et a poussé à l’extrême l’injustice sociale, a surtout généralisé le fait de déféquer n’importe comment à cause de sa peur incohérente de ses excréments, et il a fallu une apocalypse pour réapprendre à chier correctement.
 
  # 18 Loir rend compte raconte
 
-C'était le soir on se restaurait pour ceux qui voulaient au centre du village, on discutait on se chamaillait il y avait beaucoup trop d'enfant faisant des bruits. Ce qui devait arriver arriva : on ne peut pas venir manger tranquille sans être obliger de socialiser. Et ce fut Sinpier qui mit le sujet de l'enquête du loup sur la table. Loir savait qu'il manquait quelque chose, un bout à son investigation. Il pouvait néanmoins détourner l'attention en mettant les formes.
+C'était le soir on se restaurait pour ceux qui voulaient au centre du village, on discutait on se chamaillait il y avait beaucoup trop d'enfant faisant des bruits d'enfant. Ce qui devait arriver arriva : on ne peut pas venir manger tranquille sans être obliger de socialiser. Et ce fut Sinpier qui mit le sujet de l'enquête du loup sur la table. Loir savait qu'il manquait quelque chose, un bout à son investigation. Il pouvait néanmoins détourner l'attention en mettant les formes.
 
-Alors pour que vous compreniez ce qui s'est passé il faut que vous vous imaginiez une attaque d’un loup sur troupeau : le loup fonce sur le troupeau, au milieu un bélier est en train de brouter. Tout le troupeau commence à fuir dans la direction opposée au loup. Le loup est mode chasse. Littéralement au taquet c’est à dire les gaz à fond, la machine à tuer enclenchée. Il va très vite, pas de proie précisément en vue seulement la masse distordue en mouvement du troupeau. Il se rapproche à grande vitesse, je vous assure qu’à cette vitesse, la tête à 20 cm du sol, demandez à Vinvin, on a tendance à se prendre pour une torpille. Sauf que dans la masse du troupeau il avait un point fixe : un vieux bélier en train de brouter fendant le flux de ses congénères apeurés comme un rocher dans un torrent. Faisons un peu de physique : un troupeau en déplacement d’une vitesse v, un loup les poursuit doit s’arranger pour aller à une vitesse supérieure à v pour être sûr de se mettre un gigot sous les chicos. Il n’eut même pas le temps de réaliser ce qui se passait : il était sur le point de choisir un individu à l’arrière du troupeau au moment où il le rejoignait et puis plus rien.  Tout est une histoire de référentiel : depuis le point de vue du troupeau, on a un loup écument toute voiles dehors qui se rapproche lentement. Du point de vue d’un bélier broutant par une fraîche soirée de Mars, des camarades qui passent à toute vitesse, trop prés de chaque coté en piétinant cet excellent trèfle de prairie pendant quelques seconde puis au moment où les dernières brebis étaient passées une image de langue pendue, un petit bruit sec et l’instant d’après un cadavre de loup devant les yeux. Car et c’est écrit dans les livres qu’on a retrouvé à la bibliothèque. Ce qui fait mal c’est l’accélération et l’accélération c’est la variation de vitesse. Et on voit que dans le cas d’un loup à disons 52 km/h qui entre en collision avec des cornes de bélier immobile, on passe instantanément à une vitesse nulle, ce qui génère une énergie à absorber notamment on l'a vu ici, dans la déformation du crane et des vertèbres est donc en général déconseillé pour la santé et ce petit détail en cadeau : ne relève plus de la théorie de la mécanique générale mais de la physique des chocs.
+— Alors pour que vous compreniez ce qui s'est passé, il faut que vous vous imaginiez une attaque d’un loup sur troupeau : le loup fonce sur le troupeau, au milieu un bélier est en train de brouter. Tout le troupeau commence à fuir dans la direction opposée au loup. Le loup est mode chasse. Littéralement au taquet c’est à dire les gaz à fond, la machine à tuer enclenchée. Il va très vite, pas de proie précisément en vue seulement la masse distordue en mouvement du troupeau. Il se rapproche à grande vitesse, je vous assure qu’à cette vitesse, la tête à 20 cm du sol, demandez à Vinvin, on a tendance à se prendre pour une torpille. Sauf que dans la masse du troupeau il avait un point fixe : un vieux bélier en train de brouter fendant le flux de ses congénères apeurés comme un rocher dans un torrent. Faisons un peu de physique : un troupeau en déplacement d’une vitesse v, un loup les poursuit doit s’arranger pour aller à une vitesse supérieure à v pour être sûr de se mettre un gigot sous les chicos. Il n’eut même pas le temps de réaliser ce qui se passait : il était sur le point de choisir un individu à l’arrière du troupeau au moment où il le rejoignait et puis plus rien.  Tout est une histoire de référentiel : depuis le point de vue du troupeau, on a un loup écument toute voiles dehors qui se rapproche lentement. Du point de vue d’un bélier broutant par une fraîche soirée de Mars, des camarades qui passent à toute vitesse, trop prés de chaque coté en piétinant cet excellent trèfle de prairie pendant quelques seconde puis au moment où les dernières brebis étaient passées une image de langue pendue, un petit bruit sec et l’instant d’après un cadavre de loup devant les yeux. Car et c’est écrit dans les livres qu’on a retrouvé à la bibliothèque. Ce qui fait mal c’est l’accélération. Et l’accélération c’est la variation de vitesse. Et on voit que dans le cas d’un loup à disons 52 km/h qui entre en collision avec des cornes de bélier immobile, on passe instantanément à une vitesse nulle, ce qui génère une énergie à absorber notamment on l'a vu ici, dans la déformation du crane et des vertèbres est donc en général déconseillé pour la santé et ce petit détail en cadeau : ne relève plus de la théorie de la mécanique générale mais de la physique des chocs.
 
-Kim était là dévorait Loir des yeux ce qui lui fit plaisir et le mit mal à l'aise à la fois. Il avait quelque chose à éclaircir et c'était l'occasion ou jamais. Il  essaya d’amener le sujet sans se dévoiler.
+Kim était là dévorait Loir des yeux ce qui lui fit plaisir et le mit mal à l'aise à la fois. Il avait quelque chose à éclaircir et c'était l'occasion ou jamais. Il essaya d’amener le sujet sans se dévoiler.
 
 — Et sinon ces expériences comment ça se passe?
 — Bien je crois je fais pas grand chose finalement lui répondit Kim en soupirant. Surtout de la manutention, je risque ma vie en faisant la vaisselle.
@@ -1315,9 +1319,31 @@ Kim, dont l'égo était flatté par la mise dans la confidence, essayait de mesu
 
 — Donc euh... on est d'accord, Mylène est louche?
 — Voilà si tu pouvais garder un œil sur elle discrètement ça pourrait faire avancer l'enquête.
-— Ça expliquerait peut-être le fait qu'elle me tienne à l'écart de tout ce qui est un peu technique. Sa voix pris une inflexion plaintive. Mais elle a toujours le dernier mot aussi, en vrai tu peux pas test elle a toujours raison on peut jamais discuter.
+— Ça expliquerait peut-être le fait qu'elle me tienne à l'écart de tout ce qui est un peu technique. Sa voix prit une inflexion plaintive. Mais elle a toujours le dernier mot aussi, en vrai tu peux pas test, elle a toujours raison on peut jamais discuter.
 
 Ils se rendirent alors compte qu'ils parlaient à voix basse mais plutôt fort et de très près ce qui contrastait ostensiblement avec une attitude normale : l'opposé de la discrétion donc. D'ailleurs quelques personnes commençaient à les regarder bizarrement. Ils se redressèrent et reprirent une posture trop droite pour ne pas être louche. Finirent leur repas à grosses bouchées et se séparèrent à la hâte.
+
+
+
+## Une humiliation publique avec Arya
+
+Loir alla déposer son assiette à la vaisselle. Au moment ou il passa devant l'entrée du réfectoire, il tomba nez à nez avec Arya qui venait se sustenter. Et "Nez à nez", pour Loir, c'est déjà beaucoup d'émotions. Lui revint en mémoire la discussion nocturne sur les supposés dessins qu'il devait lui montrer. Il fallait dissoudre le malentendu.
+
+— En fait le calepin l'autre jour c'était pour dessiner... Enfin si c'est possible mais je veux dire je m'en sers surtout pour les notes.
+
+— Salut ça va?
+
+— Oui alors voilà du coup il était tard et j'ai pas trop eu l'occasion de répondre..
+
+— D'accord mais je ne sais pas trop de quoi tu parle.
+
+— Parceque je voudrais pas que tu crois que je pipotte, j'ai jamais dit que j'était un artiste de la peinture ou je sais pas quoi.
+
+— C'est long la non? Fit une voix grave juste derrière lui. C'était Bambi qui venait à son tour d'entrer. Son intervention fit sursautter Loir. Il avait posé son verre sur son assiette et était en train de chercher dans sa poche son calepin pour prouver sa bonne foie. Mais le sursaut reversa le verre qui contenait un peu de liquide qui se renversa sur Aray qui fit un pas de recul. Loir eu un mouvement pour essayer de rattraper la situation qui eu pour cause de déséquilibrer l'assiette de l'asiette envoyant par terre le verre en verre qui explosa au sol, attirant l'attention de l'assistance. Bambi un peu agacé par une légère hipo glycémie voulu mettre fin au spectacle.
+
+— Non mais il va falloir que tu lui foutes la paix la quand même.
+
+Confrontation, virilité, répartie, tous les indicateurs indiquait clairement la procédure à suivre : la fuite. Arya lu la panique dans les yeux de Loir et dans un élan de générosité lui proposa de s'occuper des débris pendant que ce dernier prenait la fuite sous l’œil désapprobateur de l'assemblée.
 
 # 19 La vraie enquête
 
@@ -1443,12 +1469,12 @@ Ah donc ça : j'avais. pensa Loir.
 — Mais nous sauver pour faire quoi? Tu veux que je te rappelle le monde d'avant? Rien de bon ne va en sortir.
 — ... moi j'en suis sorti
 — Ma faiblesse, le monde est mieux avec toi dedans..
-— Le monde est mieux avec plein de gens dedans
+— Le monde est mieux avec plein de gens dedans!
 — Nop pas pour moi, pas pour tout le monde.
 — N'empêche tu ne peux pas nous imposer ta vision... J'hallucine : tu veux annihiler l'humanité comme tous les putains de méchants dans toute les mauvaises histoires.
 — C'est juste un paradigme avec lequel on était conditionné : les humains sont forcément les gentils, il faut sauver l'humanité mais c'est un point de vue comme un autre, une croyance arbitraire. Combien de fois les méchants ont en fait des intentions ou au moins des questionnements complètement valables et ils se font défoncer sans qu'on y réponde.  Thanos dit : il n'y a pas assez de ressources et bien c'est vrai.
 
-[Trouver des histoires ou la thématique du méchant passe à la trappe]
+[TODO Trouver des histoires ou la thématique du méchant passe à la trappe]
 
 — Tu m'embrouilles t'es très forte pour ça n’empêche que je peux pas me taire. Je vais le dire...
 
@@ -1462,15 +1488,15 @@ Merde! pensa Loir. Ah oui mais c'est moi qui ait crier "non!" je crois. Il vit M
 
 Loir arriva donc au village à bout de souffle. Enfin au delà de tout souffle, en apnée. Il essayait de crier, d'appeler à l'aide et se dirigea vers la halle, le centre du village qui même la nuit restait le lieu le plus densément peuplé et le berceau des institutions où se situait les demeures des hauts fonctionnaires. De Mikhail entre autre. A la place des cris qu'il aurait voulu alarmants histoire d'ameuter tout le village sortait de petits râles sifflants d'agrafeuse pneumatique ou de vieux chien asthmatique. Bon, c'est ridicule, d'abord arriver sous la halle, reprendre du souffle puis faire du bruit convenablement. Arrivant sur la place heureusement il y avait déjà quelque personnes qui paraissaient discuter. Loir arriva en courant, essaya de faire des gestes pour attirer leur attention comme si dans le calme de la nuit il avait pu passer inaperçu. Il fini par arriver au niveau  du groupe et essaya de commencer un phrase. Non finalement il mit les main sur ses genoux. Alors un verbe : 
 
-—  "là haut...". Non d'abord le sujet
+—  "là haut...". - Non d'abord le sujet
 
-— "Folie, derrière..." c'est quoi déjà un C.O.D?
+— "Folie, derrière..." - c'est quoi déjà un C.O.D?
 
-Au bout de quelques minutes il releva la tête pour face face à une assemblée médusée. Mihkail, Georges et Mateo et Mylène...
+Au bout de quelques minutes il releva la tête pour se retrouver face à une assemblée médusée. Mihkail, Georges et Mateo et Mylène...
 
-— Oh non... Une expression d'horreur déforma son visage, il posa les yeux sur ses mains ensanglantées puis posa son cul sur le sol, en état de choc. 
+— Oh non... Une expression d'horreur déforma son visage, il posa les yeux sur ses mains ensanglantées des écorchures de ses chutes. puis posa son cul sur le sol, en état de choc. 
 
-Oui bon elle connaît mieux que moi les chemins autour de Montségur, elle a prit un raccourci dans la pente entre 2 lacets ça à du même être facile. Elle aura même eu le temps de penser à une histoire ou c'est moi qui tue Bambi.  
+Oui bon elle connaît mieux que moi les chemins autour de Montségur, elle a prit un raccourci dans la pente entre 2 lacets ça a même dû être facile. Elle aura même eu le temps de penser à une histoire où c'est moi qui tue Bambi.  
 
 # 21 Procès et verdict infection ko, évasion
 
@@ -1478,7 +1504,7 @@ Oui bon elle connaît mieux que moi les chemins autour de Montségur, elle a pri
 
 Tout se passa ensuite assez vite et de façon assez fluide. Loir essaya bien de protester un peu mais il se rendit lui même compte que chaque intervention le faisait paraître encore plus coupable. Comme ces jeux de rôle où il faut convaincre les autres joueurs qu'on n'est pas la personne à éliminer, en général chaque prise de parole aggrave son cas. Comme si, accuser un innocent induisait en lui un comportement de coupable. Il fût placé dans une pièce du sous sol d'une maison du village qui avait la particularité d'avoir des barreaux aux fenêtres qui donnaient sur la rue. Pour le folklore, elle a vaguement servit de cellule de dégrisement une fois ou deux mais pas plus. L'avantage était qu'on pouvait facilement lui parler ou moins lui faire passer un message. Le temps qu'on se décide à organiser, non pas un procès, il n'y avait ni juge ni avocat ni même de lois cohérentes auxquelles se référer mais une petite cérémonie ou discussion pour annoncer le sort qui lui était réservé. Il put donc profiter de quelques jours au calme. Durant lesquels Arya vint lui parler.
 
-— A quand même! Pensa t'il c'était censé être une grosse partie de mes soutiens avec Kim et Vinvin.
+A quand même! Pensa t'il. C'était censé être une grosse partie de mes soutiens avec Kim et Vinvin.
 — Pourquoi tu as rien fais?
 — Pardon de quoi? Oui c'est bien le point intéressant ici : j'ai rien fait!
 — Mais quoi t'as pas pu l’empêcher de le tuer? T'es une merde, à cause de toi Bambi est mort.
@@ -1494,10 +1520,10 @@ Et voilà le cercle des soutiens qui s'amenuise sacrément. Plus tard dans la se
 Kim essayait nerveusement d'avoir l'air naturel en s'adossant au mur mais un crochet de volet dans son dos, s'accrochait à son pull trois trop grand l’empêchait de toute façon d'avoir l'air vraiment à l'aise. 
 
 — Mais alors quoi? qu'est ce qu'il s'est passé?
-— Si je te le dis tout, tu me croiras? Tu prendras ma défence?
+— Si je te dis tout, tu me croiras? Tu prendras ma défense?
 — Ça voudrait dire prendre la parole devant tout le monde pour exprimer un avis à l'opposé de ce que tout le monde pense?
 — Voilà ça. Tu le feras?
-— Hmm je te rappelle qu'on est pas les plus populaires sur terre... Sachant qu'il y aura de toute façon un espèce de vote et que je pense pas pouvoir claquer un "12 hommes en colère" comme ça. Mieux vaut que je ferme ma gueule sinon ma vie va devenir encore plus compliquée. Voilà donc la réponse est non mais maintenant tu peux me dire ce qui s'est passé non? Ça changera quoi pour toi? Et puis qui sait peut être qu'en en sachant le plus possible j'arriverai à te venger.
+— Hmm je te rappelle qu'on est pas les plus populaires sur terre... Il y a plusieurs personnes qui t'ont vu agresser Arya au réfectoire avant l'intervention de Bambi qui t'a fait déguerpir. Ils pensent qu'ils ont un mobile solide. Sachant qu'il y aura de toute façon un espèce de vote et que je pense pas pouvoir claquer un "12 hommes en colère" comme ça. Mieux vaut que je ferme ma gueule sinon ma vie va devenir encore plus compliquée. Voilà donc la réponse est non mais maintenant tu peux me dire ce qui s'est passé non? Ça changera quoi pour toi? Et puis qui sait peut être qu'en en sachant le plus possible j'arriverai à te venger.
 — ... bon je suis grillé comme... 
 — un grillon? une tartine?
 — non c'est bon les tartines...
@@ -1505,16 +1531,16 @@ Kim essayait nerveusement d'avoir l'air naturel en s'adossant au mur mais un cro
 — voilà du coup elle est toute cramée et on la jette.
 — Et ça met le feu à la poubelle...
 — Je pense pas mettre feu à quoi que ce soit cela dit.
-— Bon l'histoire : Bambi s'est fait infecter, Mylène à trouvé un vaccin, ou un remède bref elle l'a guéri. Lui il a mis un peu de temps mais il a fini par comprendre.
+— Bon l'histoire : Bambi s'est fait infecter, Mylène à trouvé un vaccin, ou un remède bref elle l'a guéri. Lui, il a mis un peu de temps mais il a fini par comprendre.
 — Un peu comme nous.
 — Il est allé la voir pour dire qu'elle ne pouvait pas cacher le fait qu'elle avait un super pouvoir très utile à tous : celui de soigner les zombies.
 — Grand pouvoirs, grande responsabilités..
-— Ouais sauf que Mylène l'a planté puis l'a saigné. 
+— Ouais sauf que Mylène elle l'a planté puis elle l'a saigné. 
 
 Loir essaya de chasser les images qui tournaient en boucle devant lui dès qu'il fermait les yeux.
 
 — Et moi je me suis retrouvé là pour porter le chapeau. Elle est quand même balaise, on fait pas le poids.
-— Je vais te chercher un chicorée.
+— Je vais te chercher une chicorée.
 
 Kim revint quelques minutes plus tard de la cantine avec une tasse fumante. 
 
