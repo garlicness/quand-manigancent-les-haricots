@@ -1,3 +1,28 @@
+---
+title: A revoir
+author: Adrien Touzouli
+rights:  Creative Commons Non-Commercial Share Alike 3.0
+language: fr-FR
+...
+
+
+pandoc -o La_fin.epub Histoire_zombie.md
+
+
+
+## unicodes
+
+
+
+1ᵉʳ 2ⁿᵈ  3ᵉ
+
+https://fr.wikipedia.org/wiki/Exposants_et_indices_Unicode
+
+—  
+
+Here is an inline note.^[Inlines notes are easier to write, since
+you don't have to pick an identifier and move down to type the
+note.]
 
 
 # Titres 
@@ -14,6 +39,11 @@
 
 # Contenu
 
+- [ ] [#NouveauNomVillage Débile et classe] 
+   - Atlandide
+   - oasis
+   - une planète de star wars
+  - Capitalbébé
 - [x] Qq part : Discussion ridiculation de Loir face à Arya devant d'autre gens puis surtout que quelqu'un explique qu'il a voulu tuer Bambi parcequ'il sortait avec Arya. Avec les dessins?
 - [ ] Trouver des surnom pour les zombies : 
   - zozo les bibiz
@@ -23,7 +53,8 @@
 - [x] Cours d'histoire hitler : #9.2 [enseigné comme mythe fondateur, cosmogonie]
 - [ ] Cours d'internet = cours de téléphone : faire vraiment internet
 - [ ] Cours sur les religions qui mélange les oeuvres de fictions pop
-- [ ] Les enfants sont élevés par plusieurs foyers avant le chapitre 14.3
+- [ ] Les enfants sont élevés par plusieurs foyers avant le chapitre 14.3 le moment ou Loir va chercher Vinvin à l'école ou chez lui
+- [x] on dit un zombo des zombii
 
 ## 13.1 : 
 
