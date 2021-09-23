@@ -20,9 +20,15 @@ https://fr.wikipedia.org/wiki/Exposants_et_indices_Unicode
 
 — « »
 
+É Ç
+
 Here is an inline note.^[Inlines notes are easier to write, since
 you don't have to pick an identifier and move down to type the
 note.]
+
+
+
+TOC ?
 
 
 # Titres 
@@ -66,6 +72,7 @@ note.]
 - [x] Les enfants sont élevés par plusieurs foyers avant le chapitre 14.3 le moment ou Loir va chercher Vinvin à l'école ou chez lui
 - [x] on dit un zombo des zombii
 - [ ] Débat de village : antidote & humanité rajouter des avis?
+- [ ] Il faut des cathares : puisque bizarrement avec la boutique du chateau il y avait autant de livre sur le catharisme que de bible.
 
 ## 13.1 : 
 
