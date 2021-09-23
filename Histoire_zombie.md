@@ -1,5 +1,5 @@
 ---
-title: La Fin
+title: Manigance & haricots
 author: Garlicness
 rights:  Creative Commons Non-Commercial Share Alike 3.0
 language: fr-FR
@@ -14,39 +14,31 @@ language: fr-FR
 
 
 
-# Lynchage bien léché
+# Lynchage léché
 
-Bizarrement beaucoup de gens ont tendance à commenter ce qu'ils font à voix haute. La décence veut que ce soit seulement quand ils ne sont pas accompagnés d'autres humains. Cela dit la présence d'enfants en bas âge et d'animaux semble amplifier le phénomène. 
+Comme personne ne commente à haute voix ce qu'il fait en présence d'autres créatures ayant la capacité de parler, c'est devenu une règle tacite sous peine de durement réduire la réputation de sa santé mentale. Heureusement les chevaux ne parlent pas.
 
-— Alors la selle ça c’est fait, les rennes aussi ça va bien marcher les bottes, la pelle, je l’accroche sur le côté... Putain on met des rennes sur des chevaux c'est n'importe quoi... 
+— Alors la selle ça c’est fait, les rennes aussi ça va bien, les bottes, la pelle, je l’accroche sur le côté... Voilà, on met des rennes sur des chevaux c'est n'importe quoi... 
 
-— Voilà papillote, t’agaces pas. T'es dure c'est qu'un jeu de mot.
+— Holà Papillote, t’agaces pas. T'es dure, c'est qu'un jeu de mot.
 
-— Les couteaux de secours ceux là si je les utilise un jour c’est que ça craindra du fion mais bon… Le soleil se lève, on va commencer à y voir et la musique va commencer. L’huile, les silex, le casse croûte. De l’eau parce que faut s’hydrater sinon on tient pas c’est pas toi qui dira le contraire, hein! grosse buveuse qui fait que de boire l’eau va coquine.
+— Les couteaux de secours : ceux là si je les utilise un jour c’est que ça craindra du fion mais bon… Le soleil se lève, on va bientôt y voir et la musique va commencer. L’huile, les silex, le casse-croûte. De l’eau parce qu'il faut bien s’hydrater sinon on tient pas. C’est pas toi qui dira le contraire, hein! Grosse buveuse qui fait que de boire l’eau va, coquine!
 
-— Et voilà! Ils peuvent venir cette bande de bâtard. Aller papillote, on va brouter au bord de la rivière mais oui toi même tu sais.
+— Et voilà! Ils peuvent venir cette bande de cake. Aller Papillote, on va brouter au bord de la rivière. Mais oui toi même tu sais.
 
-Les oreilles se dressent, elle même elle sait.
+Les oreilles se dressèrent, elle même elle savait. L’air était frais, Matéo était chaud, ça allait faire du feu. La route descendait de l'écurie en sinuant, il n’y avait pas trop de boue de toute façon il s’en foutait, il est sur le dos d’un animal plutôt sympa qui n’avait jamais peur. Direction plein nord, en aval de la rivière, il y avait une petite colline qui donnait une belle vue dégagée sur son secteur. Il se dit qu'il faudrait qu'il se bricole une petite cahutte comme un poste avancé, que ce serait la classe. Avec une chaise longue et des bières même si c’est peut être pas indiqué pour le boulot. 
 
-L’air est frais, Matéo est chaud, ça va faire du feu. La route descend du fort en sinuant, il n’y a pas encore trop de boue de toute façon il s’en fout, il est sur le dos d’un animal super sympa qui n’a même pas peur quand ça défouraille.
+La matinée passa plutôt tranquillement jusqu’à ce que finalement, les trois coups de cloche retentirent pour indiquer une arrivée de zombies, (oui, comme dans Game of Thrones, ça avait beaucoup réjoui certains ) suivi d’un nombre de coups correspondant à la direction : six au sud douze au nord, son secteur. Là c’était quatre : ils arrivent par la route, pas très original. Le cheval et son monteur se dirigèrent pour les intercepter avant qu’ils n'arrivent au niveau des champs du vieux Marco, qui devait sûrement y être. Il y a de la lumière, et on les voit bien, ils sont trois. Ça commence à faire mais à découvert comme ça, il ne risque par grand chose. La technique est simple, on charge sur le côté, un petit coup de pelle dans la nuque sur le plus proche (ou la gorge ça dépend du sens). Et on recommence.
 
-Direction plein nord, en aval de la rivière, il y a une petite colline à coté qui donne une vue pas dégueu sur son secteur. Il se dit qu'il faudra qu'il se bricole une petite cahute comme un poste avancé en plus ça aurait la classe. Avec une chaise longue et des bières même si c’est peut être pas indiqué pour le boulot. Il avait déjà vu des gars bourrés moins vivants que les autres connards.
+Le vieux Marco était avec sa bêche à 250 mètres. Mateo lui fît un coucou de la main. Le paysan leva son outil. Soit, il le saluait, soit, il l'insultait avec lui on avait toujours un doute. Et il avait le don pour faire les deux à la fois. Jusqu’ici, ce qui se passait d’habitude, c’est que les zombies ne faisaient même pas attention jusqu’à ce qu’on s’approche très près pour les planter. Une fois qu’ils comprenaient les bails, soit ils ne se sentait pas concernés, soit ils essayaient mollement de s'éloigner mais c'était bien la réaction la plus extrême à laquelle on pouvait s'attendre. L'aspect plus technique consistait à éviter d'entrer en contact direct avec leur peau pour ne as se faire contaminer.
 
-Une matinée plutôt tranquille donc jusqu’à ce que finalement, les 3 coups de cloche retentissent (oui, comme dans Game of Thrones ça les faisait marrer) suivi d’un nombre de coups correspondant à la direction : 6  au sud 12 au nord, son secteur. Là c’était 3 : ils arrivent par la route, pas très original. Le cheval et son monteur se dirigent pour les intercepter avant qu’ils n'arrivent aux champs du vieux Marco, qui doit sûrement y être.
+Il remonta son foulard sur le nez et parti au galop droit sur eux. Il y eu un premier impact. Le bout la pelle à bien entamé la gorge de celui de droite. Il était content de se rendre compte qu'il commençait à être vraiment précis. Au trop (la vitesse intermédiaire du cheval), il revînt sur ses pas et contourna par la gauche. La créature au sol gigotait sans bruit et essayait de se relever. 3 coups de pelles plus tard, (deux nuques, une gorge) plus personne ne bougeait. 
 
-Il y a de la lumière, et on les voit, ils sont 3, ça commence à faire mais à découvert comme ça, il ne risque par grand chose. La technique est simple, on charge sur le côté, un petit coup de pelle dans la nuque (ou la gorge ça dépend dans quel sens) sur celui qui est plus près. 
-
-Le vieux Marco est avec sa bêche à 250 m je lui fais coucou. Il lève son outil. Soit il salue, soit il insulte avec lui on a toujours un doute. Et il a le don pour faire les 2 à la fois.
-
-Jusqu’ici, ce qui se passait d’habitude, c’est que les zombies ne faisaient même pas attention jusqu’à ce qu’on s’approche très près pour les planter. Une fois qu’ils comprenaient les bails, soit ils essayaient de s’éloigner en claudiquant, éventuellement il ne se sentent pas concernés mais des foi, ils décident d’attaquer. Et là faut pas se rater. Sinon on risque de se faire contaminer ou bouffer vivant, eux ça les dérange pas.
-
-Aller, c’est parti, il remonte son foulard sur le nez. au galop droit sur eux, on va taper dedans, à la raspaille comme à la pétanque quand on sait pas jouer et qu'on privilégie l'efficacité. Matéo fonce sur les 2 à gauche. Impact. Le bout la pelle à bien entamé la gorge de celui de droite. Il est content de commencer à être vraiment précis. Au trop (la vitesse intermédiaire du cheval), il revient sur ses pas et contourne par la gauche, toujours, ça gigotte sans bruit, un essaye de se relever. 3 coups de pelles, 2 nuques, une gorge, personne ne bouge. Ils ne sont pas allés courir à quinze bornes, c’est tellement plus pratique pour la désinfection. Il sort, l’huile, asperge, étincelle. Il attend que ça cuise, pendant ce temps va faire pipi.
-
-C’est alors que, détendu, la bite à l’air, Un craquement se fait entendre dans les fourrés quelques mètres sur la droite. Une forme surgit, la gueule ouverte, les bras levés comme dans les films. Les cheveux gris en bataille : un vrai zombie qui attaque putain! Avec un croissement de corneille et le raclement de gorge. Il dégaine la machette, le la lève au dernier moment au niveau de la carotide. Il fait ce qu'il peut pour éviter le sang qui gicle. Par petit bonds de coté toujours la teub dans la main. Celle-là il ne s'en vantera probablement pas.
+— Au moins ils ne pas allés courir à quinze bornes, pensa t'il, c’est tellement plus pratique pour la désinfection. Il sorti, l’huile, aspergea copieusement, puis fit des étincelles. Et, en attendant que ça cuise, alla faire pipi dans les buissons apparemment faits pour ça. C’est alors que, détendu, la bite à l’air, un craquement se fît entendre dans les fourrés quelques mètres sur sa droite. Une forme surgit, la gueule ouverte, les bras levés comme un zombie de film d'horreur. Les cheveux gris, en bataille, on aurait dit un cliché, comme si c'était fait exprès! Avec un croisement de corneille. Il dégaina la machette, le la leva au dernier moment au niveau de la carotide. Il fît ce qu'il pût pour éviter le sang qui gicla. Par petit bonds de coté, son zizi semblant acquiescer nerveusement. Celle-là il ne s'en vanterait probablement pas.
 
 # Élections à la campagne
 
-Le village est réuni. Il se trouve que c’est un dimanche. En fait un jour qui ressemblait furieusement aux autres. Sauf que comme les habitants de [#NouveauNomVillage Débile et classe] Montségur étaient plutôt de bonne consistance dans l’ensemble et ne voulaient pas faire de peine à Mikhail pour son spectacle d’élection. 
+Le village est réuni. Il se trouve que c’est un dimanche. En fait un jour qui ressemblait furieusement aux autres. Sauf que comme les habitants de Capital-Bébé anciennement] Montségur étaient plutôt de bonne consistance dans l’ensemble et ne voulaient pas faire de peine à Mikhail pour son spectacle d’élection. 
 
 — Camarades, mes sœurs mes frères nous sommes réunis ici pour élire le nouveau bureau du dernier Kibouts avant la fin de l’humanité. Je vous remercie encore de votre confiance depuis ces 2 années et je vous propose de continuer à nous organiser de la sorte. Avec ma candidature vous renouvelez votre conviction pour un monde plus socialement juste et contre le fascisme et le grand capital .
 
