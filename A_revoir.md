@@ -33,22 +33,20 @@ TOC ?
 
 # Titres 
 
+- Manigance & haricots
+- La conspiration des haricots
 - Fin
 - Fin de l'histoire 1
 - Fin du Game 1
 - The end 2
 - Chroniques de Montségur
-- La conspiration des haricots
-- Maxime le fou
-- Danse avec les betteraves
-- Fin de Guerre et Paix et de tous les autre livres.  
 - Chroniques de la fin des haricots tarbais
 
 ## une phrase
 
-- Les doriphores se montrent pour l'apéro
 - Le progressisme chez les sangliers
 - Les humains se cachent pour chier
+- Les haricots manigance
 
 # Contenu
 

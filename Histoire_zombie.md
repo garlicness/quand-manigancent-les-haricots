@@ -52,19 +52,21 @@ Il faut reconnaître qu’il avait bien trouvé son estrade (après avoir cherch
 
 Bien-sur personne n’osa se présenter, d’une part, on n’aurait pas su comment et puis si ça pouvait lui faire autant plaisir et que ça ne faisait de tort à personne, il ne fallait pas se privé de son enthousiasme. Surtout qu’il s’occupait effectivement de choses que personne n'avait envie de faire comme aller recenser tout les humains conscients et sensibles connus de la planète. Et croyez-le, des fois le côté conscient et sensible n’est pas chose aisée à discerner. Il y a par exemple une vielle dans la montagne encore de plus mauvaise humeur qu’un ours qu’on réveille pendant son hibernation (en témoigne d’ailleurs sur sa porte la peau d’un ours qui l’a dérangée pendant une session cueillette). Il y a aussi des enfants sadiques qui torturent tout ce qui bouge. Une tannée! Et c’est un aphorisme vu que tout le monde préférait effectivement tanner des peaux plutôt que s’occuper de garder de la cohésion sur cet îlot de singes à la dérive.
 
-# Wikipédia
+# Il manquerait un personnage principal
 
-Qu’est ce qu’on se fait chier quand même et tout ça pourquoi déjà? Alors qu’il s’apprêtait à tout envoyer valser pour la 10ᵉ fois, il fit quelques pas dans la pièce obscure. Au bout de 3 minutes l’idée suivante de présenta. Décision : il essaye ça, si ça marche pas il arrête et il se couche, en plus il va bientôt faire jour. En général quand il fait jour les gens se réveillent et sont encore plus désagréables que quand ils ronflent. En plus si ça marche, ça va leur faire plaisir à tous ces cons qui lui font des réflexions de débile parce qu’ils ne veulent même pas lui donner deux fois du dessert. 
+— Qu’est ce qu’on se fait chier quand même et tout ça pourquoi déjà? Alors qu’il s’apprêtait à tout envoyer valser pour la 10ᵉ fois, il fit quelques pas dans la pièce obscure. Au bout de 3 minutes l’idée suivante de présenta. Décision : il essaye ett si ça ne marche pas il arrête et il se couche, en plus il va bientôt faire jour. En général quand il fait jour les gens se réveillent et sont encore plus désagréables que quand ils ronflent. En plus si ça marche, ça va leur faire plaisir à tous ces cons qui font des réflexions de débile parce qu’ils ne veulent même pas donner deux fois du dessert. 
 
-C'est quand même balo d'avoir passé autant de temps à regarder au pif ce que contenaient des centaines de cartes microSd sur toute ces petite cartes Raspberries soigneusement récupérées par quelqu'un qui avait sûrement autre chose de mieux à faire, de finalement trouver un fichier contenant la sauvegarde de toute cette fameuse encyclopédie collaborative et un tutoriel exploitable, et puis de rester bloqué sur une erreur à la con qui veut rien dire! Et si j’essayais d’allouer plus de mémoire, il doit y avoir une commande... Il l'avait vu sur un autre projet qui avait aussi lamentablement échoué. Voilà, plus qu'à relancer, attendre comme tant de fois, toujours se persuader que ça va échouer, y'en a marre des ascenseurs émotionnels. Et puis ça mouline, ça prend du temps... 
+— C'est quand même balo d'avoir passé autant de temps à regarder au pif ce que contenaient des centaines de cartes micro SD sur toutes ces petite cartes Raspberry Pi soigneusement récupérées par quelqu'un qui avait sûrement autre chose de mieux à faire, de finalement trouver un fichier contenant la sauvegarde de toute cette fameuse encyclopédie collaborative et un tutoriel exploitable, et puis de rester bloqué sur une erreur à la con qui veut rien dire! Et si j’essayais d’allouer plus de mémoire, il doit y avoir une commande... Il l'avait vu sur un autre projet qui avait aussi lamentablement échoué. 
+
+— Voilà, plus qu'à relancer, attendre comme tant de fois, toujours se persuader que ça va échouer, y'en a marre des ascenseurs émotionnels. Et puis ça mouline, ça prend du temps... 
 
 Des yeux rougis sur un visage blafard dans une chambre éclairée par la lumière froide d’un petit écran soutenu par les premiers rayons du jour épuisés par la traversée du ciel gris et qui auront trouvé le chemin de la fenêtre aux vitres poussiéreuses. 
 
 — YEES!
 
-Ainsi eu lieu la plus grande victoire de l’humanité sur la connaissance du monde depuis 25 ans.
+Ainsi eu lieu la plus grande victoire de l’humanité sur la connaissance du monde depuis 25 ans. 
 
-# L'Affaire Mamie Gentiane
+# L'Affaire "Mamie Gentiane"
 
 Un conseil de village une fois par semaine comme ça on est sûr de pouvoir voir du monde faire des trucs d’humains comme interagir, boire de l’alcool, se gueuler dessus se battre un peu, regarder les autres se battre. On a tous besoin de ça, on est pas des bêtes quand même. Étaient présents une vingtaine de personnes dans l’ancienne mairie, un foyer au milieu de la pièce plus par habitude que pour chauffer. Pour éclairer aussi, l’hiver le soir ou au contraire : pour se cacher dans la fumée. Sinpier, un homme maigre au grosses lunettes toujours sales derrière lesquelles ils se dissimulait pour ne pas être importuné par les physiques outranciers des survivants de la communauté, alla trouver sa place derrière un pupitre, prit une feuille puis la parole :
 
@@ -111,7 +113,7 @@ En l'espace d'un instant Loir se remit de sa déception de na pas être pris au 
 
 — Ok dit il en essayant de calmer son excitation. Moi je veux bien faire ça : l'enquête tout ça.
 
-# Promenade dans les bois
+# Promenade dans les bois dépourvue de loups
 
 Mylène et Bambi marchaient main dans la main  sur le chemin grimpant dans la montagne boisée au sud de Montségur. C’était la saison pour faire la réserve de feuille d’ail des ours, une plante qui poussait un peu partout mais Bambi et Mylène avaient pour petit rituel de s’éloigner pour la journée pour trouver une clairière pentue où ils n’avaient qu’à se baisser pour remplir leurs sacs. Bambi était un des rare métis parmi les survivants. Son nom de baptême était Armand mais il avait de grand yeux noir aux longs cils. Ce qui en plus d'être un beau gosse relativement épargné par l'absence d'orthodontie lui avait valu ce nouveau nom. 
 
@@ -469,7 +471,7 @@ Après 3 jours de préparation et avoir chargé à raz bord la roulotte plus une
 
 — C’est ça, les autres jusque là, y’avait pas...
 
-# Une enquête qui avance...
+# Alors elle en est où cette enquête?
 
 Ça a pris le temps que ça a pris : marcher, faire une pause, souffler un peu, manger des fraises des bois, revenir à la ville, manger, boire, chercher Sinpier, se rendre compte que personne savait exactement où il habitait. Finalement, le retrouver dans une petite chapelle à la sortie de la ville qu’il était s’était emménagé tant bien que mal. Lui demander de consulter le "registre des trucs qui se passe". Oui mais « il est à la mairie, attendez un peu je finis ça et je vous accompagne ». L’aider à finir d’enfiler des perles sur un collier avec une croix au bout qui à l’air très important et qui suggéra un commentaire à Vinvin : 
 
@@ -632,7 +634,7 @@ Mikhaïl prit la parole.
 
 Les mains timides et soulagées se levèrent.
 
-# Repas de famille
+# Ceci n'est pas un repas de famille
 
 
 
@@ -759,7 +761,7 @@ Loir regarda Vinvin qui avait aux lèvre le sourire d’un très mauvais joueur 
 
 — Dammit !
 
-# La vie continue encore
+# Ce chapitre pourrait être plus long
 
 — Ok... commença Mylène devant les quelques personnes réunies : surtout des gardiens et Vinvin mais plus personne ne s’étonnait de le trouver dans des circonstances improbables pour un enfant de 9 ans. Comme dans une cheminée ou sur un bouquetin. Loir était là aussi mais personne ne s’en était aperçu. 
 
@@ -805,7 +807,7 @@ Et l’enthousiasme de Kim en prit un coup dans l’aile.
 
 
 
-# Enquête #2
+# RIP 
 
 Au sud de Montségur, une bonne partie de l'activité industrielle se concentrait dans un hangar immense qui avait dû, être jadis un magasin de bricolage et qu'on s'échinait à entretenir. Y étaient rassemblés tous les outils fonctionnels disponibles. Loir était aller chercher une bêche non s'en qu'on lui rabâche de ne pas faire levier de tout son petit poids avec parce que partait-il "Y'en a plein le cul de le réparer ce manche".  Deux bonne heures plus tard, ils étaient en fin sur le lieu du crime. il s’approchèrent de la masse grise.
 
@@ -1078,7 +1080,7 @@ Après s'être fait à moitié et joyeusement forcé la bite, Bambi et Arya éta
 
 Ma déjà la porte claquait ostensiblement.
 
-# 14.3.1 Cours de civilisation : magie ou technologie
+# 14.3.1 Cours de civilisation : magie ou technologie?
 
 Vous voyez la magie? Alors, il faut bien faire la différence entre ce qui existait pour de vrai et les inventions fictives des histoires. Déjà, vous connaissez la différence en une fiction et un documentaire? 
 
@@ -1136,7 +1138,7 @@ Il n'y eu pas d'erreurs sur le sujet. Vu lq magie elle même avait déjà été 
 — Et ceux qui faisaient marcher tout ça étaient des ingénieurs et laissez-moi vous dire qu'ils avaient beaucoup moins la classe que des sorciers. 
 
 
-# Interview #12
+# Chapitre qui lui aurait pu être plus court
 
 Loir attendit quelques jours en se disant qu'il allait se mettre dans de bonnes conditions pour affronter Anaïs, son enthousiasme, sa bonne humeur, son hyperactivité autres qualités angoissantes. Mais il était dans une impasse sur cette sombre histoire de loup. Il avait beau tourner et retourner les scénarii dans sa tête, aucune hypothèse réaliste ne pouvait expliquer un tel fait. Restait donc que les hypothèses irréalistes s'était-il énoncé tout haut en se grattant le menton. Il avait espéré être inspiré par une attitude de détective bien jouée : dans la pénombre en faisant les cent pas  avec une pipe dans la main. Mais non : rien ne vint. Il faudrait peut être réessayer en allumant la pipe... Dernier espoir : parler à Anaïs, triompher de ses peurs. Et emmener Vinvin pour détourner l'attention si besoin.
 
@@ -1186,7 +1188,7 @@ Ah quand même un petit défaut, il a fallu chercher longtemps : elle n'est pas 
 
 Tout ceux qui n'étaient pas découragés par les débats en général assez stériles étaient réunis sous la halle. Sans que personne ne le fasse remarquer, il y avait surtout des gens à la mobilité réduite, à qui convenait bien les activités statiques mais il y avait aussi des gens qui aimaient les débats en général comme Mikhail. Mylène était là aussi mais en tant qu'experte et référente sur les questions de santé publique. Son air détaché donnait l'impression qu'elle se mettait devant un vieux nanar munie d'un cornet de popcorn. Sinpier était là aussi pour défendre son église veiller à ce que soit entendu la voix divine, il était là parce qu'il fallait bien avec le même plaisir qu'aller au chiottes ou à la messe machinalement par nécessité sans se poser de question et sans plaisir.
 
-# Débat de village
+# Concertation publique
 
 — Camarades! Nous sommes ici pour essayer d'envisager les implications et les conséquences de la découverte d'un vaccin, si jamais on y arrive. Est ce que ça change quelque chose si on a un vaccin : notre rapport aux infectés va changer car il ne seront plus dangereux pour nous. Est ce qu'on pourrait alors s'en servir comme animaux de trait par exemple ou bien dans les cuisine ou pour les travaux relou dans les champs.
 
@@ -1227,7 +1229,9 @@ S'en suivirent des tirades emmargeant de ci de là accompagnées d'un brouhaha d
 
 — Oui peut être qu'il faudrait : pouvoir dire "ok je ne veux plus vivre parce que en tant qu'humain, je suis sensible à des valeurs qui me rende la vie insupportable. Donc cassos mais je déclare que je pense que les humains devraient plutôt prendre telle ou telle direction." Et comme ça on tiendrait compte de tout les humains qui on souhaité s'exprimer même s'ils ne sont plus là.
 
-On tient peut être quelque chose d'innovant là se dit Mikhail. Ça se tient presque même si ça va pas être facile à mettre en œuvre comme concept.
+On tient peut être quelque chose d'innovant là se dit Mikhaïl. Ça se tient presque même si ça va pas être facile à mettre en œuvre comme concept. C'est alors que Larson, chasseur de son état, qui venait d'arriver et n'avait pas suivis la dérive de la discussion prit la parole :
+
+— Quelle bande! Vous hallucinez! Laissez les gens faire ce qu'ils veulent! Alors je suis d'accord qu'il faut bien expliquer tous les dossiers de contraception mais c'est pas ici qu'on va décider d'un nombre d'enfant à faire ou pas. Moi j'aime bien la vie : on galère un peu avec dans la forêt à trouver de la bouffe mais après on peut boire des coups et faire de la musique. Je vois pas ce qu'il y a à décider, c'est une blague ou quoi?! Chacune peut bien décider si elle veut des gosses quand même ! Surtout tant qu'on est pas assez pour se marcher sur les pieds.
 
 Un peu à côté de la plaque mais il avait le mérite de proposer théâtralement un interlude au conseil. Et puis finalement ça pouvait être aussi une politique particulière : pas de planification, chacun fait ce qu'il veut. Et puis pour la question initiale : on repassera.
 
@@ -1251,7 +1255,7 @@ Lilou était une des plus jeune à parler de CPP aux futures générations. Biza
 
 — Dans la civilisation pré-Coupure, on ne savait pas déféquer correctement. 4000 ans de civilisation ! Tout ça pour chier dans de l’eau potable. Puis prendre un bout de papier qu’on a payé, que le système économique, la société est allé fabriquer. On s’étale la merde sur le trou de balle  puis on regarde la trace sur le papier pour se dire « houlala y’en a encore» répéter l’opération plusieurs fois. Quand on en a marre on refait couler 10L d’eau potable pour faire partir sa merde. Des fois on se rend compte que ça flotte et on remet 10L d’eau. Les gens étaient dégoûtés par leur caca apparemment alors que vous voyez bien qu'il y a en a partout. Est-ce que ça vous dérange le crottin de cheval, la bouse de vache? Non! Et on s'en sert en plus comme fertilisant ça tient une place importante dans le cycle de la vie. Non vraiment, un civilisation qui a envoyé des gens sur la lune et a poussé à l’extrême l’injustice sociale, a surtout généralisé le fait de déféquer n’importe comment à cause de sa peur incohérente de ses excréments, et il a fallu une apocalypse pour réapprendre à chier correctement.
 
- # Rapport (un peu officieux)
+ # Un rapport un peu officieux
 
 C'était le soir on se restaurait pour ceux qui voulaient au centre du village, on discutait on se chamaillait il y avait beaucoup trop d'enfant faisant des bruits d'enfant. Ce qui devait arriver arriva : on ne peut pas venir manger tranquille sans être obliger de socialiser. Et ce fut Sinpier qui mit le sujet de l'enquête du loup sur la table. Loir savait qu'il manquait quelque chose, un bout à son investigation. Il pouvait néanmoins détourner l'attention en mettant les formes.
 
@@ -1298,7 +1302,7 @@ Loir alla déposer son assiette à la vaisselle. Au moment ou il passa devant l'
 
 Confrontation, virilité, répartie, tous les indicateurs indiquait clairement la procédure à suivre : la fuite. Arya lu la panique dans les yeux de Loir et dans un élan de générosité lui proposa de s'occuper des débris pendant que ce dernier prenait la fuite sous l’œil désapprobateur de l'assemblée.
 
-# Enfin : l'enquête pour de vrai
+# Enfin! : l'enquête pour de vrai
 
 Loir était de retour dans la chambre qui lui servait de grotte. Ou le contraire. 
 
@@ -1396,7 +1400,9 @@ Des fois le stress vous fait faire n'importe quoi. Il vous prend aux tripes et v
 — ...
 — Non vraiment faut y aller ce soir? C'est mieux hein. Oui bon.
 
-# 20 Mission espionnage qui tourne mal
+— Non vraiment faut y aller ce soir? C'est mieux hein... Oui bon ok.
+
+# Attention petit espion!
 
 — Et merde, fait chier! 
 
@@ -1451,7 +1457,7 @@ Au bout de quelques minutes il releva la tête pour se retrouver face à une ass
 
 Oui bon elle connaît mieux que moi les chemins autour de Montségur, elle a prit un raccourci dans la pente entre 2 lacets ça a même dû être facile. Elle aura même eu le temps de penser à une histoire où c'est moi qui tue Bambi.  
 
-# 21 Procès et verdict infection ko, évasion
+# Petite détention
 
 ### 21.1 Avant proces
 
@@ -1507,7 +1513,7 @@ Après avoir savouré de longues gorgées, Loir reprit :
 
 Loir était plus secoué par la vision du meurtre que par sa propre condamnation et fin de vie à venir. Il était plutôt de ceux qui ne sont pas attachés tant que ça à la vie. Cela pouvait paraître lâche dans un monde conçu pour promouvoir la ténacité à vivre, ou survivre quoi qu'il en coûte. Bizarrement les gens comme lui pouvaient aussi passer pour des héros quand ils mourraient au bon moment suivant les contextes. Ce ne serait pas son cas. Une fois la sentence appliquée de toute façon ça n'a plus beaucoup d'importance. L'avantage des gens qui n'avaient pas l'ambition de laisser une trace indélébile dans l'histoire : ils sont plus sereins face à la mort. Bien sûr le fait que la sentence sera exécutée après avoir subit un anesthésie sans faille aidait grandement à sa décontraction. Il avait pu vivre en étant un creep aux yeux des autres mais ce n'était pas la même chose que de passer pour un monstre.
 
-# Procès, verdict
+# Un système judiciaire plutôt détendu
 
 Quelque jours suffirent pour se mettre d'accord. Malgré une certaine tolérance face la notion de mort qui était assez présente dans ce monde et son système de santé plutôt archaïque. Bien qu’extrêmement rare, l'homicide non accidentel était néanmoins plutôt mal vu car un meurtre supprimait un pourcentage non négligeable de l'humanité. On avait déjà vu au 20ème siècle des génocides moins efficaces pour limiter la population.
 
@@ -1576,7 +1582,7 @@ Marie Martin se regardèrent inquiets.
 
 Ils partirent penaud laissant Loir dans la pénombre l'esprit occupé. Il se tourna vers le plateau et entrepris de dépiauter la tête d'ail : 14 gousses. Il se servit un verre, bu une gorgée, éplucha une gousse et juste afin de la porter à la bouche, se ravisa. Il alla chercher le tournevis cruciforme et commença à dévisser les gonds de la porte qui étaient accessibles. Il s'assura juste que les les vis n'étaient pas bloquées et puis les revissa. Il retourna à table et croqua la gousse, bu un verre d'eau pour faire passer et se servit une assiette de daube.
 
-## 21.3 infection
+# Cette sentence inconséquente
 
 Le lendemain matin comme prévu, il fut sorti de sa pièce par deux personnes qu'il ne connaissait pas bien. Ils ont du être choisi pour leur absence d'affect. Devenir bourreau contre un bout de daube à tous les coups : un bon deal. Ils l'emmenèrent vers l’espèce de parc à zombie qu'on utilisait pour l'animation ou bien pour les expériences de Mylène. On lui demanda de toucher la tête du premier venu avec sa main nue. Ce qu'il fit non sans un ralenti dramatique. Il s'approcha lentement, l'individu le regardai d'un air vide. Il déploya sa main et la plaqua sur la face du zombie qui ne bougea pas. Le manque d'une musique symphonique de fin de film d'aventure se fit cruellement sentir.
 
@@ -1596,7 +1602,7 @@ En début de soirée, il était toujours le même. De l'ail! Cru d'accord mais d
 Le soleil couché il attendit encore le plus longtemps possible. Il fit tourner le tournevis dans les têtes de vis le plus lentement qu'il put. Quand il se risqua à ouvrir la porte, il n'était même pas minuit mais tout était calme. La nuit était sombre et il s'éloigna aussi vite que possible des sources de lumière publique. Et c'est sur le chemin, dans le noir, sans espoir d'avenir qu'il découvrit bizarrement une sensation plutôt agréable de la liberté de ceux qui n'ont rien à perdre. Le soulagement de ceux qui ont pris une décision et qui ont enfin l'esprit libéré. Un bruit de fond qui disparaît et qui "fait du bien quand ça s'arrête".
 
 
-# Echapement
+# Echappement
 
 Il avança dans la nuit en direction de la maison de Mylène. En faisant attention à tous les bruits, en évitant de rester sur les chemins. Il progressait en tâtant le terrain avec une branche comme l'aveugle qu'il était dans cette nuit noire. Seule quelques rares lumières de certaines maisons ou à l'extérieur faisait office de phare et lui permettait de se positionner mentalement sur une carte. Après un temps infini, il arriva finalement devant la maison de Mylène. On distinguait par la fenêtre une bougie, Mylène assise à une table immobile les yeux dans le vide. Il frappa et entra sans attendre de réponse.
 
