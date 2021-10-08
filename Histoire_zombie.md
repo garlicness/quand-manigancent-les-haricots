@@ -1,5 +1,5 @@
 ---
-title: Manigance & haricots
+title: Les haricots manigancent
 author: Garlicness
 rights:  Creative Commons Non-Commercial Share Alike 3.0
 language: fr-FR
@@ -10,53 +10,49 @@ language: fr-FR
 [TOC]
 
 
-
-
-
-
 # Lynchage léché
 
-Comme personne ne commente à haute voix ce qu'il fait en présence d'autres créatures ayant la capacité de parler, c'est devenu une règle tacite sous peine de durement réduire la réputation de sa santé mentale. Heureusement les chevaux ne parlent pas.
+Comme personne ne commente à haute voix ce qu'il fait en présence d'autres créatures ayant la capacité de comprendre, c'est devenu une règle tacite sous peine de durement réduire la réputation de sa santé mentale. Heureusement les chevaux ont une compréhension très limitée du langage humain.
 
 — Alors la selle ça c’est fait, les rennes aussi ça va bien, les bottes, la pelle, je l’accroche sur le côté... Voilà, on met des rennes sur des chevaux c'est n'importe quoi... 
 
 — Holà Papillote, t’agaces pas. T'es dure, c'est qu'un jeu de mot.
 
-— Les couteaux de secours : ceux là si je les utilise un jour c’est que ça craindra du fion mais bon… Le soleil se lève, on va bientôt y voir et la musique va commencer. L’huile, les silex, le casse-croûte. De l’eau parce qu'il faut bien s’hydrater sinon on tient pas. C’est pas toi qui dira le contraire, hein! Grosse buveuse qui fait que de boire l’eau va, coquine!
+— Les couteaux de secours : ceux là si je les utilise un jour c’est que ça craindra du fion mais bon… Le soleil se lève, on va faire moins noir et la musique va commencer. L’huile, les silex, le casse-croûte. De l’eau parce qu'il faut bien s’hydrater sinon on tient pas. C’est pas toi qui dira le contraire, hein! Grosse buveuse qui fait que de boire l’eau va, coquine!
 
-— Et voilà! Ils peuvent venir cette bande de cake. Aller Papillote, on va brouter au bord de la rivière. Mais oui toi même tu sais.
+— Et voilà! Ils peuvent venir cette bande de cake. Aller Papillote, on va brouter au bord de la rivière. Mais oui, toi même tu sais.
 
-Les oreilles se dressèrent, elle même elle savait. L’air était frais, Matéo était chaud, ça allait faire du feu. La route descendait de l'écurie en sinuant, il n’y avait pas trop de boue de toute façon il s’en foutait, il est sur le dos d’un animal plutôt sympa qui n’avait jamais peur. Direction plein nord, en aval de la rivière, il y avait une petite colline qui donnait une belle vue dégagée sur son secteur. Il se dit qu'il faudrait qu'il se bricole une petite cahutte comme un poste avancé, que ce serait la classe. Avec une chaise longue et des bières même si c’est peut être pas indiqué pour le boulot. 
+Les oreilles se dressèrent, elle même elle savait. L’air était frais, Matéo était chaud, ça allait faire du feu. La route descendait de l'écurie en sinuant, il n’y avait pas trop de boue de toute façon il s’en foutait, il était sur le dos d’un animal plutôt sympa et qui n’avait jamais peur. Direction plein nord, en aval de la rivière, il y avait une petite colline qui donnait une belle vue dégagée sur son secteur. Il se dit qu'il faudrait qu'il se bricole une petite cahutte comme un poste avancé, que ce serait la classe. Avec une chaise longue et des bières même si ce n’est peut être pas indiqué pour le boulot. 
 
-La matinée passa plutôt tranquillement jusqu’à ce que finalement, les trois coups de cloche retentirent pour indiquer une arrivée de zombies, (oui, comme dans Game of Thrones, ça avait beaucoup réjoui certains ) suivi d’un nombre de coups correspondant à la direction : six au sud douze au nord, son secteur. Là c’était quatre : ils arrivent par la route, pas très original. Le cheval et son monteur se dirigèrent pour les intercepter avant qu’ils n'arrivent au niveau des champs du vieux Marco, qui devait sûrement y être. Il y a de la lumière, et on les voit bien, ils sont trois. Ça commence à faire mais à découvert comme ça, il ne risque par grand chose. La technique est simple, on charge sur le côté, un petit coup de pelle dans la nuque sur le plus proche (ou la gorge ça dépend du sens). Et on recommence.
+La matinée passa plutôt tranquillement jusqu’à ce que finalement, les trois coups de cloche retentirent pour indiquer une arrivée de zombies, (oui, comme dans Game of Thrones, ça avait beaucoup réjoui ceux qui avaient mis le système en place) suivi d’un nombre de coups correspondant à la direction : six au sud douze au nord, son secteur. Là c’était deux : ils arrivent par la route, pas très original. Puis trois coups de nouveaux pour indiquer le nombre d'individus repérés. Le cheval et son monteur se dirigèrent pour les intercepter avant qu’ils n'arrivent au niveau des champs du vieux Marco, qui devait sûrement y être. Il y a de la lumière, et on les voit bien, ils sont bien trois. Ça commence à faire mais à découvert comme ça, il ne risque par grand chose. La technique est simple, on charge sur le côté, un petit coup de pelle dans la nuque sur le plus proche (ou la gorge ça dépend du sens). Et on recommence.
 
-Le vieux Marco était avec sa bêche à 250 mètres. Mateo lui fît un coucou de la main. Le paysan leva son outil. Soit, il le saluait, soit, il l'insultait avec lui on avait toujours un doute. Et il avait le don pour faire les deux à la fois. Jusqu’ici, ce qui se passait d’habitude, c’est que les zombies ne faisaient même pas attention jusqu’à ce qu’on s’approche très près pour les planter. Une fois qu’ils comprenaient les bails, soit ils ne se sentait pas concernés, soit ils essayaient mollement de s'éloigner mais c'était bien la réaction la plus extrême à laquelle on pouvait s'attendre. L'aspect plus technique consistait à éviter d'entrer en contact direct avec leur peau pour ne as se faire contaminer.
+Le vieux Marco était avec sa bêche à 250 mètres. Mateo lui fît un coucou de la main. Le paysan leva son outil. Soit, il le saluait, soit, il l'insultait avec lui on avait toujours un doute. Et il avait le don pour faire les deux à la fois. Jusqu’ici, ce qui se passait d’habitude, c’est que les zombies ne faisaient même pas attention jusqu’à ce qu’on s’approche très près pour les planter. Une fois qu’ils comprenaient les bails, soit ils ne se sentait pas concernés, soit ils essayaient mollement de s'éloigner mais c'était bien la réaction la plus extrême à laquelle on pouvait s'attendre. L'aspect plus technique consistait à éviter d'entrer en contact direct avec leur peau pour ne pas se faire contaminer.
 
-Il remonta son foulard sur le nez et parti au galop droit sur eux. Il y eu un premier impact. Le bout la pelle à bien entamé la gorge de celui de droite. Il était content de se rendre compte qu'il commençait à être vraiment précis. Au trop (la vitesse intermédiaire du cheval), il revînt sur ses pas et contourna par la gauche. La créature au sol gigotait sans bruit et essayait de se relever. 3 coups de pelles plus tard, (deux nuques, une gorge) plus personne ne bougeait. 
+Il remonta son foulard sur le nez et parti au galop droit sur eux. Il y eu un premier impact. Le bout la pelle à bien entamé la gorge de celui de droite. Il était content de se rendre compte qu'il commençait à être vraiment précis. Au trop (la vitesse intermédiaire du cheval), il revînt sur ses pas et contourna par la gauche. La créature au sol gigotait sans bruit et essayait de se relever. Trois coups de pelles plus tard, (deux nuques et une gorge) plus personne ne bougeait. 
 
-— Au moins ils ne pas allés courir à quinze bornes, pensa t'il, c’est tellement plus pratique pour la désinfection. Il sorti, l’huile, aspergea copieusement, puis fit des étincelles. Et, en attendant que ça cuise, alla faire pipi dans les buissons apparemment faits pour ça. C’est alors que, détendu, la bite à l’air, un craquement se fît entendre dans les fourrés quelques mètres sur sa droite. Une forme surgit, la gueule ouverte, les bras levés comme un zombie de film d'horreur. Les cheveux gris, en bataille, on aurait dit un cliché, comme si c'était fait exprès! Avec un croisement de corneille. Il dégaina la machette, le la leva au dernier moment au niveau de la carotide. Il fît ce qu'il pût pour éviter le sang qui gicla. Par petit bonds de coté, son zizi semblant acquiescer nerveusement. Celle-là il ne s'en vanterait probablement pas.
+— Au moins ils ne sont pas allés courir à quinze bornes, pensa t'il, c’est tellement plus pratique pour la désinfection. Il sorti, l’huile, aspergea copieusement, puis fit des étincelles. Et, en attendant que ça cuise, alla faire pipi dans les buissons apparemment faits pour ça. C’est alors que, détendu, la bite à l’air, un craquement se fît entendre dans les fourrés quelques mètres sur sa droite. Une forme surgit, la gueule ouverte, les bras levés comme un zombie de film d'horreur. Les cheveux gris, en bataille, dans un croisement de corneille, on aurait dit un cliché! Il dégaina la machette, la leva au dernier moment au niveau de la carotide. Il fît ce qu'il pût pour éviter le sang qui gicla. Par petit bonds de coté, son zizi semblant acquiescer nerveusement. Celle-là il ne s'en vanterait probablement pas.
 
 # Élections à la campagne
 
-Le village est réuni. Il se trouve que c’est un dimanche. En fait un jour qui ressemblait furieusement aux autres. Sauf que comme les habitants de Capital-Bébé anciennement Montségur étaient plutôt de bonne consistance dans l’ensemble et ne voulaient pas faire de peine à Mikhail pour son spectacle d’élection. 
+Le village était réuni. Il se trouve que c’était un dimanche. En fait un jour qui ressemblait furieusement aux autres. Sauf que comme les habitants de Capital-Bébé anciennement Montségur étaient plutôt de bonne consistance dans l’ensemble et ne voulaient pas faire de peine à Mikhail pour son spectacle d’élection. 
 
-— Camarades, mes sœurs mes frères nous sommes réunis ici pour élire le nouveau bureau du dernier Kibouts avant la fin de l’humanité. Je vous remercie encore de votre confiance depuis ces deux années et je vous propose de continuer à nous organiser de la sorte. Avec ma candidature vous renouvelez votre conviction pour un monde plus socialement juste et contre le fascisme et le grand capital .
+— Camarades, mes sœurs mes frères nous sommes réunis ici pour élire le nouveau bureau du dernier Kibouts avant la fin de l’humanité. Je vous remercie encore de votre confiance depuis ces deux années et je vous propose de continuer à nous organiser de la sorte. Avec ma candidature vous renouvelez votre conviction pour un monde plus socialement juste et contre le fascisme et le grand capital.
 
 Bien sur la grande majorité de l’assemblée étant née après la grande Coupure n’avait aucune idée de ce qu’était des bourgeois. Peut être une autre espèce de parasites envahissant Pré-Coupure pensaient les jeunes. Qu’importe, ils se laissaient porter par l’enthousiasme et les diatribes claquées de Mikhail : 
 
 — Pour que chante les lendemains et que partagions en frères et sœurs les ressources qui nous environnent. L’Utopie anarchiste est en route c’est une réalité après des siècles de lutte de nos aïeuls. Je vous propose j’en ai encore la force, de poursuivre à faire vivre le flambeau de la révolution. 
 
-Sachant qu'il y avait beaucoup moins de problème de ressource évidemment depuis que l’humanité connue se réduisait à quelques centaines d’individus. Quelques cris de soutient comme on fait pour encourager ceux qui se motivent pour raconter des histoires le soir ou faire des sons en rythme pour que d’autre fasse des mouvements, en rythme aussi. 
+Sachant qu'il y avait beaucoup moins de problème de ressource évidemment depuis que l’humanité connue se réduisait à quelques centaines d’individus. Il fût récompensé par quelques cris de soutient comme on faisait pour encourager ceux qui se motivent pour raconter des histoires le soir ou faire des sons en rythme pour que d’autre fasse des mouvements, en rythme aussi. 
 
-Il faut reconnaître qu’il avait bien trouvé son estrade (après avoir cherché et testé tous les coins de la place). Á cette heure de la matinée la place était encore dans l’ombre mais le soleil commençait à dépasser les toits du village, si bien que sur son pupitre il était le seul à être au soleil et sa barbe luisant, son poing levé avait une certaine allure. Le plus dur pour lui devait être de ne pas plisser les yeux face au soleil pour que son aura lumineuse paraisse authentique. Et pour le public, de faire abstraction d'un viel âne, de dos, la tête plongée dans une mangeoire en train de chier de façon étonnamment continue. Á une époque on l'aurait qualifié de hippie. Parce qu’il aimait cette région dont il n'était pas natif, qu'il n'était pas chasseur et qu'il fréquentait le bar "alternatif" après le marché, l'autre café de la ville étant réservé aux agriculteurs et ouvriers du cru dans une atmosphère nettement plus conservatrice. Il était comptable dans cette vie là. Il s’intéressait à la politique comme on s’intéresse à l'astronomie : de façon abstraite comme un exercice de pensée pour stimuler l'imaginaire. Étudier la meilleure façon d'organiser une société : ça paraissait hors-sol presqu'une science dure, aussi éloigné de notre réalité que la voix lactée. Il lisait beaucoup et personne ne lui demandait son avis. Au moment de la Coupure, les institutions qui empêchaient tout changement avaient disparu. C'était le moment de changer les habitudes. Puis, en se rendant compte que les mots lui venaient plutôt bien, il s'était pris au jeu et passait presque tout son temps à organiser la vie de la communauté.
+Il faut reconnaître qu’il avait bien trouvé son estrade, après avoir cherché et testé tous les coins de la place. Á cette heure de la matinée elle était encore dans l’ombre mais le soleil commençait à dépasser les toits du village, si bien que sur son pupitre il était le seul à être au soleil. Sa barbe luisant et son poing levé avait une certaine allure. Le plus dur pour lui devait être de ne pas plisser les yeux face au soleil pour que son aura lumineuse paraisse authentique. Et pour le public, de faire abstraction d'un viel âne, de dos, la tête plongée dans une mangeoire en train de chier de façon étonnamment continue. Á une époque on l'aurait qualifié de hippie. Parce qu’il aimait cette région dont il n'était pas natif, qu'il n'était pas chasseur et qu'il fréquentait le bar "alternatif" après le marché, l'autre café de la ville étant réservé aux agriculteurs et ouvriers du cru dans une atmosphère nettement plus conservatrice. Il était comptable dans cette vie là. Il s’intéressait à la politique comme on s’intéresse à l'astronomie : de façon abstraite comme un exercice de pensée pour stimuler l'imaginaire. Étudier la meilleure façon d'organiser une société : ça paraissait hors-sol presqu'une science dure, aussi éloigné de notre réalité que la voix lactée. Il lisait beaucoup et personne ne lui demandait son avis. Au moment de la Coupure, les institutions qui empêchaient tout changement avaient disparu. C'était le moment de changer les habitudes. Puis, en se rendant compte que les mots lui venaient plutôt bien, il s'était pris au jeu et passait presque tout son temps à organiser la vie de la communauté.
 
-Bien-sur personne n’osa se présenter, d’une part, on n’aurait pas su comment et puis si ça pouvait lui faire autant plaisir et que ça ne faisait de tort à personne, il ne fallait pas se privé de son enthousiasme. Surtout qu’il s’occupait effectivement de choses que personne n'avait envie de faire comme aller recenser tout les humains conscients et sensibles connus de la planète. Et croyez-le, des fois le côté conscient et sensible n’est pas chose aisée à discerner. Il y a par exemple une vielle dans la montagne encore de plus mauvaise humeur qu’un ours qu’on réveille pendant son hibernation (en témoigne d’ailleurs sur sa porte la peau d’un ours qui l’a dérangée pendant une session cueillette). Il y a aussi des enfants sadiques qui torturent tout ce qui bouge. Une tannée! Et c’est un aphorisme vu que tout le monde préférait effectivement tanner des peaux plutôt que s’occuper de garder de la cohésion sur cet îlot de singes à la dérive.
+Bien-sur personne n’osa se présenter, d’une part, on n’aurait pas su comment et puis si ça pouvait lui faire autant plaisir et que ça ne faisait de tort à personne, il ne fallait pas se priver de son enthousiasme. Surtout qu’il s’occupait effectivement de choses que personne n'avait envie de faire comme aller recenser tout les humains conscients et sensibles connus de la planète. Et croyez-le, des fois le côté conscient et sensible n’est pas chose aisée à discerner. Il y a par exemple une vielle dans la montagne encore de plus mauvaise humeur qu’un ours qu’on réveille pendant son hibernation (en témoigne d’ailleurs sur sa porte la peau d’un ours qui l’a dérangée pendant une session cueillette). Il y a aussi des enfants sadiques qui torturent tout ce qui bouge. Une tannée! Et c’est un aphorisme vu que tout le monde préférait effectivement tanner des peaux plutôt que s’occuper de garder de la cohésion sur cet îlot de singes à la dérive.
 
-# Il manquerait un personnage principal
+# Un persévérent protagoniste
 
-— Qu’est ce qu’on se fait chier quand même et tout ça pourquoi déjà? Alors qu’il s’apprêtait à tout envoyer valser pour la 10ᵉ fois, il fit quelques pas dans la pièce obscure. Au bout de 3 minutes l’idée suivante de présenta. Décision : il essaye ett si ça ne marche pas il arrête et il se couche, en plus il va bientôt faire jour. En général quand il fait jour les gens se réveillent et sont encore plus désagréables que quand ils ronflent. En plus si ça marche, ça va leur faire plaisir à tous ces cons qui font des réflexions de débile parce qu’ils ne veulent même pas donner deux fois du dessert. 
+— Qu’est ce qu’on se fait chier quand même et tout ça pourquoi déjà? Alors qu’il s’apprêtait à tout envoyer valser pour la 10ᵉ fois, il fit quelques pas dans la pièce obscure. Au bout de 3 minutes l’idée suivante de présenta. Décision : il essaye et si ça ne marche pas il arrête et il se couche, en plus il va bientôt faire jour. En général quand il fait jour les gens se réveillent et sont encore plus désagréables que quand ils ronflent. En plus si ça marche, ça va leur faire plaisir à tous ces cons qui font des réflexions de débile parce qu’ils ne veulent même pas donner deux fois du dessert. 
 
-— C'est quand même balo d'avoir passé autant de temps à regarder au pif ce que contenaient des centaines de cartes micro SD sur toutes ces petite cartes Raspberry Pi soigneusement récupérées par quelqu'un qui avait sûrement autre chose de mieux à faire, de finalement trouver un fichier contenant la sauvegarde de toute cette fameuse encyclopédie collaborative et un tutoriel exploitable, et puis de rester bloqué sur une erreur à la con qui veut rien dire! Et si j’essayais d’allouer plus de mémoire, il doit y avoir une commande... Il l'avait vu sur un autre projet qui avait aussi lamentablement échoué. 
+— C'est quand même balo d'avoir passé autant de temps à regarder au pif ce que contenaient des centaines de cartes micro SD sur toutes ces petites cartes Raspberry Pi soigneusement récupérées par quelqu'un qui avait sûrement autre chose de mieux à faire, de finalement trouver un fichier contenant la sauvegarde de toute cette fameuse encyclopédie collaborative et un tutoriel exploitable, et puis de rester bloqué sur une erreur à la con qui veut rien dire! Et si j’essayais d’allouer plus de mémoire, il doit y avoir une commande... Il l'avait vu sur un autre projet qui avait aussi lamentablement échoué. 
 
 — Voilà, plus qu'à relancer, attendre comme tant de fois, toujours se persuader que ça va échouer, y'en a marre des ascenseurs émotionnels. Et puis ça mouline, ça prend du temps... 
 
@@ -66,23 +62,15 @@ Des yeux rougis sur un visage blafard dans une chambre éclairée par la lumièr
 
 Ainsi eu lieu la plus grande victoire de l’humanité sur la connaissance du monde depuis 25 ans. 
 
-# L'Affaire "Mamie Gentiane"
+# "Mamie Gentiane" : une sombre affaire
 
-Un conseil de village une fois par semaine comme ça on est sûr de pouvoir voir du monde faire des trucs d’humains comme interagir, boire de l’alcool, se gueuler dessus se battre un peu, regarder les autres se battre. On a tous besoin de ça, on est pas des bêtes quand même. Étaient présents une vingtaine de personnes dans l’ancienne mairie, un foyer au milieu de la pièce plus par habitude que pour chauffer. Pour éclairer aussi, l’hiver le soir ou au contraire : pour se cacher dans la fumée. Sinpier, un homme maigre au grosses lunettes toujours sales derrière lesquelles ils se dissimulait pour ne pas être importuné par les physiques outranciers des survivants de la communauté, alla trouver sa place derrière un pupitre, prit une feuille puis la parole :
+Un conseil de village une fois par semaine pour sûr de pouvoir voir du monde faire des trucs d’humains comme interagir, boire de l’alcool, se gueuler dessus se battre un peu, regarder les autres se battre. On a tous besoin de ça, on est pas des bêtes quand même. Étaient présents une vingtaine de personnes dans l’ancienne mairie, un foyer au milieu de la pièce plus par habitude que pour chauffer. Pour éclairer aussi, l’hiver le soir ou au contraire : pour se cacher dans la fumée. Cinq-Pierres, un homme maigre au grosses lunettes toujours sales derrière lesquelles ils se dissimulait pour ne pas être importuné par les physiques outranciers des survivants de la communauté, alla trouver sa place derrière un pupitre, prit une feuille puis la parole :
 
 — Alors, objet du jour :  renouvellement du conseil. Des nouvelles candidatures?
 
-Un chien aboya, après une demi heure de débat on se mit d’accord pour voter qu’il ne pouvait pas postuler à quelque responsabilité que ce soit. 2 heures plus tard, le conseil était renouvelé. Ceux qui avaient un certain goût pour les cérémonies étaient restés. Sinpier se leva et formellement annonça :
+Un chien aboya, après une demi heure de débat on se mit d’accord pour voter qu’il ne pouvait pas postuler à quelque responsabilité que ce soit. Deux heures plus tard, le conseil était renouvelé. Ceux qui avaient un certain goût pour les cérémonies étaient restés. Cinq-Pierres se leva et formellement annonça :
 
-— Représentant des humains vivants et éducation Mikhail Bakunine
-
-— Messie : à la défense
-
-— Cougarmantis : à la tentative de santé
-
-— Lotiée alias Anaïs : affaires agricoles
-
-— Moi même Sinpier scribe et responsable des archives et du journal de bord officiel.
+— Représentant des humains vivants et éducation Mikhaïl Bakunine. Messie : à la défense. Cougarmantis : à la tentative de santé. Lotiée alias Anaïs : affaires agricoles. Moi même Cinq-Pierres scribe et responsable des archives et du journal de bord officiel.
 
 
 Une petite main se leva comme le gnome au cheveux gras à qui elle appartenait.
@@ -95,7 +83,7 @@ Une petite main se leva comme le gnome au cheveux gras à qui elle appartenait.
 
 — Est ce qu’on est d’accord pour être contre?
 
-Tout le monde murmura un reproche irrespectueux et Sinpier fut soulagé.
+Tout le monde murmura un reproche irrespectueux et Cinq-Pierres fut soulagé.
 
 — Moi je peux être au conseil avec un ministère des ordinateurs?
 
@@ -103,21 +91,21 @@ Petite rire mal aisé de la part des membres du conseil.
 
 — Loir merci de nous rejoindre! Dit Mihkail avec tact. C'est pas grave si tu es tout seul pour l'instant dans ton ministère?
 
-Il y avait plusieurs types de noms : d’abord, le nom pré-Coupure pour ceux qui l’avaient connu. Le nom choisi qui pouvait changer avec l’age. Et surtout le surnom acquis en général le moins flatteur et le plus collant.
+Il y avait plusieurs types de noms : d’abord, le nom Pré-Coupure pour ceux qui l’avaient connu. Le nom choisi qui pouvait changer avec l’âge. Et surtout le surnom acquis en général le moins flatteur et le plus collant.
 
-Sinpier reprit la parole. 
+Cinq-Pierres reprit la parole. 
 
 — Une dernière petite affaire à porter à votre connaissance : une  affaire qui concerne la disparition  de Mamie Gentiane, de son vrai nom Christine Boulin né possiblement 80 ans avant l’an 0 sûrement dans le coin. Seul relatif son neveu Murien Tibule meunier. Il y a une semaine celui-ci a rapporté la disparition de sa tante. Souffrant d’alzeihmer depuis plusieurs année, elle avait depuis peu l’habitude de déambuler dans la zone entre chez elle et le moulin de son neveu. Mr Murien Tibule avait l’habitude une fois tous les deux ou trois jours de lui rendre visite et de lui laisser ou de préparer de la nourriture pour les jours suivants. Á son dernier passage la maison était vide, à son grand soulagement souligne t’il « parce qu’il faut se la fader la vieille, je peux vous dire que c’est pas une partie de plaisir » Plusieurs membres de la communauté confirme devoir se méfier des agissements imprévisibles tels que des jetés de cailloux et autres couteaux, bassines d'eau (ou d’urine) sur les passants. Idéalement il faudrait une commission pour enquêter la dessus, cela-dit on comprendra bien que vu les priorités...
 
-En l'espace d'un instant Loir se remit de sa déception de na pas être pris au sérieux. Dans les motivation des humains, tout est affaire de sémantique et d’imaginaire : "va nous chercher mamie" ne fourni que très peu de responsabilité, de fierté et de reconnaisse alors "va enquêter sur la disparition de ce membre de note communauté" Et un petit fichier vidéo se lançait en arrière plan à base d’imperméable, de chapeau, d’air sombre et d’aventure. 
+En l'espace d'un instant Loir se remit de sa déception de na pas être pris au sérieux. Dans les motivation des humains, tout est affaire de sémantique et d’imaginaire : "va nous chercher mamie" ne fourni que très peu de responsabilité, de fierté et de reconnaisse alors que"va enquêter sur la disparition de ce membre de note communauté", déclenche un petit fichier vidéo en arrière plan à base d’imperméable, de chapeau, d’air sombre et d’aventure. 
 
 — Ok dit il en essayant de calmer son excitation. Moi je veux bien faire ça : l'enquête tout ça.
 
-# Promenade dans les bois dépourvue de loups
+# Promenade dans les bois dépourvus de loups
 
-Mylène et Bambi marchaient main dans la main  sur le chemin grimpant dans la montagne boisée au sud de Montségur. C’était la saison pour faire la réserve de feuille d’ail des ours, une plante qui poussait un peu partout mais Bambi et Mylène avaient pour petit rituel de s’éloigner pour la journée pour trouver une clairière pentue où ils n’avaient qu’à se baisser pour remplir leurs sacs. Bambi était un des rare métis parmi les survivants. Son nom de baptême était Armand mais il avait de grand yeux noir aux longs cils. Ce qui en plus d'être un beau gosse relativement épargné par l'absence d'orthodontie lui avait valu ce nouveau nom. 
+Mylène et Bambi marchaient main dans la main  sur le chemin grimpant dans la montagne boisée au sud de Montségur. C’était la bonne saison pour faire le plein  de feuille d’ail des ours, une plante qui poussait un peu partout mais Bambi et Mylène avaient pour petit rituel de s’éloigner pour la journée pour trouver une clairière pentue où ils n’avaient qu’à se baisser pour remplir leurs sacs. Bambi était un des rares métis parmi les survivants. Son nom de baptême était Armand mais il avait de grands yeux noirs aux longs cils. Ce qui en plus d'être un beau gosse relativement épargné par l'absence d'orthodontie lui avait valu ce nouveau nom. 
 
-Rire côte à côte sur le chemin par une belle matinée de printemps, sa main son corps dynamique endurant comme les vieux corps en bon état utilisés de façon précise et économique. Les rides autour de ses yeux, ses cheveux grisonnants. Toute sa personne était incroyablement belle. Merci le ciel qu’elle soit attirée par moi pensa t’il ! Il firent l’amour 2 fois sur le chemin. Ils n’étaient pas un couple à proprement parler comme on l’entendait au siècle dernier. Ils avaient chacun leur habitation mais se voyaient souvent. Elle savait que Bambi avait beaucoup à faire pour donner du plaisir aux quelques filles en age de découvrir les joies de chopade. Mais il trouvait chez Mylène en plus d’une vrai attirance physique un esprit unique. Elle avait souvent des répliques inattendues pleines de second degré d’humour d’absurde et de poésie. En fait un peu le contraire de son autre amante du moment Arya : jeune, fougueuse et il faut le dire, moins mature. Adorable, marrante et très attirante mais il se rendait compte que l’expérience comptait énormément dans tout ce qui concernait les pratiques physiques rapprochées. Un peu comme la lutte greco-romaine...
+Rire côte à côte sur le chemin par une belle matinée de printemps, sa main son corps dynamique endurant comme les vieux corps en bon état utilisés de façon précise et économique. Les rides autour de ses yeux, ses cheveux grisonnants. Toute sa personne était incroyablement belle. Merci le ciel qu’elle soit attirée par moi pensa t’il ! Il firent l’amour deux fois sur le chemin. Ils n’étaient pas un couple à proprement parler comme on l’entendait au siècle dernier. Ils avaient chacun leur habitation mais se voyaient souvent. Elle savait que Bambi avait beaucoup à faire pour donner du plaisir aux quelques filles en âge de découvrir les joies de chopade. Mais il trouvait chez Mylène en plus d’une vrai attirance physique un esprit unique. Elle avait souvent des répliques inattendues pleines de second degré d’humour d’absurde et de poésie. En fait un peu le contraire de son autre amante du moment Arya : jeune, fougueuse et il faut le dire, moins mature. Adorable, marrante et très attirante mais il se rendait compte que l’expérience comptait énormément dans tout ce qui concernait les pratiques physiques rapprochées. Un peu comme la lutte greco-romaine.
 
 — On repère les animaux imaginaire ?
 
@@ -134,28 +122,41 @@ Rire côte à côte sur le chemin par une belle matinée de printemps, sa main s
 Il continuèrent à marcher le sourire aux lèvres, l’esprit concentré, à l’affût en quête d’inspiration. Au loin le bruit caractéristique d’un bec creusant un tronc d’arbre.
 
 — Un P’hiver ? en cette saison ?
+
 — Il a éternué non ? Si oui c’est un pokémon...
+
 — … 
+
 — Un pic atchoum ?! Ahah tu vois que t’es pas mauvais.
+
 — Ou que je suis assez mauvais pour pouvoir jouer.
-— Là dans le ciel : un vol de blérons
+
+— Là dans le ciel : un vol de blérons.
+
 — Ah oui tiens noir et blanc comme ça c'est pas mal.
+
 — Tu connais le gros rongeur qui crache du feu?
-— Oui je l'ai fait la dernière fois mais ta description est plus marrante.
+
+— Oui je l'ai fait la dernière fois mais ta description est mieux tournée.
+
 — Ahah j'avais pas du comprendre.
 
 Puis sans franchement de transition.
 
 — Je suis contente que tu sois là !
+
 — Ah bon ?
+
 — Tu es une bonne raison à l’existence de l’humanité.
+
 — Tout le temps qu’on passe ensemble est une bonne raison. C’est déjà pas mal d’avoir ça. Parce que j’ai pas l’impression qu’on aille quelque part avec notre population qui décroît. Autant vivre chaque jour comme si c’était le dernier.
-— Ah bon ? Le dernier jour sera probablement une agonie, au sens propre ! Sourit Mylène. Tu veux passer la journée à faire arrrrh en tirant la langue ?  
+
+— Ah bon ? Le dernier jour sera probablement une agonie, au sens propre ! Sourit Mylène. Tu veux passer la journée à faire arrrrh en tirant la langue? 
 — Bé oui c’est vrai ça elle est con cette expression...
 
-La matinée passa joyeusement avant d’arriver à leur spot habituel. Ils en profitèrent pour explorer les alentours, histoire de repousser un peu les frontières du monde connu. Ces temps-ci, il était redevenu aisé d’être exploratrice. On avait beau avoir des cartes du monde, elles ne restait que très abstraites loin de toute réalité tangible pour les jeunes qui ne partiraient probablement jamais à plus de quelques centaines de kilomètre de leur lieu de naissance. Alors que la découverte d’un coin à champignon revêtait un aspect stratégique autrement plus important que la position géopolitique du Sinaï par exemple. Ils cassèrent la croûte puis après une sieste langoureuse se mirent à remplir leur sacs de feuilles odorantes qui permettront de concocter de fameux pestos très prisés.
+La matinée passa joyeusement avant d’arriver à leur spot habituel. Ils en profitèrent pour explorer les alentours, histoire de repousser un peu les frontières du monde connu. Ces temps-ci, il était redevenu aisé d’être exploratrice. On avait beau avoir des cartes du monde, elles ne restaient que très abstraites loin de toute réalité tangible pour les jeunes qui ne partiraient probablement jamais à plus de quelques centaines de kilomètre de leur lieu de naissance. Alors que la découverte d’un coin à champignon revêtait un aspect stratégique autrement plus important que la position géopolitique du Sinaï par exemple. Ils cassèrent la croûte puis après une sieste langoureuse se mirent à remplir leur sacs des fameuses feuilles qui permettront de concocter de fameux pestos très prisés.
 
-Alors que ses sacs était quasiment plein, Bambi était accroupi depuis 15 min le nez dans la végétation odorante quand il entendit un branche craquer, derrière lui un bruit. Mylène était revenu sur ses pas. Il vit du coin de l’œil un main tendue pour l’aider à se relever. Typique ! Il la saisie machinalement. Puis un calme, avec une drôle d’impression, et d’un coup : plus rien.
+Alors que ses sacs étaient quasiment pleins, Bambi était accroupi depuis 15 min le nez dans la végétation odorante quand il entendit un branche craquer, derrière lui. Mylène était revenu sur ses pas. Il vit du coin de l’œil un main tendue pour l’aider à se relever. Typique ! Il la saisie machinalement. Puis un calme, avec une drôle d’impression, et d’un coup : plus rien.
 
 # Lonesome vagabond
 
@@ -163,7 +164,7 @@ Pendant ce temps à 200 km nord-nord-est de Montségur, Sangoku se roulait une c
 
 La nuit c’est sombre et plein de bruits de bestioles. Le cheval aide beaucoup pour ça. On peut avoir l’impression d’être au milieu d’un troupeau de bisons, si le cheval ne bronche pas, on peut essayer de se rendormir tranquille. Si c’est le cas c’est compliqué, il faut rallumer le feu regarder ce qu’il se passe, montrer qu’on va pas se laisser faire, tirer en l’air et être prêt à mutiler des organismes. Un cheval, c’est comme un canari dans la mine, sauf qu’on a une chance de sauver le canari après qu’il nous a indiqué le danger. Sauf si le danger à le gabarit d’un ours, bref... Il y avait  un peu de vent. Au moins 2h après le noir complet, on pouvait identifier : un hibou en train de défoncer des mulots, un fouisseur en train de labourer une parcelle et un rongeur qui devait inspecter les réserves de la roulotte pour être sûr que rien ne dépasse. Dans tout ce capharnaüm il y eu d’abord comme un soupir d’exaspération de la part de Scadufax qui acheva de réveiller Sangoku. Sans bouger aux aguets il essaya de trier les bruits. Un nouveau signe d’inquiétude de la part de son cheval, il allume une bougie, sort le pistolet. Une branche qui craque. Plus de doute possible : tous les bons pisteurs le savent : aucun animal sauvage ne fait craquer des branche quand il se déplace. Sangoku soupira :
 
-— Aller y a encore des bizons ^[Vous l'aurez compris : le verlan pour zombi] dans le coin? Dit il à haute voix. C'est toujours sympa de s’annoncer parce que les humains non zombies aussi font craquer des branches quand ils marchent. Même si un individu non-zombie se déplace très peu dans la nuit sans lumière et sans jurer en se cognant partout. Il saisit la masse et la bougie. On distingua clairement un bruit de pas : s’il y avait eu une branche elle aurait craquée. C’était juste derrière la roulotte. Il sorti de l’autre côté, alluma un cocktail molotov avec la bougie et le jeta à 2 m derrière la roulotte en s’attendant à voir apparaître un bipède de son espèce. En explosant par terre, le cocktail illumina la nuit. Hennissement  de protestation de l’autre côté mais rien de tel pour remettre les diurnes et les nyctalope sur le même niveau tout en faisant son petit effet censé impressionner ce qui pouvait l’être. Pour un zombie, ce n’était pas le cas. Par contre il y avait un petit problème : aucune trace de qui que ce soit là ou s’était fait entendre le bruit de pas. Sangoku saisi sa masse à deux mains et commença à faire le tour du feu en essayant de fixer les coins sombres pour ne pas se faire surprendre, parce que _safety first!_ : on ne sait jamais. Arrivé à quelques mètres derrière le feu, il couvrait toute la zone derrière la roulotte. C’est alors que retenti un hennissement de surprise suivi bruit sec. Sangoku se précipita pour revenir vers l’entrée de la roulotte pour apercevoir, au sol, une silhouette saisie de soubresauts.  
+— Aller y a encore des bizons ^[Vous l'aurez compris : le verlan pour zombi] dans le coin ? Dit il à haute voix. C'est toujours sympa de s’annoncer parce que les humains non zombies aussi font craquer des branches quand ils marchent. Même si un individu non-zombie se déplace très peu dans la nuit sans lumière et sans jurer en se cognant partout. Il saisit la masse et la bougie. On distingua clairement un bruit de pas : s’il y avait eu une branche elle aurait craquée. C’était juste derrière la roulotte. Il sorti de l’autre côté, alluma un cocktail molotov avec la bougie et le jeta à 2 m derrière la roulotte en s’attendant à voir apparaître un bipède de son espèce. En explosant par terre, le cocktail illumina la nuit. Hennissement  de protestation de l’autre côté mais rien de tel pour remettre les diurnes et les nyctalope sur le même niveau tout en faisant son petit effet censé impressionner ce qui pouvait l’être. Pour un zombie, ce n’était pas le cas. Par contre il y avait un petit problème : aucune trace de qui que ce soit là ou s’était fait entendre le bruit de pas. Sangoku saisi sa masse à deux mains et commença à faire le tour du feu en essayant de fixer les coins sombres pour ne pas se faire surprendre, parce que _safety first!_ : on ne sait jamais. Arrivé à quelques mètres derrière le feu, il couvrait toute la zone derrière la roulotte. C’est alors que retenti un hennissement de surprise suivi bruit sec. Sangoku se précipita pour revenir vers l’entrée de la roulotte pour apercevoir, au sol, une silhouette saisie de soubresauts.  
 
 — Bon cheval ça » dit il en flattant doucement la croupe après avoir prit soin de se décaler du redoutable arrière train.
 
@@ -189,17 +190,17 @@ Il avait déjà une loupe qu’il utilisait à la moindre occasion. Quitte à ri
 
 Dans la petite pièce confortable, des enfants de tout âge étaient, à leur convenance, assis par terre, sur chaise ou des poufs poussiéreux qui semblaient les avaler. Des volontaires se relayaient toute la semaine pour leur parler de Civilisation Pré-Coupure. 
 
-— Voici la liste des bâtiments que vous pouvez observer dans la nature et leur fonctions. Les murs de toute sorte en au sommets des collines sont des châteaux qui date probablement d’une période où les moyens technologiques étaient similaires à ceux d'aujourd’hui. Par exemple tout en haut de la colline, là où on a installé la cloche vous voyez? 
+— Voici la liste des bâtiments que vous pouvez observer dans la nature et leur fonctions. Les murs de toute sorte en au sommets des collines sont des châteaux qui date probablement d’une période où les moyens technologiques étaient similaires à ceux d'aujourd’hui. Par exemple tout en haut de la colline, là où on a installé la cloche vous voyez ? 
 
 De sages hochements de tête ne l'interrompirent même pas. 
 
-— Et bien, vous pensez que les murs sont vieux comment?
+— Et bien, vous pensez que les murs sont vieux comment ?
 
 — 17 ans! annonça un mioche qui savait compter jusque là.
 
 — Non plus vieux reprit Sylve.
 
-— Vieux comme mon Pépé Pipas?
+— Vieux comme mon Pépé Pipas ?
 
 — Encore plus vieux
 
@@ -211,11 +212,11 @@ De sages hochements de tête ne l'interrompirent même pas.
 
 — Moins quand même
 
-— Avril?
+— Avril ?
 
-— Quoi? Non. 1000 ans en gros. C'est vieux quand même non? Attention quand même de pas confondre avec les grandes battisses circulaires sans fenêtre beaucoup plus récentes qui servaient, elles à stocker du grain. Egalement à ne pas confondre avec des tours de guet qui servaient jadis de réservoir d’eau ou de boisson mais cette information reste à être validée.
+— Quoi? Non. 1000 ans en gros. C'est vieux quand même non ? Attention quand même de pas confondre avec les grandes battisses circulaires sans fenêtre beaucoup plus récentes qui servaient, elles à stocker du grain. Egalement à ne pas confondre avec des tours de guet qui servaient jadis de réservoir d’eau ou de boisson mais cette information reste à être validée.
 
-— Est ce que vous avez d'autres exemples de tour?
+— Est ce que vous avez d'autres exemples de tour ?
 
 Des mains se lève la, Sylve la professeure du jour en choisit une, comme ça, pour voir, à la tête du client.
 
@@ -227,7 +228,7 @@ Des mains se lève la, Sylve la professeure du jour en choisit une, comme ça, p
 
 — Oui mais les livres d'histoire, les encyclopédies et les dictionnaires par exemple ça raconte des histoires vraies. Quelle patiente! Heureusement qu'elle ne faisait ça qu'une fois par semaine.
 
-— Alors c'est où d'abord qu'on peut la voir? Insista la bestiole à qui il manquait la moitié des incisives.
+— Alors c'est où d'abord qu'on peut la voir ? Insista la bestiole à qui il manquait la moitié des incisives.
 
 — Á Paris c'est très loin d'ici...
 
@@ -347,7 +348,7 @@ Anaïs était sous une vache, en bleu de travail vert couvert de terre et de tâ
 
 — Non pas du tout, on est des détectives, on enquête sur la disparition de mamie Gentiane.
 
-— Hmm, vous savez que Sinpier note tous les rapports de tout le monde tous les jours. Vous trouverez sûrement des info. Et puis ça lui fera plaisir, pour une fois il se sentira utile.
+— Hmm, vous savez que Cinq-Pierres note tous les rapports de tout le monde tous les jours. Vous trouverez sûrement des info. Et puis ça lui fera plaisir, pour une fois il se sentira utile.
 
 — Oui c’est ce qu’on avait prévu mais c’était la route en fait comme ça… bafouilla Loir qui faisait de mieux en mieux semblant d'avoir un coup d'avance.
 
@@ -471,9 +472,9 @@ Après 3 jours de préparation et avoir chargé à raz bord la roulotte plus une
 
 — C’est ça, les autres jusque là, y’avait pas...
 
-# Alors elle en est où cette enquête?
+# Alors, elle en est où cette enquête?
 
-Ça a pris le temps que ça a pris : marcher, faire une pause, souffler un peu, manger des fraises des bois, revenir à la ville, manger, boire, chercher Sinpier, se rendre compte que personne savait exactement où il habitait. Finalement, le retrouver dans une petite chapelle à la sortie de la ville qu’il était s’était emménagé tant bien que mal. Lui demander de consulter le "registre des trucs qui se passe". Oui mais « il est à la mairie, attendez un peu je finis ça et je vous accompagne ». L’aider à finir d’enfiler des perles sur un collier avec une croix au bout qui à l’air très important et qui suggéra un commentaire à Vinvin : 
+Ça a pris le temps que ça a pris : marcher, faire une pause, souffler un peu, manger des fraises des bois, revenir à la ville, manger, boire, chercher Cinq-Pierres, se rendre compte que personne savait exactement où il habitait. Finalement, le retrouver dans une petite chapelle à la sortie de la ville qu’il était s’était emménagé tant bien que mal. Lui demander de consulter le "registre des trucs qui se passe". Oui mais « il est à la mairie, attendez un peu je finis ça et je vous accompagne ». L’aider à finir d’enfiler des perles sur un collier avec une croix au bout qui à l’air très important et qui suggéra un commentaire à Vinvin : 
 
 — Si on m’avait dit que j’étais venu là pour enfiler des perles…
 
@@ -481,7 +482,7 @@ En fin de soirée ils se retrouvèrent finalement devant un gros cahier sobremen
 
 — Zone 43 ?
 
-— Le plan du cadastre est sur le mur répondit Sinpier sans lever la tête de son vieux livre.
+— Le plan du cadastre est sur le mur répondit Cinq-Pierres sans lever la tête de son vieux livre.
 
 — Yes ! C’est pas très loin de Mamie Gentiane. Vinvin : on a une piste !
 
@@ -592,7 +593,7 @@ Bizarrement ce dernier mot, ou bien l'accent tonique inconsciemment mis au bon e
 
 Une soixantaine de personne vaquaient à leurs occupations sous la halle du village. Sur le côté attenant au bâtiment de la mairie, une longue table était était posée sur des tréteaux contre le mur. Des chaises disposées seulement du côté mur si bien que les gens assis faisaient face aux passants et à leur activité. Á première vu complètement aléatoire ou du moins très peu optimisée, comme des fourmis chacun, chacune allaient, rarement en ligne droite, s’arrêtant pour papoter s’interpellant, les enfants couraient et poussaient des cris. Toute une activité nécessaire à l’organisation de la vie. Á la fin de la journée toutefois il semble que les travaux de la fourmilière, toute proportion gardée, ont plus avancés que ceux des humains. On retrouvait donc l’assemblée dans sa configuration habituelle : sous la halle, assis derrière une table, faisant face au grouillement des administrées. Quelques chaises étaient toutefois installées à portée de voix pour les personnes dont l’âge nécessitaient plus de pieds qu’ils n’en avaient. 
 
-Á table comme à leur habitude : Sinpier faisait office de greffier, Mikhaïl, un conseillé et une conseillère : Jeanne et Serge (Jeanne avait toujours eu ce nom, Mathieu avait pris le nom de Serge après leur rencontre)  de bonne volonté qui faisaient office de tampon entre les décisions trop conceptuelles et une population beaucoup plus terre à terre. Une partie des chaises étaient libres pour ceux qui voulaient participer ou avaient un sujet particulier à aborder. On y retrouvait Loir. Vinvin courait autour de la place et passait tout ce qu’il pouvait à la la loupe prêtée par Loir après une séance de persuasion très efficace qui consiste à se placer le plus près possible de l’oreille de son interlocuteur et de répéter l’objet de sa requête sans s’arrêter sur un ton de plus en plus aigu. Sinpier se leva pour énoncer l’ordre du jour :
+Á table comme à leur habitude : Cinq-Pierres faisait office de greffier, Mikhaïl, un conseillé et une conseillère : Jeanne et Serge (Jeanne avait toujours eu ce nom, Mathieu avait pris le nom de Serge après leur rencontre)  de bonne volonté qui faisaient office de tampon entre les décisions trop conceptuelles et une population beaucoup plus terre à terre. Une partie des chaises étaient libres pour ceux qui voulaient participer ou avaient un sujet particulier à aborder. On y retrouvait Loir. Vinvin courait autour de la place et passait tout ce qu’il pouvait à la la loupe prêtée par Loir après une séance de persuasion très efficace qui consiste à se placer le plus près possible de l’oreille de son interlocuteur et de répéter l’objet de sa requête sans s’arrêter sur un ton de plus en plus aigu. Cinq-Pierres se leva pour énoncer l’ordre du jour :
 
 — Alors voici l’ordre du jour : Loir ici nous exposera les conclusions de son enquête sur la disparition de Mamie Gentiane puis organisation d'une nouvelle corvée de foin pour la fin de semaine. Passons au vote de l’ordre du jour qui a quelque chose à dire ? Personne. Je passe donc la parole à Loir.
 
@@ -612,11 +613,21 @@ Il savait qu’il lui fallait parler le plus fort possible, voir essayer de crie
 
 — Eh bien voici ce qu’on a retrouvé dans ses poches.
 
-Il s’approcha de la table et déposa 3 galets carbonisés de petites taille. Jeanne et Serge les observèrent d’un air expert. De par leur taille et la forme, ils ressemblaient effectivement à ceux qu’on risquait de voir arriver de trop près si on ne prenait pas garde en s’approchant de la maison de mamie Gentiane. Sinpier se leva alors :
+Il s’approcha de la table et déposa 3 galets carbonisés de petites taille. Jeanne et Serge les observèrent d’un air expert. De par leur taille et la forme, ils ressemblaient effectivement à ceux qu’on risquait de voir arriver de trop près si on ne prenait pas garde en s’approchant de la maison de mamie Gentiane. Cinq-Pierres se leva alors :
 
 — Mateo a commis un meurtre d’un membre de notre communauté. Et vous ne vous extasiez en l’apprenant ! Ne vous rendez-vous pas compte il a commis un pécher capital ! Personne ne pense à le punir !
 
-La foule présente eu tendance à regarder ses pieds :
+— Bouh!
+
+— Inquisiteur facsiste!
+
+Il faut savoir qu'avant la coupure, Monségur faisait fièrement visiter les ruines d'un chateau du XIIᵉ siècle. Le parcours comprenait une boutique et un musée contenant toute une litérature sur l'histoire locale, les troubadours et en particulier le Chatarisme. Cette religion discidente de l'Église Catholique a été éradiquée il y a quasimment 1000 ans. Biensûr on poussait les adolescents à choisir leur croyance et le cas échéant, leur religion. Il se trouve que lorsqu'on a à disposition de la documentation sur la religion cathare, le Catholisisme perd de sa prestence. C'est notamment à Montségur, que prit fin la croisade contre les Albigeois par la prise du chateau et l'immolation des derniers dissidents, comme on savait si bien le faire à l'époque. Cela les aurait peut être réconforté de savoir que tous ces siècles plus tard, le Catharisme connu un certain regain, au moins en part de marché.
+
+— Pas sympa! protestation typique des adeptes d'un culte qui prone la compasion avant tout.
+
+— Oui : méchant! On pu également entendre plus bas : flûte! je crois que je me suis emballé là.
+
+La foule présente n'était pas assez choquée pour faire autre chose que regarder ses pieds :
 
 — Oui oaf c’est pas si grave…
 
@@ -628,7 +639,7 @@ La foule présente eu tendance à regarder ses pieds :
 
 Mikhaïl prit la parole.
 
-— Bon dans la mesure où Mateo n’est pas présent pour se défendre et que de toute façon on comprend bien que son action n’était pas induite par une envie de nuire à la communauté qui de surcroît lui est reconnaissante pour le travail accompli chaque jour, je propose d’en rester là avec cette histoire. Sinpier prit un ton effaré :
+— Bon dans la mesure où Mateo n’est pas présent pour se défendre et que de toute façon on comprend bien que son action n’était pas induite par une envie de nuire à la communauté qui de surcroît lui est reconnaissante pour le travail accompli chaque jour, je propose d’en rester là avec cette histoire. Cinq-Pierres prit un ton effaré :
 
 — Quelle éducation pour la jeunesse ! Allez y tuez vous, vous finirez en enfer. Je dis ça pour votre bien aussi. Bon je suppose que tout le monde vote pour clore l’affaire.
 
@@ -664,7 +675,7 @@ Ok pensa t’il tout haut c’est le moment d’activer le protocole « Nid de v
 
 — … une grande date à marquer avec toute les pierres blanches de la montagne puisque c’est une lueur d’espoir qui descend sur l’humanité au travers de notre héro Sangoku.
 
-Sinpier s’agita derrière sa table :
+Cinq-Pierres s’agita derrière sa table :
 
 — Prophète ? Je peux mettre prophète c’est bien ça non ?
 
@@ -718,7 +729,7 @@ Mihkail essaya de récupérer :
 
 Il y eu un petit silence et les gens ralentirent comme si le temps s’était dilaté. Une partie de la puissance de calcul de chaque cerveau s’était mis à considéré le fait qu’on puisse soigner les zombies. Ils avaient vécus tellement longtemps avec et en avaient brûlé, démembré ou déformé tant que l’hypothèse n’était pas si plaisante. Dans quel état seraient-ils? Sachant qu’ils ont arrêté de vieillir au moment où ils se sont fait contaminer. De quoi se souviendraient-ils? Mais surtout, fallait-il continuer cette mascarade? L’épopée sado maso et kamikase de l’humanité, on pouvait déjà se poser la question à petite échelle mais remettre sur pied la machine infernale? Et surtout : qui allait prendre la décision? Évidemment tous n’étaient pas exactement au même stade du raisonnement quand il commencèrent à prendre la parole : 
 
-— Et les humains repeupleront la terre! s’écria Sinpier.
+— Et les humains repeupleront la terre! s’écria Cinq-Pierres.
 
 — Il va falloir faire à manger pour tout le monde ??
 
@@ -1190,7 +1201,10 @@ Tout ceux qui n'étaient pas découragés par les débats en général assez st�
 
 # Concertation publique
 
-— Camarades! Nous sommes ici pour essayer d'envisager les implications et les conséquences de la découverte d'un vaccin, si jamais on y arrive. Est ce que ça change quelque chose si on a un vaccin : notre rapport aux infectés va changer car il ne seront plus dangereux pour nous. Est ce qu'on pourrait alors s'en servir comme animaux de trait par exemple ou bien dans les cuisine ou pour les travaux relou dans les champs.
+
+Tout ceux qui n'étaient pas découragés par les débats en général assez stériles étaient réunis sous la halle. Sans que personne ne le fasse remarquer, il y avait surtout des gens à la mobilité réduite, à qui convenait bien les activités statiques mais il y avait aussi des gens qui aimaient les débats en général comme Mikhaïl. Mylène était là aussi mais en tant qu'experte et référente sur les questions de santé publique. Son air détaché donnait l'impression qu'elle se mettait devant un vieux nanar munie d'un cornet de popcorn. Cinq-Pierres était là aussi pour défendre son église veiller à ce que soit entendu la voix divine, il était là parce qu'il fallait bien avec le même plaisir qu'aller au chiottes ou à la messe machinalement par nécessité sans se poser de question et sans plaisir. Comme à son habitude Mikhaïl pris la parole en se levant.
+
+— Camarades! Nous sommes ici pour essayer d'envisager les implications et les conséquences de la découverte d'un vaccin, si jamais on y arrive. Le fait d'être protégé contre une infection changerait-il quelque chose? Notre rapport aux infectés va changer car il ne seront plus dangereux pour nous. Est-ce qu'on pourrait alors s'en servir comme animaux de trait par exemple ou bien dans les cuisines ou pour les travaux relou dans les champs.
 
 Un petit homme assis sur une chaise confortable une couverture sur les genoux, se manifesta déjà faisant fit des tours de parole.
 
@@ -1200,14 +1214,26 @@ Mylène prit sur elle de répondre.
 
 — C'est à dire que pour l'instant, le but de notre entreprise est de mieux comprendre la maladie, de mieux s'en défendre. Pour éviter de stresser à longueur de journée de se retrouver face à face à un zombie. Eviter l'odeur quand on les brule aussi, ça améliorerait le quotidien. C'est une bonne question mais vu la complexité du problème et les moyens qu'on a, c'est mal parti. On sera toujours à temps de se poser la question en cas de miracle.
 
-Ce fût au tour de Sinpier de ne plus tenir en place :
+Ce fût au tour de Cinq-Pierres de ne plus tenir en place :
 
-— L'église dirait qu'il faut savoir garder sa place et accepter les dessein de Dieu même si elles sont impénétrables. 
+— L'église dirait qu'il faut savoir garder sa place et accepter les desseins de Dieu même si elles sont impénétrables. 
+
+— Pourquoi il voudrait pénétrer des dessins celui-ci? Entendit on en arrière plan. Puis quelqu'un qui, pour une fois, respectait presque son tour de parole, décida de partager le sien avec Cinq-Pierres :
 
 — Oui mais si c'est Dieu qui décide, il aura aussi décider qu'on change les plans.
 — Oui mais il aura aussi décider que je vous empêche de le faire. Et je suis quand même mieux placer pour tout ce qui concerne les voies du seigneur. Je vous le dis c'est triste mais les zombies ne sont plus humain, on les a perdu. Ils n'ont plus de conscience, il faut laisser les morts tranquilles.
 
-On était encore passé du sujet "quoi faire une fois qu'on sera immuniser" à "quel est le sens de l'humanité". Mikhail se dit qu'il était tellement compliqué de ne pas dévier d'un ordre du jour. Les gens parlent de ce qui les intéresse après tout on pourra faire toujours d'autres réunion jusqu'à qu'il ait assez peu de personne pour avoir un consensus.
+— Oui mais déjà : soyez assurez du fait qu'il est là parmis nous et qu'il aura aussi décidé que je vous empêche de le faire. Et je suis quand même mieux placé pour tout ce qui concerne les voies du seigneur. Je vous le dis, c'est triste mais les zombies ne sont plus humains, on les a perdu. Ils n'ont plus de conscience, il faut laisser les morts tranquilles.
+
+C'était plus fort qu'eux, les quelques cathares dans le coin si calmes d'habitude ne pouvaient pas s'empécher de la ramener face aux propos de leurs némésis.
+
+— Mais enfin ça se saurait si Dieu était en Ariège ! 
+
+Toutefois cette confession était encore largement minauritaire et sujet de moqueries :
+
+— Oui bon vous vous êtes bien gentils mais si on vous écoutait et qu'on etait tous des Parfaits on va pas non plus se fendre la gueule tous les jours. Cela dit, plus de bouillave, plus d'enfant, c'est vrai que dans quelques années il n'y aura plus de problème...
+
+On était encore passé du sujet "quoi faire une fois qu'on sera immunisé" à "quel est le sens de l'humanité". Mikhaïl se dit qu'il était tellement compliqué de ne pas dévier d'un ordre du jour. Les gens parlent de ce qui les intéresse après tout on pourra faire toujours d'autres réunions jusqu'à qu'il ait assez peu de monde pour avoir un consensus. 
 
 Le premier petit vieux dont la vie a été riche une enfance citadine, des voyages, il avait été prof d'économie dans un lycée en zone rurale bénévole dans une médiathèque et retraité post Coupure. Il reprit :
 
@@ -1257,7 +1283,7 @@ Lilou était une des plus jeune à parler de CPP aux futures générations. Biza
 
  # Un rapport un peu officieux
 
-C'était le soir on se restaurait pour ceux qui voulaient au centre du village, on discutait on se chamaillait il y avait beaucoup trop d'enfant faisant des bruits d'enfant. Ce qui devait arriver arriva : on ne peut pas venir manger tranquille sans être obliger de socialiser. Et ce fut Sinpier qui mit le sujet de l'enquête du loup sur la table. Loir savait qu'il manquait quelque chose, un bout à son investigation. Il pouvait néanmoins détourner l'attention en mettant les formes.
+C'était le soir on se restaurait pour ceux qui voulaient au centre du village, on discutait on se chamaillait il y avait beaucoup trop d'enfant faisant des bruits d'enfant. Ce qui devait arriver arriva : on ne peut pas venir manger tranquille sans être obliger de socialiser. Et ce fut Cinq-Pierres qui mit le sujet de l'enquête du loup sur la table. Loir savait qu'il manquait quelque chose, un bout à son investigation. Il pouvait néanmoins détourner l'attention en mettant les formes.
 
 — Alors pour que vous compreniez ce qui s'est passé, il faut que vous vous imaginiez une attaque d’un loup sur troupeau : le loup fonce sur le troupeau, au milieu un bélier est en train de brouter. Tout le troupeau commence à fuir dans la direction opposée au loup. Le loup est mode chasse. Littéralement au taquet c’est à dire les gaz à fond, la machine à tuer enclenchée. Il va très vite, pas de proie précisément en vue seulement la masse distordue en mouvement du troupeau. Il se rapproche à grande vitesse, je vous assure qu’à cette vitesse, la tête à 20 cm du sol, demandez à Vinvin, on a tendance à se prendre pour une torpille. Sauf que dans la masse du troupeau il avait un point fixe : un vieux bélier en train de brouter fendant le flux de ses congénères apeurés comme un rocher dans un torrent. Faisons un peu de physique : un troupeau en déplacement d’une vitesse v, un loup les poursuit doit s’arranger pour aller à une vitesse supérieure à v pour être sûr de se mettre un gigot sous les chicos. Il n’eut même pas le temps de réaliser ce qui se passait : il était sur le point de choisir un individu à l’arrière du troupeau au moment où il le rejoignait et puis plus rien.  Tout est une histoire de référentiel : depuis le point de vue du troupeau, on a un loup écument toute voiles dehors qui se rapproche lentement. Du point de vue d’un bélier broutant par une fraîche soirée de Mars, des camarades qui passent à toute vitesse, trop prés de chaque coté en piétinant cet excellent trèfle de prairie pendant quelques seconde puis au moment où les dernières brebis étaient passées une image de langue pendue, un petit bruit sec et l’instant d’après un cadavre de loup devant les yeux. Car et c’est écrit dans les livres qu’on a retrouvé à la bibliothèque. Ce qui fait mal c’est l’accélération. Et l’accélération c’est la variation de vitesse. Et on voit que dans le cas d’un loup à disons 52 km/h qui entre en collision avec des cornes de bélier immobile, on passe instantanément à une vitesse nulle, ce qui génère une énergie à absorber notamment on l'a vu ici, dans la déformation du crane et des vertèbres est donc en général déconseillé pour la santé et ce petit détail en cadeau : ne relève plus de la théorie de la mécanique générale mais de la physique des chocs.
 
@@ -1519,7 +1545,7 @@ Quelque jours suffirent pour se mettre d'accord. Malgré une certaine tolérance
 
 Loir malgré l'acceptation avait passé beaucoup de temps à se demander quoi dire pour sa défense. Une tannée! Ok pour la sentence mais qu'allait t'il plaider, qu'allait t'il dire à ses parents? Et surtout comment tirer des aveux de Mylène?  D'accord, sûrement pas en public mais il était persuadé qu'elle avait encore des choses à dire. 
 
-Un matin donc Mateo et Sinpier vinrent le chercher pour l’emmener dans une pièce de l’hôtel de ville qu'il ne connaissait pas. Mihkail était là, Cindy une femme d'une quarantaine d'années assez forte était en train de servir des chicorées. "Assez forte" au premier degré : elle n'était pas spécialement grosse mais on n'avait clairement pas envie de se trouver sur son chemin quand on la sentait mal lunée. Elle était simple et calme comme les gens qui n'ont jamais eu peur que pour les autres. On le fit assoir à une table d'écolier tout seul au milieu de la pièce, Mihkail et Sinpier assis derrière une table plus grande dos au mur opposé à la porte d’où il venait de rentrer et les autres personnes tanto se déplaçant pour boire ou servir une tasse tanto s'adossant au murs tout autour de Loir.
+Un matin donc Mateo et Cinq-Pierres vinrent le chercher pour l’emmener dans une pièce de l’hôtel de ville qu'il ne connaissait pas. Mihkail était là, Cindy une femme d'une quarantaine d'années assez forte était en train de servir des chicorées. "Assez forte" au premier degré : elle n'était pas spécialement grosse mais on n'avait clairement pas envie de se trouver sur son chemin quand on la sentait mal lunée. Elle était simple et calme comme les gens qui n'ont jamais eu peur que pour les autres. On le fit assoir à une table d'écolier tout seul au milieu de la pièce, Mihkail et Cinq-Pierres assis derrière une table plus grande dos au mur opposé à la porte d’où il venait de rentrer et les autres personnes tanto se déplaçant pour boire ou servir une tasse tanto s'adossant au murs tout autour de Loir.
 
 — Bon on a pas vraiment trouvé d'avocat et de toute façon on a trouvé personne qui viendra se plaindre quoi qu'on fasse donc on va pas tourner autour du pot.
 
@@ -1627,11 +1653,11 @@ Voici toute l’histoire. Je suis.. enfin j’étais… mmh je suis peut être e
 
 Tout a commencé à ce coloque de biologique sur les luttes fongicides pour les grandes cultures notamment de maïs et de blé. Non en fait tout a commencé bien plus tôt quand j’ai commencé à me poser des questions sur l’humanité et la nature. Peut être même que tout à commencé quand j’ai su comment Darwin avait perdu sa foi en Dieu en décrivant une guêpe qui pondait dans une araignée qui sert alors de garde manger vivant pour ses larves. Darwin qui n’était pas le dernier des débiles en a conclu qu’un bon Dieu n’aurait jamais été assez pervers pour inventer un telle atrocité. Petit à petit au fil des années j’en suis venu à me poser cette question : quelle est le but de l’humanité : la moitié de la population croit que c’est la religion et qu’il faut agir en humain parce que c’est ce que Dieu veut. Une autre partie n’écoute que son instinct naturel : certain essayent de subsister le plus longtemps et le mieux possible, dans certain cas il font des enfants soit par pulsion sexuelle soit par pulsion maternelle. Les autres s’inventent un but dans leur vie : la recherche pour moi, le jeu, le sport, la politique. Enfin ceux qui restent se suicident. Et finalement tout le monde est très malheureux. 
 
-Sans déconner, on vivait dans un monde ou la croyance est que consommer beaucoup c'est bien. Sans que personne ne pointe du doigt le fait que tout ce qu'on ne consomme pas serait dispo pour les autres. Que la meilleure façon d’exécuter une tâche c'est de mettre les gens en concurrence pour le faire plusieurs fois et jeter la moitié, réalisation et humains compris tout en accroissant les inégalités.
+Or le vrai but, inscrit dans nos gènes est de se reproduire à tout prix quelque soit les conséquences. On a beau s'extasier devant cette incroyable pulsion de vivre, ce n'est que l'évolution en train de tirer les fils des marionettes que nous sommes...
 
-Or le vrai but, inscrit dans nos gènes est de se reproduire à tout prix quelque soit les conséquences. Sauf que moi mon but c’est qu’il y ait moins de souffrance dans le monde, surtout pour les humains parce que je sais comment c’est les humains. Mais aussi pour les autres mammifères qui font des bébé mignons. C’est mon but. L’évolution est une force qui tâtonne pour fabriquer des organismes très complexe au détriment de leur bien être sauf que l’évolution m’a aussi créé moi... et elle s’en mordra les doigts cette vielle connasse de Pachamama. 
+— C'était préparé le speach en fait?
 
-Revenons en à ce colloque sur les fongicides où un collègue australien bossait sur la douve du mouton, ses mutations et ses comportements. J’imagine qu’il va falloir que je vous explique ce qu’est la douve du mouton. Remarques Anaïs doit connaître.
+— Non... un peu, depuis tellement longtemps. Mais là c'est vrai que c'est pas mal sorti. Donc je reprends : on est des animaux sauf que mon but c’est qu’il y ait moins de souffrance dans le monde, surtout pour les humains parce que je sais ce que c’est, j'ai de l’empathie pour les êtres vivants qui me ressemblenr. Mais aussi pour les autres mammifères qui font des bébé mignons. C’est mon but. L’évolution est une force qui tâtonne pour fabriquer des organismes très complexes au détriment de leur bien être sauf que l’évolution m’a aussi créé moi... et elle s’en mordra les doigts cette vielle trainée. Revenons en à ce colloque sur les fongicides où un collègue australien bossait sur la douve du mouton, ses mutations et ses comportements. J’imagine qu’il va falloir que je vous explique ce qu’est la douve du mouton. Remarques Anaïs doit connaître.
 
 — Non mais c'est bon je l'ai lu dans un livre : c'est un parasite qui se reproduit dans les fois des moutons puis qui infecte les crottes qui contamine les fourmis et qui change leur comportement pour que les fourmis se perchent à la pointe des brins d'herbe et qu'elle se fassent brouter pour retourner dans les moutons. J'ai jamais compris pourquoi elles restaient pas dans le mouton tout simplement : une envie de voyage sûrement.
 — Pas mal répondit-elle dans un bref sourire.
