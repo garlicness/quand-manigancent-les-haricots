@@ -1,5 +1,5 @@
 ---
-title: Les haricots manigancent
+title: Quand manigancent les haricots
 author: Garlicness
 rights:  Creative Commons Non-Commercial Share Alike 3.0
 language: fr-FR
@@ -48,9 +48,9 @@ Il faut reconnaître qu’il avait bien trouvé son estrade, après avoir cherch
 
 Bien-sur personne n’osa se présenter, d’une part, on n’aurait pas su comment et puis si ça pouvait lui faire autant plaisir et que ça ne faisait de tort à personne, il ne fallait pas se priver de son enthousiasme. Surtout qu’il s’occupait effectivement de choses que personne n'avait envie de faire comme aller recenser tout les humains conscients et sensibles connus de la planète. Et croyez-le, des fois le côté conscient et sensible n’est pas chose aisée à discerner. Il y a par exemple une vielle dans la montagne encore de plus mauvaise humeur qu’un ours qu’on réveille pendant son hibernation (en témoigne d’ailleurs sur sa porte la peau d’un ours qui l’a dérangée pendant une session cueillette). Il y a aussi des enfants sadiques qui torturent tout ce qui bouge. Une tannée! Et c’est un aphorisme vu que tout le monde préférait effectivement tanner des peaux plutôt que s’occuper de garder de la cohésion sur cet îlot de singes à la dérive.
 
-# Un persévérent protagoniste
+# Un persévèrent protagoniste
 
-— Qu’est ce qu’on se fait chier quand même et tout ça pourquoi déjà? Alors qu’il s’apprêtait à tout envoyer valser pour la 10ᵉ fois, il fit quelques pas dans la pièce obscure. Au bout de 3 minutes l’idée suivante de présenta. Décision : il essaye et si ça ne marche pas il arrête et il se couche, en plus il va bientôt faire jour. En général quand il fait jour les gens se réveillent et sont encore plus désagréables que quand ils ronflent. En plus si ça marche, ça va leur faire plaisir à tous ces cons qui font des réflexions de débile parce qu’ils ne veulent même pas donner deux fois du dessert. 
+— Qu’est ce qu’on se fait chier quand même et tout ça pourquoi déjà ? Alors qu’il s’apprêtait à tout envoyer valser pour la 10ᵉ fois, il fit quelques pas dans la pièce obscure. Au bout de 3 minutes l’idée suivante de présenta. Décision : il essaye et si ça ne marche pas il arrête et il se couche, en plus il va bientôt faire jour. En général quand il fait jour les gens se réveillent et sont encore plus désagréables que quand ils ronflent. En plus si ça marche, ça va leur faire plaisir à tous ces cons qui font des réflexions de débile parce qu’ils ne veulent même pas donner deux fois du dessert. 
 
 — C'est quand même balo d'avoir passé autant de temps à regarder au pif ce que contenaient des centaines de cartes micro SD sur toutes ces petites cartes Raspberry Pi soigneusement récupérées par quelqu'un qui avait sûrement autre chose de mieux à faire, de finalement trouver un fichier contenant la sauvegarde de toute cette fameuse encyclopédie collaborative et un tutoriel exploitable, et puis de rester bloqué sur une erreur à la con qui veut rien dire! Et si j’essayais d’allouer plus de mémoire, il doit y avoir une commande... Il l'avait vu sur un autre projet qui avait aussi lamentablement échoué. 
 
@@ -81,7 +81,7 @@ Une petite main se leva comme le gnome au cheveux gras à qui elle appartenait.
 
 — Je sais pas j’ai jamais essayé.
 
-— Est ce qu’on est d’accord pour être contre?
+— Est-ce qu’on est d’accord pour être contre?
 
 Tout le monde murmura un reproche irrespectueux et Cinq-Pierres fut soulagé.
 
@@ -95,7 +95,7 @@ Il y avait plusieurs types de noms : d’abord, le nom Pré-Coupure pour ceux qu
 
 Cinq-Pierres reprit la parole. 
 
-— Une dernière petite affaire à porter à votre connaissance : une  affaire qui concerne la disparition  de Mamie Gentiane, de son vrai nom Christine Boulin né possiblement 80 ans avant l’an 0 sûrement dans le coin. Seul relatif son neveu Murien Tibule meunier. Il y a une semaine celui-ci a rapporté la disparition de sa tante. Souffrant d’alzeihmer depuis plusieurs année, elle avait depuis peu l’habitude de déambuler dans la zone entre chez elle et le moulin de son neveu. Mr Murien Tibule avait l’habitude une fois tous les deux ou trois jours de lui rendre visite et de lui laisser ou de préparer de la nourriture pour les jours suivants. Á son dernier passage la maison était vide, à son grand soulagement souligne t’il « parce qu’il faut se la fader la vieille, je peux vous dire que c’est pas une partie de plaisir » Plusieurs membres de la communauté confirme devoir se méfier des agissements imprévisibles tels que des jetés de cailloux et autres couteaux, bassines d'eau (ou d’urine) sur les passants. Idéalement il faudrait une commission pour enquêter la dessus, cela-dit on comprendra bien que vu les priorités...
+— Une dernière petite affaire à porter à votre connaissance : une  affaire qui concerne la disparition  de Mamie Gentiane, de son vrai nom Christine Boulin né possiblement 80 ans avant l’an 0 sûrement dans le coin. Seul relatif son neveu Messi Papin, meunier. Il y a une semaine celui-ci a rapporté la disparition de sa tante. Souffrant d’alzeihmer depuis plusieurs année, elle avait l’habitude de déambuler dans la zone entre chez elle et le moulin de son neveu. Mr Messi lui rendait visite une fois tout les deux ou trois jours pour lui laisser de la nourriture pour les jours suivants. Á son dernier passage la maison était vide, à son grand soulagement souligne t’il « parce qu’il faut se la fader la vieille, je peux vous dire que c’est pas une partie de plaisir » Plusieurs membres de la communauté confirme devoir se méfier des agissements imprévisibles tels que des jetés de cailloux et autres couteaux, bassines d'eau (ou d’urine) sur les passants. Idéalement il faudrait une commission pour enquêter la dessus, cela-dit on comprendra bien que vu les priorités...
 
 En l'espace d'un instant Loir se remit de sa déception de na pas être pris au sérieux. Dans les motivation des humains, tout est affaire de sémantique et d’imaginaire : "va nous chercher mamie" ne fourni que très peu de responsabilité, de fierté et de reconnaisse alors que"va enquêter sur la disparition de ce membre de note communauté", déclenche un petit fichier vidéo en arrière plan à base d’imperméable, de chapeau, d’air sombre et d’aventure. 
 
@@ -156,49 +156,49 @@ Puis sans franchement de transition.
 
 La matinée passa joyeusement avant d’arriver à leur spot habituel. Ils en profitèrent pour explorer les alentours, histoire de repousser un peu les frontières du monde connu. Ces temps-ci, il était redevenu aisé d’être exploratrice. On avait beau avoir des cartes du monde, elles ne restaient que très abstraites loin de toute réalité tangible pour les jeunes qui ne partiraient probablement jamais à plus de quelques centaines de kilomètre de leur lieu de naissance. Alors que la découverte d’un coin à champignon revêtait un aspect stratégique autrement plus important que la position géopolitique du Sinaï par exemple. Ils cassèrent la croûte puis après une sieste langoureuse se mirent à remplir leur sacs des fameuses feuilles qui permettront de concocter de fameux pestos très prisés.
 
-Alors que ses sacs étaient quasiment pleins, Bambi était accroupi depuis 15 min le nez dans la végétation odorante quand il entendit un branche craquer, derrière lui. Mylène était revenu sur ses pas. Il vit du coin de l’œil un main tendue pour l’aider à se relever. Typique ! Il la saisie machinalement. Puis un calme, avec une drôle d’impression, et d’un coup : plus rien.
+Alors que ses sacs étaient quasiment pleins, Bambi était accroupi depuis 15 min le nez dans la végétation odorante quand il entendit un branche craquer, derrière lui. Mylène était revenue sur ses pas. Il vit du coin de l’œil un main tendue pour l’aider à se relever. Typique ! Il la saisie machinalement. Puis un calme, avec une drôle d’impression, et d’un coup : plus rien.
 
 # Lonesome vagabond
 
-Pendant ce temps à 200 km nord-nord-est de Montségur, Sangoku se roulait une cigarette en tenant les rennes d’un cheval entre les jambes avec le soleil qui se couche comme dans les films du siècle dernier grâce auxquels il avait maintenant un petit air d’harmonica dans la tête qui n’était pas pour lui déplaire. En plus d’apprécier la luminosité crépusculaire il avait tendance à s’imaginer à la troisième personne, en réalisateur de son propre biopic. Et là, il était satisfait de la prise. Au loin, deux corneilles assouvissant une passion instinctive faisaient la misère à une buse. Pour le plaisir comme tout le monde sait. Fin de la journée, il était temps  d’établir le camp pour la nuit. Cela consistait généralement à trouver un bâtiment fermé, entrer, vérifier qu’il était vide, le cas échéant distribuer 2, 3 coups de masses, proprement, de looter des items intéressants, c’était d’ailleurs sa principale mission : fouiller et ramener des munitions, du paracétamol et de bonne bouteilles. Des fois il dormait dehors, en terrain dégagé, pas de risque de se faire surprendre et les bestioles sauvages, elles avaient encore assez de nourriture pour ne pas vouloir se frotter à des proies réfractaires qui, en plus magnaient le feu. Il vit un grand terrain clôturé sur une colline, à un kilomètre, on distinguait clairement le chemin qui y menait. Cinq minutes plus tard il était devant, Scadufax son cheval gris a déjà trouvé son bonheur dans les trèfles violets de ce qui avait du être jadis un jardin. Ou bien un parking poids-lourds terrain de baseball, pour ce qu’il en reste... Il sortit sa plus grosse masse et laissa donc la petite avec le gros galet décoré, inconsciemment, pour ne pas qu’elle s’abîme. 
+Pendant ce temps à 200 km nord-nord-est de Montségur, Sangoku se roulait une cigarette en tenant les rennes d’un cheval entre les jambes dans le soleil couchant comme dans les films du siècle dernier grâce auxquels il avait maintenant un petit air d’harmonica dans la tête qui n’était pas pour lui déplaire. En plus d’apprécier la luminosité crépusculaire, il avait tendance à s’imaginer à la troisième personne, en réalisateur de son propre biopic. Et là, il était satisfait de la prise. Au loin, deux corneilles assouvissant une passion instinctive en faisant la misère à une buse. Pour le plaisir comme tout le monde sait. Fin de la journée, il était temps  d’établir le camp pour la nuit. Cela consistait généralement à trouver un bâtiment fermé, entrer, vérifier qu’il était vide, le cas échéant distribuer 2, 3 coups de masses, proprement, de looter des items intéressants, c’était d’ailleurs sa principale mission : fouiller et ramener des munitions, du paracétamol et de bonne bouteilles. Des fois il dormait dehors, en terrain dégagé, pas de risque de se faire surprendre et les bestioles sauvages, elles avaient encore assez de nourriture pour ne pas vouloir se frotter à des proies réfractaires qui, en plus magnaient le feu. Il vit un grand terrain clôturé sur une colline, à un kilomètre, on distinguait clairement le chemin qui y menait. Cinq minutes plus tard il était devant, Scadufax son cheval gris a déjà trouvé son bonheur dans les trèfles violets de ce qui avait du être jadis un jardin. Ou bien un parking poids-lourdsou un terrain de baseball, pour ce qu’il en reste... Il sortit sa plus grosse masse et laissa donc la petite avec le gros galet décoré, inconsciemment, pour ne pas qu’elle s’abîme. 
 
-La nuit c’est sombre et plein de bruits de bestioles. Le cheval aide beaucoup pour ça. On peut avoir l’impression d’être au milieu d’un troupeau de bisons, si le cheval ne bronche pas, on peut essayer de se rendormir tranquille. Si c’est le cas c’est compliqué, il faut rallumer le feu regarder ce qu’il se passe, montrer qu’on va pas se laisser faire, tirer en l’air et être prêt à mutiler des organismes. Un cheval, c’est comme un canari dans la mine, sauf qu’on a une chance de sauver le canari après qu’il nous a indiqué le danger. Sauf si le danger à le gabarit d’un ours, bref... Il y avait  un peu de vent. Au moins 2h après le noir complet, on pouvait identifier : un hibou en train de défoncer des mulots, un fouisseur en train de labourer une parcelle et un rongeur qui devait inspecter les réserves de la roulotte pour être sûr que rien ne dépasse. Dans tout ce capharnaüm il y eu d’abord comme un soupir d’exaspération de la part de Scadufax qui acheva de réveiller Sangoku. Sans bouger aux aguets il essaya de trier les bruits. Un nouveau signe d’inquiétude de la part de son cheval, il allume une bougie, sort le pistolet. Une branche qui craque. Plus de doute possible : tous les bons pisteurs le savent : aucun animal sauvage ne fait craquer des branche quand il se déplace. Sangoku soupira :
+La nuit c’est sombre et plein de bruits de bestioles. Le cheval aide beaucoup pour ça. On peut avoir l’impression d’être au milieu d’un troupeau de bisons, si le cheval ne bronche pas, on peut essayer de se rendormir tranquille. Si c’est le cas : c’est compliqué, il faut rallumer le feu regarder ce qu’il se passe, montrer qu’on va pas se laisser faire, tirer en l’air et être prêt à mutiler des organismes. Un cheval, c’est comme un canari dans la mine, sauf qu’on a une chance de sauver le canari après qu’il nous a indiqué le danger. Sauf si le danger à le gabarit d’un ours, bref... Il y avait  un peu de vent. Au moins 2h après le noir complet, on pouvait identifier : un hibou en train de défoncer des mulots, un fouisseur en train de labourer une parcelle et un rongeur qui devait inspecter les réserves de la roulotte pour être sûr que rien ne dépasse. Dans tout ce capharnaüm il y eu d’abord comme un soupir d’exaspération de la part de Scadufax qui acheva de réveiller Sangoku. Sans bouger aux aguets il essaya de trier les bruits. Un nouveau signe d’inquiétude de la part de son cheval et il alluma une bougie puis sortit le pistolet. Une branche craqua. Plus de doute possible : tous les bons pisteurs le savent : aucun animal sauvage ne fait craquer de branche quand il se déplace. Sangoku soupira :
 
-— Aller y a encore des bizons ^[Vous l'aurez compris : le verlan pour zombi] dans le coin ? Dit il à haute voix. C'est toujours sympa de s’annoncer parce que les humains non zombies aussi font craquer des branches quand ils marchent. Même si un individu non-zombie se déplace très peu dans la nuit sans lumière et sans jurer en se cognant partout. Il saisit la masse et la bougie. On distingua clairement un bruit de pas : s’il y avait eu une branche elle aurait craquée. C’était juste derrière la roulotte. Il sorti de l’autre côté, alluma un cocktail molotov avec la bougie et le jeta à 2 m derrière la roulotte en s’attendant à voir apparaître un bipède de son espèce. En explosant par terre, le cocktail illumina la nuit. Hennissement  de protestation de l’autre côté mais rien de tel pour remettre les diurnes et les nyctalope sur le même niveau tout en faisant son petit effet censé impressionner ce qui pouvait l’être. Pour un zombie, ce n’était pas le cas. Par contre il y avait un petit problème : aucune trace de qui que ce soit là ou s’était fait entendre le bruit de pas. Sangoku saisi sa masse à deux mains et commença à faire le tour du feu en essayant de fixer les coins sombres pour ne pas se faire surprendre, parce que _safety first!_ : on ne sait jamais. Arrivé à quelques mètres derrière le feu, il couvrait toute la zone derrière la roulotte. C’est alors que retenti un hennissement de surprise suivi bruit sec. Sangoku se précipita pour revenir vers l’entrée de la roulotte pour apercevoir, au sol, une silhouette saisie de soubresauts.  
+— Aller y a encore des bizons ^[Vous l'aurez compris : le verlan pour zombi] dans le coin ? Dit-il à haute voix. C'est toujours sympa de s’annoncer parce que les humains non zombies aussi font craquer des branches quand ils marchent. Même si un individu non-zombie se déplace très peu dans la nuit sans lumière et sans jurer en se cognant partout. Il saisit la masse et la bougie. On distingua clairement un bruit de pas : s’il y avait eu une branche elle aurait craqué. C’était juste derrière la roulotte. Il sortit de l’autre côté, alluma un cocktail molotov avec la bougie et le jeta à 2 m derrière la roulotte en s’attendant à voir apparaître un bipède de son espèce. En explosant par terre, le cocktail illumina la nuit. Hennissement  de protestation de l’autre côté mais rien de tel pour remettre les diurnes et les nyctalope sur le même niveau tout en faisant son petit effet censé impressionner ce qui pouvait l’être. Pour un zombie, ce n’était pas le cas. Par contre il y avait un petit problème : aucune trace de quoi que ce soit là où s’était fait entendre le bruit de pas. Sangoku saisi sa masse à deux mains et commença à faire le tour du feu en essayant de fixer les coins sombres pour ne pas se faire surprendre, parce que _safety first!_ : on ne sait jamais. Arrivé à quelques mètres derrière le feu, il couvrait toute la zone derrière la roulotte. C’est alors que retenti un hennissement de surprise suivi bruit sec. Sangoku se précipita pour revenir vers l’entrée de la roulotte pour apercevoir, au sol, une silhouette saisie de soubresauts.  
 
-— Bon cheval ça » dit il en flattant doucement la croupe après avoir prit soin de se décaler du redoutable arrière train.
+— Bon cheval ça! dit-il en flattant doucement la croupe après avoir prit soin de se décaler du redoutable arrière train.
 
-Il retourna sur ses pas, leva la masse au dessus de sa tête et l’abattit sur ce qu’il estimait être le centre nerveux de l’organisme déjà disloqué.
+Il retourna sur ses pas, leva la masse au dessus de sa tête et l’abattit sur ce qu’il estimait être le centre nerveux du corp déjà disloqué.
 
 # Suit-up
 
 D’abord passer au magasin. Une grande maison du village a été transformée en sorte de grand entrepôt où, au fur et à mesure, ont été rassemblés tous les vétements et accessoires abandonnés dans la coin. Dans la plus grande excitation, Loir avait fait une liste. Une des plus enthousiasmantes de sa vie : 
 
-Équipement :
-- [ ] un carnet d’enquêteur
-- [ ]  un crayon d’enquêteur
-- [ ] un imperméable mystérieux
-- [ ] un couvre chef
-- [ ] Changer de nom en Sherlock par exemple
-- [ ] Résoudre une enquête
+Équipement :  
+- un carnet d’enquêteur  
+-  un crayon d’enquêteur  
+- un imperméable mystérieux  
+- un couvre chef  
+- Changer de nom en Sherlock par exemple  
+- Résoudre une enquête
 
-Le résultat de cette session équipement aurait fait un malheur 40 ans plutôt lors d’une manifestation populaire appelée carnaval. D’un certain point de vue, son accoutrement aurait plus paraître curieux : béret trop grand, imperméable rouge, botte en caoutchouc (il avait effectivement lu de nombreux romans sans pour autant pouvoir se souvenir d’une mention spécifique concernant les chaussures de Marlowe ou Sherlock Holmes). Un coup d’œil dans un miroir s’avéra néanmoins satisfaisant dans un monde où la mode avait fait ses valises, et où le sens pratique importait plus que le regard des autres. Les autres qui étaient en plus assez peu nombreux pour ne pas la ramener.
+Le résultat de cette session équipement aurait fait un malheur 40 ans plutôt lors d’une manifestation populaire appelée Carnaval. D’un certain point de vue, son accoutrement aurait pût paraître curieux : béret trop grand, imperméable rouge, botte en caoutchouc (il avait effectivement lu de nombreux romans sans pour autant pouvoir se souvenir d’une mention spécifique concernant les chaussures de Marlowe ou Sherlock Holmes). Un coup d’œil dans un miroir s’avéra néanmoins satisfaisant dans un monde où la mode avait fait ses valises, et où le sens pratique importait plus que le regard des autres. Les autres qui étaient en plus assez peu nombreux pour ne pas la ramener.
 
-Il avait déjà une loupe qu’il utilisait à la moindre occasion. Quitte à risquer un incendie comme l’année dernière. Il faudrait également un side-kick peu ambitieux qui le mettrait le valeur. Le petit Vinvin ferait l’affaire, du haut de ses 9 ans il serait facilement impressionnable et irrésistiblement attiré par la perspective d’une « aventure ».
+Il avait déjà une loupe qu’il utilisait à la moindre occasion. Il faudrait également un side-kick peu ambitieux qui le mettrait le valeur. Le petit Vinvin ferait l’affaire, du haut de ses 9 ans il serait facilement impressionnable et irrésistiblement attiré par la perspective d’une « aventure ».
 
 # Cours de civilisation : les tours
 
-Dans la petite pièce confortable, des enfants de tout âge étaient, à leur convenance, assis par terre, sur chaise ou des poufs poussiéreux qui semblaient les avaler. Des volontaires se relayaient toute la semaine pour leur parler de Civilisation Pré-Coupure. 
+Dans la petite pièce confortable, des enfants de tout âge étaient, à leur convenance, assis par terre, sur des chaises ou des poufs poussiéreux qui semblaient les avaler. Des volontaires se relayaient toute la semaine pour leur parler de Civilisation Pré-Coupure. 
 
-— Voici la liste des bâtiments que vous pouvez observer dans la nature et leur fonctions. Les murs de toute sorte en au sommets des collines sont des châteaux qui date probablement d’une période où les moyens technologiques étaient similaires à ceux d'aujourd’hui. Par exemple tout en haut de la colline, là où on a installé la cloche vous voyez ? 
+— Voici la liste des bâtiments que vous pouvez observer dans la nature et leur fonctions. D'abord, il y a les murs de toutes sortes qu'on trouve sur les hauteurs. Ce sont en général des châteaux forts qui datent probablement d’une période où les moyens technologiques étaient similaires à ceux d'aujourd’hui. Par exemple tout en haut de la colline, là où on a installé la cloche vous voyez ? 
 
 De sages hochements de tête ne l'interrompirent même pas. 
 
 — Et bien, vous pensez que les murs sont vieux comment ?
 
-— 17 ans! annonça un mioche qui savait compter jusque là.
+— 17 ans! annonça un gamin qui savait compter jusque là.
 
-— Non plus vieux reprit Sylve.
+— Non plus vieux reprit Sylve, la professeure du jour.
 
 — Vieux comme mon Pépé Pipas ?
 
@@ -216,23 +216,23 @@ De sages hochements de tête ne l'interrompirent même pas.
 
 — Quoi? Non. 1000 ans en gros. C'est vieux quand même non ? Attention quand même de pas confondre avec les grandes battisses circulaires sans fenêtre beaucoup plus récentes qui servaient, elles à stocker du grain. Egalement à ne pas confondre avec des tours de guet qui servaient jadis de réservoir d’eau ou de boisson mais cette information reste à être validée.
 
-— Est ce que vous avez d'autres exemples de tour ?
+— Est-ce que vous avez d'autres exemples de tours ?
 
-Des mains se lève la, Sylve la professeure du jour en choisit une, comme ça, pour voir, à la tête du client.
+Des mains se lève la, Sylve en choisit une, comme ça, pour voir, à la tête du client.
 
-— La tour Eiffel!
+— La tour Eiffel !
 
-— Très bien!
+— Très bien !
 
-— N'importe quoi c'est dans un livre! S'offusque une petite camarade.
+— N'importe quoi c'est dans un livre ! S'offusque une petite camarade.
 
-— Oui mais les livres d'histoire, les encyclopédies et les dictionnaires par exemple ça raconte des histoires vraies. Quelle patiente! Heureusement qu'elle ne faisait ça qu'une fois par semaine.
+— Oui mais les livres d'histoire, les encyclopédies et les dictionnaires par exemple ça raconte des histoires vraies. Quelle patiente ! Heureusement qu'elle ne faisait ça qu'une fois par semaine.
 
 — Alors c'est où d'abord qu'on peut la voir ? Insista la bestiole à qui il manquait la moitié des incisives.
 
 — Á Paris c'est très loin d'ici...
 
-— Comme par hasard!
+— Comme par hasard !
 
 Elle était pénible cette mioche moche mais on ne pouvais pas lui donner tort : dans ce monde on pouvait difficilement faire plus d'une centaine de kilomètres,  les contrées inaccessibles pourraient aussi bien ne pas exister. D'autant plus qu'elle espérait que si on lui demandait à quoi servait la tour Eiffel elle perdrait quelques points de crédibilité.
 
@@ -242,43 +242,41 @@ Une étrange apparition fit irruption dans la classe : une montagne de vêtement
 
 Ni une ni deux, ce que de loin, Sylve avait pris pour un nid de corneille se souleva et laissa apparaître un visage criblé de tâches de rousseurs qui dévoilait des dents, certes blanches, mais qui ne s’était clairement pas concertées sur la direction dans laquelle pousser.  Il se leva prestement essaya de dribler la maîtresse restée dans le fond de la classe et, voyant qu’il n’y parvenait pas, avisa une fenêtre entre ouverte et sauta. Bizarrement le fait d’être au rez-de-chausser ne l’empêcha pas d’atterrir dans un buisson. Ajoutant quelques brindilles à la structure composite improbable qui lui servait de coiffure.
 
-Il se leva prestement essaya de dribler la maîtresse restée dans le fond de la classe et, voyant qu’il n’y parvenait pas, avisa une fenêtre entre ouverte et sauta. Bizarrement le fait d’être au rez-de-chausser ne l’empêcha pas d’atterrir dans un buisson. Ajoutant quelques brindilles à la structure composite improbable qui lui servait de coiffure.
+# Laissez les détectives faire leur travail
 
-# On mène l’enquête
+Vinvin habitait en ce moment une maison mitoyenne de celle de Loir, ils étaient donc en situation de légère cohabitation au grand désespoir de Loir, du moins début. La situation ne s'était au final pas révélée si terrible. Vinvin pouvait être intrusif et exaspérant mais il avait le mérite d'être toujours inattendu dans ces actes et ses paroles ce qui en faisait un divertissement constant. Ils marchaient de conserve sur la route qui sortait du village.
 
-Vinvin habitait en ce moment une maison mitoyenne de celle de Loir, ils étaient donc en situation de légère cohabitation ce qui aurait dû avoir pour conséquence de gravement exaspérer Loir, mais qui au final ne s'était pas révélé si terrible. Vinvin pouvait être intrusif et exaspérant mais il avait le mérite d'être toujours inattendu dans ces actes et ses paroles ce qui en faisait un divertissement constant. Ils marchaient de conserve sur la route qui sortait du village.
-
-— ... on va d’abord aller voir Messy c’est lui qui a reporté la disparition de Mamie Gentiane.
+— ... on va d’abord aller voir Messi c’est lui qui a reporté la disparition de Mamie Gentiane.
 
 — Tu crois que c’est lui ?
 
 — Bé non : il l’aurait dit. Mais c’est intéressant comme remarque, tu feras un bon side-kick !
 
-30 min plus tard, Loir arriva à destination un peu plus haut dans la vallée dans un sifflement d'asthme digne d'une entrée en gare en noir et blanc. Vinvin dégustait les têtards du ruisseau qui faisait tourner une aube à eau visiblement rafistolée de trop nombreuses fois.
+Trente minutes plus tard, Loir arriva à destination un peu plus haut dans la vallée dans un sifflement d'asthme digne d'une entrée en gare en noir et blanc. Vinvin dégustait les têtards du ruisseau qui faisait tourner une aube à eau visiblement rafistolée de trop nombreuses fois.
 
-— Messy? Y’a quelqu’un ?
+— Messi? Y’a quelqu’un ?
 
-Un homme apparut de derrière le bâtiment. Visiblement étonné par la visite des cette paire d’individus, enfant pour l'un et sa version apparemment passée dans le mauvais sens dans la moulinette de la puberté pour l'autre.
+Un homme apparut de derrière le bâtiment. Visiblement étonné par la visite de cette paire d’individus, enfant pour l'un et sa version apparemment passée dans le mauvais sens dans la moulinette de la puberté pour l'autre.
 
-— Loir et Vinvin détectives enquêteurs chargés par le conseil de l’affaire Mamie Gentiane. Énonça Loir en agitant son calepin sans savoir pourquoi mais en étant satisfait de faire sonner la phrase qu’il avait longtemps préparé. « Nous aurions quelques questions »
+— Loir et Vinvin détectives enquêteurs chargés par le conseil de l’affaire Mamie Gentiane. Énonça Loir en agitant son calepin sans savoir pourquoi mais en étant satisfait de faire sonner la phrase qu’il avait longtemps préparé. Nous aurions quelques questions.
 
 — Ah v’là aut’ chose. Je l’avais pas vu venir celle-là ! Ben allez-y j’imagine que ça vous intéresse pas de savoir comment on taille une pierre de meule.
 
 — Avec un caillou plus dur comme du béton armé ? Répondit Vinvin, trop enthousiaste au goût de Loir.
 
-— Chut c’est sérieux. Est ce que vous pouvez nous décrire la victime ?
+— Chut c’est sérieux. Est-ce que vous pouvez nous décrire la victime ?
 
-— Elle vous a jamais couru après avec un fagot de bois ? Vous avez bien de la chance ! Au moment de la Coupure je devais avoir ton age poursuivit-il en désignant Vinvin et elle était déjà vieille. Complètement tarée ces dernières années. C’est ma tante, alors fallait bien que je passe la ravitailler deux fois par semaine, une fois sur 2 elle me jetais des cailloux en m’insultant mais dans une langue que personne n’a jamais parlé je crois à part peut être une pie qu’on aurait vraiment énervée. D’ailleurs en y réfléchissant je sais comment elle faisait pour avoir toujours de beaux cailloux bien pointus à vous jeter à la gueule… après une pause songeuse il reprit : 
+— Elle vous a jamais couru après avec un fagot de bois ? Vous avez bien de la chance ! Au moment de la Coupure je devais avoir ton âge poursuivit-il en désignant Vinvin et elle était déjà vieille. Complètement tarée ces dernières années. C’est ma tante, alors fallait bien que je passe la ravitailler deux fois par semaine. Une fois sur deux elle me jetais des cailloux en m’insultant mais dans une langue que personne n’a jamais parlé je crois, à part peut être une pie qu’on aurait vraiment énervée. D’ailleurs en y réfléchissant je sais pas comment elle faisait pour avoir toujours de beaux cailloux bien pointus à vous jeter à la gueule… Après une pause songeuse il reprit : 
 
 — Vous savez c’est bien ce que vous faites mais vous cassez trop la tête non plus. Il lui restait pas si longtemps et elle manquera à personne ça je peux vous le dire. C’est même probablement mieux pour elle.
 
-— Ici on ne prend pas les missions du conseil à la légère n’est ce pas, assistant ?
+— Ici on ne prend pas les missions du conseil à la légère n’est-ce pas, assistant ?
 
-Il se retournèrent pour voir Vinvin accroupis dans l’herbe 10 m plus en train de manger des sauterelles.
+Il se retournèrent pour voir Vinvin accroupis dans l’herbe dix mètres plus loin en train de manger des sauterelles.
 
-— Bref. Est que vous pouvez me, dire quand est ce qu vous  l’avez vu la dernière fois et décrire ses habits ?
+— Bref. Est-ce que vous pouvez me, dire quand est-ce que vous  l’avez vue la dernière fois et décrire ses habits ?
 
-— Je l’ai vu il y a 2 jours. Elle portait tout le temps une vieille robe et un anorak qui faisait maintenant parti de son anatomie, depuis le temps son système immunitaire devait plus faire la différence, il valait mieux pas essayer de lui changer. Un fichu marron (allez savoir la couleur originale) dans les cheveux.
+— Je l’ai vu il y a deux jours. Elle portait tout le temps une vieille robe et un anorak qui faisait maintenant parti de son anatomie, depuis le temps son système immunitaire devait plus faire la différence, il valait mieux pas essayer de lui changer. Un fichu marron (allez savoir la couleur originale) dans les cheveux.
 
 Il était temps d’aller vérifier l’antre qui lui avait servi de terrier toutes ces années. 30 min de marche plus tard (c’était beaucoup pour la plus grosse moitié du duo) ils arrivèrent sur une parcelle envahie de ronce dans laquelle un chemin étroit était en train de se faire avaler par la nature.
 
@@ -314,9 +312,9 @@ Au moment ou il se retournaient lentement, un bruit de branches secouées derri�
 
 Sous le regard amusé de Mylène, les 2 garçons demandèrent la signification de libido à un bureau de le leur cerveau appelée « description rapide de mots inconnus ». Dans ce bureau un petit fonctionnaire moustachu plongea sa main dans un grand bol plein de petit papier et sorti pour « le fait de rentrer dans une robe à fleur » pour l’autre « la capacité à grimper sur les branches basse d’un vieux chêne »
 
-— Qu’est ce que vous faites ici ? demanda t’elle. Á l’aventure ?
+— Qu’est-ce que vous faites ici ? demanda t’elle. Á l’aventure ?
 
-— On enquête sur la disparition de mamie Gentiane dit Loir en agitant frénétiquement une seconde de trop son calepin. Officiellement. Quand est ce que vous l’avez vu pour la dernière fois ? Reprit-il avec une contenance dont il n’avait pas l’habitude.
+— On enquête sur la disparition de mamie Gentiane dit Loir en agitant frénétiquement une seconde de trop son calepin. Officiellement. Quand est-ce que vous l’avez vu pour la dernière fois ? Reprit-il avec une contenance dont il n’avait pas l’habitude.
 
 — Il y a 4 ou 5 jours je crois en passant par ici quand je faisais ma balade habituelle.
 
@@ -376,11 +374,11 @@ Des silhouettes pour le moins disgracieuses, s’activaient autour d’un hangar
 
 — Pute borgne ! Marie viens voir ! 
 
-— Qu’est ce qu’il y encore? Une petite femme compacte vêtu d’un tablier, fichu et sabots en plastique sorti de derrière un bâtiment et avança dans la court jonchée de ce qui à l’air de débris divers sûrement amenés par une tornade. On entrevoit toutefois une tentative de classement par matériaux : bois, fer, plastique...
+— Qu’est-ce qu’il y encore? Une petite femme compacte vêtu d’un tablier, fichu et sabots en plastique sorti de derrière un bâtiment et avança dans la court jonchée de ce qui à l’air de débris divers sûrement amenés par une tornade. On entrevoit toutefois une tentative de classement par matériaux : bois, fer, plastique...
 
 — Ça fait longtemps qu’on en a pas vu des aussi polis !
 
-— Oh pétard, qu’est ce qui lui arrive à celui là !
+— Oh pétard, qu’est-ce qui lui arrive à celui là !
 
 — Bonjour, en fait je suis pas un zombie s’empressa de dire Sangoku en réalisant qu’à leur place il aurait peut être déjà été victime de quelques mesures irréversibles.
 
@@ -390,7 +388,7 @@ Des silhouettes pour le moins disgracieuses, s’activaient autour d’un hangar
 
 — Vous pouvez me parler je suis comme vous. On pensait être les seuls depuis si longtemps !
 
-Il y eu un temps de silence pendant lequel le vieux couple immobile était en train d’essayer de traiter l’information. Comme essayer de redémarrer une vieille machine qui n’a pas été utilisée depuis très longtemps. Les niveaux sont fait, on a graissé. Bon qu’est ce que ça veut dire ? La machine démarre dans un nuage de fumée presque perceptible, les engrenages se mettent en route. Avant il y avait des gens comme nous, c’était il y a si longtemps qu’on s’en souvient à peine. Puis tout le monde est devenu très bizarre et surtout plus de services téléphone, livraisons, électricité. Là devant il y a une personne dont on ne va pas juger l’hygiène mais qui à l’air beaucoup plus humain que les gens « normaux » Conclusion : il est un peu comme nous il ne faut pas le détruire tout de suite. Attention toutefois s’il ne vient pas nuire : vérifier les normes appliquées aux bâtiments ou récupérer des impôts, cotisations ou un truc comme ça.
+Il y eu un temps de silence pendant lequel le vieux couple immobile était en train d’essayer de traiter l’information. Comme essayer de redémarrer une vieille machine qui n’a pas été utilisée depuis très longtemps. Les niveaux sont fait, on a graissé. Bon qu’est-ce que ça veut dire ? La machine démarre dans un nuage de fumée presque perceptible, les engrenages se mettent en route. Avant il y avait des gens comme nous, c’était il y a si longtemps qu’on s’en souvient à peine. Puis tout le monde est devenu très bizarre et surtout plus de services téléphone, livraisons, électricité. Là devant il y a une personne dont on ne va pas juger l’hygiène mais qui à l’air beaucoup plus humain que les gens « normaux » Conclusion : il est un peu comme nous il ne faut pas le détruire tout de suite. Attention toutefois s’il ne vient pas nuire : vérifier les normes appliquées aux bâtiments ou récupérer des impôts, cotisations ou un truc comme ça.
 
 — Très bonne question ça : vous voulez quoi ?
 
@@ -446,7 +444,7 @@ Elle fit une moue en jetant un coup d’œil à la grange ou séchait de des bot
 
 — On remettrait les humains sur les rails ? On est sûr que c’est pas une bonne idée de merde ça ?
 
-— Vous serez traités comme des rois : maison confortable, nourriture, chauffage. Vous aurez le droit à une vrai retraite! N’est ce pas inespéré par les temps qui courent ?
+— Vous serez traités comme des rois : maison confortable, nourriture, chauffage. Vous aurez le droit à une vrai retraite! N’est-ce pas inespéré par les temps qui courent ?
 
 Il les laissa réfléchir. Et alla faire un tour aussi bien pour se dégourdir les jambes que les papilles car à chaque verre on lui proposait des demi gousses d’ail cru. Apparemment 25 ans, ça suffit bien à bien faire diverger les mœurs et coutumes! Sangoku entreprit de faire le tour de la ferme en prenant autant de temps que possible en s'attardant sur toutes les installations plus ingénieuses les unes que les autres. Ils avaient de quoi semer, récolter trier transformer. Sangoku était impressionné, ils avaient de quoi rassasier tout un village de trappeurs. Après 30 minutes qu'il ne vit pas passer, le couple sortie. Elle prit la parole.
 
@@ -498,7 +496,7 @@ Une demi journée de crapahuatage dans les alentours et ils finirent pas retrouv
 
 — Enquêteurs Loir et Vinvin missionnés pour résoudre la disparition de Mamie Gentiane énonça Loir tout en agitant son calepin et en trébuchant sur une racine, ce qui inquiéta Mateo. Heureusement que les zombies ne sont pas si bavards, on aurait pu croire à une espèce de maladie de Parkinson doublée d’une vilaine infection de la peau et d’atrophie des muscles sur tout le corps.
 
-— Houla qu’est ce qu'il t’arrive… Mateo était censé connaître son nom, ils avaient passé une journée ensemble dans le cadre de missions et découverte pour la jeunesse. Journée consacrée exclusivement et sans succès à essayer de mettre Loir sur un cheval puis un poney... Puis une bûche.
+— Houla qu’est-ce qu'il t’arrive… Mateo était censé connaître son nom, ils avaient passé une journée ensemble dans le cadre de missions et découverte pour la jeunesse. Journée consacrée exclusivement et sans succès à essayer de mettre Loir sur un cheval puis un poney... Puis une bûche.
 
 — Nous avons quelques questions sur la journée d’avant hier.
 
@@ -512,7 +510,7 @@ Une demi journée de crapahuatage dans les alentours et ils finirent pas retrouv
 
 L’avantage d’être à Montségur est qu’on pouvait profiter de la hauteur du vieux château dans le lequels on avait installé, peu après la Coupure, quand il était facile de trouver des moteurs et des réservoir pleins, une cloche qui allait servir  pour diffuser de l’information. 
 
-— Qu’est ce que j’en sais bande de connards, c’est pas forcément évident de voir de si loin.
+— Qu’est-ce que j’en sais bande de connards, c’est pas forcément évident de voir de si loin.
 
 — Pas euh un reproche mais voilà.. et c’était où ?
 
@@ -536,11 +534,11 @@ Ils finirent par retrouver le petit charnier : un tas de membres enchevêtrés c
 
 C’est ce qu’ils firent. Il faut s’imaginer que, de tout temps, les jeux de l’enfance prendront toujours le pas sur les traumas. Il aurait paru impensable, quelques années auparavant, d’imaginer des enfants jouer avec des cadavres de restes humain mais l’histoire est pleine d’enfants qui on grandi dans des contextes différents et ont joué tout seul à des légos d’un côté de l’autre à jeter des pierres sur des soldats en armes, devant des écrans ou dans des piles d’ordures. Eux avaient grandi en Ariège en 25 P.C.
 
-4 corps allongés devant eux, un calepin à la main et l’air songeur.
+Quatre corps allongés devant eux, un calepin à la main et l’air songeur.
 
 — Tous aussi vilains les un que les autres…
 
-— On est sûr que ces 2 là ne sont pas mamie gentiane parce qu’ils ont des zizis.
+— On est sûr que ces deux là ne sont pas mamie gentiane parce qu’ils ont des zizis.
 
 — Remarque on ne plus pertinente !
 
@@ -693,7 +691,7 @@ Après quelques secondes les « lueurs de l’espoir de l’humanité » s’ava
 
 — Ah tiens on en a pas des comme ça marmonna t’il.
 
-Alors que Loir malgré les risques de diabète entamait la deuxième moitié du gâteau. Il s’était finalement mis à se passionner pour l’évènement, il s’imaginait avec fascination vivant à deux pour toujours dans une ferme du sud ouest de la France. Tout à coup un écroulement au milieu de la pièce où il se trouvait le fit sursauter et étouffer un petit cris aigu. Derrière lui un nuage de poussière se dissipa lentement et laissa apparaître Vinvin en train de se relever dans les rayons de lumière passant par le velux entrouvert et s’accrochant aux particules de poussière en suspension le faisant apparaître comme une apparition surnaturelle, un espèce de cupidon crado qui allait vous manger votre gâteau dans un halo de lumière gracieuse.
+Alors que Loir malgré les risques de diabète entamait la deuxième moitié du gâteau. Il s’était finalement mis à se passionner pour l’évènement, il s’imaginait avec fascination vivant à deux pour toujours dans une ferme du sud ouest de la France. Tout à coup un écroulement au milieu de la pièce où il se trouvait le fit sursauter et étouffer un petit cris aigu. Derrière lui un nuage de poussière se dissipa lentement et laissa apparaître Vinvin en train de se relever dans les rayons de lumière passant par le velux entrouvert et s’accrochant aux particules de poussière en suspension le faisant apparaître comme une apparition surnaturelle, un espèce de cupidon crado accro au sucre dans un halo de lumière gracieuse.
 
 — Je t’ai vu manger un gâteau qui avait l’air pas mal. S’exclama Vinvin tout sourire. Il me semblait bien que cette fenêtre s’ouvrait de l’extérieur en forçant un peu.
 
@@ -707,7 +705,7 @@ La foule faisait son brouhaha d'interjections et d'onomatopées caractéristique
 
 — C’est ceux qui passent leur temps à faire des trucs pour les autres précisa Mylène à l’autre bout de la table. Comme faire à manger ou réparer des toitures.
 
-— Oui la fine fleur de notre société. Vous avez déjà une maison, et pouvez exercer votre art dans les prés et champs environnent, il y a de la place ! Tout ce que vous demandez, nous ferons notre possible pour vous l’octroyer. Est ce que vous avez des demandes particulières.
+— Oui la fine fleur de notre société. Vous avez déjà une maison, et pouvez exercer votre art dans les prés et champs environnent, il y a de la place ! Tout ce que vous demandez, nous ferons notre possible pour vous l’octroyer. Est-ce que vous avez des demandes particulières ?
 
 Le couple se regarda un temps comme s’ils avaient une discussion silencieuse. Puis Martin se tourna vers son interlocuteur.
 
@@ -780,13 +778,7 @@ Loir regarda Vinvin qui avait aux lèvre le sourire d’un très mauvais joueur 
 
 Loir était là aussi mais personne ne s’en était aperçu. 
 
-— ...on va avoir besoin d’un zombo ^[on dit un zombo, des zombii] à disposition pour faire des prélèvements. Donc on va ressortir la cage à zombie. Le but est d’en mettre un dedans sans se faire contaminer. Donc vous connaissez : que des armes contondantes, c'est plus propre et pas de contact. Utilisez bien vos oulettes, faites attention à vous.  
-
-— Et si on prenait un qu’on connaît ? Demanda Louismis qui avait bien intégré le fait que dans son domaine d’activité, le zèle dans le travail mettait sa propre sécurité significativement en défaut.
-
-Et en effet la communauté vivait en bonne intelligence avec quelques zombies particulièrement monomaniaques. Par exemple, environ 2 km en amont, un zombie avait élu domicile au détour d’un méandre de l’Ariège. Et il passait son temps à mettre des pierres en équilibre les unes sur les autres, créant ainsi des champs de kairns équilibriste. On y venait pour méditer, nourrir la bête et puis 2 ou 3 fois par an une crue remettait les pierres à leur place, bien rangées à plat dans le lit de la rivière.
-
-Loir bafouilla, soupira à la fois soulagé d’en avoir fini avec la virilité débordante de Mateo et déjà fatigué à l’idée de marcher encore. Et puis le retour, et pour pas être trop mal vu, il allait sû Et il passait son temps à mettre des pierres en équilibre les unes sur les autres, créant ainsi des champs de cairns équilibriste. On y venait pour méditer, nourrir la bête et puis 2 ou 3 fois par an une crue remettait les pierres à leur place, bien rangées à plat dans le lit de la rivière.
+Et en effet la communauté vivait en bonne intelligence avec quelques zombies particulièrement monomaniaques. Par exemple, environ deux kilomètres en amont, un zombie avait élu domicile au détour d’un méandre de l’Ariège. Et il passait son temps à mettre des pierres en équilibre les unes sur les autres, créant ainsi des champs de kairns équilibriste. On y venait pour méditer, nourrir la bête et puis 2 ou 3 fois par an une crue remettait les pierres à leur place, bien rangées à plat dans le lit de la rivière.
 
 — Non, autant essayer d’en attraper des qui servent à rien. On attend que les cloches sonnent. Vous vous mettez à plusieurs et vous me les ramenez avec les cordes les houlettes en gardant 2m50 de distance. Les cages devraient être prêtes dans la Maison Moisie vous voyez ? Entre chez moi et les petits vieux survivants.
 
@@ -859,7 +851,9 @@ Il était donc parti, assez fier de se voir mettre à exécution ce projet assez
 Alors qu'il marchait toujours dans une zone un peu plus boisée, l'esprit perdu dans ses pensées qui concernaient surtout les différentes façon de se faire dévorer la nuit dans un bosquet, apparut devant lui à quelque mètres une silhouette qui avançait dans l'autre sens d'un pas décidé, il s’arrêta, chercha quelque chose à dire pour le moment où ils se croiseraient. C'était Turf un adolescent du village qui marchait avec tant de hâte, qu'il s'agissait sûrement d'un rendez vous amoureux.
 
 — Euh bonsoir?
-— Oui qu'es ce que tu fous là toi?
+
+— Oui qu'est-ce que tu fous là toi?
+
 — J’enquête sur..
 — Bref je m'en fous. Pas le temps. Dis à personne que tu m'as vu par contre.
 — aaah ok...
@@ -961,7 +955,7 @@ Fastand qui aimait la tournure que prenait la séance reprit la parole.
 — ...
 — Explosion?!
 — Oui explosions! reprit en cœur la  classe accompagné d'onomatopées idoines.
-— Et qu'est ce met dans les machines pour avoie des explosions?
+— Et qu'est-ce met dans les machines pour avoie des explosions?
 — ... Des pétards?
 — Mmh pas tout à fait non. Rien vraiment? Eh bien c'est de l'essence. Vous en avez jamais vu? C'est du jus qu'on fabriquait avant et qui permettait de faire marcher plein de machine, non? Á base de pétrole : un truc noir pompé très profond. Bref toujours est-il qu'avant chacun avait sa voiture et allait régulièrement faire le plein dans des... des ... 
 
@@ -1169,7 +1163,7 @@ Finalement Loir décida d'aller directement à la ferme. Á priori elle n'y a pa
 
 Il est flippant des fois ce petit Vinvin, j’espère qu'on est pas en train de créer un monstre psychopathe. Ou alors ce sera le dernier humain, celui qui nous survivra tous. Et sur la fin de sa vie, il se reproduira avec une jeune laie donnant ainsi naissance à une nouvelle espèce mi homo sapiens mi sanglier à même de dominer le monde en à peine quelques milliers d'année jusqu'à ce qu'une étrange infection décime les sanglumains.... Il fut interrompu dans ses pensées par l'arrivée d'Anaïs qui a failli raté dans elle passait vite. En plus de l'histoire des siestes dérobées, il paraissait que le temps lui-même s'écoulait moins vite pour elle tant elle marchait vite et sans donner l'impression d'effectuer quelconque effort. Elle était grande, bien bâtie et disciplinait ses longs cheveux noir dans un foulard élégant.
 
-— Bonjour Anaïs est ce que je te parler de cette histoire de loup.
+— Bonjour Anaïs, est-ce que je peux te parler de cette histoire de loup ?
 — Ah oui bonjour Loir comment ça va?
 
 Anaïs dans sa perfection était aussi très avenante, ne prenait jamais les gens de haut malgré son statut de sainte pilier de la connaissance de la communauté. Et elle se souvenait des prénoms.
@@ -1208,7 +1202,7 @@ Tout ceux qui n'étaient pas découragés par les débats en général assez st�
 
 Un petit homme assis sur une chaise confortable une couverture sur les genoux, se manifesta déjà faisant fit des tours de parole.
 
-— Mais attendez! Surtout qu'est ce qu'on fait si on trouve un moyen de les soigner? Je veux dire de ramener un zombie à la vie... à un état plus humain.
+— Mais attendez! Surtout qu'est-ce qu'on fait si on trouve un moyen de les soigner? Je veux dire de ramener un zombie à la vie... à un état plus humain.
 
 Mylène prit sur elle de répondre.
 
@@ -1362,13 +1356,13 @@ Ils continuèrent à avancer lentement. Loir parce qu'il faisait attention d'esq
 
 — Diablerie! C'est bloqué, il doit y avoir un truc derrière qui bloque.
 — Ou alors elle est fermé à clé. Devant l'air interdit de Vinvin, expliqua : c'est une vieille technique pour pas qu'on puisse ouvrir une porte quand on n'a pas la petite clé qui correspond. Tu vois normalement on la rentre dans ce trou et on tourne je crois et ça s'ouvre.
-— Wouah c'est la classe! Mais ça sert à quoi?
+— Wouah c'est la classe ! Mais ça sert à quoi ?
 
 Depuis la Coupure le rapport à la propriété avait changé du tout au tout. On était passé d'un monde ou chacun chacune était censé passer sa vie à fournir des efforts pour acquérir de la richesse, à un monde d'abondance immobilière. Les clés avaient peu à peu disparues avec la convoitise.
 
 Loir essaya vaguement de forcer la porte car il avait supposément plus de force. Lucide, il entreprit de faire le tour de la maison. Certaines fenêtres étaient refermées par des volets ostensiblement verrouillés, d'autres ouvertures du rez-de-chaussé avaient été barricadées avec des planches. Il firent le tour de la maison et, de l'autre côté remarquèrent une petite fenêtre à l'étage.
 
-— Ce serait balo d'être venu ici pour rien non?
+— Ce serait balo d'être venu ici pour rien non ?
 
 Vinvin ne trouvait pas ça spécialement dommageable mais était toujours chaud pour un défis à enjeux traumatiques. Heureusement de fins chênes avaient poussés près du mur et pouvaient servir pour grimper le long de celui-ci.
 
@@ -1376,9 +1370,9 @@ Vinvin ne trouvait pas ça spécialement dommageable mais était toujours chaud 
 
 Loir proposa un sourire, se baissa pour ramasser une pierre tout en observant la réaction de Vinvin. Le visage de celui-ci s'illumina offrant le chaleureux spectacle  attendu. Vinvin se précipita sur le sol et en un rien de temps eu les mains charger de petite pierre. Loir avait déjà commencé à essayer de viser la fenêtre et son unique carreau mais heureusement pour Vinvin ses jets s'avéraient très imprécis. Là où il fallut seulement 2 essais au gamin pour entendre le satisfaisant bruit de carreau cassé. Ils mirent 2 3 lancés supplémentaires pour la forme puis Vin se lança dans l'escalade. Arque-bouté, dos au mur il donna l'impression de marcher sur le tronc à proximité et arriva sans difficultés à la fenêtre. Il prit quand même le temps d'essayer de ne pas se tailler avant de basculer à l'intérieur de la maison.
 
-— C'est super!
+— C'est super !
 
-— C'est quoi pourquoi? Qu'est ce que tu vois?
+— C'est quoi  pourquoi ? Qu'est-ce que tu vois ?
 
 — Rien mais c'est vachement grand!
 
@@ -1387,17 +1381,17 @@ Loir proposa un sourire, se baissa pour ramasser une pierre tout en observant la
 5 min plus tard et un boucan faire fuir le gibier sur 10 hectares un des volets de la façade s'ouvrit. Loir rejoint Vinvin à  l'intérieur de l'ancienne demeure, ils entreprirent d'ouvrir  les autres fenêtres pour faire entrer le soleil mettant en évidence la poussière occupée à valser dans les rayons de lumière. La pièce principale était surtout constituée d'une grande table sur laquelle étaient alignés des pots en verre de toutes tailles et forme contenant un fond de solution dont la couleur et la texture semblaient varier d'un pot à l'autre. Une boite de bougies et un microscope était également posé sur la table. Ce qui orientait clairement la fonction des pots alignés et numérotés. Un cahier était également posé contenait à première vue une série de chiffre en colonnes, une autre page contenait une liste de lettres grecques suivi de dates et de croix. Le dernier symbole : epsilon était entouré plusieurs fois. 
 
 — On a découvert un secret demanda Vinvin?
-— On dirait bien mais qu'est ce que quoi que tout ça?
+— On dirait bien mais qu'est-ce que quoi que tout ça?
 
 Puis Loir se retourna et vit, sur un porte-manteau à côté de la porte une blouse blanche et des lunettes de protection. 
 
 — Ah! déjà un fantôme qui pourrait s'expliquer! On aura pas perdu la journée, ça fait du bien mine de rien. Maintenant : qu'est ce que tout ça veux dire?
 
-Loir était soulagé mais c'est toujours pareil avec les problèmes qui se posent : qu'est ce qu'on peut se sentir con quand on a la solution! Ils firent encore le tour de la maison, trouvèrent une autre pièce fermée à clé mais dont la clé était pendue à un clou juste à côté. Vinvin insista vivement pour ouvrir la porte. Il prit la clé des mains de Loir et la fit maladroitement tourner dans la serrure en tirant la langue. Après avoir tourné dans un sens, dans l'autre, plusieurs fois il sentit le clic du loquet qui se libère. Il ouvrit la porte qui révéla une chambre sans lumière contenant seulement un vieux lit sans drap et une écuelle vide. Loir voulu regarder Vinvin d'un air entendu mais celui-ci était déjà sorti explorer le reste de l'étage.
+Loir était soulagé mais c'est toujours pareil avec les problèmes qui se posent : qu'est-ce qu'on peut se sentir con quand on a la solution! Ils firent encore le tour de la maison, trouvèrent une autre pièce fermée à clé mais dont la clé était pendue à un clou juste à côté. Vinvin insista vivement pour ouvrir la porte. Il prit la clé des mains de Loir et la fit maladroitement tourner dans la serrure en tirant la langue. Après avoir tourné dans un sens, dans l'autre, plusieurs fois il sentit le clic du loquet qui se libère. Il ouvrit la porte qui révéla une chambre sans lumière contenant seulement un vieux lit sans drap et une écuelle vide. Loir voulu regarder Vinvin d'un air entendu mais celui-ci était déjà sorti explorer le reste de l'étage.
 
 Sur le chemin du retour, Loir songeait. C'était une impression bizarre d'être le seul à disposer d'informations importantes perturbant aussi. C'est que l'excitation de son nouveau statut de professionnel de l'investigation avait laissé la place à un sentiment de malaise. Il se rendit compte confusément que même un asocial basait sa vie sur des interactions, sur une structure sociale. Mylène était discrète, n'avait très peu de responsabilités mais son assurance, sa prestance planait en arrière plan depuis toute une vie. Une figure respectée tout ce temps, inconsciemment, pèse lourd psychologiquement, le jour il disparaît ou est remis en question.
 
-— Mais à quoi pouvait elle bien jouer? Essayer de soigner Bambi d'accord, pourquoi pas, n'importe qui comprendrait, le faire en cachette pourquoi pas : elle aurait pu avoir peur qu'on lui dise que c'était trop dangereux... Encore que Mylène avait un tel mental qu'elle n'aurait probablement même pas réfléchi au fait qu'on puisse l’empêcher de faire ce qu'elle voulait...  Puis une colère sourde monta : tout le monde comptait sur elle pour trouver un remède et elle fait semblant de chercher alors que visiblement Bambi était réparé. Mais quoi? que faire? La confronter directement?  J'aimerais bien ça qu'elle s'explique. Mais est ce que Bambi est au courant? D'accord c'est pas une flèche mais est-ce qu'on peut devenir un zombie puis se dézombifier sans s'en apercevoir? 
+— Mais à quoi pouvait elle bien jouer? Essayer de soigner Bambi d'accord, pourquoi pas, n'importe qui comprendrait, le faire en cachette pourquoi pas : elle aurait pu avoir peur qu'on lui dise que c'était trop dangereux... Encore que Mylène avait un tel mental qu'elle n'aurait probablement même pas réfléchi au fait qu'on puisse l’empêcher de faire ce qu'elle voulait...  Puis une colère sourde monta : tout le monde comptait sur elle pour trouver un remède et elle fait semblant de chercher alors que visiblement Bambi était réparé. Mais quoi? que faire? La confronter directement?  J'aimerais bien ça qu'elle s'explique. Mais est-ce que Bambi est au courant? D'accord c'est pas une flèche mais est-ce qu'on peut devenir un zombie puis se dézombifier sans s'en apercevoir? 
 
 # La conspiration d'une bande de jeunes
 
@@ -1409,10 +1403,10 @@ Depuis peu, il y avait finalement une personne à qui Loir pouvait parler en la 
 
 Arya arriva sur ces entre-faits. En marchant trop vite. Avec un air soucieux qu'on ne lui connaissait pas. Ça faisait peur. Elle avait eu peur elle aussi : elle a eu la même expérience avec Bambi. C'est étonnant comment les peurs, les angoisses qui sortent de l'ordinaire peuvent sauter aux yeux même quand on essaye de le cacher, de se calmer, de ne pas courir de ne pas crier. 
 
-— Qu'est ce qui s'est passé?
+— Qu'est-ce qui s'est passé?
 — Il a rien dit...
 — Bambi? 
-— Il a rien dit, il a jamais fait ça, y'avait une ride sur son front d'un côté et de l'autre une veine... Il est parti chez Mylène comme d'hab je crois. Qu'est ce que j'ai peur, je sais pas pourquoi... Une larme coulait sur chaque joue.
+— Il a rien dit, il a jamais fait ça, y'avait une ride sur son front d'un côté et de l'autre une veine... Il est parti chez Mylène comme d'hab je crois. Qu'est-ce que j'ai peur, je sais pas pourquoi... Une larme coulait sur chaque joue.
 
 — Ah voilà! S'exclama Loir avec un peu trop d'enthousiasme. Même lui, il se dit qu'il y a quelque chose de chelou. Par contre s'il est aussi sur le coup j'ai un peu l'impression qu'on est à la bourre.
 
@@ -1496,7 +1490,7 @@ Ah quand même! Pensa t'il. C'était censé être une grosse partie de mes souti
 
 Et voilà le cercle des soutiens qui s'amenuise sacrément. Plus tard dans la semaine, un petit matin, il reçut la visite de Kim.
 
-— Qu'est ce que s'est passé alors? Entendit-il dans un chuchotement qui le réveilla quand même en sursaut. On avait rarement chuchoté aussi fort.
+— Qu'est-ce que s'est passé alors? Entendit-il dans un chuchotement qui le réveilla quand même en sursaut. On avait rarement chuchoté aussi fort.
 — Quoi ben salut ça va?
 — Alors ?
 — Mais viens m'apporter une chicorée, il vont pas t'enfermer avec moi sous prétexte que tu me parles.
@@ -1504,7 +1498,7 @@ Et voilà le cercle des soutiens qui s'amenuise sacrément. Plus tard dans la se
 
 Kim essayait nerveusement d'avoir l'air naturel en s'adossant au mur mais un crochet de volet dans son dos, s'accrochait à son pull trois trop grand l’empêchait de toute façon d'avoir l'air vraiment à l'aise. 
 
-— Mais alors quoi? qu'est ce qu'il s'est passé?
+— Mais alors quoi? qu'est-ce qu'il s'est passé?
 — Si je te dis tout, tu me croiras? Tu prendras ma défense?
 — Ça voudrait dire prendre la parole devant tout le monde pour exprimer un avis à l'opposé de ce que tout le monde pense?
 — Voilà ça. Tu le feras?
@@ -1682,7 +1676,7 @@ Il attendait une explication et je n’étais pas prête mais j’ai compris que
 — Tu me fais pas me sentir très bien pour quelqu'un qui est face à une personne en train de se suicider.
 — Œil pour œil bitch! J'avais pas prévu de me suicider il y a quelques jours.
 — Mais là t'es pas en train de suicider.
-— Je peux pas rester ici en tout cas, qu'est ce que tu veux que je fasse d'autre. Je me suis juste pris quelques jours de plus pour réfléchir.
+— Je peux pas rester ici en tout cas, qu'est-ce que tu veux que je fasse d'autre ? Je me suis juste pris quelques jours de plus pour réfléchir.
 — Tu vas leur dire pour l'ail?
 — Je sais pas. Au final je suis bien placé pour comprendre ce que tu veux dire. Moi aussi je suis contre la souffrance... Et ça avait l'air un vrai cauchemar avant pour les gens qui n'avaient pas accès aux jeux vidéo.
 — Bon ben c'est plus mon problème. Par contre ce serait dommage de pas profiter jusqu'à la fin de ce petit pinard si finement équilibré.
