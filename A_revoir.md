@@ -6,7 +6,7 @@ language: fr-FR
 ...
 
 
-pandoc -o La_fin.epub Histoire_zombie.md
+pandoc -o "Quand manigancent les haricots.epub" Histoire_zombie.md
 
 
 
@@ -55,7 +55,8 @@ TOC ?
    - oasis
    - une planète de star wars
   - Capitalbébé
-- [ ] Dégager les doubles espace
+- [x] Dégager les doubles espace
+- [ ] french quotes
 - [x] Qq part : Discussion ridiculation de Loir face à Arya devant d'autre gens puis surtout que quelqu'un explique qu'il a voulu tuer Bambi parcequ'il sortait avec Arya. Avec les dessins?
 - [ ] Affabuler comme des enfants en récréation
 - [ ] Comment les zombies font t'il caca
