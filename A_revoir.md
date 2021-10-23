@@ -18,7 +18,7 @@ pandoc -o "Quand manigancent les haricots.epub" Histoire_zombie.md
 
 https://fr.wikipedia.org/wiki/Exposants_et_indices_Unicode
 
-— « »
+— « » …
 
 É Ç
 
