@@ -1231,9 +1231,9 @@ Tout ceux qui n'étaient pas découragés par les débats en général assez st�
 # Concertation publique
 
 
-Tout ceux qui n'étaient pas découragés par les débats en général assez stériles étaient réunis sous la halle. Sans que personne ne le fasse remarquer, il y avait surtout des gens à la mobilité réduite, à qui convenait bien les activités statiques mais il y avait aussi des gens qui aimaient les débats en général comme Mikhaïl. Mylène était là aussi mais en tant qu'experte et référente sur les questions de santé publique. Son air détaché donnait l'impression qu'elle se mettait devant un vieux nanar munie d'un cornet de popcorn. Cinq-Pierres était là aussi pour défendre son église veiller à ce que soit entendu la voix divine, il était là parce qu'il fallait bien avec le même plaisir qu'aller au chiottes ou à la messe machinalement par nécessité sans se poser de question et sans plaisir. Comme à son habitude Mikhaïl pris la parole en se levant.
+Tout ceux qui n'étaient pas découragés par les débats en général assez stériles étaient réunis sous la halle. Sans que personne ne le fasse remarquer, il y avait surtout des gens à la mobilité réduite, à qui convenait bien les activités statiques mais il y avait aussi des gens qui aimaient les débats en général comme Mikhaïl. Mylène était là aussi mais en tant qu'experte et référente sur les questions de santé publique. Son air détaché donnait l'impression qu'elle se mettait devant un vieux nanar munie d'un cornet de popcorn. Cinq-Pierres était là aussi pour défendre son église veiller à ce que soit entendu la voix divine, il était là parce qu'il fallait bien avec le même plaisir qu'aller aux chiottes ou à la messe machinalement par nécessité sans se poser de question et sans plaisir. Comme à son habitude Mikhaïl pris la parole en se levant.
 
-— Camarades ! Nous sommes ici pour essayer d'envisager les implications et les conséquences de la découverte d'un vaccin, si jamais on y arrive. Le fait d'être protégé contre une infection changerait-il quelque chose ? Notre rapport aux infectés va changer car il ne seront plus dangereux pour nous. Est-ce qu'on pourrait alors s'en servir comme animaux de trait par exemple ou bien dans les cuisines ou pour les travaux relou dans les champs.
+— Camarades ! Nous sommes ici pour essayer d'envisager les implications et les conséquences de la découverte d'un vaccin, si jamais on y arrive. Le fait d'être protégé contre une infection changerait-il quelque chose ? Notre rapport aux infectés va changer car il ne seront plus dangereux pour nous. Est-ce qu'on pourrait alors s'en servir comme animaux de trait par exemple ou bien dans les cuisines ou pour les travaux fastidieux dans les champs.
 
 Un petit homme assis sur une chaise confortable une couverture sur les genoux, se manifesta déjà faisant fit des tours de parole.
 
@@ -1245,7 +1245,7 @@ Mylène prit sur elle de répondre.
 
 Ce fût au tour de Cinq-Pierres de ne plus tenir en place :
 
-— L'église dirait qu'il faut savoir garder sa place et accepter les desseins de Dieu même si elles sont impénétrables. 
+— L'église dirait qu'il faut savoir garder sa place et accepter les desseins de Dieu même s'ils sont impénétrables. 
 
 — Pourquoi il voudrait pénétrer des dessins celui-ci? Entendit on en arrière plan. Puis quelqu'un qui, pour une fois, respectait presque son tour de parole, décida de partager le sien avec Cinq-Pierres :
 
@@ -1254,19 +1254,19 @@ Ce fût au tour de Cinq-Pierres de ne plus tenir en place :
 
 — Oui mais déjà : soyez assurez du fait qu'il est là parmis nous et qu'il aura aussi décidé que je vous empêche de le faire. Et je suis quand même mieux placé pour tout ce qui concerne les voies du seigneur. Je vous le dis, c'est triste mais les zombies ne sont plus humains, on les a perdu. Ils n'ont plus de conscience, il faut laisser les morts tranquilles.
 
-C'était plus fort qu'eux, les quelques cathares dans le coin si calmes d'habitude ne pouvaient pas s'empécher de la ramener face aux propos de leurs némésis.
+C'était plus fort qu'eux, les quelques Cathares dans le coin si calmes d'habitude ne pouvaient pas s'empécher de la ramener face aux propos de leur némésis.
 
 — Mais enfin ça se saurait si Dieu était en Ariège ! 
 
- Toutefois cette confession était encore largement minauritaire et sujet de moqueries :
+Toutefois cette confession était encore largement minauritaire et sujet de moqueries :
 
-— Oui bon vous vous êtes bien gentils mais si on vous écoutait et qu'on etait tous des Parfaits on va pas non plus se fendre la gueule tous les jours. Cela dit, plus de bouillave, plus d'enfant, c'est vrai que dans quelques années il n'y aura plus de problème…
+— Oui bon vous vous êtes bien gentils mais si on vous écoutait et qu'on était tous des Parfaits on va pas non plus se fendre la gueule tous les jours. Cela dit, plus de bouillave, plus d'enfant, c'est vrai que dans quelques années il n'y aura plus de problème…
 
-On était encore passé du sujet "quoi faire une fois qu'on sera immunisé" à "quel est le sens de l'humanité". Mikhaïl se dit qu'il était tellement compliqué de ne pas dévier d'un ordre du jour. Les gens parlent de ce qui les intéresse après tout on pourra faire toujours d'autres réunions jusqu'à qu'il ait assez peu de monde pour avoir un consensus. 
+On était encore passé du sujet « quoi faire une fois qu'on sera immunisé » à « quel est le sens de l'humanité ». Mikhaïl se dit qu'il était tellement compliqué de ne pas dévier d'un ordre du jour. Les gens parlent de ce qui les intéresse après tout on pourra faire toujours d'autres réunions jusqu'à ce qu'il y ait assez peu de monde pour avoir un consensus. 
 
 Le premier petit vieux dont la vie a été riche une enfance citadine, des voyages, il avait été prof d'économie dans un lycée en zone rurale bénévole dans une médiathèque et retraité post Coupure. Il reprit :
 
-— Finalement la question revient à ceci : "Faut il repeupler le monde avec des humains?"
+— Finalement la question revient à ceci : « Faut il repeupler le monde avec des humains ? »
 
 S'en suivirent des tirades emmargeant de ci de là accompagnées d'un brouhaha de commentaires bien sentis:
 
@@ -1276,21 +1276,25 @@ S'en suivirent des tirades emmargeant de ci de là accompagnées d'un brouhaha d
 
 — Oui mais maintenant on a de l'expérience d'une civilisation on peut en tirer les leçons et créer une société aux petits oignons dans laquelle tout le monde aurait le droit au bonheur.
 
-— Mais les humains même de bonne volontés seront jamais d'accord ce qu'est une société parfaite et sur la notion de bonheur. Et puis il y aura toujours des sècheresses, des éruptions et des famines. On est condamné à en chier! Il faut arrêter.
+— Mais les humains même de bonne volontés seront jamais d'accord ce qu'est une société parfaite et sur la notion de bonheur. Et puis il y aura toujours des sècheresses, des éruptions et des famines. On est condamné à en chier ! Il faut arrêter.
 
-— Mais on ne peut pas se dire d’arrêter tout simplement alors qu'on au fond de nous on a envie de vivre même si on ne sait pas pourquoi et on a envie de faire des enfants (enfin certain apparemment ) 
+— Mais on ne peut pas se dire d’arrêter tout simplement alors qu'on au fond de nous on a envie de vivre même si on ne sait pas pourquoi et on a envie de faire des enfants (enfin certain apparemment) 
 
-— Voilà encore un exemple de sélection naturelle ceux qui sont contre et veulent que les humains s'arrête n'ont cas aller embrasser un zombo et les autres vont faire leur vie et ce seront les seuls à décider puisque les autres ne seront pas là. On va quand même pas faire voter des gens dont le statut est décédé ou non-humain juste parce qu'ils se sont passés par là à moment donné.
+— Voilà encore un exemple de sélection naturelle ceux qui sont contre et veulent que les humains s'arrêtent n'ont cas aller embrasser un zombo et les autres vont faire leur vie et ils seront les seuls à décider puisque les autres ne seront pas là. On va quand même pas faire voter des gens dont le statut est décédé ou non-humain juste parce qu'ils se sont passés par là à moment donné.
 
-— Oui peut être qu'il faudrait : pouvoir dire "ok je ne veux plus vivre parce que en tant qu'humain, je suis sensible à des valeurs qui me rende la vie insupportable. Donc cassos mais je déclare que je pense que les humains devraient plutôt prendre telle ou telle direction." Et comme ça on tiendrait compte de tout les humains qui on souhaité s'exprimer même s'ils ne sont plus là.
+— Oui peut être qu'il faudrait : pouvoir dire « ok je ne veux plus vivre parce que en tant qu'humain, je suis sensible à des valeurs qui me rende la vie insupportable. Donc cassos mais je déclare que je pense que les humains devraient plutôt prendre telle ou telle direction.» Et comme ça on tiendrait compte de tout les humains qui on souhaité s'exprimer même s'ils ne sont plus là.
 
-On tient peut être quelque chose d'innovant là se dit Mikhaïl. Ça se tient presque même si ça va pas être facile à mettre en œuvre comme concept. C'est alors que Larson, chasseur de son état, qui venait d'arriver et n'avait pas suivis la dérive de la discussion prit la parole :
+On tient peut être quelque chose d'innovant là se dit Mikhaïl. Ça se tient presque même si ça ne va pas être facile à mettre en œuvre comme concept. C'est alors que Larson, chasseur de son état, qui venait d'arriver et n'avait pas suivis la dérive de la discussion prit la parole :
 
-— Quelle bande! Vous hallucinez! Laissez les gens faire ce qu'ils veulent! Alors je suis d'accord qu'il faut bien expliquer tous les dossiers de contraception mais c'est pas ici qu'on va décider d'un nombre d'enfant à faire ou pas. Moi j'aime bien la vie : on galère un peu avec dans la forêt à trouver de la bouffe mais après on peut boire des coups et faire de la musique. Je vois pas ce qu'il y a à décider, c'est une blague ou quoi?! Chacune peut bien décider si elle veut des gosses quand même ! Surtout tant qu'on est pas assez pour se marcher sur les pieds.
+— Quelle bande ! Vous hallucinez ! Laissez les gens faire ce qu'ils veulent ! Alors je suis d'accord qu'il faut bien expliquer tous les dossiers de contraception aux jeunes, mais c'est pas ici qu'on va décider d'un nombre d'enfant à faire ou pas. Moi j'aime bien la vie : on galère un peu dans la forêt à trouver de la bouffe mais après on peut boire des coups et faire de la musique. Je vois pas ce qu'il y a à décider, c'est une blague ou quoi ?! Chacune peut bien décider si elle veut des gosses quand même ! Surtout tant qu'on est pas assez pour se marcher sur les pieds.
 
 Un peu à côté de la plaque mais il avait le mérite de proposer théâtralement un interlude au conseil. Et puis finalement ça pouvait être aussi une politique particulière : pas de planification, chacun fait ce qu'il veut. Et puis pour la question initiale : on repassera.
 
-Pendant ce temps là, loin des considérations existentialistes mais surtout loin de l'angoisse du débat en public. Loir et Vinvin arrivèrent une nouvelle fois dans la petite parcelle pentue sur laquelle broutaient encore les brebis. Le petit tas de terre sous lequel reposait en paix le malheureux prédateur n'avait heureusement pas encore été fouillé par quelque charognard indélicat. On ne pouvait pas encore l'accuser de ne pas avoir assez creuser. Certaines brebis les regardèrent approcher en pâturant sans s'alarmer. Ils s'approchèrent d'un bassin à eau presque vide. Des canalisation avaient été disposées dans toutes les parcelles pour détourner l'eau d'un vieux canal réaménagé qui passait un peu plus haut. Il positionna le dernier tronçon de tuyau et ouvrir la vanne. Certaines brebis vinrent lentement voir de plus près de quoi il s'agissait. Si bien qu'ils eurent bientôt une position privilégiée pour observer les animaux. 
+TODO là
+
+# Le troupeau de breb's
+
+Pendant ce temps là, loin des considérations existentialistes mais surtout loin de l'angoisse du débat en public. Loir et Vinvin arrivèrent une nouvelle fois dans la petite parcelle pentue sur laquelle broutaient encore les brebis. Le petit tas de terre sous lequel reposait en paix le malheureux prédateur n'avait heureusement pas encore été fouillé par quelque charognard indélicat. On ne pouvait pas encore l'accuser de ne pas avoir assez creuser. Certaines brebis les regardèrent approcher en pâturant sans s'alarmer. Ils s'approchèrent d'un bassin à eau presque vide. Des canalisation avaient été disposées dans toutes les parcelles pour détourner l'eau d'un vieux canal réaménagé qui passait un peu plus haut. Il positionna le dernier tronçon de tuyau et remonta la plaque qui servait de vanne. Certaines brebis vinrent lentement voir de plus près de quoi il s'agissait. Si bien qu'ils eurent bientôt une position privilégiée pour observer les animaux. 
 
 Certaines bêtes avaient été marquées, des traces rouges indiquaient sûrement s'il s'agissait d'agnelles destinées à renouveler le troupeau ou bien d'agneaux qui finiront en gigots. Il semblait même que ces traces avaient été faites avec le sang d'une bête abattue le jour même. On avait certes de nos jour quelque solutions colorées fait à base de farine ou de brou de noix mais sur le moment, un pot de sang bien frais avait paru beaucoup plus pratique : l'efficacité du bon sens paysan!
 
