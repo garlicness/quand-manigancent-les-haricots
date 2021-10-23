@@ -52,20 +52,23 @@ TOC ?
 
 # Contenu
 
-- [ ] [#NouveauNomVillage Débile et classe] pour remplacer monségur desfois
-   - Atlandide
-   - oasis
-   - une planète de star wars
+- [ ] L37 [#NouveauNomVillage Débile et classe] pour remplacer monségur des fois. 
+   - Monségur la ville. Nom de la région ?
+   - Atlandide métropolis newyork Nouilles ork
+   - oasis 
+  - Dagobah
+  - une planète de star wars
   - Capitalbébé
   - Bizance
 - [x] Dégager les doubles espace
 - [ ] french quotes
+- [ ] Gandalf? -> Yoda
 - [x] Qq part : Discussion ridiculation de Loir face à Arya devant d'autre gens puis surtout que quelqu'un explique qu'il a voulu tuer Bambi parcequ'il sortait avec Arya. Avec les dessins?
 - [x] Affabuler comme des enfants en récréation
 - [ ] Comment les zombies font t'il caca
 - [ ] Trouver des surnom pour les zombies : 
-  - zozo les bibiz
-  - bonz
+  - [ ] les bibiz
+  - [x] bizon
 - [ ] Félicité du travail de la terre. 
   La terre, au bout de quelques années de couverts végétaux, de mulch devient un vrai plaisir à travailler. Elle est noire, elle est légère elle sent bon, c’est agréable de mettre ces mains de dedans. Le désherbage s’est du bonheur : on prend la tige à la base, on tire et sans effort la racines apparaissent à nu. C’est pas perdu : la plante à poussé, elle a travaillé le sol, elle finit en couvrant le sol pour le protéger et le nourrir en carbone, pas mal pour une « mauvaise herbe »
 - [x] Cours d'histoire hitler : #9.2 [enseigné comme mythe fondateur, cosmogonie]
@@ -74,7 +77,7 @@ TOC ?
 - [x] Les enfants sont élevés par plusieurs foyers avant le chapitre 14.3 le moment ou Loir va chercher Vinvin à l'école ou chez lui
 - [x] on dit un zombo des zombii
 - [ ] Débat de village : antidote & humanité rajouter des avis?
-- [ ] Il faut des cathares : puisque bizarrement avec la boutique du chateau il y avait autant de livre sur le catharisme que de bible.
+- [x] Il faut des cathares : puisque bizarrement avec la boutique du chateau il y avait autant de livre sur le catharisme que de bible.
 
 ## 13.1 : 
 
@@ -118,4 +121,4 @@ A quel moment il a l'idée de l'ail?
 
 # Idée de truc à écrire en plus
 
-La chasse au zombie opur faire les tests
+- [ ] La chasse au zombie pour faire les tests
