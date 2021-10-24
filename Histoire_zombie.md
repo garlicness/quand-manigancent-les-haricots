@@ -1361,40 +1361,40 @@ Confrontation, virilité, répartie, tous les indicateurs indiquait clairement l
 
 Loir était de retour dans la chambre qui lui servait de grotte. Ou le contraire. 
 
-— Un vrai gros coup cette fois-ci, même un coup fumeux si ça se trouve! Il faudrait vraiment que je trouve du tabac à mettre dans cette pipe se dit-il. Quelqu'un cachait quelque chose et ce quelqu'un était sûrement Mylène. Mais qu'est-ce qu'elle fabrique à faire des expériences sans le dire à personne ? Un plan machiavélique ? D'un autre côté elle n'est pas en train de sacrifier des bébés les nuits de pleine lune. Si ça se trouve elle n'a pas de mauvaises intentions. Mais mystère quand même… D'ailleurs "pleine lune", tiens, ça me fait penser que j'ai bien occulté le fait d'avoir vu une espèce de fantôme. Vu de mes yeux! De très loin et dans la nuit certes mais il y avait forcément quelque chose. Avec le recul Loir pouvait y penser sans angoisser au point de s'encouetter ^[s'enterrer sous un couette]. Il était temps d'aller explorer cette piste mais de jour, et pas tout seul voir avec un Vinvin qui pourra "lever" les animaux et les trucs désagréables qui font peurs.
+— Un vrai gros coup cette fois-ci, même un coup fumeux si ça se trouve! Il faudrait vraiment que je trouve du tabac à mettre dans cette pipe se dit-il. Quelqu'un cachait quelque chose et ce quelqu'un était sûrement Mylène. Mais qu'est-ce qu'elle fabrique à faire des expériences sans le dire à personne ? Un plan machiavélique ? D'un autre côté elle n'est pas en train de sacrifier des bébés les nuits de pleine lune. Si ça se trouve elle n'a pas de mauvaises intentions. Mais conspiration quand même… D'ailleurs « pleine lune », tiens, ça me fait penser que j'ai bien occulté le fait d'avoir vu une espèce de fantôme. Vu de mes yeux ! De très loin et dans la nuit certes mais il y avait forcément quelque chose. Avec le recul Loir pouvait y penser sans angoisser au point de s'encouetter ^[s'enterrer sous un couette]. Il était temps d'aller explorer cette piste mais de jour, et pas tout seul voir avec un Vinvin qui pourra  *lever* les animaux et les trucs désagréables qui font peurs.
 
-Le lendemain malheureusement un grand soleil brillait. Il était pourtant l'heure indécente de 9h30! Pas d'excuse valable et il faut le noter une petite envie de découvrir une vérité, d'aller creuser à un endroit pour répondre à une question, de faire de la lumière sur un mystère.
+Le lendemain, malheureusement, un grand soleil brillait. Il était pourtant l'heure indécente de 9h30 ! Pas d'excuse valable et il faut le noter une petite envie de découvrir une vérité, d'aller creuser à un endroit pour répondre à une question, de faire de la lumière sur un mystère.
 
-Première étape : trouver Vinvin. Il était souvent vers l'école c'est à dire qu'il passait de temps en temps dans une salle de classe mais ne restait jamais très longtemps. Personne n'y trouvait à redire parce que personne n'avait envie de le faire assoir tranquillement plus d'un quart d'heure. Il s'en suivait toujours de sévère séquelles auditives et psychologique. On pouvait généralement se fier à son ouïe mais il fallait toujours chercher en trois dimensions car il n'était pas rare de le retrouver au sommet d'un cèdre, d'un toit ou dans un trou. Il était facile de l’appâter en utilisant un des mots qui fonctionne toujours avec les enfants et les gens en recherche d'approbation sociale : mission, quête ou task force. Pour Vinvin : chasse au fantôme convenait parfaitement.
+Première étape : trouver Vinvin. Il était souvent vers l'école c'est à dire qu'il passait de temps en temps dans une salle de classe mais ne restait jamais très longtemps. Personne n'y trouvait à redire parce que personne n'avait envie de le faire assoir tranquillement plus d'un quart d'heure. Il s'en suivait toujours de sévère séquelles auditives et psychologique. On pouvait généralement se fier à son ouïe mais il fallait toujours chercher en trois dimensions car il n'était pas rare de le retrouver au sommet d'un cèdre, d'un toit ou dans un trou. Il était facile de l’appâter en utilisant un des mots qui fonctionnent toujours avec les enfants et les gens en recherche d'approbation sociale : mission, quête ou task force. Pour Vinvin : chasse au fantôme convenait parfaitement.
 
-Il partirent donc dans les vallons au sud est de Montségur à un demi douzaine de kilomètre ils arrivèrent à l'endroit ou il avait eu son hallucination. En contre bas 700 mètres plus loin au fond de la vallée de l'autre coté du bassin versent. Effectivement en plein jour de mai ensoleillé l'ambiance était moins pesante que dans ces souvenirs. Il était temps de couper à travers la bruyère pour rejoindre le lieu de l'apparition. Loir était aussi mal à l'aise et maladroit que son compagnon était dans son élément. L'un se frayait un chemin avec l'aisance du blaireau en rûte pendant que l'autre passait de longues secondes à essayer d'écarter les ronces et les branches qui, quoiqu'il fasse s’accrochait à ses vêtements.
+Il partirent donc dans les vallons au sud est de Montségur à un demi douzaine de kilomètre ils arrivèrent à l'endroit où il avait eu son apparition. En contre bas, 700 mètres plus loin au fond de la vallée de l'autre coté du bassin versent. Effectivement en plein jour de fin mai ensoleillé l'ambiance était moins pesante que dans ces souvenirs. Il était temps de couper à travers la bruyère pour rejoindre le lieu de la vision. Loir était aussi mal à l'aise et maladroit que son compagnon était dans son élément. L'un se frayait un chemin avec l'aisance du blaireau en rûte pendant que l'autre passait de longues secondes à essayer d'écarter les ronces et les branches qui, quoiqu'il fasse, s’accrochait à ses vêtements. Après avoir sauté avec plus ou moins de succès par dessus un ruisseau. Sachant que les notions de succès étaient relatives et qu'un Vinvin dans une flaque de boue, c'était un enfant passant un bon moment. Il arrivèrent à peu près à l'endroit repéré. Loir ne vit rien de particulier, Vinvin quand à lui avait l'air ravi : 
 
 Après avoir sauté avec plus ou moins de succès par dessus un ruisseau. Sachant que les notions de succès étaient relatives et qu'un Vinvin dans une flaque de boue équivalait à un enfant qui aurait passé un bon moment dans sa journée. Il arrivèrent à peu près à l'endroit repéré. Loir ne vit rien de particulier, Vinvin quand à lui avait l'air ravi : 
 
-— Regarde un vieux chemin que je connaissais pas
-— Ça un chemin? là on est dans une haie qui borde un ruisseau…
-— Si regarde du goudron si on gratte là et là. Ça continue par là. Dit-il en partant vers l'amont. Rholala c'est pas discret : des branches cassées dans tous les sens, des empreintes de partout
-— Ah oui effectivement.. tenta Loir pour qui se pensait pourtant dans un bois vierge de toute présence humaine. Attention aux zombies on les voit pas de loin ici cria Loir alors que Vinvin commençait à s'éloigner.
+— Regarde un vieux chemin que je connaissais pas— Ça un chemin ? Là on est dans une haie qui borde un ruisseau…
+— Si regarde du goudron si on gratte là et là. Ça continue par là. Dit-il en partant vers l'amont. Rholala c'est pas discret : des branches cassées dans tous les sens, des empreintes de pas partout.
 
-Après quelques dizaines de minutes le chemin s'étrécit et s'éleva sur la droite. Ce qui avait du être jadis une allée d'une coquette maison de campagne.
+— Ah oui effectivement. Tenta Loir pour qui se pensait pourtant dans un bois vierge de toute présence humaine. Attention aux zombies on les voit pas de loin ici cria Loir alors que Vinvin commençait à s'éloigner.
 
-— Ah tiens on en découvre tous les jours! se dit Loir en remontant l'ex-chemin par un semblant de sentier zigzagant entre les chênes et les érables.
+Après quelques dizaines de minutes le chemin s'étrécit et s'éleva sur la droite. Ce qui avait dû être jadis une allée d'une coquette maison de campagne.
 
-Vinvin était surexcité , il relevait de-ci de-là des traces de pas, des branches cassées.
+— Ah tiens on en découvre tous les jours ! se dit Loir en remontant l'ex-chemin par un semblant de sentier zigzagant entre les chênes pédonculés et les érables champêtres.
 
-— C'est possible que le coupable soit un chevreuil? demanda t'il. Parce que là j'ai bien l'impression qu'il est impliqué dans le coup.
+Vinvin était surexcité , il relevait de-ci de-là des traces de pas, des touffes d'herbe écrasées.
+
+— C'est possible que le coupable soit un chevreuil ? demanda t'il. Parce que là j'ai bien l'impression qu'il est impliqué dans le coup.
 — Il habitait peut être là avant essaya Loir
-— Mouais dit Vinvin suspicieux en se grattant le menton. Quand même il perd rien pour attendre celui là.
+— Mouais, dit Vinvin suspicieux. Quand même il perd rien pour attendre celui là.
 
 — C'est pas vraiment le sujet…
 
-Ils continuèrent à avancer lentement. Loir parce qu'il faisait attention d'esquiver les branches et les ronces Vinvin car il effectuer des cercles autour de Loir pour fouiller les trous, et recenser les champignons. Ils finirent par arriver devant une battisse en train de se faire littéralement dévorer par la flore : du lierre recouvrait intégralement la façade et des arbres poussaient de plus en plus près de la bâtisse l'enveloppant comme pour la digérer. La porte principale était pourtant bien dégagée. Vinvin essaya de l'ouvrir, mascagnant la poignée dans tous les sens jusqu'à s'y pendre de tout son poids.
+Ils continuèrent à avancer lentement. Loir parce qu'il faisait attention d'esquiver les branches et les ronces Vinvin car il effectuait des cercles autour de Loir pour fouiller les trous, et recenser les champignons. Ils finirent par arriver devant une battisse en train de se faire littéralement dévorer par la flore : du lierre recouvrait intégralement la façade et des arbres poussaient de plus en plus près de la bâtisse l'enveloppant comme pour la digérer. La porte principale était pourtant bien dégagée. Vinvin essaya de l'ouvrir, mascagnant la poignée dans tous les sens jusqu'à s'y pendre de tout son poids.
 
-— Diablerie! C'est bloqué, il doit y avoir un truc derrière qui bloque.
+— Diablerie ! C'est bloqué, il doit y avoir un truc derrière qui bloque.
 — Ou alors elle est fermé à clé. Devant l'air interdit de Vinvin, expliqua : c'est une vieille technique pour pas qu'on puisse ouvrir une porte quand on n'a pas la petite clé qui correspond. Tu vois normalement on la rentre dans ce trou et on tourne je crois et ça s'ouvre.
 — Wouah c'est la classe ! Mais ça sert à quoi ?
 
-Depuis la Coupure le rapport à la propriété avait changé du tout au tout. On était passé d'un monde ou chacun chacune était censé passer sa vie à fournir des efforts pour acquérir de la richesse, à un monde d'abondance immobilière. Les clés avaient peu à peu disparues avec la convoitise.
+Depuis la Coupure le rapport à la propriété avait changé du tout au tout. On était passé d'un monde où chacun, chacune était censé passer sa vie à fournir des efforts pour acquérir de la richesse, à un monde d'abondance immobilière. Les clés avaient peu à peu disparues avec la convoitise.
 
 Loir essaya vaguement de forcer la porte car il avait supposément plus de force. Lucide, il entreprit de faire le tour de la maison. Certaines fenêtres étaient refermées par des volets ostensiblement verrouillés, d'autres ouvertures du rez-de-chaussé avaient été barricadées avec des planches. Il firent le tour de la maison et, de l'autre côté remarquèrent une petite fenêtre à l'étage.
 
@@ -1402,39 +1402,41 @@ Loir essaya vaguement de forcer la porte car il avait supposément plus de force
 
 Vinvin ne trouvait pas ça spécialement dommageable mais était toujours chaud pour un défis à enjeux traumatiques. Heureusement de fins chênes avaient poussés près du mur et pouvaient servir pour grimper le long de celui-ci.
 
-— Attend avant d'y aller tête baissée gros bourrin. Il faut qu'on fasse en sorte que tu puisses atteindre la poignée depuis l'extérieur. Ce qui veut dire…
+— Attend avant d'y aller tête baissée gros bourrin ! Il faut qu'on fasse en sorte que tu puisses atteindre la poignée depuis l'extérieur. Ce qui veut dire…
 
-Loir proposa un sourire, se baissa pour ramasser une pierre tout en observant la réaction de Vinvin. Le visage de celui-ci s'illumina offrant le chaleureux spectacle  attendu. Vinvin se précipita sur le sol et en un rien de temps eu les mains charger de petite pierre. Loir avait déjà commencé à essayer de viser la fenêtre et son unique carreau mais heureusement pour Vinvin ses jets s'avéraient très imprécis. Là où il fallut seulement 2 essais au gamin pour entendre le satisfaisant bruit de carreau cassé. Ils mirent 2 3 lancés supplémentaires pour la forme puis Vin se lança dans l'escalade. Arque-bouté, dos au mur il donna l'impression de marcher sur le tronc à proximité et arriva sans difficultés à la fenêtre. Il prit quand même le temps d'essayer de ne pas se tailler avant de basculer à l'intérieur de la maison.
+Loir proposa un sourire, se baissa pour ramasser une pierre tout en observant la réaction de Vinvin. Le visage de celui-ci s'illumina offrant le chaleureux spectacle  attendu. Vinvin se précipita sur le sol et en un rien de temps eu les mains charger de petite pierre. Loir avait déjà commencé à essayer de viser la fenêtre et son unique carreau mais heureusement pour Vinvin ses jets s'avéraient très imprécis. Là où il fallut seulement 2 essais au gamin pour entendre le satisfaisant bruit de carreau cassé. Ils mirent deux ou trais lancés supplémentaires pour la forme puis Vin se lança dans l'escalade. Arque-bouté, dos au mur il donna l'impression de marcher sur le tronc à proximité et arriva sans difficultés à la fenêtre. Il prit quand même le temps d'essayer de ne pas se tailler avant de basculer à l'intérieur de la maison.
 
 — C'est super !
 
 — C'est quoi  pourquoi ? Qu'est-ce que tu vois ?
 
-— Rien mais c'est vachement grand!
+— Rien mais c'est vachement grand !
 
 — Descend et ouvre une fenêtre et ses volets steuplait.
 
-5 min plus tard et un boucan faire fuir le gibier sur 10 hectares un des volets de la façade s'ouvrit. Loir rejoint Vinvin à  l'intérieur de l'ancienne demeure, ils entreprirent d'ouvrir  les autres fenêtres pour faire entrer le soleil mettant en évidence la poussière occupée à valser dans les rayons de lumière. La pièce principale était surtout constituée d'une grande table sur laquelle étaient alignés des pots en verre de toutes tailles et forme contenant un fond de solution dont la couleur et la texture semblaient varier d'un pot à l'autre. Une boite de bougies et un microscope était également posé sur la table. Ce qui orientait clairement la fonction des pots alignés et numérotés. Un cahier était également posé contenait à première vue une série de chiffre en colonnes, une autre page contenait une liste de lettres grecques suivi de dates et de croix. Le dernier symbole : epsilon était entouré plusieurs fois. 
+Cinq minutes plus tard et un boucan faire fuir le gibier sur dix hectares, un des volets de la façade s'ouvrit. Loir rejoint Vinvin à  l'intérieur de l'ancienne demeure, ils entreprirent d'ouvrir  les autres fenêtres pour faire entrer le soleil mettant en évidence la poussière occupée à valser dans les rayons de lumière. La pièce principale était surtout constituée d'une grande table sur laquelle étaient alignés des pots en verre de toutes tailles et forme contenant un fond de solution dont la couleur et la texture semblaient varier d'un pot à l'autre. Une boite de bougies et un microscope étaient également posés sur la table. Ce qui renseignait clairement sur a fonction des pots alignés et numérotés. Un cahier était également posé contenait à première vue une série de chiffre en colonnes, une autre page contenait une liste de lettres grecques suivi de dates et de croix. Le dernier symbole : epsilon était entouré plusieurs fois. 
 
-— On a découvert un secret demanda Vinvin?
+— On a découvert un secret demanda Vinvin ?
 
-— On dirait bien… mais qu'est-ce que quoi que tout ça?
+— On dirait bien… mais qu'est-ce que quoi que tout ça ?
 
 Puis Loir se retourna et vit, sur un porte-manteau à côté de la porte une blouse blanche et des lunettes de protection. 
 
-— Ah! déjà un fantôme qui pourrait s'expliquer! On aura pas perdu la journée, ça fait du bien mine de rien. Maintenant : qu'est ce que tout ça veux dire?
+— Ah ! déjà un fantôme qui pourrait s'expliquer ! On aura pas perdu la journée, ça fait du bien mine de rien. Maintenant : qu'est ce que tout ça veux dire?
 
-Loir était soulagé mais c'est toujours pareil avec les problèmes qui se posent : qu'est-ce qu'on peut se sentir con quand on a la solution! Ils firent encore le tour de la maison, trouvèrent une autre pièce fermée à clé mais dont la clé était pendue à un clou juste à côté. Vinvin insista vivement pour ouvrir la porte. Il prit la clé des mains de Loir et la fit maladroitement tourner dans la serrure en tirant la langue. Après avoir tourné dans un sens, dans l'autre, plusieurs fois il sentit le clic du loquet qui se libère. Il ouvrit la porte qui révéla une chambre sans lumière contenant seulement un vieux lit sans drap et une écuelle vide. Loir voulu regarder Vinvin d'un air entendu mais celui-ci était déjà sorti explorer le reste de l'étage.
+Loir était soulagé mais c'est toujours pareil avec les problèmes qui se posent : qu'est-ce qu'on peut se sentir con quand on a la solution ! Ils firent encore le tour de la maison, trouvèrent une autre pièce fermée à clé mais dont la clé était pendue à un clou juste à côté. Vinvin insista vivement pour ouvrir la porte. Il prit la clé des mains de Loir et la fit maladroitement tourner dans la serrure en tirant la langue. Après avoir tourné dans un sens, dans l'autre, plusieurs fois il sentit le clic du loquet qui se libère. Il ouvrit la porte qui révéla une chambre sans lumière contenant seulement un vieux lit sans drap et une écuelle vide. Loir voulu regarder Vinvin d'un air entendu mais celui-ci était déjà sorti explorer le reste de l'étage.
 
 Sur le chemin du retour, Loir songeait. C'était une impression bizarre d'être le seul à disposer d'informations importantes perturbant aussi. C'est que l'excitation de son nouveau statut de professionnel de l'investigation avait laissé la place à un sentiment de malaise. Il se rendit compte confusément que même un asocial basait sa vie sur des interactions, sur une structure sociale. Mylène était discrète, n'avait très peu de responsabilités mais son assurance, sa prestance planait en arrière plan depuis toute une vie. Une figure respectée tout ce temps, inconsciemment, pèse lourd psychologiquement, le jour il disparaît ou est remis en question.
 
-— Mais à quoi pouvait elle bien jouer? Essayer de soigner Bambi d'accord, pourquoi pas, n'importe qui comprendrait, le faire en cachette pourquoi pas : elle aurait pu avoir peur qu'on lui dise que c'était trop dangereux… Encore que Mylène avait un tel mental qu'elle n'aurait probablement même pas réfléchi au fait qu'on puisse l’empêcher de faire ce qu'elle voulait…  Puis une colère sourde monta : tout le monde comptait sur elle pour trouver un remède et elle fait semblant de chercher alors que visiblement Bambi était réparé. Mais quoi? que faire? La confronter directement?  J'aimerais bien ça qu'elle s'explique. Mais est-ce que Bambi est au courant? D'accord c'est pas une flèche mais est-ce qu'on peut devenir un zombie puis se dézombifier sans s'en apercevoir? 
+— Mais à quoi pouvait elle bien jouer ? Essayer de soigner Bambi d'accord, pourquoi pas, n'importe qui comprendrait, le faire en cachette pourquoi pas : elle aurait pu avoir peur qu'on lui dise que c'était trop dangereux… Encore que Mylène avait un tel mental qu'elle n'aurait probablement même pas réfléchi au fait qu'on puisse l’empêcher de faire ce qu'elle voulait…  Puis une colère sourde monta : tout le monde comptait sur elle pour trouver un remède et elle fait semblant de chercher alors que visiblement Bambi était réparé. Mais quoi ? que faire ? La confronter directement ?  J'aimerais bien ça qu'elle s'explique. Mais est-ce que Bambi est au courant ? D'accord c'est pas une flèche mais est-ce qu'on peut devenir un zombie puis se dézombifier sans s'en apercevoir ? 
+
+todo
 
 # La conspiration d'une bande de jeunes
 
 Depuis peu, il y avait finalement une personne à qui Loir pouvait parler en la personne de Kim. Ils ne s'étaient pas vraiment intéressés l'un à l'autre jusque là car il était facile de répercuter le mépris dont on était victime indifféremment sur les oppresseurs et les autres victimes. Il est possible d'être différents de tellement de façon qu'on a pas forcément d'affinité entre minorités. Un tort pour les adolescents qui auraient pu ériger ensemble des palissades de défense contre les assauts incessants de solitude. Kim avait toujours l'air très calme mais le ton de sa voix se faisait fébrile.
 
-— Il faut prévenir Mikhail ou une grande personne au village!
+— Il faut prévenir Mikhail ou une grande personne au village !
 — La première chose qu'il vont faire c'est se référer à Mylène. C'est notre parole contre la sienne. Même à 3 on fait pas le poids, il nous faut des preuves.
 — Comment prouver que Bambi a été infecté? Même nous n'est pas 100% convaincus…
 
