@@ -5,10 +5,11 @@ rights:  Creative Commons Non-Commercial Share Alike 3.0
 language: fr-FR
 ...
 
+<!-- 
 # Chapitres
 
 [TOC]
-
+ -->
 
 # Lynchage léché
 
@@ -160,7 +161,7 @@ Alors que ses sacs étaient quasiment pleins, Bambi était accroupi depuis 15 mi
 
 # Lonesome vagabond
 
-Pendant ce temps à 200 km nord-nord-est de Montségur, Sangoku se roulait une cigarette en tenant les rennes d’un cheval entre les jambes dans le soleil couchant comme dans les films du siècle dernier grâce auxquels il avait maintenant un petit air d’harmonica dans la tête qui n’était pas pour lui déplaire. En plus d’apprécier la luminosité crépusculaire, il avait tendance à s’imaginer à la troisième personne, en réalisateur de son propre biopic. Et là, il était satisfait de la prise. Au loin, deux corneilles assouvissant une passion instinctive en faisant la misère à une buse. Pour le plaisir comme tout le monde sait. Fin de la journée, il était temps  d’établir le camp pour la nuit. Cela consistait généralement à trouver un bâtiment fermé, entrer, vérifier qu’il était vide, le cas échéant distribuer 2, 3 coups de masses, proprement, de looter des items intéressants, c’était d’ailleurs sa principale mission : fouiller et ramener des munitions, du paracétamol et de bonne bouteilles. Des fois il dormait dehors, en terrain dégagé, pas de risque de se faire surprendre et les bestioles sauvages, elles avaient encore assez de nourriture pour ne pas vouloir se frotter à des proies réfractaires qui, en plus magnaient le feu. Il vit un grand terrain clôturé sur une colline, à un kilomètre, on distinguait clairement le chemin qui y menait. Cinq minutes plus tard il était devant, Scadufax son cheval gris a déjà trouvé son bonheur dans les trèfles violets de ce qui avait du être jadis un jardin. Ou bien un parking poids-lourdsou un terrain de baseball, pour ce qu’il en reste… Il sortit sa plus grosse masse et laissa donc la petite avec le gros galet décoré, inconsciemment, pour ne pas qu’elle s’abîme. 
+Pendant ce temps à 200 km nord-nord-est de Montségur, Sangoku se roulait une cigarette en tenant les rennes d’un cheval entre les jambes dans le soleil couchant comme dans les films du siècle dernier grâce auxquels il avait maintenant un petit air d’harmonica dans la tête qui n’était pas pour lui déplaire. En plus d’apprécier la luminosité crépusculaire, il avait tendance à s’imaginer à la troisième personne, en réalisateur de son propre biopic. Et là, il était satisfait de la prise. Au loin, deux corneilles assouvissant une passion instinctive en faisant la misère à une buse. Pour le plaisir comme tout le monde sait. Fin de la journée, il était temps  d’établir le camp pour la nuit. Cela consistait généralement à trouver un bâtiment fermé, entrer, vérifier qu’il était vide, le cas échéant distribuer 2, 3 coups de masses, proprement, de looter des items intéressants, c’était d’ailleurs sa principale mission : fouiller et ramener des munitions, du paracétamol et de bonne bouteilles. Des fois il dormait dehors, en terrain dégagé, pas de risque de se faire surprendre et les bestioles sauvages, elles avaient encore assez de nourriture pour ne pas vouloir se frotter à des proies réfractaires qui, en plus magnaient le feu. Il vit un grand terrain clôturé sur une colline, à un kilomètre, on distinguait clairement le chemin qui y menait. Cinq minutes plus tard il était devant, Scadufax son cheval gris a déjà trouvé son bonheur dans les trèfles violets de ce qui avait du être jadis un jardin. Ou bien un parking poids-lourds ou un terrain de baseball, pour ce qu’il en reste… Il sortit sa plus grosse masse et laissa donc la petite avec le gros galet décoré, inconsciemment, pour ne pas qu’elle s’abîme. 
 
 La nuit c’est sombre et plein de bruits de bestioles. Le cheval aide beaucoup pour ça. On peut avoir l’impression d’être au milieu d’un troupeau de bisons, si le cheval ne bronche pas, on peut essayer de se rendormir tranquille. Si c’est le cas : c’est compliqué, il faut rallumer le feu regarder ce qu’il se passe, montrer qu’on va pas se laisser faire, tirer en l’air et être prêt à mutiler des organismes. Un cheval, c’est comme un canari dans la mine, sauf qu’on a une chance de sauver le canari après qu’il nous a indiqué le danger. Sauf si le danger à le gabarit d’un ours, bref… Il y avait  un peu de vent. Au moins 2h après le noir complet, on pouvait identifier : un hibou en train de défoncer des mulots, un fouisseur en train de labourer une parcelle et un rongeur qui devait inspecter les réserves de la roulotte pour être sûr que rien ne dépasse. Dans tout ce capharnaüm il y eu d’abord comme un soupir d’exaspération de la part de Scadufax qui acheva de réveiller Sangoku. Sans bouger aux aguets il essaya de trier les bruits. Un nouveau signe d’inquiétude de la part de son cheval et il alluma une bougie puis sortit le pistolet. Une branche craqua. Plus de doute possible : tous les bons pisteurs le savent : aucun animal sauvage ne fait craquer de branche quand il se déplace. Sangoku soupira :
 
@@ -170,7 +171,7 @@ La nuit c’est sombre et plein de bruits de bestioles. Le cheval aide beaucoup 
 
 Il retourna sur ses pas, leva la masse au dessus de sa tête et l’abattit sur ce qu’il estimait être le centre nerveux du corp déjà disloqué.
 
-# Suit-up
+# Suit-up !
 
 D’abord passer au magasin. Une grande maison du village a été transformée en sorte de grand entrepôt où, au fur et à mesure, ont été rassemblés tous les vêtements et accessoires abandonnés dans la coin. Dans la plus grande excitation, Loir avait fait une liste. Une des plus enthousiasmantes de sa vie : 
 

@@ -6,7 +6,7 @@ language: fr-FR
 ...
 
 
-pandoc -o "Quand manigancent les haricots.epub" Histoire_zombie.md
+pandoc -o "Quand manigancent les haricots.epub" Histoire_zombie.md  --toc --toc-depth=1
 
 
 
