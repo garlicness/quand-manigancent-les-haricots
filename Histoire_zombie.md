@@ -13,7 +13,8 @@ language: fr-FR
 
 # Lynchage léché
 
-Comme personne ne commente à haute voix ce qu'il fait en présence d'autres créatures ayant la capacité de comprendre, c'est devenu une règle tacite sous peine de durement réduire la réputation de sa santé mentale. Heureusement les chevaux ont une compréhension très limitée du langage humain.
+
+Casthor aimait bien sa jument, contrairement aux humains, elle ne faisait pas de réflexion désobligeante quand il commentait tout ce qu'il faisait à haute voix. C'est parce qu'elle n'avait pas la capacité de communiquer. Heureusement pour lui car elle le prenait quand même un peu pour un âne de l'année.
 
 — Alors la selle ça c’est fait, les rennes aussi ça va bien, les bottes, la pelle, je l’accroche sur le côté… Voilà, on met des rennes sur des chevaux c'est n'importe quoi… 
 
@@ -23,11 +24,11 @@ Comme personne ne commente à haute voix ce qu'il fait en présence d'autres cr�
 
 — Et voilà! Ils peuvent venir cette bande de cake. Aller Papillote, on va brouter au bord de la rivière. Mais oui, toi même tu sais.
 
-Les oreilles se dressèrent, elle même elle savait. L’air était frais, Matéo était chaud, ça allait faire du feu. La route descendait de l'écurie en sinuant, il n’y avait pas trop de boue de toute façon il s’en foutait, il était sur le dos d’un animal plutôt sympa et qui n’avait jamais peur. Direction plein nord, en aval de la rivière, il y avait une petite colline qui donnait une belle vue dégagée sur son secteur. Il se dit qu'il faudrait qu'il se bricole une petite cahutte comme un poste avancé, que ce serait la classe. Avec une chaise longue et des bières même si ce n’est peut être pas indiqué pour le boulot. 
+Les oreilles se dressèrent, elle même elle savait. L’air était frais, Casthor était chaud, ça allait faire du feu. La route descendait de l'écurie en sinuant, il n’y avait pas trop de boue de toute façon il s’en foutait, il était sur le dos d’un animal plutôt sympa et qui n’avait jamais peur. Direction plein nord, en aval de la rivière, il y avait une petite colline qui donnait une belle vue dégagée sur son secteur. Il se dit qu'il faudrait qu'il se bricole une petite cahutte comme un poste avancé, que ce serait la classe. Avec une chaise longue et des bières même si ce n’est peut être pas indiqué pour le boulot. 
 
 La matinée passa plutôt tranquillement jusqu’à ce que finalement, les trois coups de cloche retentirent pour indiquer une arrivée de zombies, (oui, comme dans Game of Thrones, ça avait beaucoup réjoui ceux qui avaient mis le système en place) suivi d’un nombre de coups correspondant à la direction : six au sud douze au nord, son secteur. Là c’était deux : ils arrivent par la route, pas très original. Puis trois coups de nouveaux pour indiquer le nombre d'individus repérés. Le cheval et son monteur se dirigèrent pour les intercepter avant qu’ils n'arrivent au niveau des champs du vieux Marco, qui devait sûrement y être. Il y a de la lumière, et on les voit bien, ils sont bien trois. Ça commence à faire mais à découvert comme ça, il ne risque par grand chose. La technique est simple, on charge sur le côté, un petit coup de pelle dans la nuque sur le plus proche (ou la gorge ça dépend du sens). Et on recommence.
 
-Le vieux Marco était avec sa bêche à 250 mètres. Mateo lui fît un coucou de la main. Le paysan leva son outil. Soit, il le saluait, soit, il l'insultait avec lui on avait toujours un doute. Et il avait le don pour faire les deux à la fois. Jusqu’ici, ce qui se passait d’habitude, c’est que les zombies ne faisaient même pas attention jusqu’à ce qu’on s’approche très près pour les planter. Une fois qu’ils comprenaient les bails, soit ils ne se sentait pas concernés, soit ils essayaient mollement de s'éloigner mais c'était bien la réaction la plus extrême à laquelle on pouvait s'attendre. L'aspect plus technique consistait à éviter d'entrer en contact direct avec leur peau pour ne pas se faire contaminer.
+Le vieux Marco était avec sa bêche à 250 mètres. Casthor lui fît un coucou de la main. Le paysan leva son outil. Soit, il le saluait, soit, il l'insultait avec lui on avait toujours un doute. Et il avait le don pour faire les deux à la fois. Jusqu’ici, ce qui se passait d’habitude, c’est que les zombies ne faisaient même pas attention jusqu’à ce qu’on s’approche très près pour les planter. Une fois qu’ils comprenaient les bails, soit ils ne se sentait pas concernés, soit ils essayaient mollement de s'éloigner mais c'était bien la réaction la plus extrême à laquelle on pouvait s'attendre. L'aspect plus technique consistait à éviter d'entrer en contact direct avec leur peau pour ne pas se faire contaminer.
 
 Il remonta son foulard sur le nez et parti au galop droit sur eux. Il y eu un premier impact. Le bout la pelle à bien entamé la gorge de celui de droite. Il était content de se rendre compte qu'il commençait à être vraiment précis. Au trop (la vitesse intermédiaire du cheval), il revînt sur ses pas et contourna par la gauche. La créature au sol gigotait sans bruit et essayait de se relever. Trois coups de pelles plus tard, (deux nuques et une gorge) plus personne ne bougeait. 
 
@@ -501,7 +502,7 @@ Pour Finalement, le retrouver dans une petite chapelle à la sortie de la ville 
 
 — Si on m’avait dit que j’étais venu là pour enfiler des perles…
 
-En fin de soirée ils se retrouvèrent finalement devant un gros cahier sobrement intitulé registres d’activité de l’humanité #53. Ouvert au hasard, ils furent impressionnés : chaque jour prenait quasiment deux pages d’une petite écriture régulière et infatigable. Tout ce qui se passait à l’Hôtel de ville était reporté systématiquement. Y compris les discussions officieuses qui se tenaient à proximité, sur la météo, l’état des cultures, la frivolité des meurs de certains. Ils allèrent à quelques pages avant la fin pour voir les faits de la journée incriminée.  Un passage sur l’état des réserves de nourriture avant l’été, l’organisation d’une corvée pour refaire un chemin. Puis sur le passage qui traite des zombies : Mateo a reporté 3 individus, en provenance du nord-est, éliminés et brûlé sur le champs, aucune contamination. Zone 43.
+En fin de soirée ils se retrouvèrent finalement devant un gros cahier sobrement intitulé registres d’activité de l’humanité #53. Ouvert au hasard, ils furent impressionnés : chaque jour prenait quasiment deux pages d’une petite écriture régulière et infatigable. Tout ce qui se passait à l’Hôtel de ville était reporté systématiquement. Y compris les discussions officieuses qui se tenaient à proximité, sur la météo, l’état des cultures, la frivolité des meurs de certains. Ils allèrent à quelques pages avant la fin pour voir les faits de la journée incriminée.  Un passage sur l’état des réserves de nourriture avant l’été, l’organisation d’une corvée pour refaire un chemin. Puis sur le passage qui traite des zombies : Casthor a reporté 3 individus, en provenance du nord-est, éliminés et brûlé sur le champs, aucune contamination. Zone 43.
 
 — Zone 43 ?
 
@@ -513,15 +514,15 @@ Ils sortirent en courant, manquant de se bloquer en passant la porte en même te
 
 — Non mais rangez les trucs là ! Vous vous croyez où ? Les enquêteurs se figèrent. Barrez-vous, agents du chao ! Je vois pas comment vous pourriez remettre de l'ordre dans cet état! Ils reprirent leur course anarchique. « Beaucoup trop de gestes inutiles si vous voulez mon avis » murmura t’il dans sa barbe en prenant son stylo, pour ajouter au registre, la consultation des registres qui venait d’avoir lieu.
 
-Le lendemain, on n'avait jamais vu un ado de la catégorie « nerd, acné et art de dénigrer » se lever aussi tôt sans y être obligé. Vinvin n’avait jamais non plus eu à faire à quelqu’un d’aussi motivé pour le tirer du lit. Il arrivèrent donc (tout de même en milieu de matinée mais un exploit selon les standards de Loir). Bien évidemment Mateo était déjà parti patrouiller.
+Le lendemain, on n'avait jamais vu un ado de la catégorie « nerd, acné et art de dénigrer » se lever aussi tôt sans y être obligé. Vinvin n’avait jamais non plus eu à faire à quelqu’un d’aussi motivé pour le tirer du lit. Il arrivèrent donc (tout de même en milieu de matinée mais un exploit selon les standards de Loir). Bien évidemment Casthor était déjà parti patrouiller.
 
 — Décidément le métier de détective privé (mais commissionné par une entité publique) implique beaucoup de déplacement pédestre remarqua Loir quelque peu déçu.
 
-Une demi journée de crapahuatage dans les alentours et ils finirent pas retrouver Paupiette et Mateo.
+Une demi journée de crapahuatage dans les alentours et ils finirent pas retrouver Paupiette et Casthor.
 
-— Enquêteurs Loir et Vinvin missionnés pour résoudre la disparition de Mamie Gentiane énonça Loir tout en agitant son calepin et en trébuchant sur une racine, ce qui inquiéta Mateo. Heureusement que les zombies ne sont pas si bavards, on aurait pu croire à une espèce de maladie de Parkinson doublée d’une vilaine infection de la peau et d’atrophie des muscles sur tout le corps.
+— Enquêteurs Loir et Vinvin missionnés pour résoudre la disparition de Mamie Gentiane énonça Loir tout en agitant son calepin et en trébuchant sur une racine, ce qui inquiéta Casthor. Heureusement que les zombies ne sont pas si bavards, on aurait pu croire à une espèce de maladie de Parkinson doublée d’une vilaine infection de la peau et d’atrophie des muscles sur tout le corps.
 
-— Houla qu’est-ce qu'il t’arrive… Mateo était censé connaître son nom, ils avaient passé une journée ensemble dans le cadre de missions et découverte pour la jeunesse. Journée consacrée exclusivement et sans succès à essayer de mettre Loir sur un cheval puis un poney… Puis une bûche.
+— Houla qu’est-ce qu'il t’arrive… Casthor était censé connaître son nom, ils avaient passé une journée ensemble dans le cadre de missions et découverte pour la jeunesse. Journée consacrée exclusivement et sans succès à essayer de mettre Loir sur un cheval puis un poney… Puis une bûche.
 
 — Nous avons quelques questions sur mardi de la semaine dernière.
 
@@ -541,7 +542,7 @@ L’avantage d’être à Montségur est qu’on pouvait profiter de la hauteur 
 
 — Deux kilomètres plus loin, le feu au bord du chemin. Allez voir de vous même ça me fera de l’air.
 
-Loir bafouilla, soupira, à la fois soulagé d’en avoir fini avec la virilité débordante de Mateo et déjà fatigué à l’idée de marcher encore. Et puis le retour, et pour pas être trop mal vu, il allait sûrement falloir faire des trucs physiques comme ranger de la paille ou aller cueillir des fleurs de sureau. Tout en marchant il bascula dans son état de déprime habituel jusqu’à que Vinvin se rappelle à lui : 
+Loir bafouilla, soupira, à la fois soulagé d’en avoir fini avec la virilité débordante de Casthor et déjà fatigué à l’idée de marcher encore. Et puis le retour, et pour pas être trop mal vu, il allait sûrement falloir faire des trucs physiques comme ranger de la paille ou aller cueillir des fleurs de sureau. Tout en marchant il bascula dans son état de déprime habituel jusqu’à que Vinvin se rappelle à lui : 
 
 — On a le droit d’aller voir des zombies morts ?
 
@@ -612,7 +613,7 @@ Bizarrement ce dernier mot, ou bien l'accent tonique inconsciemment mis au bon e
 
 — Peut être qu'ils sont toujours en Amérique de l'autre côté de l'océan c'est très très loin. Peut être que maintenant il galèrent un peu comme nous. Vu qu'il y a 25 ans, ils n'ont rien fait pour empêcher la Coupure et n'ont pas réussi à sauver le monde… Mais apparemment on n'est pas à l'abri qu'ils débarquent un jour avec leurs hélicos, des gros fusils, du chocolat et un remède contre la Zombification.
 
-# Au rapport!
+# Au rapport !
 
 Une soixantaine de personne vaquaient à leurs occupations sous la halle du village. Sur le côté attenant au bâtiment de la mairie, une longue table était était posée sur des tréteaux contre le mur. Des chaises disposées seulement du côté mur si bien que les gens assis faisaient face aux passants et à leur activité. Á première vu complètement aléatoire ou du moins très peu optimisée, comme des fourmis chacun, chacune allaient, rarement en ligne droite, s’arrêtant pour papoter s’interpellant, les enfants couraient et poussaient des cris. Toute une activité nécessaire à l’organisation de la vie. Á la fin de la journée toutefois il semble que les travaux de la fourmilière, toute proportion gardée, ont plus avancés que ceux des humains. Quelques chaises étaient toutefois installées à portée de voix pour les personnes dont l’âge nécessitaient plus de pieds qu’ils n’en avaient. On retrouvait donc l’assemblée dans sa configuration habituelle : assis derrière la table, faisant face au grouillement des administrées. Cinq-Pierres faisait office de greffier, Mikhaïl, un conseillé et une conseillère : Jeanne et Serge (Jeanne avait toujours eu ce nom, Mathieu avait pris le nom de Serge après leur rencontre)  de bonnes volontés qui faisaient office de tampon entre les décisions trop conceptuelles et une population beaucoup plus terre à terre. Une partie des chaises étaient libres pour ceux qui voulaient participer ou avaient un sujet particulier à aborder. On y retrouvait Loir. Vinvin courait autour de la place et passait tout ce qu’il pouvait à la la loupe prêtée par Loir après une séance de persuasion très efficace qui consiste à se placer le plus près possible de l’oreille de son interlocuteur et de répéter l’objet de sa requête sans s’arrêter sur un ton de plus en plus aigu. Cinq-Pierres se leva pour énoncer l’ordre du jour :
 
@@ -624,7 +625,7 @@ Loir se leva et commença à énoncer les faits comme il l’avait préparé, en
 
 Il savait qu’il lui fallait parler le plus fort possible, voir essayer de crier. Le problème était, qu’alors sa voix avait tendance à dérailler un octave au dessus faisant un effet de grincement assez désagréable.
 
-— … Suite à une enquête approfondie et aux auditions de plusieurs témoins j’ai pu, avec mon associé Vinvin recouper les informations pour recréer les événements qui se sont déroulés le 3 mai dernier. Á savoir : lors de l’intervention du ranger Mateo sur 3 zombies arrivants par la route sud il s’est fait attaqué par mamie Gentiane. Comportement qui n’est pas étonnant si l’on en croit les différents témoignages recueillis. L’ayant confondu avec un zombie particulièrement virulent et dans le feu de l’action, le Chevalier Mateo l’a mise à mort.
+— … Suite à une enquête approfondie et aux auditions de plusieurs témoins j’ai pu, avec mon associé Vinvin recouper les informations pour recréer les événements qui se sont déroulés le 3 mai dernier. Á savoir : lors de l’intervention du ranger Casthor sur 3 zombies arrivants par la route sud il s’est fait attaqué par mamie Gentiane. Comportement qui n’est pas étonnant si l’on en croit les différents témoignages recueillis. L’ayant confondu avec un zombie particulièrement virulent et dans le feu de l’action, le Chevalier Casthor l’a mise à mort.
 
 — Ahhh, hummm… Fit le conseil et les quelques personnes rassemblées pour écouter un rapport beaucoup plus intéressant que d’habitude. Au bout d’un moment Loir, nerveux appela Vinvin à venir le rejoindre. Il se pencha à son oreille d’un air agacé. Vinvin couru vers la table du conseil et se servi d’un chaise pour monter dessus.
 
@@ -636,7 +637,7 @@ Il savait qu’il lui fallait parler le plus fort possible, voir essayer de crie
 
 Il s’approcha de la table et déposa 3 galets carbonisés de petites taille. Jeanne et Serge les observèrent d’un air expert. De par leur taille et la forme, ils ressemblaient effectivement à ceux qu’on risquait de voir arriver de trop près si on ne prenait pas garde en s’approchant de la maison de mamie Gentiane. Cinq-Pierres se leva alors :
 
-— Mateo a commis un meurtre d’un membre de notre communauté. Et vous ne vous extasiez en l’apprenant ! Ne vous rendez-vous pas compte il a commis un pécher capital ! Personne ne pense à le punir !
+— Casthor a commis un meurtre d’un membre de notre communauté. Et vous ne vous extasiez en l’apprenant ! Ne vous rendez-vous pas compte il a commis un pécher capital ! Personne ne pense à le punir !
 
 — Bouh !
 
@@ -660,7 +661,7 @@ La foule présente n'était pas assez choquée pour faire autre chose que regard
 
 Mikhaïl prit la parole.
 
-— Bon dans la mesure où Mateo n’est pas présent pour se défendre et que de toute façon on comprend bien que son action n’était pas induite par une envie de nuire à la communauté qui de surcroît lui est reconnaissante pour le travail accompli chaque jour, je propose d’en rester là avec cette histoire. Cinq-Pierres prit un ton effaré :
+— Bon dans la mesure où Casthor n’est pas présent pour se défendre et que de toute façon on comprend bien que son action n’était pas induite par une envie de nuire à la communauté qui de surcroît lui est reconnaissante pour le travail accompli chaque jour, je propose d’en rester là avec cette histoire. Cinq-Pierres prit un ton effaré :
 
 — Quelle éducation pour la jeunesse ! Allez y tuez vous, vous finirez en enfer. Je dis ça pour votre bien aussi… Bon je suppose que tout le monde vote pour clore l’affaire, bande de païens!
 
@@ -1307,7 +1308,7 @@ Il fit le tour de la brebis toujours en train de paître et remarqua une petite 
 
 Vinvin déguerpi aussitôt à la manière d’un border colley. En beaucoup pratique par rapport aux requêtes qu’on peut lui adresser. Se dit-il en observant le pitchoun sauter puis carrément puis courir sur le dos des bêtes à peine surprises. Peut être pas aussi rigoureux qu’un Bosseron quand même…
 
-# 17 Cours de civilisation : Déféquer
+# 17 Cours de civilisation : déféquer
 
 Lilou était une des plus jeune à parler de CPP aux futures générations. Bizarrement, pas besoin de fioriture pour capter l'attention des gosses quand on leur propose un exposé sur le traitement pré-Coupure du caca. Surtout avec une intervenante aussi impliquée.
 
@@ -1515,7 +1516,7 @@ Loir arriva donc au village à bout de souffle. Enfin au delà de tout souffle, 
 
 — "Folie, derrière…" - c'est quoi déjà un C.O.D?
 
-Au bout de quelques minutes il releva la tête pour se retrouver face à une assemblée médusée. Mihkail, Georges et Mateo et Mylène…
+Au bout de quelques minutes il releva la tête pour se retrouver face à une assemblée médusée. Mihkail, Georges et Casthor et Mylène…
 
 — Oh non… Une expression d'horreur déforma son visage, il posa les yeux sur ses mains ensanglantées des écorchures de ses chutes. puis posa son cul sur le sol, en état de choc. 
 
@@ -1587,7 +1588,7 @@ Quelque jours suffirent pour se mettre d'accord. Malgré une certaine tolérance
 
 Loir malgré l'acceptation avait passé beaucoup de temps à se demander quoi dire pour sa défense. Une tannée ! Ok pour la sentence mais qu'allait-il plaider, qu'allait-il dire à ses parents ? Et surtout comment tirer des aveux de Mylène ?  D'accord, sûrement pas en public mais il était persuadé qu'elle avait encore des choses à dire. 
 
-Un matin donc Mateo et Cinq-Pierres vinrent le chercher pour l’emmener dans une pièce de l’hôtel de ville qu'il ne connaissait pas. Mikhaïl était là, Cindy une femme d'une quarantaine d'années assez forte était en train de servir des chicorées. "Assez forte" au premier degré : elle n'était pas spécialement grosse, elle pouvait maitriser une vachette sans problème. Elle était simple et calme comme les gens qui n'ont jamais eu peur que pour les autres. On le fit assoir à une table d'écolier tout seul au milieu de la pièce, Mikhaïl et Cinq-Pierres assis derrière une table plus grande dos au mur opposé à la porte d’où il venait de rentrer et les autres personnes tanto se déplaçant pour boire ou servir une tasse tanto s'adossant au murs tout autour de Loir. Il eu aussi le temps de penser aux habitants de Montségur, à la pandémie aux Marie-Martin…
+Un matin donc Casthor et Cinq-Pierres vinrent le chercher pour l’emmener dans une pièce de l’hôtel de ville qu'il ne connaissait pas. Mikhaïl était là, Cindy une femme d'une quarantaine d'années assez forte était en train de servir des chicorées. "Assez forte" au premier degré : elle n'était pas spécialement grosse, elle pouvait maitriser une vachette sans problème. Elle était simple et calme comme les gens qui n'ont jamais eu peur que pour les autres. On le fit assoir à une table d'écolier tout seul au milieu de la pièce, Mikhaïl et Cinq-Pierres assis derrière une table plus grande dos au mur opposé à la porte d’où il venait de rentrer et les autres personnes tanto se déplaçant pour boire ou servir une tasse tanto s'adossant au murs tout autour de Loir. Il eu aussi le temps de penser aux habitants de Montségur, à la pandémie aux Marie-Martin…
 
 — Bon on a pas vraiment trouvé d'avocat et de toute façon on a trouvé personne qui viendra se plaindre quoi qu'on fasse donc on va pas tourner autour du pot.
 
@@ -1725,7 +1726,7 @@ Elle prit le temps de finir son verre et mis son index dans la boite de pétri.
 
 # Bye bye, merci d'avoir lu
 
-— Bon et bien à moi de te faire une confidence, Madame je suis si maline. La première chose qui est évidente chez les double M, tout le monde s'est rendu compte que c'est leur haleine si particulière. Ils s'envoient des gousses d'ail à longueur de journée. En plus ils disent que c'est magique que grâce à ça ils ne sont jamais malade ! C'était quand même pas si compliqué non ? En plus nous on en savait rien mais l'ail est un anti-parasite non?
+— Bon et bien à moi de te faire une confidence, Madame je suis si maline. La première chose qui est évidente chez les double M, tout le monde s'est rendu compte que c'est leur haleine si particulière. Ils s'envoient des gousses d'ail à longueur de journée. En plus ils disent que c'est magique que grâce à ça ils ne sont jamais malades ! C'était quand même pas si compliqué non ? En plus nous on en savait rien mais l'ail est un anti-parasite non?
 — …
 — Bon bé là présentement heureusement que je suis pas trop près si tu vois ce que je veux dire.
 — Tu me fais pas me sentir très bien pour quelqu'un qui est face à une personne en train de se suicider.
