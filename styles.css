@@ -16,9 +16,10 @@ h1.main {
   margin-top: 40px;
 }
 p.author,
+p.date,
 .rights {
   text-align: center;
-  margin-top: 40%;
+  margin-top: 20%;
 }
 code {
   font-family: monospace;
