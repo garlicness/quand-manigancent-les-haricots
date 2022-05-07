@@ -1,0 +1,19 @@
+
+name: EBook conversion
+on: [push]
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Convert ebook
+        uses: jensvog/ebook-convert-action@v1
+        with:
+          in: Quand-manigancent-les-haricots.md
+          out: Quand-manigancent-les-haricots.epub
+      # - name: Upload
+      #   uses: actions/upload-artifact@master
+      #   with:
+      #     name: Book
+      #     path: book.epub
