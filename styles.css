@@ -15,11 +15,23 @@ h1.main {
   text-align: center;
   margin-top: 40px;
 }
+h1.version{
+  text-align: center;
+  margin-top: 40px;
+  font-size: smaller;
+  font-style: italic;
+}
 p.author,
 p.date,
 .rights {
   text-align: center;
-  margin-top: 20%;
+  margin-top: 10%;
+}
+.abstract{
+  margin-top: 10%;
+  font-size: smaller;
+  font-style: italic;
+  display: none;
 }
 code {
   font-family: monospace;
