@@ -1,0 +1,3 @@
+line-length: false
+# Disable this so the metadata can be on top, it looks better
+MD041: false
