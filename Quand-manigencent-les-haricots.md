@@ -3,13 +3,16 @@ title:
 
 - type: main
   text: Quand manigancent les haricots
+- type: version
+  text: vX.X
 creator:
 - role: author
   text: Garlicness
 rights: Creative Commons Non-Commercial Share Alike 4.0
-date: 2022-05-07
-ibooks:
-  version: 1.0.0
+date: XXXX-XX-XX
+keywords: [short novel, roman court, nouvelle, zombies, ariège]
+abstract: |
+  Une nouvelle qui se passe en Ariège dans un futur post apocalique avec des zombies très peu dangeureux.
 ...
 
 # Lynchage léché
