@@ -7,8 +7,9 @@ creator:
 - role: author
   text: Garlicness
 rights: Creative Commons Non-Commercial Share Alike 4.0
+date: 2022-05-07
 ibooks:
-  version: 1.0
+  version: 1.0.0
 ...
 
 # Lynchage léché
