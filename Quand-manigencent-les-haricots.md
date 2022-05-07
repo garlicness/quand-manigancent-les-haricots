@@ -1,5 +1,3 @@
-# Lynchage léché
-
 ---
 title:
 
@@ -12,6 +10,8 @@ rights: Creative Commons Non-Commercial Share Alike 4.0
 ibooks:
   version: 1.0
 ...
+
+# Lynchage léché
 
 Casthor aimait bien sa jument, contrairement aux humains, elle ne faisait pas de réflexion désobligeante quand il commentait tout ce qu'il faisait à haute voix. C'est parce qu'elle n'avait pas la capacité de communiquer. Heureusement pour lui car elle le prenait quand même un peu pour un âne de l'année.
 
