@@ -1,8 +1,12 @@
 name: EBook conversion
 on:
   push:
-    branches:
-      - "*"
+    branches: [main]
+    tags: ["v*"]
+
+  pull_request:
+    branches: [main]
+
   workflow_dispatch:
 jobs:
   convert_via_pandoc:
@@ -10,10 +14,34 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v3
-      - uses: docker://pandoc/core:2.18-ubuntu
+      - name: Set up context
+        id: project_context
+        uses: FranzDiebold/github-env-vars-action@v2.3.1
+      - name: Extract tag
+        id: branch_tag
+        run: |
+          echo ${{ github.ref }}
+          branch=$(
+          if [[ ${{ endsWith(github.ref, github.event.repository.default_branch) }} == true ]]; then
+            echo nightly
+          else
+            echo ${{ env.CI_ACTION_REF_NAME_SLUG }}
+          fi )
+          echo "::set-output name=tag::$branch"
+      - name: Write date
+        run: |
+          date=$(date -I)
+          sed -i -e "s/date: XXXX-XX-XX/date: $date/" Quand-manigancent-les-haricots.md
+      - name: Write commit SHA
+        run: |
+          sed -i -e "s/text: vX.X/text: ${{ env.CI_SHA_SHORT }}/" Quand-manigancent-les-haricots.md
+      - name: Pandoc convert
+        uses: docker://pandoc/core:2.18-ubuntu
+        id: pandoc_convert
         with:
           args: '-o "Quand manigancent les haricots.epub" Quand-manigancent-les-haricots.md --css styles.css --toc --toc-depth=1'
-      - uses: actions/upload-artifact@v3
+      - name: Artifact
+        uses: actions/upload-artifact@v3
         with:
-          name: epub-file
+          name: epub-file-${{ steps.branch_tag.outputs.tag }}
           path: "Quand manigancent les haricots.epub"
