@@ -1,6 +1,6 @@
 PANDOC_DOCKER_IMAGE = pandoc/core:2.18
 
-MARKDOWN_FILE = Quand-manigancent-les-haricots.md
+MARKDOWN_FILE = src/Quand-manigancent-les-haricots.md
 
 # Some colors
 COLOR_GREEN  = $(shell tput -Txterm setaf 2)
@@ -14,8 +14,8 @@ build: ## Build epub file
 	@echo "Building..."
 	@make clean
 	mkdir target
-	cp Quand-manigancent-les-haricots.md target
-	cp styles.css target
+	cp $(MARKDOWN_FILE) target
+	cp src/styles.css target
 	sed -i -e "s/date: XXXX-XX-XX/date: `date +%d-%m-%Y`/" target/Quand-manigancent-les-haricots.md
 	docker run --rm -v `pwd`/target:/project \
 		-w /project $(PANDOC_DOCKER_IMAGE) \
