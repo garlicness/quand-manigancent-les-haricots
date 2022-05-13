@@ -10,6 +10,7 @@ creator:
   text: Garlicness
 rights: Creative Commons Non-Commercial Share Alike 4.0
 date: XXXX-XX-XX
+language: fr-FR
 keywords: [short novel, roman court, nouvelle, zombies, ariège]
 abstract: |
   Une nouvelle qui se passe en Ariège dans un futur post apocalique avec des zombies très peu dangeureux.
