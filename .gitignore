@@ -1,3 +1,4 @@
 *.epub
 uplicate-links-in-toc/
+target/
 .idea/

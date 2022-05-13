@@ -4,7 +4,7 @@ title:
 - type: main
   text: Quand manigancent les haricots
 - type: version
-  text: vX.X
+  text: v0.0.0
 creator:
 - role: author
   text: Garlicness
