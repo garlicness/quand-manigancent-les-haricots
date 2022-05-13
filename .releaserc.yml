@@ -11,12 +11,12 @@ plugins:
       changelogTitle: "# Quand Manigancent les haricots Changelog"
   - - "@google/semantic-release-replace-plugin"
     - replacements:
-        - files: [Quand-manigancent-les-haricots.md]
+        - files: [src/Quand-manigancent-les-haricots.md]
           from: text:\ v\d+\.\d+\.\d+
           to: "text: v${nextRelease.version}"
           countMatches: true
           results:
-            - file: Quand-manigancent-les-haricots.md
+            - file: src/Quand-manigancent-les-haricots.md
               hasChanged: true
               numMatches: 1
               numReplacements: 1
