@@ -1,12 +1,7 @@
 name: EBook conversion
 on:
-  push:
-    branches: [main]
-    tags: ["v*"]
-
-  pull_request:
-    branches: [main]
-
+  # Generates an artifact only on demand
+  # Use the release action to generate an more official version
   workflow_dispatch:
 jobs:
   convert_via_pandoc:
@@ -31,15 +26,15 @@ jobs:
       - name: Write date
         run: |
           date=$(date -I)
-          sed -i -e "s/date: XXXX-XX-XX/date: $date/" Quand-manigancent-les-haricots.md
+          sed -i -e "s/date: XXXX-XX-XX/date: $date/" src/Quand-manigancent-les-haricots.md
       - name: Write commit SHA
         run: |
-          sed -i -e "s/text: vX.X/text: ${{ env.CI_SHA_SHORT }}/" Quand-manigancent-les-haricots.md
+          sed -i -e "s/text: v0.0.0/text: ${{ env.CI_SHA_SHORT }}/" src/Quand-manigancent-les-haricots.md
       - name: Pandoc convert
         uses: docker://pandoc/core:2.18-ubuntu
         id: pandoc_convert
         with:
-          args: '-o "Quand manigancent les haricots.epub" Quand-manigancent-les-haricots.md --css styles.css --toc --toc-depth=1'
+          args: '-o "Quand manigancent les haricots.epub" src/Quand-manigancent-les-haricots.md --css src/styles.css --toc --toc-depth=1'
       - name: Artifact
         uses: actions/upload-artifact@v3
         with:
