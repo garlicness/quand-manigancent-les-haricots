@@ -22,9 +22,9 @@ Casthor aimait bien sa jument, contrairement aux humains, elle ne faisait pas de
 
 — Alors la selle ça c’est fait, les rennes aussi ça va bien, les bottes, la pelle, je l’accroche sur le côté… Voilà, on met des rennes sur des chevaux c'est n'importe quoi…
 
-— Holà Papillote, t’agaces pas. T'es dure, c'est qu'un jeu de mot.
+— Holà Papillote, t’agaces pas.
 
-— Les couteaux de secours : ceux là si je les utilise un jour c’est que ça craindra du fion mais bon… Le soleil se lève, on va faire moins noir et la musique va commencer. L’huile, les silex, le casse-croûte. De l’eau parce qu'il faut bien s’hydrater sinon on tient pas. C’est pas toi qui dira le contraire, hein! Grosse buveuse qui fait que de boire l’eau va, coquine!
+— Les couteaux de secours… Le soleil se lève, on va faire moins noir et la musique va commencer. L’huile, les silex, le casse-croûte. De l’eau parce qu'il faut bien s’hydrater sinon on tient pas. C’est pas toi qui dira le contraire, hein! Grosse buveuse qui fait que de boire l’eau va, coquine!
 
 — Et voilà! Ils peuvent venir cette bande de cake. Aller Papillote, on va brouter au bord de la rivière. Mais oui, toi même tu sais.
 
