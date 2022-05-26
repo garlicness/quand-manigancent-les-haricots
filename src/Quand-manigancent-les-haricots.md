@@ -584,9 +584,9 @@ Vinvin pris ça comme un compliment. Loir s’approcha, d’un des deux autres c
 
 Dans la petite classe aujourd’hui, on allait encore s'atteler à ce sujet autant historique que pop-culturel. Vu qu’apparemment la moité des œuvres parvenues jusqu'ici y faisaient référence, c'était une bonne chose de poser les bases.
 
-— Il y a très longtemps le monde vivait en harmonie, c'était la belle époque. Le monde sortait d'une vilaine guerre puis d'une toute aussi vilaine épidémie de grippe. Il se reconstruisait dans la joie et la bonne humeur. Toutes les religions cohabitaient en paix, tous les partis politiques aussi. En France, c'était la 3ᵉ république. Les communistes avaient leur continent, les capitalistes aussi aux Amériques. Entre les deux on faisait ce qu'on voulait. Il y avait de tout et beaucoup de travail et tout le monde se foutait sur la gueule sans que personne ne prenne le dessus. On appelle ça un temps de paix. C'était l'idée : pour éviter l'oppression d'une majorité sur l'ensemble de monde : diviser les groupes jusqu'à ce que personne ne puisse dominer. 
+— Il y a très longtemps le monde vivait en harmonie, c'était la belle époque. Le monde sortait d'une vilaine guerre puis d'une toute aussi vilaine épidémie de grippe. Il se reconstruisait dans la joie et la bonne humeur. Toutes les religions cohabitaient en paix, tous les partis politiques aussi. En France, c'était la 3ᵉ république. Les communistes avaient leur continent, les capitalistes aussi aux Amériques. Entre les deux on faisait ce qu'on voulait. Il y avait de tout et beaucoup de travail et tout le monde se foutait sur la gueule sans que personne ne prenne le dessus. On appelle ça un temps de paix. C'était l'idée : pour éviter l'oppression d'une majorité sur l'ensemble de monde : diviser les groupes jusqu'à ce que personne ne puisse dominer.
 
-Mais ce monde idyllique fut détruit par l'arrivée au pouvoir de Hitler. 
+Mais ce monde idyllique fut détruit par l'arrivée au pouvoir de Hitler.
 
 De la même façon que certains disent que Dieu a envoyé son fils très gentil pour sauver l'humanité, le diable à envoyé Hitler pour lui mettre la misère. C'était, contrairement à Jésus, un homme sans super-pouvoir particulier si ce n'est une petite manie saugrenue et une capacité à la propager à la moitié du monde. Il pensait que l'ennemi principal était des gens qu'on appelait les Juifs.
 
@@ -668,8 +668,6 @@ Mikhaïl prit la parole.
 Les mains timides et soulagées se levèrent.
 
 # Ceci n'est pas un repas de famille
-
-
 
 Loir marchait sur le chemin menant à la maison familiale, tenant un petit panier presque à bout de bras de façon très peu naturelle. Toute son attention fixée sur le fait de ne pas donner d’à-coup pour ne pas abîmer ce fantastique gâteau qu’il avait mis tant d’énergie à préparer : presque une semaine à se décider sur la recette et autant à réunir les ingrédients : miel, farine, œufs et les premières cerises qu’il a dû faire beaucoup d’effort pour dénicher. Suivi ensuite d’une matinée de travail. Et il n’était pas mécontent du résultat du moins pour l’aspect visuel. Il se rendait compte que son cas n’était complètement désespéré : pour quelqu’un qui ne supportait pas les tâches physiques et le plein air surtout l’hiver, il pourrait toujours se reconvertir dans l’artisanat et se trouver un métier méticuleux si possible d’intérieur et pour lequel on ne soit pas obligé de se réveiller tôt le matin et encore mieux s’il n’y avait pas de débouchés. C’est ça : il faudrait se trouver un métier de niche par exemple disquaire ou serrurier : respectable de prime abord mais clairement pas des métiers qui ont le vent en poupe et qui ne devraient pas demander trop d’investissement. Après tout c’était surtout ses parents qui insistaient sur le fait qu’il était de bon ton d’avoir un métier. Lui n’avait rien demandé. Mais ça c’était avant ! se ressaisit-il Trop habitué à ce qu’on lui rabâche les mêmes reproches. Maintenant il démarrait une fructueuse carrière de détective. D’où la confiance en soi. Elle avait tendance à se faire discrète celle-ci. Il se redressa en réalisant que le panier commençait à pencher en avant.
 
@@ -797,7 +795,7 @@ Loir regarda Vinvin qui avait aux lèvres le sourire d’un très mauvais joueur
 
 — …on va avoir besoin d’un zombo ^[on dit un zombo, des zombii] à disposition pour faire des prélèvements. Donc on va ressortir la cage à zombie. Le but est d’en mettre un dedans sans se faire contaminer. Donc vous connaissez : que des armes contondantes, c'est plus propre et pas de contact. Utilisez bien vos houlettes, faites attention à vous.
 
-Loir était là aussi mais personne ne s’en était aperçu. 
+Loir était là aussi mais personne ne s’en était aperçu.
 
 Et en effet la communauté vivait en bonne intelligence avec quelques zombies particulièrement monomaniaques. Par exemple, environ deux kilomètres en amont, un zombie avait élu domicile au détour d’un méandre de l’Ariège. Et il passait son temps à mettre des pierres en équilibre les unes sur les autres, créant ainsi des champs de cairns équilibriste. On y venait pour méditer, nourrir la bête et puis, deux ou trois fois par an, une crue remettait les pierres à leur place, bien rangées à plat dans le lit de la rivière.
 
@@ -1089,7 +1087,7 @@ Loir avait décidé de ne pas aller chez Bambi comme prévu. Á la place il avai
 
 — Merci Sherlock avait elle ironisé. Tu crois que j'ai pas essayé ? Y'a personne chez lui.
 
-Il avait fallu insister un peu et passer assez vite sur le fait que la bonne nouvelle venait de Mylène mais il est toujours plus facile de convaincre quelqu'un quand la nouvelle n'est pas mauvaise. Il aurait vraiment aimé lui annoncé qu'elle avait raison, que Mylène était une vampire, qu'elle avait pendu Bambi la tête en bas et qu'elle s'était nourrie de son agonie et qu'il était trop tard. Il y aurait eu une chance pour qu'elle soit reconnaissante et ils auraient partagé un secret juste tout les deux, ça les aurait rapproché. Mais apparemment ce n'était pas le cas. Il avait aussi pensé à la technique dite du "mitonnage à volonté" mais le monde parallèle dans lequel il pouvait pécho Arya lui paraissait si éloigné que le risque de perdre toute crédibilité (qui était de 100% à long terme) n'en valait pas la chandelle. Surtout vu la carrière qui se dessinait de plus en plus semblait tourner autour de la vérité. Dernier point dans la colonne "contre" :  il faut croire qu'il aimait bien Arya après tout, la tempête d'émotions hormonales, il n'avait pas envie de lui mentir. 
+Il avait fallu insister un peu et passer assez vite sur le fait que la bonne nouvelle venait de Mylène mais il est toujours plus facile de convaincre quelqu'un quand la nouvelle n'est pas mauvaise. Il aurait vraiment aimé lui annoncé qu'elle avait raison, que Mylène était une vampire, qu'elle avait pendu Bambi la tête en bas et qu'elle s'était nourrie de son agonie et qu'il était trop tard. Il y aurait eu une chance pour qu'elle soit reconnaissante et ils auraient partagé un secret juste tout les deux, ça les aurait rapproché. Mais apparemment ce n'était pas le cas. Il avait aussi pensé à la technique dite du "mitonnage à volonté" mais le monde parallèle dans lequel il pouvait pécho Arya lui paraissait si éloigné que le risque de perdre toute crédibilité (qui était de 100% à long terme) n'en valait pas la chandelle. Surtout vu la carrière qui se dessinait de plus en plus semblait tourner autour de la vérité. Dernier point dans la colonne "contre" :  il faut croire qu'il aimait bien Arya après tout, la tempête d'émotions hormonales, il n'avait pas envie de lui mentir.
 
 Après s'être fait à moitié et joyeusement forcé la bite, Bambi et Arya étaient assis l'une sur l'autre dans un confortable canapé. Les questions d'Arya étaient à l'image de sa technique de séduction  : insistante et subtile comme un pneu neige. Bambi tentait d'y répondre :
 
@@ -1186,7 +1184,7 @@ Loir et Vinvin passèrent donc une demi journée à traquer Anaïs en interrogea
 
   Ou alors :
 
-— Oui elle était là puis je crois qu'elle est allée faire un tour de plaine avec L'Éponge (celui qui s'occupe de cultiver les céréales) 
+— Oui elle était là puis je crois qu'elle est allée faire un tour de plaine avec L'Éponge (celui qui s'occupe de cultiver les céréales)
 
 Finalement Loir décida d'aller directement à la ferme. Á priori elle n'y a pas encore été aujourd’hui ou alors pas depuis quelques heures. Il y a les machines, la fromagerie et d'autres trucs en rapport avec tout ce qui est de faire à manger. Elle arrivera forcément un jour ou l'autre.
 
@@ -1292,7 +1290,7 @@ Certaines bêtes avaient été marquées, des traces rouges indiquaient sûremen
 
 Loir se déplaçait au milieu des animaux, lentement, en les observant tranquillement. Une petite brise emportait les tintements de cloche disparates. Il aurait pu reconnaître qu'il se sentait détendu entourés d'herbivore apaisés. Puis il vu juste devant lui un anus se dilater et expulser une poignée de crottes moles juste au moment ou une autre brebis passait derrière essuyant sa collègue et se badigeonnant le flan de merde fraîche. Et le dégoût vint s’immiscer dans sa méditation pachamamesque. Après une vingtaine de minutes il se heurta sur une bête qui ne s'était pas poussée comme les autres sur son passage. Il insista un peu avec un petit coup de genou vicieux mais elle ne réagit pas, toute concentrée qu'elle était à brouter un herbe de printemps qui, il est vrai, paraissait appétissante. Il s'en fallu de peu pour que Loir se détourne mais il entreprit de l'inspecter. Il n'y connaissait pas grand chose en animaux domestiques. Il maîtrisait beaucoup mieux les bestiaires fantastiques. Mais son comportement était clairement singulier. Surtout que là, elle venait de boulotter une pousse de ronce. Il sorti son stylo l'appuya d'un coup sec entre les côtes. Elle ne bougea pas d'un poil. Curieux se dit il.. Vinvin lui prit le stylo des mains et entrepris d'appliquer le même traitement à une brebis voisine qui fit un bon étonnant pour un mouton. De façon presque synchronisée Loir et Vinvin firent un pas en arrière en fronçant les sourcils.
 
-* On va essayer de pas trop s'approcher de celles qui bougent pas quand même
+- On va essayer de pas trop s'approcher de celles qui bougent pas quand même
 
 Il fit le tour de la brebis toujours en train de paître et remarqua une petite croix comme tatouée à la base de la patte arrière droite. Il se baissa tout en gardant ses distances pour confirmer que ce n'était pas naturel. Puis il eut une idée et se sentit comme
 
@@ -1316,9 +1314,9 @@ Kim était là dévorait Loir des yeux ce qui lui fit plaisir et le mit mal à l
 
 — Et sinon ces expériences comment ça se passe?
 — Bien je crois je fais pas grand chose finalement lui répondit Kim en soupirant. Surtout de la manutention, en gros, je risque ma vie en faisant la vaisselle.
-— Et concrètement, vous infectez les Martin-Marie? pour de vrai? *─* détourner l'attention de la vrai question.
+— Et concrètement, vous infectez les Martin-Marie? pour de vrai? _─_ détourner l'attention de la vrai question.
 — Ben oui ça leur fait pas grand chose, même limite ça leur fait du bien.
-— Ah ouais c'est vraiment cool *─* mise en confiance.
+— Ah ouais c'est vraiment cool _─_ mise en confiance.
 — C'est marrant on n'a jamais pensé si ça se transmettait aux animaux…
 
 — Tu veux dire que le bélier pourrait avoir été infecté ?? _- Bon c'est raté!_
@@ -1363,7 +1361,7 @@ Première étape : trouver Vinvin. Il était souvent vers l'école c'est à dire
 
 Il partirent donc dans les vallons au sud est de Montségur à un demi douzaine de kilomètre ils arrivèrent à l'endroit où il avait eu son apparition. En contre bas, 700 mètres plus loin au fond de la vallée de l'autre coté du bassin versent. Effectivement en plein jour de fin mai ensoleillé l'ambiance était moins pesante que dans ces souvenirs. Il était temps de couper à travers la bruyère pour rejoindre le lieu de la vision. Loir était aussi mal à l'aise et maladroit que son compagnon était dans son élément. L'un se frayait un chemin avec l'aisance du blaireau en rûte pendant que l'autre passait de longues secondes à essayer d'écarter les ronces et les branches qui, quoiqu'il fasse, s’accrochait à ses vêtements. Après avoir sauté avec plus ou moins de succès par dessus un ruisseau. Sachant que les notions de succès étaient relatives et qu'un Vinvin dans une flaque de boue, c'était un enfant passant un bon moment. Il arrivèrent à peu près à l'endroit repéré. Loir ne vit rien de particulier, Vinvin quand à lui avait l'air ravi :
 
-Après avoir sauté avec plus ou moins de succès par dessus un ruisseau. Sachant que les notions de succès étaient relatives et qu'un Vinvin dans une flaque de boue équivalait à un enfant qui aurait passé un bon moment dans sa journée. Il arrivèrent à peu près à l'endroit repéré. Loir ne vit rien de particulier, Vinvin quand à lui avait l'air ravi : 
+Après avoir sauté avec plus ou moins de succès par dessus un ruisseau. Sachant que les notions de succès étaient relatives et qu'un Vinvin dans une flaque de boue équivalait à un enfant qui aurait passé un bon moment dans sa journée. Il arrivèrent à peu près à l'endroit repéré. Loir ne vit rien de particulier, Vinvin quand à lui avait l'air ravi :
 
 — Regarde un vieux chemin que je connaissais pas— Ça un chemin ? Là on est dans une haie qui borde un ruisseau…
 — Si regarde du goudron si on gratte là et là. Ça continue par là. Dit-il en partant vers l'amont. Rholala c'est pas discret : des branches cassées dans tous les sens, des empreintes de pas partout.
@@ -1471,7 +1469,7 @@ Il finit par arriver à la maison de Mylène, ne sachant toujours comment il all
 — ..mais j'hallucine. Tu te rends compte?! Tu te rends pas comptes. T'es pas teubé pourtant! Normalement beaucoup moins que moi en tout cas.
 — Maintenant c'est trop tard mon Bambi, ça n'apportera rien de bon.
 
-— Mais c'est quand même pas à toi de décider 
+— Mais c'est quand même pas à toi de décider
 — Techniquement si : y'a que moi qui sait faire…
 — Mais tu pourrais nous sauver tous et tu fais rien, c'est monstrueux !
 
@@ -1612,7 +1610,7 @@ Il avait maintenant le temps de se coller à la fenêtre et d'attendre de regard
 
 Á force Loir savait comment sinon manipuler au moins attirer sont attention.
 
-— Tu vois ce que c'est un tournevis cruciforme? 
+— Tu vois ce que c'est un tournevis cruciforme?
 — Oui il y a en plein à l'atelier.
 — Viens me voir ce soir j'ai une surprise. Avec un gros tournevis cruciforme c'est celui en forme de croix. Tu viens hein ? après ce sera trop tard. Et tu le dis à personne c'est un trésor secret. Puis se ravisant :
 — Non mais vas-y maintenant plutôt mais il faut que personne te voit quand tu reviens ok ?
@@ -1694,7 +1692,7 @@ Loir alla prendre un verre dans l'évier et s'assit à table, sur le côté adja
 
 Voici toute l’histoire. Je suis.. enfin j’étais… mmh je suis peut être encore un peu... possiblement la seule au monde à connaître toute l’histoire. Je n’ai presque pas menti sur mon sujet, je suis vraiment chercheuse en biologie avec des connaissances en médecine et bio-chimie et tout le toutim. J’ai surtout menti par omission car j’ai juste beaucoup plus de connaissance sur ce qui est arrivé à notre civilisation et sur cette maladie qui transforme les gens en zombies.
 
-Tout a commencé à ce coloque de biologique sur les luttes fongicides pour les grandes cultures notamment de maïs et de blé. Non en fait tout a commencé bien plus tôt quand j’ai commencé à me poser des questions sur l’humanité et la nature. Peut être même que tout à commencé quand j’ai su comment Darwin avait perdu sa foi en Dieu en décrivant une guêpe qui pondait dans une araignée qui sert alors de garde manger vivant pour ses larves. Darwin qui n’était pas le dernier des débiles en a conclu qu’un bon Dieu n’aurait jamais été assez pervers pour inventer un telle atrocité. Petit à petit au fil des années j’en suis venu à me poser cette question : quelle est le but de l’humanité : la moitié de la population croit que c’est la religion et qu’il faut agir en humain parce que c’est ce que Dieu veut. Une autre partie n’écoute que son instinct naturel : certain essayent de subsister le plus longtemps et le mieux possible, dans certain cas il font des enfants soit par pulsion sexuelle soit par pulsion maternelle. Les autres s’inventent un but dans leur vie : la recherche pour moi, le jeu, le sport, la politique. Enfin ceux qui restent se suicident. Et finalement tout le monde est très malheureux. 
+Tout a commencé à ce coloque de biologique sur les luttes fongicides pour les grandes cultures notamment de maïs et de blé. Non en fait tout a commencé bien plus tôt quand j’ai commencé à me poser des questions sur l’humanité et la nature. Peut être même que tout à commencé quand j’ai su comment Darwin avait perdu sa foi en Dieu en décrivant une guêpe qui pondait dans une araignée qui sert alors de garde manger vivant pour ses larves. Darwin qui n’était pas le dernier des débiles en a conclu qu’un bon Dieu n’aurait jamais été assez pervers pour inventer un telle atrocité. Petit à petit au fil des années j’en suis venu à me poser cette question : quelle est le but de l’humanité : la moitié de la population croit que c’est la religion et qu’il faut agir en humain parce que c’est ce que Dieu veut. Une autre partie n’écoute que son instinct naturel : certain essayent de subsister le plus longtemps et le mieux possible, dans certain cas il font des enfants soit par pulsion sexuelle soit par pulsion maternelle. Les autres s’inventent un but dans leur vie : la recherche pour moi, le jeu, le sport, la politique. Enfin ceux qui restent se suicident. Et finalement tout le monde est très malheureux.
 
 Or le vrai but, inscrit dans nos gènes est de se reproduire à tout prix quelque soit les conséquences. On a beau s'extasier devant cette incroyable pulsion de vivre, ce n'est que l'évolution en train de tirer les fils des marionnettes que nous sommes…
 
