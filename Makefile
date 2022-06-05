@@ -23,6 +23,21 @@ build: ## Build epub file
 		./Quand-manigancent-les-haricots.md \
 		--css styles.css \
 		--toc --toc-depth=1
+		
+# build test.md
+build-test: ## Build epub file
+	@echo "Building..."
+	@make clean
+	mkdir target
+	cp ./src/test.md target
+	cp src/styles.css target
+	sed -i -e "s/date: XXXX-XX-XX/date: `date +%d-%m-%Y`/" target/test.md
+	docker run --rm -v `pwd`/target:/project \
+		-w /project $(PANDOC_DOCKER_IMAGE) \
+		-o "test.epub" \
+		./test.md \
+		--css styles.css \
+		--toc --toc-depth=1
 
 # Clean:
 clean: ## Clean generated files
