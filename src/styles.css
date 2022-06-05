@@ -92,6 +92,11 @@ dd p {
   margin-top: 0;
 }
 
+.footnote-ref{
+  font-size: 50%;
+  vertical-align: top;
+}
+
 #footer {
   padding-top: 1em;
   font-size: 70%;
