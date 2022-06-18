@@ -4,6 +4,14 @@ Just a repo that contains a french short novel written in markdown, semantic rel
 
 To read it, download the `E-pub-book` asset of the [last release](https://github.com/garlicness/quand-manigancent-les-haricots/releases/latest). If you do, thanks in advance for reporting typos and discrepancies (I don't find the time to review everything from scratch like I should do).
 
+## Sematic release
+
+This repo uses [Semantic release](https://github.com/semantic-release/semantic-release) for the commit messages.
+
+## Pandoc
+
 E-pub conversion made with [pandoc](https://pandoc.org/)
 
-Spell checking with [vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker)
+## Spell checking
+
+Spell checking done with [vscode-spell-checker](https://github.com/streetsidesoftware/vscode-spell-checker)
