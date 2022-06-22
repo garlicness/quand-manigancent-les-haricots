@@ -1,5 +1,22 @@
 # Quand Manigancent les haricots Changelog
 
+# [1.1.0](https://github.com/garlicness/quand-manigancent-les-haricots/compare/v1.0.0...v1.1.0) (2022-06-22)
+
+
+### Bug Fixes
+
+* finish the review ([03d8260](https://github.com/garlicness/quand-manigancent-les-haricots/commit/03d8260f96db9a76125e184820dab845aff0d7f0))
+* **lint:** make yaml linter happy ([806234b](https://github.com/garlicness/quand-manigancent-les-haricots/commit/806234b71e768cb69ede19ff501f892dade16d02))
+* review some typos and nonesenses ([c5c2c66](https://github.com/garlicness/quand-manigancent-les-haricots/commit/c5c2c6611c5f99697f957217d5e9bd8b7edae89c))
+* review typos & refrases ([43d1551](https://github.com/garlicness/quand-manigancent-les-haricots/commit/43d155103100ea9f07144d935edf51b176cc8412))
+
+
+### Features
+
+* add footnote ref style ([8b68882](https://github.com/garlicness/quand-manigancent-les-haricots/commit/8b68882d52846e8ba956b360f5b4e7a1c863442b))
+* introducing non breaking spaces ([c2530c6](https://github.com/garlicness/quand-manigancent-les-haricots/commit/c2530c6329dbde4c5e92b15c8179b926222be2d9))
+* **test:** add elipsis char as example ([0107665](https://github.com/garlicness/quand-manigancent-les-haricots/commit/0107665e949ff80d1aa7ee8e3a8bdf2b5a27e622))
+
 # 1.0.0 (2022-05-26)
 
 
