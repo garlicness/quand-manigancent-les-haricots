@@ -1,5 +1,12 @@
 # Quand Manigancent les haricots Changelog
 
+## [1.1.1](https://github.com/garlicness/quand-manigancent-les-haricots/compare/v1.1.0...v1.1.1) (2022-10-08)
+
+
+### Bug Fixes
+
+* use email address as author ([efab9f4](https://github.com/garlicness/quand-manigancent-les-haricots/commit/efab9f4a08c94603b05467ccf11a6cf7ae7a689a))
+
 # [1.1.0](https://github.com/garlicness/quand-manigancent-les-haricots/compare/v1.0.0...v1.1.0) (2022-06-22)
 
 
