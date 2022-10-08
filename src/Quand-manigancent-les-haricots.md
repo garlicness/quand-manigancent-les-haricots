@@ -7,7 +7,7 @@ title:
   text: v0.0.0
 creator:
 - role: author
-  text: Garlicness
+  text: garlicness@proton.me
 rights: Creative Commons Non-Commercial Share Alike 4.0
 date: XXXX-XX-XX
 language: fr-FR
