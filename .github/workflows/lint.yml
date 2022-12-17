@@ -13,7 +13,7 @@ on:
 
 jobs:
   lint-commits:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     steps:
       - name: Check out repository
         uses: actions/checkout@v2
@@ -21,10 +21,10 @@ jobs:
           fetch-depth: 0
 
       - name: Check commits
-        uses: wagoid/commitlint-github-action@v4
+        uses: wagoid/commitlint-github-action@v5
 
   lint-markdown:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     steps:
       - name: Check out repository
         uses: actions/checkout@v3
@@ -36,10 +36,10 @@ jobs:
           ignore: "./CHANGELOG.md"
 
   lint-yaml:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     steps:
       - name: Check out repository
         uses: actions/checkout@v3
 
       - name: Lint yaml files
-        uses: ibiqlik/action-yamllint@v3.1.0
+        uses: ibiqlik/action-yamllint@v3

@@ -9,7 +9,7 @@ jobs:
     uses: ./.github/workflows/lint.yml
 
   perform-release:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     needs:
       - lint
     if: github.ref == 'refs/heads/main'
@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Release project
-        uses: cycjimmy/semantic-release-action@v2
+        uses: cycjimmy/semantic-release-action@v3.2.0
         with:
           semantic_version: 18.0.0
           branch: main
