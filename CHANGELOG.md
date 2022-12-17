@@ -1,5 +1,12 @@
 # Quand Manigancent les haricots Changelog
 
+# [1.2.0](https://github.com/garlicness/quand-manigancent-les-haricots/compare/v1.1.1...v1.2.0) (2022-12-17)
+
+
+### Features
+
+* **cover:** add a reminder about when the 1st version was finished ([259fe84](https://github.com/garlicness/quand-manigancent-les-haricots/commit/259fe84c2e57db99cc1ec40c080991b405404b63))
+
 ## [1.1.1](https://github.com/garlicness/quand-manigancent-les-haricots/compare/v1.1.0...v1.1.1) (2022-10-08)
 
 
