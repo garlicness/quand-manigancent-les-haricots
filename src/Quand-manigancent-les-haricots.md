@@ -5,6 +5,8 @@ title:
   text: Quand manigancent les haricots
 - type: version
   text: v0.0.0
+- type: edition
+  text: "Version finale : décembre 2021"
 creator:
 - role: author
   text: garlicness@proton.me

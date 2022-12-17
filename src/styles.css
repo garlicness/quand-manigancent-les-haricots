@@ -21,6 +21,12 @@ h1.version{
   font-size: smaller;
   font-style: italic;
 }
+h1.edition{
+  text-align: center;
+  margin-top: 40px;
+  font-size: smaller;
+  font-style: italic;
+}
 p.author,
 p.date,
 .rights {
