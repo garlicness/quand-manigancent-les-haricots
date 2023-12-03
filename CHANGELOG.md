@@ -1,5 +1,13 @@
 # Quand Manigancent les haricots Changelog
 
+## [1.2.1](https://github.com/garlicness/quand-manigancent-les-haricots/compare/v1.2.0...v1.2.1) (2023-12-03)
+
+
+### Bug Fixes
+
+* **ci:** fix release action ([03f11c8](https://github.com/garlicness/quand-manigancent-les-haricots/commit/03f11c8f8f9f34cf715664a9646bac6501bdb728))
+* french typography standard fixing ([45392d4](https://github.com/garlicness/quand-manigancent-les-haricots/commit/45392d478630be39f59026fcb8d4620664c284ed))
+
 # [1.2.0](https://github.com/garlicness/quand-manigancent-les-haricots/compare/v1.1.1...v1.2.0) (2022-12-17)
 
 
