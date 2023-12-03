@@ -22,7 +22,7 @@ build: ## Build epub file
 		-o "Quand_manigancent_les_haricots.epub" \
 		./Quand-manigancent-les-haricots.md \
 		--css styles.css \
-		--toc --toc-depth=1
+		--toc --toc-depth=2
 		
 # build test.md
 build-test: ## Build epub file
