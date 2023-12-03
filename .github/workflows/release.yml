@@ -20,12 +20,9 @@ jobs:
       - name: Release project
         uses: cycjimmy/semantic-release-action@v4
         with:
-          semantic_version: 18.0.0
+          semantic_version: 19.0.5
           branch: main
           extra_plugins: |
-            @semantic-release/changelog
-            @semantic-release/exec
-            @semantic-release/git
-            @google/semantic-release-replace-plugin
+            @semantic-release/changelog@v6.0.3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
